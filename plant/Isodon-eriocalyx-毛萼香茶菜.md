@@ -1,0 +1,133 @@
+毛萼香茶菜 **Isodon eriocalyx** (Dunn) Kudo
+
+> [Lamiaceae](http://www.iplant.cn/info/Lamiaceae ?t=foc) - [PDF](http://iplant.cn/foc/pdf/Lamiaceae.pdf)>>[Isodon](http://www.iplant.cn/info/Isodon ?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Isodon.pdf)
+  "imgtxt": "[](http://iplant.cn/foc/illast/Isodon eriocalyx](http://iplant.cn/foc/illast/Isodon eriocalyx.jpg)
+
+## Description
+
+Plants perennial, herbs or shrubs, 0.5-3 m tall. Stems reddish, densely appressed pubescent. Petiole 0.6-5 cm; leaf blade ovate-oblong to ovate-lanceolate, 2.5-18 &amp;#215; 0.8-6.5 cm, papery, sparsely pubescent on veins, base broadly cuneate to rounded, abruptly attenuate, margin crenate-serrate to crenate-dentate, sometimes entire, apex acuminate. Panicles spikelike, terminal and axillary, 2.5-35 cm &amp;#215; ca. 1 cm, densely whitish floccose-puberulent; cymes compact, many flowered. Calyx campanulate, 1.5-1.8 &amp;#215; 1.8-2 mm, gray lanate, glabrescent; teeth ovate, subequal, ca. 1/3 as long as calyx; fruiting calyx straight, dilated, ca. 4 mm. Corolla purplish or purple, 6-7 mm, pilose outside. Style included or sometimes exserted. Nutlets dull yellow, ovoid. Fl. Jul-Nov, fr. Nov-Dec.
+
+> **Habait** : 
+>* Sunny slopes, thickets; 700-2600 m. Guangxi, Guizhou, Sichuan, Yunnan.
+
+### Synonym
+*Plectranthus eriocalyx* Dunn, Notes Roy. Bot. Gard. Edinburgh 8: 155. 1913; *Rabdosia eriocalyx* (Dunn) H. Hara var. *laxiflora* C. Y. Wu & H. W. Li.
+
+### Parsublist
+
+* [I.  adenanthus  腺花香茶菜](http://www.iplant.cn/info/Isodon adenanthus?t=foc)
+* [I.  adenolomus  腺叶香茶菜](http://www.iplant.cn/info/Isodon adenolomus?t=foc)
+* [I.  albopilosus  白柔毛香茶菜](http://www.iplant.cn/info/Isodon albopilosus?t=foc)
+* [I.  amethystoides  香茶菜](http://www.iplant.cn/info/Isodon amethystoides?t=foc)
+* [I.  angustifolius  狭叶香茶菜](http://www.iplant.cn/info/Isodon angustifolius?t=foc)
+* [I.  angustifolius var. angustifolius  狭叶香茶菜](http://www.iplant.cn/info/Isodon angustifolius var. angustifolius?t=foc)
+* [I.  angustifolius var. glabrescens  无毛变种](http://www.iplant.cn/info/Isodon angustifolius var. glabrescens?t=foc)
+* [I.  barbeyanus  线齿香茶菜](http://www.iplant.cn/info/Isodon barbeyanus?t=foc)
+* [I.  brevicalcaratus  短距香茶菜](http://www.iplant.cn/info/Isodon brevicalcaratus?t=foc)
+* [I.  brevifolius  短叶香茶菜](http://www.iplant.cn/info/Isodon brevifolius?t=foc)
+* [I.  bulleyanus  苍山香茶菜](http://www.iplant.cn/info/Isodon bulleyanus?t=foc)
+* [I.  calcicolus  灰岩香茶菜](http://www.iplant.cn/info/Isodon calcicolus?t=foc)
+* [I.  calcicolus var. calcicolus  灰岩香茶菜](http://www.iplant.cn/info/Isodon calcicolus var. calcicolus?t=foc)
+* [I.  calcicolus var. subcalvus  近无毛变种](http://www.iplant.cn/info/Isodon calcicolus var. subcalvus?t=foc)
+* [I.  coetsa  细锥香茶菜](http://www.iplant.cn/info/Isodon coetsa?t=foc)
+* [I.  coetsa var. cavaleriei  多毛变种](http://www.iplant.cn/info/Isodon coetsa var. cavaleriei?t=foc)
+* [I.  coetsa var. coetsa  细锥香茶菜](http://www.iplant.cn/info/Isodon coetsa var. coetsa?t=foc)
+* [I.  dawoensis  道孚香茶菜](http://www.iplant.cn/info/Isodon dawoensis?t=foc)
+* [I.  enanderianus  紫毛香茶菜](http://www.iplant.cn/info/Isodon enanderianus?t=foc)
+* [I.  excisoides  拟缺香茶菜](http://www.iplant.cn/info/Isodon excisoides?t=foc)
+* [I.  excisus  尾叶香茶菜](http://www.iplant.cn/info/Isodon excisus?t=foc)
+* [I.  flabelliformis  扇脉香茶菜](http://www.iplant.cn/info/Isodon flabelliformis?t=foc)
+* [I.  flavidus  淡黄香茶菜](http://www.iplant.cn/info/Isodon flavidus?t=foc)
+* [I.  flexicaulis  柔茎香茶菜](http://www.iplant.cn/info/Isodon flexicaulis?t=foc)
+* [I.  forrestii  紫萼香茶菜](http://www.iplant.cn/info/Isodon forrestii?t=foc)
+* [I.  gesneroides  苣苔香茶菜](http://www.iplant.cn/info/Isodon gesneroides?t=foc)
+* [I.  gibbosus  囊花香茶菜](http://www.iplant.cn/info/Isodon gibbosus?t=foc)
+* [I.  glutinosus  胶粘香茶菜](http://www.iplant.cn/info/Isodon glutinosus?t=foc)
+* [I.  grandifolius  大叶香茶菜](http://www.iplant.cn/info/Isodon grandifolius?t=foc)
+* [I.  grandifolius var. atuntzeensis  德钦变种](http://www.iplant.cn/info/Isodon grandifolius var. atuntzeensis?t=foc)
+* [I.  grandifolius var. grandifolius  大叶香茶菜](http://www.iplant.cn/info/Isodon grandifolius var. grandifolius?t=foc)
+* [I.  grosseserratus  粗齿香茶菜](http://www.iplant.cn/info/Isodon grosseserratus?t=foc)
+* [I.  henryi  鄂西香茶菜](http://www.iplant.cn/info/Isodon henryi?t=foc)
+* [I.  hirtellus  细毛香茶菜](http://www.iplant.cn/info/Isodon hirtellus?t=foc)
+* [I.  hispidus  刚毛香茶菜](http://www.iplant.cn/info/Isodon hispidus?t=foc)
+* [I.  inflexus  内折香茶菜](http://www.iplant.cn/info/Isodon inflexus?t=foc)
+* [I.  interruptus  间断香茶菜](http://www.iplant.cn/info/Isodon interruptus?t=foc)
+* [I.  irroratus  露珠香茶菜](http://www.iplant.cn/info/Isodon irroratus?t=foc)
+* [I.  japonicus  毛叶香茶菜](http://www.iplant.cn/info/Isodon japonicus?t=foc)
+* [I.  japonicus var. glaucocalyx  蓝萼变种](http://www.iplant.cn/info/Isodon japonicus var. glaucocalyx?t=foc)
+* [I.  japonicus var. japonicus  毛叶香茶菜](http://www.iplant.cn/info/Isodon japonicus var. japonicus?t=foc)
+* [I.  latifolius  宽叶香茶菜](http://www.iplant.cn/info/Isodon latifolius?t=foc)
+* [I.  leucophyllus  白叶香茶菜](http://www.iplant.cn/info/Isodon leucophyllus?t=foc)
+* [I.  liangshanicus  凉山香茶菜](http://www.iplant.cn/info/Isodon liangshanicus?t=foc)
+* [I.  lihsienensis  理县香茶菜](http://www.iplant.cn/info/Isodon lihsienensis?t=foc)
+* [I.  longitubus  长管香茶菜](http://www.iplant.cn/info/Isodon longitubus?t=foc)
+* [I.  lophanthoides  线纹香茶菜](http://www.iplant.cn/info/Isodon lophanthoides?t=foc)
+* [I.  lophanthoides var. gerardianus  狭基变种](http://www.iplant.cn/info/Isodon lophanthoides var. gerardianus?t=foc)
+* [I.  lophanthoides var. graciliflorus  细花变种](http://www.iplant.cn/info/Isodon lophanthoides var. graciliflorus?t=foc)
+* [I.  lophanthoides var. lophanthoides  线纹香茶菜](http://www.iplant.cn/info/Isodon lophanthoides var. lophanthoides?t=foc)
+* [I.  lophanthoides var. micranthus  小花变种](http://www.iplant.cn/info/Isodon lophanthoides var. micranthus?t=foc)
+* [I.  loxothyrsus  弯锥香茶菜](http://www.iplant.cn/info/Isodon loxothyrsus?t=foc)
+* [I.  lungshengensis  龙胜香茶菜](http://www.iplant.cn/info/Isodon lungshengensis?t=foc)
+* [I.  macrocalyx  大萼香茶菜](http://www.iplant.cn/info/Isodon macrocalyx?t=foc)
+* [I.  macrophyllus  岐伞香茶菜](http://www.iplant.cn/info/Isodon macrophyllus?t=foc)
+* [I.  medilungensis  麦地龙香茶菜](http://www.iplant.cn/info/Isodon medilungensis?t=foc)
+* [I.  megathyrsus  大锥香茶菜](http://www.iplant.cn/info/Isodon megathyrsus?t=foc)
+* [I.  megathyrsus var. megathyrsus  大锥香茶菜](http://www.iplant.cn/info/Isodon megathyrsus var. megathyrsus?t=foc)
+* [I.  megathyrsus var. strigosissimus  多毛变种](http://www.iplant.cn/info/Isodon megathyrsus var. strigosissimus?t=foc)
+* [I.  melissoides  苞叶香茶菜](http://www.iplant.cn/info/Isodon melissoides?t=foc)
+* [I.  mucronatus  突尖香茶菜](http://www.iplant.cn/info/Isodon mucronatus?t=foc)
+* [I.  muliensis  木里香茶菜](http://www.iplant.cn/info/Isodon muliensis?t=foc)
+* [I.  nervosus  显脉香茶菜](http://www.iplant.cn/info/Isodon nervosus?t=foc)
+* [I.  oresbius  山地香茶菜](http://www.iplant.cn/info/Isodon oresbius?t=foc)
+* [I.  pantadenius  全腺香茶菜](http://www.iplant.cn/info/Isodon pantadenius?t=foc)
+* [I.  parvifolius  小叶香茶菜](http://www.iplant.cn/info/Isodon parvifolius?t=foc)
+* [I.  pharicus  川藏香茶菜](http://www.iplant.cn/info/Isodon pharicus?t=foc)
+* [I.  phyllopodus  叶柄香茶菜](http://www.iplant.cn/info/Isodon phyllopodus?t=foc)
+* [I.  phyllostachys  叶穗香茶菜](http://www.iplant.cn/info/Isodon phyllostachys?t=foc)
+* [I.  pleiophyllus  多叶香茶菜](http://www.iplant.cn/info/Isodon pleiophyllus?t=foc)
+* [I.  pleiophyllus var. dolichodens  长齿变种](http://www.iplant.cn/info/Isodon pleiophyllus var. dolichodens?t=foc)
+* [I.  pleiophyllus var. pleiophyllus  多叶香茶菜](http://www.iplant.cn/info/Isodon pleiophyllus var. pleiophyllus?t=foc)
+* [I.  racemosus  总序香茶菜](http://www.iplant.cn/info/Isodon racemosus?t=foc)
+* [I.  rosthornii  瘿花香茶菜](http://www.iplant.cn/info/Isodon rosthornii?t=foc)
+* [I.  rubescens  碎米桠](http://www.iplant.cn/info/Isodon rubescens?t=foc)
+* [I.  rugosiformis  类皱叶香茶菜](http://www.iplant.cn/info/Isodon rugosiformis?t=foc)
+* [I.  rugosus  皱叶香茶菜](http://www.iplant.cn/info/Isodon rugosus?t=foc)
+* [I.  scoparius  帚状香茶菜](http://www.iplant.cn/info/Isodon scoparius?t=foc)
+* [I.  scrophularioides  宽花香茶菜](http://www.iplant.cn/info/Isodon scrophularioides?t=foc)
+* [I.  sculponeatus  黄花香茶菜](http://www.iplant.cn/info/Isodon sculponeatus?t=foc)
+* [I.  secundiflorus  侧花香茶菜](http://www.iplant.cn/info/Isodon secundiflorus?t=foc)
+* [I.  serra  溪黄草](http://www.iplant.cn/info/Isodon serra?t=foc)
+* [I.  setschwanensis  四川香茶菜](http://www.iplant.cn/info/Isodon setschwanensis?t=foc)
+* [I.  silvaticus  林生香茶菜](http://www.iplant.cn/info/Isodon silvaticus?t=foc)
+* [I.  smithianus  马尔康香茶菜](http://www.iplant.cn/info/Isodon smithianus?t=foc)
+* [I.  tenuifolius  细叶香茶菜](http://www.iplant.cn/info/Isodon tenuifolius?t=foc)
+* [I.  ternifolius  牛尾草](http://www.iplant.cn/info/Isodon ternifolius?t=foc)
+* [I.  walkeri  长叶香茶菜](http://www.iplant.cn/info/Isodon walkeri?t=foc)
+* [I.  wardii  西藏香茶菜](http://www.iplant.cn/info/Isodon wardii?t=foc)
+* [I.  websteri  辽宁香茶菜](http://www.iplant.cn/info/Isodon websteri?t=foc)
+* [I.  weisiensis  维西香茶菜](http://www.iplant.cn/info/Isodon weisiensis?t=foc)
+* [I.  wikstroemioides  荛花香茶菜](http://www.iplant.cn/info/Isodon wikstroemioides?t=foc)
+* [I.  xerophilus  旱生香茶菜](http://www.iplant.cn/info/Isodon xerophilus?t=foc)
+* [I.  yuennanensis  不育红](http://www.iplant.cn/info/Isodon yuennanensis?t=foc)
+
+## 中国植物志
+
+## 
+* [毛萼香茶菜（原变种）  R.  eriocalyx var. eriocalyx](http://www.iplant.cn/info/Rabdosia eriocalyx var. eriocalyx?t=z)
+
+  "morefrpsname": "您是否要找：<span class='spantxt'>[Rabdosia eriocalyx](http://www.iplant.cn/info/Rabdosia eriocalyx?t=z)  ",
+**疏花变种 Rabdosia eriocalyx var. laxiflora**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第66卷](http://www.iplant.cn/frps/vol/66) >> 440页 [PDF](http://www.iplant.cn/frps/pdf/66/440.pdf)
+
+**11b.疏花变种**
+
+var. laxiflora C. Y. Wu et H. W. Li, 云南植物志1: 764. 1976.
+
+这一变种与原变种不同在于下部的聚伞花序具长5-6毫米的总梗，疏松；花萼
+
+产云南南部；生于石灰岩山上林下，海拔约1000米。模式标本采自云南西双版纳勐仑攸乐山。
+
+与总梗及序轴被较疏的绵毛。
+
+}

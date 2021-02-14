@@ -1,0 +1,75 @@
+大针茅 **Stipa grandis** P. A. Smirnov
+
+> [Poaceae](http://www.iplant.cn/info/Poaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Poaceae.pdf) >> [Stipa](http://www.iplant.cn/info/Stipa?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Stipa.pdf)
+![Stipa grandis](http://www.iplant.cn/foc/illast/Stipa grandis.jpg)
+
+> **Comment** : 
+> This species is very close to *Stipa capillata*, but with larger spikelets and longer awns. It provides good forage for grazing and cutting in the steppe zone.
+
+## Description
+
+Perennial, densely tufted. Culms 50–100 cm tall, 3–4-noded, lower nodes concealed. Basal leaves often reaching to panicle, leaf sheaths smooth or scabrid, lower longer than internodes; leaf blades filiform, convolute, up to 50 cm, outer surface smooth; ligule of basal leaves rounded, 0.5–1 mm, ciliate, of culm leaves lanceolate, 2.5–10 mm. Panicle narrow, 20–50 cm, base enclosed by expanded uppermost leaf sheath. Spikelets greenish purple; glumes narrowly lanceolate, 3–4.5 cm, apex filiform; callus pungent, 4–4.5 mm; lemma 15–17 mm, shortly hairy in longitudinal lines, a ring of short hairs at awn articulation; awn deciduous, 20–28 cm, scabrid, 2-geniculate, column 7–10 cm to first bend, 2–2.5 cm to second bend, bristle curling, 11–18 cm. Fl. and fr. May–Aug.
+
+> **Habait** : 
+> Flat open steppes; 100–3400 m. Gansu, Hebei, Heilongjiang, Henan, Jilin, Liaoning, Nei Mongol, Ningxia, Qinghai, Shaanxi, Shanxi [Mongolia, Russia].
+
+### Parsublist
+
+* [S.  aliena  异针茅](http://www.iplant.cn/info/Stipa aliena?t=foc)
+* [S.  arabica  图尔盖针茅](http://www.iplant.cn/info/Stipa arabica?t=foc)
+* [S.  baicalensis  狼针草](http://www.iplant.cn/info/Stipa baicalensis?t=foc)
+* [S.  breviflora  短花针茅](http://www.iplant.cn/info/Stipa breviflora?t=foc)
+* [S.  bungeana  长芒草](http://www.iplant.cn/info/Stipa bungeana?t=foc)
+* [S.  capillacea  丝颖针茅](http://www.iplant.cn/info/Stipa capillacea?t=foc)
+* [S.  capillacea var. capillacea  丝颖针茅(原变种)](http://www.iplant.cn/info/Stipa capillacea var. capillacea?t=foc)
+* [S.  capillacea var. parviflora  小花丝颖针茅](http://www.iplant.cn/info/Stipa capillacea var. parviflora?t=foc)
+* [S.  capillata  针茅](http://www.iplant.cn/info/Stipa capillata?t=foc)
+* [S.  caucasica  镰芒针茅](http://www.iplant.cn/info/Stipa caucasica?t=foc)
+* [S.  caucasica subsp. caucasica  镰芒针茅(原亚种)](http://www.iplant.cn/info/Stipa caucasica subsp. caucasica?t=foc)
+* [S.  caucasica subsp. glareosa  沙生针茅](http://www.iplant.cn/info/Stipa caucasica subsp. glareosa?t=foc)
+* [S.  consanguinea  宜红针茅](http://www.iplant.cn/info/Stipa consanguinea?t=foc)
+* [S.  kirghisorum  大羽针茅](http://www.iplant.cn/info/Stipa kirghisorum?t=foc)
+* [S.  lessingiana  细叶针茅](http://www.iplant.cn/info/Stipa lessingiana?t=foc)
+* [S.  macroglossa  长舌针茅](http://www.iplant.cn/info/Stipa macroglossa?t=foc)
+* [S.  mongolorum  蒙古针茅](http://www.iplant.cn/info/Stipa mongolorum?t=foc)
+* [S.  orientalis  东方针茅](http://www.iplant.cn/info/Stipa orientalis?t=foc)
+* [S.  penicillata  疏花针茅](http://www.iplant.cn/info/Stipa penicillata?t=foc)
+* [S.  penicillata var. hirsuta  毛疏花针茅](http://www.iplant.cn/info/Stipa penicillata var. hirsuta?t=foc)
+* [S.  penicillata var. penicillata  疏花针茅(原变种)](http://www.iplant.cn/info/Stipa penicillata var. penicillata?t=foc)
+* [S.  przewalskyi  甘青针茅](http://www.iplant.cn/info/Stipa przewalskyi?t=foc)
+* [S.  purpurea  紫花针茅](http://www.iplant.cn/info/Stipa purpurea?t=foc)
+* [S.  regeliana  狭穗针茅](http://www.iplant.cn/info/Stipa regeliana?t=foc)
+* [S.  roborowskyi  昆仑针茅](http://www.iplant.cn/info/Stipa roborowskyi?t=foc)
+* [S.  sareptana  新疆针茅](http://www.iplant.cn/info/Stipa sareptana?t=foc)
+* [S.  sareptana var. krylovii  西北针茅](http://www.iplant.cn/info/Stipa sareptana var. krylovii?t=foc)
+* [S.  sareptana var. sareptana  新疆针茅(原变种)](http://www.iplant.cn/info/Stipa sareptana var. sareptana?t=foc)
+* [S.  subsessiliflora  座花针茅](http://www.iplant.cn/info/Stipa subsessiliflora?t=foc)
+* [S.  tianschanica  天山针茅](http://www.iplant.cn/info/Stipa tianschanica?t=foc)
+* [S.  tianschanica var. gobica  戈壁针茅](http://www.iplant.cn/info/Stipa tianschanica var. gobica?t=foc)
+* [S.  tianschanica var. klemenzii  石生针茅](http://www.iplant.cn/info/Stipa tianschanica var. klemenzii?t=foc)
+* [S.  tianschanica var. tianschanica  天山针茅(原变种)](http://www.iplant.cn/info/Stipa tianschanica var. tianschanica?t=foc)
+* [S.  grandiglumis  大颖针禾](http://www.iplant.cn/info/Stipagrostis grandiglumis?t=foc)
+* [S.  pennata  羽毛针禾](http://www.iplant.cn/info/Stipagrostis pennata?t=foc)
+
+## 中国植物志
+
+> * [异针茅  S.  aliena](http://www.iplant.cn/info/Stipa aliena?t=z)
+> * [狼针草  S.  baicalensis](http://www.iplant.cn/info/Stipa baicalensis?t=z)
+> * [短花针茅  S.  breviflora](http://www.iplant.cn/info/Stipa breviflora?t=z)
+> * [长芒草  S.  bungeana](http://www.iplant.cn/info/Stipa bungeana?t=z)
+> * [丝颖针茅  S.  capillacea](http://www.iplant.cn/info/Stipa capillacea?t=z)
+
+**大针茅 Stipa grandis**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第9(3)卷](http://www.iplant.cn/frps/vol/9(3)) >> 274页 [PDF](http://www.iplant.cn/frps/pdf/9(3)/274.pdf)
+**6.大针茅（禾本科图说）图版65：26-31**
+
+Stipa grandis P. Smirn. in Fedde, Repert. Sp. Nov. 26: 267. 1929; Roshev. in Kom. Fl. URSS 2: 109. 1934; 禾本科图说612.图552. 1959; 中国高等植物图鉴5: 122. 1976.
+
+秆高50-100厘米，具3-4节，基部宿存枯萎叶鞘。叶鞘粗糙或老时变平滑，下部者通常长于节间；基生叶舌长0.5-1毫米，钝圆，缘具睫毛，秆生者长3-10毫米，披针形；叶片纵卷似针状，上面具微毛，下面光滑，基生叶长可达50厘米。圆锥花序基部包藏于叶鞘内，长20-50厘米，分枝细弱，直立上举；小穗淡绿色或紫色；颖长3-4.5厘米，尖披针形，先端丝状，第一颖具3-4脉，第二颖具5脉；外稃长1.5-1.6厘米，具5脉，顶端关节处生1圈短毛，背部具贴生成纵行的短毛，基盘尖锐，具柔毛，长约4毫米，芒两回膝曲扭转，微糙涩，第一芒柱长7-10厘米，第二芒柱长2-2.5厘米，芒针卷曲，长11-18厘米；内稃与外稃等长，具2脉；花药长约7毫米。花果期5-8月。
+
+产黑龙江、吉林、辽宁、内蒙古、宁夏、甘肃、青海、陕西、山西、河北。多生于广阔、平坦的波状高原上。模式标本采自蒙古。
+
+大针茅是亚洲中部草原亚区最具代表性的建群植物之一，大针茅草原是我国草原地带极为重要的一类天然草场，不但适于放牧，还是干草原地带的重要割草场。
+
+}

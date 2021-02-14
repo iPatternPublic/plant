@@ -1,0 +1,256 @@
+堇叶延胡索 **Corydalis fumariifolia** Maximowicz Mém. Acad. Imp. Sci. St.-Pétersbourg Divers Savans. 9 [Prim. Fl. Amur.]: 39. 1859.
+
+> [Papaveraceae](http://www.iplant.cn/info/Papaveraceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Papaveraceae.pdf) >> [Corydalis](http://www.iplant.cn/info/Corydalis?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Corydalis.pdf)
+![Corydalis fumariifolia](http://www.iplant.cn/foc/illast/Corydalis fumariifolia.jpg)
+
+## Description
+
+Herbs, perennial, glabrous or rarely with minute vesicular hairs. Tuber rounded, 1-1.5 cm. Stems erect or basally ascending, 8-21(-28) cm, simple or with a late branch from prophyll, above with 2 (rarely 3) leaves. Leaves green, biternate to triternate, glabrous, sometimes veins and leaf margin papillose-scabrid; leaflets highly variable, entire to deeply divided; ultimate segments linear, lanceolate, elliptic, or ovate, entire, rarely serrate or undulate. Raceme 5-12(-15)-flowered; bracts broadly lanceolate, ovate, or obovate, entire or usually pectinately or digitately dentate or divided. Pedicel straight, 5-14 mm, slender. Sepals minute. Flowers light blue or indigo, rarely purple or white; inner petals nearly white. Upper petal 20-25 mm, petal margin ± upcurved; spur 8-12 mm; nectary extended through ca. 1/3 of spur, apex shortly acute; lower petal straight or shallowly saccate, with short claw, limb clearly set off, broadest at base, 6-10 mm wide, apex emarginate without a mucro in sinus; inner petals 8-13 mm. Stigma nearly square, with 4-6 apical papillae and lateral and basal geminate papillae. Capsule often streaked reddish brown, linear-oblong, (15-)20-25(-30) × 2.5-3 mm, with a distinct margin. Seeds in 1 row, ca. 2 mm in diam., smooth; caruncle obovate. Fl. and fr. Mar-May.
+
+
+> Reference: 
+> This species is represented in China by subsp. *fumariifolia*.This species is represented in China by subsp. *fumariifolia*.
+
+### Statistics
+Forest margins, among shrubs; ca. 600 m. Heilongjiang (Yichun), Jilin (Linjiang, Liuhe, Tonghua), Liaoning (Fengcheng, Xingcheng, Yalu Jiang) [Korea, Russia (Far East)].
+
+### Synonym
+*Corydalis ambigua* Chamisso & Schlechtendal var. *amurensis* Maximowicz; *C. ambigua* f. *dentata* Y. H. Chou; *C. ambigua* f. *fumariifolia* (Maximowicz) Kitagawa; *C. ambigua* f. *multifida* Y. H. Chou; *C. ambigua* lusus *rotundiloba* Maximowicz; *C. lineariloba* Siebold & Zuccarini var. *fumariifolia* (Maximowicz) Kitagawa; *C. lineariloba* f. *pectinata* (Komarov) Kitagawa; *C. remota* Fischer ex Maximowicz var. *fumariifolia* (Maximowicz) Komarov; *C. remota* var. *pectinata* Komarov; *C. turtschaninovii Besser* f. *fumariifolia* (Maximowicz) Y. H. Chou.
+
+
+
+### Parsublist
+
+* [C.  acropteryx  松潘黄堇](http://www.iplant.cn/info/Corydalis acropteryx?t=foc)
+* [C.  acuminata  川东紫堇](http://www.iplant.cn/info/Corydalis acuminata?t=foc)
+* [C.  adiantifolia  铁线蕨叶黄堇](http://www.iplant.cn/info/Corydalis adiantifolia?t=foc)
+* [C.  adoxifolia  东义紫堇](http://www.iplant.cn/info/Corydalis adoxifolia?t=foc)
+* [C.  adunca  灰绿黄堇](http://www.iplant.cn/info/Corydalis adunca?t=foc)
+* [C.  aeaeae  艳巫岛紫堇](http://www.iplant.cn/info/Corydalis aeaeae?t=foc)
+* [C.  aeditua  湿崖紫堇](http://www.iplant.cn/info/Corydalis aeditua?t=foc)
+* [C.  alaschanica  贺兰山延胡索](http://www.iplant.cn/info/Corydalis alaschanica?t=foc)
+* [C.  ampelos  攀援黄堇](http://www.iplant.cn/info/Corydalis ampelos?t=foc)
+* [C.  amphipogon  文县紫堇](http://www.iplant.cn/info/Corydalis amphipogon?t=foc)
+* [C.  amplisepala  圆萼紫堇](http://www.iplant.cn/info/Corydalis amplisepala?t=foc)
+* [C.  anaginova  藏中黄堇](http://www.iplant.cn/info/Corydalis anaginova?t=foc)
+* [C.  ananke  齿瓣紫堇](http://www.iplant.cn/info/Corydalis ananke?t=foc)
+* [C.  anethifolia  莳萝叶紫堇](http://www.iplant.cn/info/Corydalis anethifolia?t=foc)
+* [C.  angusta  细距紫堇](http://www.iplant.cn/info/Corydalis angusta?t=foc)
+* [C.  anthocrene  泉涌花紫堇](http://www.iplant.cn/info/Corydalis anthocrene?t=foc)
+* [C.  anthriscifolia  峨参叶紫堇](http://www.iplant.cn/info/Corydalis anthriscifolia?t=foc)
+* [C.  appendiculata  小距紫堇](http://www.iplant.cn/info/Corydalis appendiculata?t=foc)
+* [C.  aquilegioides  假漏斗菜紫堇](http://www.iplant.cn/info/Corydalis aquilegioides?t=foc)
+* [C.  atuntsuensis  阿墩紫堇](http://www.iplant.cn/info/Corydalis atuntsuensis?t=foc)
+* [C.  auricilla  高黎贡山黄堇](http://www.iplant.cn/info/Corydalis auricilla?t=foc)
+* [C.  auriculata  耳柄紫堇](http://www.iplant.cn/info/Corydalis auriculata?t=foc)
+* [C.  balansae  北越紫堇](http://www.iplant.cn/info/Corydalis balansae?t=foc)
+* [C.  balsamiflora  珠芽紫堇](http://www.iplant.cn/info/Corydalis balsamiflora?t=foc)
+* [C.  barbisepala  髯萼紫堇](http://www.iplant.cn/info/Corydalis barbisepala?t=foc)
+* [C.  benecincta  囊距紫堇](http://www.iplant.cn/info/Corydalis benecincta?t=foc)
+* [C.  bibracteolata  梗苞黄堇](http://www.iplant.cn/info/Corydalis bibracteolata?t=foc)
+* [C.  bijiangensis  碧江黄堇](http://www.iplant.cn/info/Corydalis bijiangensis?t=foc)
+* [C.  bimaculata  双斑黄堇](http://www.iplant.cn/info/Corydalis bimaculata?t=foc)
+* [C.  borii  那加黄堇](http://www.iplant.cn/info/Corydalis borii?t=foc)
+* [C.  brachyceras  江达紫堇](http://www.iplant.cn/info/Corydalis brachyceras?t=foc)
+* [C.  brevipedunculata  短轴黄堇](http://www.iplant.cn/info/Corydalis brevipedunculata?t=foc)
+* [C.  brevirostrata  蔓生黄堇](http://www.iplant.cn/info/Corydalis brevirostrata?t=foc)
+* [C.  brevirostrata subsp. brevirostrata  蔓生黄堇(原亚种)](http://www.iplant.cn/info/Corydalis brevirostrata subsp. brevirostrata?t=foc)
+* [C.  brevirostrata subsp. tibetica  西藏蔓生黄堇](http://www.iplant.cn/info/Corydalis brevirostrata subsp. tibetica?t=foc)
+* [C.  brunneovaginata  褐鞘紫堇](http://www.iplant.cn/info/Corydalis brunneovaginata?t=foc)
+* [C.  bulbifera  鳞叶紫堇](http://www.iplant.cn/info/Corydalis bulbifera?t=foc)
+* [C.  bulbilligera  巫溪紫堇](http://www.iplant.cn/info/Corydalis bulbilligera?t=foc)
+* [C.  bulleyana  滇西紫堇](http://www.iplant.cn/info/Corydalis bulleyana?t=foc)
+* [C.  bulleyana subsp. bulleyana  滇西紫堇(原亚种)](http://www.iplant.cn/info/Corydalis bulleyana subsp. bulleyana?t=foc)
+* [C.  bulleyana subsp. muliensis  木里滇西紫堇](http://www.iplant.cn/info/Corydalis bulleyana subsp. muliensis?t=foc)
+* [C.  bungeana  地丁草](http://www.iplant.cn/info/Corydalis bungeana?t=foc)
+* [C.  buschii  东紫堇](http://www.iplant.cn/info/Corydalis buschii?t=foc)
+* [C.  calcicola  灰岩紫堇](http://www.iplant.cn/info/Corydalis calcicola?t=foc)
+* [C.  calycosa  显萼紫堇](http://www.iplant.cn/info/Corydalis calycosa?t=foc)
+* [C.  campulicarpa  弯果黄堇](http://www.iplant.cn/info/Corydalis campulicarpa?t=foc)
+* [C.  capitata  头花紫堇](http://www.iplant.cn/info/Corydalis capitata?t=foc)
+* [C.  capnoides  方茎黄堇](http://www.iplant.cn/info/Corydalis capnoides?t=foc)
+* [C.  caput-medusae  泸定紫堇](http://www.iplant.cn/info/Corydalis caput-medusae?t=foc)
+* [C.  carinata  龙骨籽紫堇](http://www.iplant.cn/info/Corydalis carinata?t=foc)
+* [C.  cashmeriana  克什米尔紫堇](http://www.iplant.cn/info/Corydalis cashmeriana?t=foc)
+* [C.  cashmeriana subsp. cashmeriana  克什米尔紫堇(原亚种)](http://www.iplant.cn/info/Corydalis cashmeriana subsp. cashmeriana?t=foc)
+* [C.  cashmeriana subsp. longicalcarata  少花克什米尔紫堇](http://www.iplant.cn/info/Corydalis cashmeriana subsp. longicalcarata?t=foc)
+* [C.  casimiriana subsp. brachycarpa  铺散黄堇](http://www.iplant.cn/info/Corydalis casimiriana subsp. brachycarpa?t=foc)
+* [C.  cataractarum  飞流紫堇](http://www.iplant.cn/info/Corydalis cataractarum?t=foc)
+* [C.  caudata  小药八旦子](http://www.iplant.cn/info/Corydalis caudata?t=foc)
+* [C.  cavei  聂拉木黄堇](http://www.iplant.cn/info/Corydalis cavei?t=foc)
+* [C.  chamdoensis  昌都紫堇](http://www.iplant.cn/info/Corydalis chamdoensis?t=foc)
+* [C.  changbaishanensis  长白山黄堇](http://www.iplant.cn/info/Corydalis changbaishanensis?t=foc)
+* [C.  changuensis  显囊黄堇](http://www.iplant.cn/info/Corydalis changuensis?t=foc)
+* [C.  cheilanthifolia  地柏枝](http://www.iplant.cn/info/Corydalis cheilanthifolia?t=foc)
+* [C.  cheilosticta  斑花紫堇](http://www.iplant.cn/info/Corydalis cheilosticta?t=foc)
+* [C.  cheilosticta subsp. borealis  北邻斑花紫堇](http://www.iplant.cn/info/Corydalis cheilosticta subsp. borealis?t=foc)
+* [C.  cheilosticta subsp. cheilosticta  斑花紫堇(原亚种)](http://www.iplant.cn/info/Corydalis cheilosticta subsp. cheilosticta?t=foc)
+* [C.  cheirifolia  掌叶紫堇](http://www.iplant.cn/info/Corydalis cheirifolia?t=foc)
+* [C.  chingii  甘肃紫堇](http://www.iplant.cn/info/Corydalis chingii?t=foc)
+* [C.  chrysosphaera  金球黄堇](http://www.iplant.cn/info/Corydalis chrysosphaera?t=foc)
+* [C.  conspersa  斑花黄堇](http://www.iplant.cn/info/Corydalis conspersa?t=foc)
+* [C.  cornuta  角状黄堇](http://www.iplant.cn/info/Corydalis cornuta?t=foc)
+* [C.  corymbosa  伞花黄堇](http://www.iplant.cn/info/Corydalis corymbosa?t=foc)
+* [C.  crispa  雏波黄堇](http://www.iplant.cn/info/Corydalis crispa?t=foc)
+* [C.  crispa subsp. crispa  雏波黄堇(原亚种)](http://www.iplant.cn/info/Corydalis crispa subsp. crispa?t=foc)
+* [C.  crispa subsp. laeviangula  光棱雏波黄堇](http://www.iplant.cn/info/Corydalis crispa subsp. laeviangula?t=foc)
+* [C.  crista-galli  鸡冠黄堇](http://www.iplant.cn/info/Corydalis crista-galli?t=foc)
+* [C.  cristata  具冠黄堇](http://www.iplant.cn/info/Corydalis cristata?t=foc)
+* [C.  cryptogama  无距黄堇](http://www.iplant.cn/info/Corydalis cryptogama?t=foc)
+* [C.  curviflora  曲花紫堇](http://www.iplant.cn/info/Corydalis curviflora?t=foc)
+* [C.  curviflora subsp. curviflora  曲花紫堇(原亚种)](http://www.iplant.cn/info/Corydalis curviflora subsp. curviflora?t=foc)
+* [C.  curviflora subsp. rosthornii  具爪曲花紫堇](http://www.iplant.cn/info/Corydalis curviflora subsp. rosthornii?t=foc)
+* [C.  cytisiflora  金雀花黄堇](http://www.iplant.cn/info/Corydalis cytisiflora?t=foc)
+* [C.  cytisiflora subsp. altecristata  高冠金雀花紫堇](http://www.iplant.cn/info/Corydalis cytisiflora subsp. altecristata?t=foc)
+* [C.  cytisiflora subsp. cytisiflora  金雀花黄堇(原亚种)](http://www.iplant.cn/info/Corydalis cytisiflora subsp. cytisiflora?t=foc)
+* [C.  cytisiflora subsp. minuticristata  直距金雀花黄堇](http://www.iplant.cn/info/Corydalis cytisiflora subsp. minuticristata?t=foc)
+* [C.  cytisiflora subsp. pseudosmithii  流苏金雀花紫堇](http://www.iplant.cn/info/Corydalis cytisiflora subsp. pseudosmithii?t=foc)
+* [C.  dajingensis  大金紫堇](http://www.iplant.cn/info/Corydalis dajingensis?t=foc)
+* [C.  dasyptera  迭裂黄堇](http://www.iplant.cn/info/Corydalis dasyptera?t=foc)
+* [C.  davidii  南黄堇](http://www.iplant.cn/info/Corydalis davidii?t=foc)
+* [C.  decumbens  夏天无](http://www.iplant.cn/info/Corydalis decumbens?t=foc)
+* [C.  degensis  德格紫堇](http://www.iplant.cn/info/Corydalis degensis?t=foc)
+* [C.  delavayi  丽江黄堇](http://www.iplant.cn/info/Corydalis delavayi?t=foc)
+* [C.  delicatula  娇嫩黄堇](http://www.iplant.cn/info/Corydalis delicatula?t=foc)
+* [C.  delphinioides  飞燕黄堇](http://www.iplant.cn/info/Corydalis delphinioides?t=foc)
+* [C.  densispica  密穗黄堇](http://www.iplant.cn/info/Corydalis densispica?t=foc)
+* [C.  diffusa  展枝黄堇](http://www.iplant.cn/info/Corydalis diffusa?t=foc)
+* [C.  dolichocentra  雅曲距紫堇](http://www.iplant.cn/info/Corydalis dolichocentra?t=foc)
+* [C.  dongchuanensis  东川紫堇](http://www.iplant.cn/info/Corydalis dongchuanensis?t=foc)
+* [C.  dorjii  不丹紫堇](http://www.iplant.cn/info/Corydalis dorjii?t=foc)
+* [C.  drakeana  短爪黄堇](http://www.iplant.cn/info/Corydalis drakeana?t=foc)
+* [C.  dubia  稀花黄堇](http://www.iplant.cn/info/Corydalis dubia?t=foc)
+* [C.  duclouxii  师宗紫堇](http://www.iplant.cn/info/Corydalis duclouxii?t=foc)
+* [C.  dulongjiangensis  独龙江紫堇](http://www.iplant.cn/info/Corydalis dulongjiangensis?t=foc)
+* [C.  ecristata  无冠紫堇](http://www.iplant.cn/info/Corydalis ecristata?t=foc)
+* [C.  edulis  紫堇](http://www.iplant.cn/info/Corydalis edulis?t=foc)
+* [C.  elata  高茎紫堇](http://www.iplant.cn/info/Corydalis elata?t=foc)
+* [C.  elegans  幽雅黄堇](http://www.iplant.cn/info/Corydalis elegans?t=foc)
+* [C.  ellipticarpa  椭果紫堇](http://www.iplant.cn/info/Corydalis ellipticarpa?t=foc)
+* [C.  enantiophylla  对叶紫堇](http://www.iplant.cn/info/Corydalis enantiophylla?t=foc)
+* [C.  esquirolii  籽纹紫堇](http://www.iplant.cn/info/Corydalis esquirolii?t=foc)
+* [C.  eugeniae  粗距紫堇](http://www.iplant.cn/info/Corydalis eugeniae?t=foc)
+* [C.  fangshanensis  房山紫堇](http://www.iplant.cn/info/Corydalis fangshanensis?t=foc)
+* [C.  fargesii  北岭黄堇](http://www.iplant.cn/info/Corydalis fargesii?t=foc)
+* [C.  feddeana  大海黄堇](http://www.iplant.cn/info/Corydalis feddeana?t=foc)
+* [C.  fedtschenkoana  天山囊果紫堇](http://www.iplant.cn/info/Corydalis fedtschenkoana?t=foc)
+* [C.  filisecta  丝叶紫堇](http://www.iplant.cn/info/Corydalis filisecta?t=foc)
+* [C.  flabellata  扇叶黄堇](http://www.iplant.cn/info/Corydalis flabellata?t=foc)
+* [C.  flaccida  裂冠紫堇](http://www.iplant.cn/info/Corydalis flaccida?t=foc)
+* [C.  flexuosa  穆坪紫堇](http://www.iplant.cn/info/Corydalis flexuosa?t=foc)
+* [C.  flexuosa subsp. flexuosa  穆坪紫堇(原亚种)](http://www.iplant.cn/info/Corydalis flexuosa subsp. flexuosa?t=foc)
+* [C.  flexuosa subsp. pseudoheterocentra  低冠穆坪紫堇](http://www.iplant.cn/info/Corydalis flexuosa subsp. pseudoheterocentra?t=foc)
+* [C.  foetida  臭黄堇](http://www.iplant.cn/info/Corydalis foetida?t=foc)
+* [C.  foliaceobracteata  叶苞紫堇](http://www.iplant.cn/info/Corydalis foliaceobracteata?t=foc)
+* [C.  franchetiana  春丕黄堇](http://www.iplant.cn/info/Corydalis franchetiana?t=foc)
+* [C.  gamosepala  北京延胡索](http://www.iplant.cn/info/Corydalis gamosepala?t=foc)
+* [C.  gaoxinfeniae  柄苞黄堇](http://www.iplant.cn/info/Corydalis gaoxinfeniae?t=foc)
+* [C.  gigantea  巨紫堇](http://www.iplant.cn/info/Corydalis gigantea?t=foc)
+* [C.  giraldii  小花宽瓣黄堇](http://www.iplant.cn/info/Corydalis giraldii?t=foc)
+* [C.  glaucescens  新疆元胡](http://www.iplant.cn/info/Corydalis glaucescens?t=foc)
+* [C.  glaucissima  苍白紫堇](http://www.iplant.cn/info/Corydalis glaucissima?t=foc)
+* [C.  glycyphyllos  甘草叶紫堇](http://www.iplant.cn/info/Corydalis glycyphyllos?t=foc)
+* [C.  gortschakovii  新疆黄堇](http://www.iplant.cn/info/Corydalis gortschakovii?t=foc)
+* [C.  govaniana  库莽黄堇](http://www.iplant.cn/info/Corydalis govaniana?t=foc)
+* [C.  gracillima  纤细黄堇](http://www.iplant.cn/info/Corydalis gracillima?t=foc)
+* [C.  grandiflora  丹巴黄堇](http://www.iplant.cn/info/Corydalis grandiflora?t=foc)
+* [C.  gymnopoda  寡叶裸茎紫堇](http://www.iplant.cn/info/Corydalis gymnopoda?t=foc)
+* [C.  gyrophylla  裸茎延胡索](http://www.iplant.cn/info/Corydalis gyrophylla?t=foc)
+* [C.  hamata  钩距黄堇](http://www.iplant.cn/info/Corydalis hamata?t=foc)
+* [C.  harrysmithii  康定紫堇](http://www.iplant.cn/info/Corydalis harrysmithii?t=foc)
+* [C.  hebephylla  毛被黄堇](http://www.iplant.cn/info/Corydalis hebephylla?t=foc)
+* [C.  helodes  近泽黄堇](http://www.iplant.cn/info/Corydalis helodes?t=foc)
+* [C.  hemidicentra  半荷包紫堇](http://www.iplant.cn/info/Corydalis hemidicentra?t=foc)
+* [C.  hemsleyana  巴东紫堇](http://www.iplant.cn/info/Corydalis hemsleyana?t=foc)
+* [C.  hendersonii  尼泊尔黄堇](http://www.iplant.cn/info/Corydalis hendersonii?t=foc)
+* [C.  hendersonii var. altocristata  高冠尼泊尔黄堇](http://www.iplant.cn/info/Corydalis hendersonii var. altocristata?t=foc)
+* [C.  hendersonii var. hendersonii  尼泊尔黄堇(原变种)](http://www.iplant.cn/info/Corydalis hendersonii var. hendersonii?t=foc)
+* [C.  hepaticifolia  假獐耳紫堇](http://www.iplant.cn/info/Corydalis hepaticifolia?t=foc)
+* [C.  heracleifolia  独活叶紫堇](http://www.iplant.cn/info/Corydalis heracleifolia?t=foc)
+* [C.  heterocarpa  异果黄堇](http://www.iplant.cn/info/Corydalis heterocarpa?t=foc)
+* [C.  heterocentra  异心紫堇](http://www.iplant.cn/info/Corydalis heterocentra?t=foc)
+* [C.  heterodonta  异齿紫堇](http://www.iplant.cn/info/Corydalis heterodonta?t=foc)
+* [C.  heterothylax  异距紫堇](http://www.iplant.cn/info/Corydalis heterothylax?t=foc)
+* [C.  homopetala  同瓣黄堇](http://www.iplant.cn/info/Corydalis homopetala?t=foc)
+* [C.  hongbashanensis  洪坝山紫堇](http://www.iplant.cn/info/Corydalis hongbashanensis?t=foc)
+* [C.  hookeri  拟锥花黄堇](http://www.iplant.cn/info/Corydalis hookeri?t=foc)
+* [C.  hsiaowutaishanensis  五台山延胡索](http://www.iplant.cn/info/Corydalis hsiaowutaishanensis?t=foc)
+* [C.  humicola  湿生紫堇](http://www.iplant.cn/info/Corydalis humicola?t=foc)
+* [C.  humilis  矮生延胡索](http://www.iplant.cn/info/Corydalis humilis?t=foc)
+* [C.  humosa  土元胡](http://www.iplant.cn/info/Corydalis humosa?t=foc)
+* [C.  imbricata  银瑞](http://www.iplant.cn/info/Corydalis imbricata?t=foc)
+* [C.  impatiens  赛北紫堇](http://www.iplant.cn/info/Corydalis impatiens?t=foc)
+* [C.  incisa  刻叶紫堇](http://www.iplant.cn/info/Corydalis incisa?t=foc)
+* [C.  inconspicua  小株紫堇](http://www.iplant.cn/info/Corydalis inconspicua?t=foc)
+* [C.  inopinata  卡惹拉黄堇](http://www.iplant.cn/info/Corydalis inopinata?t=foc)
+* [C.  iochanensis  药山紫堇](http://www.iplant.cn/info/Corydalis iochanensis?t=foc)
+* [C.  ischnosiphon  瘦距紫堇](http://www.iplant.cn/info/Corydalis ischnosiphon?t=foc)
+* [C.  jigmei  藏南紫堇](http://www.iplant.cn/info/Corydalis jigmei?t=foc)
+* [C.  jingyuanensis  泾源紫堇](http://www.iplant.cn/info/Corydalis jingyuanensis?t=foc)
+* [C.  jiulongensis  九龙黄堇](http://www.iplant.cn/info/Corydalis jiulongensis?t=foc)
+* [C.  juncea  裸茎黄堇](http://www.iplant.cn/info/Corydalis juncea?t=foc)
+* [C.  kailiensis  凯里紫堇](http://www.iplant.cn/info/Corydalis kailiensis?t=foc)
+* [C.  kashgarica  喀什黄堇](http://www.iplant.cn/info/Corydalis kashgarica?t=foc)
+* [C.  kiautschouensis  胶州延胡索](http://www.iplant.cn/info/Corydalis kiautschouensis?t=foc)
+* [C.  kingdonis  多雄黄堇](http://www.iplant.cn/info/Corydalis kingdonis?t=foc)
+* [C.  kingii  帕里紫堇](http://www.iplant.cn/info/Corydalis kingii?t=foc)
+* [C.  kiukiangensis  俅江紫堇](http://www.iplant.cn/info/Corydalis kiukiangensis?t=foc)
+* [C.  kokiana  狭距紫堇](http://www.iplant.cn/info/Corydalis kokiana?t=foc)
+* [C.  krasnovii  南疆黄堇](http://www.iplant.cn/info/Corydalis krasnovii?t=foc)
+* [C.  kuruchuensis  库如措紫堇](http://www.iplant.cn/info/Corydalis kuruchuensis?t=foc)
+* [C.  laelia  高冠黄堇](http://www.iplant.cn/info/Corydalis laelia?t=foc)
+* [C.  lagochila  兔唇紫堇](http://www.iplant.cn/info/Corydalis lagochila?t=foc)
+* [C.  lasiocarpa  毛果紫堇](http://www.iplant.cn/info/Corydalis lasiocarpa?t=foc)
+* [C.  lathyrophylla  长冠紫堇](http://www.iplant.cn/info/Corydalis lathyrophylla?t=foc)
+* [C.  lathyrophylla subsp. dawuensis  道孚长冠紫堇](http://www.iplant.cn/info/Corydalis lathyrophylla subsp. dawuensis?t=foc)
+* [C.  lathyrophylla subsp. lathyrophylla  长冠紫堇(原亚种)](http://www.iplant.cn/info/Corydalis lathyrophylla subsp. lathyrophylla?t=foc)
+* [C.  latiflora  宽花紫堇](http://www.iplant.cn/info/Corydalis latiflora?t=foc)
+* [C.  latiloba  宽裂黄堇](http://www.iplant.cn/info/Corydalis latiloba?t=foc)
+* [C.  latiloba var. latiloba  宽裂黄堇(原变种)](http://www.iplant.cn/info/Corydalis latiloba var. latiloba?t=foc)
+* [C.  latiloba var. tibetica  西藏宽裂黄堇](http://www.iplant.cn/info/Corydalis latiloba var. tibetica?t=foc)
+* [C.  latiloba var. wumungensis  乌蒙宽裂黄堇](http://www.iplant.cn/info/Corydalis latiloba var. wumungensis?t=foc)
+* [C.  laucheana  紫苞黄堇](http://www.iplant.cn/info/Corydalis laucheana?t=foc)
+* [C.  laxiflora  疏花黄堇](http://www.iplant.cn/info/Corydalis laxiflora?t=foc)
+* [C.  ledebouriana  薯根延胡索](http://www.iplant.cn/info/Corydalis ledebouriana?t=foc)
+* [C.  leptocarpa  细果紫堇](http://www.iplant.cn/info/Corydalis leptocarpa?t=foc)
+* [C.  leucanthema  粉叶紫堇](http://www.iplant.cn/info/Corydalis leucanthema?t=foc)
+* [C.  lhasaensis  拉萨黄堇](http://www.iplant.cn/info/Corydalis lhasaensis?t=foc)
+* [C.  lhorongensis  洛隆紫堇](http://www.iplant.cn/info/Corydalis lhorongensis?t=foc)
+* [C.  liana  绕曲黄堇](http://www.iplant.cn/info/Corydalis liana?t=foc)
+* [C.  lidenii  积鳞紫堇](http://www.iplant.cn/info/Corydalis lidenii?t=foc)
+* [C.  linarioides  条裂黄堇](http://www.iplant.cn/info/Corydalis linarioides?t=foc)
+* [C.  linearis  线叶黄堇](http://www.iplant.cn/info/Corydalis linearis?t=foc)
+
+
+## 中国植物志
+
+> * [小药八旦子  C.  caudata](http://www.iplant.cn/info/Corydalis caudata?t=z)
+> * [北京延胡索  C.  gamosepala](http://www.iplant.cn/info/Corydalis gamosepala?t=z)
+> * [新疆元胡  C.  glaucescens](http://www.iplant.cn/info/Corydalis glaucescens?t=z)
+> * [矮生延胡索  C.  humilis](http://www.iplant.cn/info/Corydalis humilis?t=z)
+
+
+**堇叶延胡索 Corydalis fumariifolia",
+
+
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第32卷](http://www.iplant.cn/frps/vol/32) >> 458页 [PDF](http://www.iplant.cn/frps/pdf/32/458a.pdf)
+
+
+**274. 堇叶延胡索（东北植物检索表）　图版115: 1-10**
+
+Corydalis fumariifolia Maxim. Prim. Fl. Amur. 37. 1859. ——C. ambigua var. amurensis Maxim. et var. amurensis lusus lineariloba Maxim. & lusus rotundiloba Maxim. Prim. Fl. Amur. 37. 1859. C. ambigua f. fumariifolia (Maxim.) Kitag. in Rep. Inst. Sci. Res. Manchoukuo 3: 232. 1939. C. ambigua f. dentata Y. H. Chou & f. multifida Y. H. Chou, Fl. Herb. Chin. bor.-or. 4: 229. 1980.——C. remota var. fumariifolia (Maxim.) Kom. & var. pectinata Kom. in Acta Horti Petrop. 22: 351. 1903. C. lineariloba var. fumariifolia (Maxim.) Kitag. & C. lineariloba f. pectinata (Kom.) Kitag. Neolineam. Fl. Mansh. 321. 1979.——C. turtschaninovii f. fumariifolia (Maxim.) Y. H. Chou, Fl. Pl. Herb. Chin. bor.-or. 4: 229. 1980.
+
+多年生草本，高8-20(-28)厘米。块茎圆球形，直径约1厘米。茎直立或上升，基部以上具1鳞片，不分枝或鳞片腋内具1分枝，有时具乳突状毛，上部具2(-3)叶。叶2-3回三出，绿色无毛，有时叶脉和叶缘呈乳突状粗糙，小叶多变，全缘至深裂，末回裂片线形，披针形，椭圆形或卵圆形，全缘，有时具锯齿或圆齿。总状花序具5-12(-15)花。苞片宽披针形，卵圆形或倒卵形，全缘，有时蓖齿状或扇形分裂。花梗纤细，直立伸展，长5-14毫米（栽培条件下可长达25毫米），果期不下弯或稍弧形弯曲。萼片小，不明显。花淡蓝色或蓝紫色，稀紫色或白色；内花瓣色淡或近白色。外花瓣较宽展，全缘，稀具齿，顶端下凹。上花瓣长1.8-2.5厘米，瓣片多少上弯，两侧常反折；距直或末端稍下弯，长7-12毫米，常呈三角形；蜜腺体约贯穿距长的1/3，末端具折曲状短尖。下花瓣直或浅囊状，但常具明显变狭的基部，瓣片基部较宽（约6-10毫米），向上渐变狭。内花瓣长8-11(-13)毫米。柱头近四方形，顶端具4短柱状乳突，基部具2下延的紧邻花柱的尾状突起。蒴果线形，常呈红棕色，长(15-)20-25(-30)毫米，宽2.5-3毫米，背腹扁平，侧面常具龙骨状突起，具1列种子。种子直径约2毫米，平滑，具倒卵形的种阜。
+
+产黑龙江（伊春）、吉林（柳河、临江、通化）、辽宁（鸭绿江、凤城、鸡冠山、兴城至绥中），生于海拔600米左右的林缘或灌木丛中。分布于俄罗斯远东地区。模式标本采自黑龙江下游的Khurti。
+
+本种是一个多型的复合种。小叶和苞片的分裂程度，叶裂片的宽度，茎和叶上有毛的程度和花的大小均有很大的变异。在符拉迪沃斯托克（海参崴）和我国东北这些变异已达到高度化，如叶有全缘的，有具齿的，有篦齿状分裂的，叶裂片有线形的，有丝裂的，而且这些形态不同的居群常混生在一些。过去这些变异曾被人划分为若干变型或变种，但这对于认识本种是帮助不大的，因为这些变异是划不断的，也是分不尽的。本种是自花受精不育的（据 M. Liden），形态各异的居群（或种间?）间的杂交所带来的基因的流动和排列的改变不仅影响到种子，也影响到块茎遗传性的稳定性，自然会导致某些器官上的变异。另一多型种 C. turtschaninovii 与本种不仅有相同的分布区，相同的变异，而且常混生在一起。早年俄国学者 Komarov 已讨论到这些种的多型现象，认为这些聚生在一起的不同形态的个体无疑是来自同一亲本的种子，影响到叶型的变异，花序的密集与否，花的大小等与种子萌发的时间有关。近来瑞典学者 M. Liden 在引种 C. turtschaninovii 的栽培观察中已注意到叶形和色泽上惊人的变异，认为“这些变异只有在园艺学家眼里才会成为新的分类群，然而只有分类学家对它的认识才会更清楚的”。
+
+> C. ambigua var. amurensis Maxim. 是 M. Liden 根据模式标本合并的。它的模式和 C. fumariaefolia 的模式标本采自同一地方（Khurti），采自同一天和同一人（Maximovicz）。
+
+> 本种下凹的外花瓣、短而渐尖的蜜腺体、线形的蒴果是其稳定的特征而有别于邻近的种。
+
+
+
+}

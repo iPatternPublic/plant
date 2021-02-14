@@ -1,0 +1,203 @@
+安龙景天 **Sedum tsiangii** Fröderström
+
+> [Crassulaceae](http://www.iplant.cn/info/Crassulaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Crassulaceae.pdf) >> [Sedum](http://www.iplant.cn/info/Sedum?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Sedum.pdf)
+## Description
+
+Herbs annual, glabrous. Stems branched, suberect, 10-15 cm. Leaves alternate or 3- or 4-verticillate; leaf blade oblanceolate, 1-1.5 cm, sparsely papillate-hairy, base obtuse and shortly spurred, apex subobtuse. Cyme corymbiform, lax, few flowered; bracts subobovate. Flowers shortly pedicellate, unequally 5-merous. Sepals lanceolate to linear, unequal, 3.5-4.2 mm, base spurless, apex subobtuse and papillate. Petals yellow, oblong to broadly ovate, 4.5-5 mm, base subconnate to free, apex mucronate. Stamens 10; antepetalous ones 1.8-2.2 mm, inserted 0.5-1.2 mm from petal base. Nectar scales quadrangular or linear-spatulate, slightly constricted at middle, ca. 0.5 mm, apex truncate. Carpels erect, base connate for 0.8-1.2 mm. Styles ca. 0.5 mm. Follicles subovoid, 3.5-4.5 mm, many seeded; placenta linear. Seeds ovoid, ca. 0.5 mm, mammillate. Fl. Sep-Oct, fr. Oct-Nov.
+
+
+> **Habait** : 
+>* Rocks on slopes or cliffs; 400-2700 m. W Guizhou, E Yunnan.
+
+## Keylist
+* 1 Leaves alternate, sometimes basally verticillate; petals oblong; nectar scales quadrangular——71a  [var. tsiangii 安龙景天(原变种)](http://www.iplant.cn/info/Sedum tsiangii var. tsiangii?t=foc)
+* ~ Leaves 3- or 4-verticillate; petals broadly ovate; nectar scales linear-spatulate——71b  [var. torquatum 珠节景天](http://www.iplant.cn/info/Sedum tsiangii var. torquatum?t=foc)
+
+### Parsublist
+
+* [S.  actinocarpum  星果佛甲草](http://www.iplant.cn/info/Sedum actinocarpum?t=foc)
+* [S.  alfredii  东南景天](http://www.iplant.cn/info/Sedum alfredii?t=foc)
+* [S.  baileyi  对叶景天](http://www.iplant.cn/info/Sedum baileyi?t=foc)
+* [S.  barbeyi  离瓣景天](http://www.iplant.cn/info/Sedum barbeyi?t=foc)
+* [S.  beauverdii  短尖景天](http://www.iplant.cn/info/Sedum beauverdii?t=foc)
+* [S.  bergeri  长丝景天](http://www.iplant.cn/info/Sedum bergeri?t=foc)
+* [S.  blepharophyllum  叶景天](http://www.iplant.cn/info/Sedum blepharophyllum?t=foc)
+* [S.  bonnieri  城口景天](http://www.iplant.cn/info/Sedum bonnieri?t=foc)
+* [S.  bulbiferum  珠芽景天](http://www.iplant.cn/info/Sedum bulbiferum?t=foc)
+* [S.  celatum  隐匿景天](http://www.iplant.cn/info/Sedum celatum?t=foc)
+* [S.  celiae  镰座景天](http://www.iplant.cn/info/Sedum celiae?t=foc)
+* [S.  chauveaudii  轮叶景天](http://www.iplant.cn/info/Sedum chauveaudii?t=foc)
+* [S.  chauveaudii var. chauveaudii  轮叶景天(原变种)](http://www.iplant.cn/info/Sedum chauveaudii var. chauveaudii?t=foc)
+* [S.  chauveaudii var. margaritae  互生叶景天](http://www.iplant.cn/info/Sedum chauveaudii var. margaritae?t=foc)
+* [S.  chingtungense  景东景天](http://www.iplant.cn/info/Sedum chingtungense?t=foc)
+* [S.  chuhsingense  楚雄景天](http://www.iplant.cn/info/Sedum chuhsingense?t=foc)
+* [S.  concarpum  合果景天](http://www.iplant.cn/info/Sedum concarpum?t=foc)
+* [S.  correptum  单花景天](http://www.iplant.cn/info/Sedum correptum?t=foc)
+* [S.  costantinii  山裂距景天](http://www.iplant.cn/info/Sedum costantinii?t=foc)
+* [S.  cryptomerioides  杉叶佛甲草](http://www.iplant.cn/info/Sedum cryptomerioides?t=foc)
+* [S.  daigremontianum  啮瓣景天](http://www.iplant.cn/info/Sedum daigremontianum?t=foc)
+* [S.  daigremontianum var. daigremontianum  啮瓣景天(原变种)](http://www.iplant.cn/info/Sedum daigremontianum var. daigremontianum?t=foc)
+* [S.  daigremontianum var. macrosepalum  大萼啮瓣景天](http://www.iplant.cn/info/Sedum daigremontianum var. macrosepalum?t=foc)
+* [S.  didymocalyx  双萼景天](http://www.iplant.cn/info/Sedum didymocalyx?t=foc)
+* [S.  dielsii  乳瓣景天](http://www.iplant.cn/info/Sedum dielsii?t=foc)
+* [S.  dimorphophyllum  二型叶景天](http://www.iplant.cn/info/Sedum dimorphophyllum?t=foc)
+* [S.  dongzhiense  东至景天](http://www.iplant.cn/info/Sedum dongzhiense?t=foc)
+* [S.  drymarioides  大叶火焰草](http://www.iplant.cn/info/Sedum drymarioides?t=foc)
+* [S.  dugueyi  藓茎景天](http://www.iplant.cn/info/Sedum dugueyi?t=foc)
+* [S.  elatinoides  细叶景天](http://www.iplant.cn/info/Sedum elatinoides?t=foc)
+* [S.  emarginatum  凹叶景天](http://www.iplant.cn/info/Sedum emarginatum?t=foc)
+* [S.  engleri  粗壮景天](http://www.iplant.cn/info/Sedum engleri?t=foc)
+* [S.  engleri var. dentatum  远齿粗壮景天](http://www.iplant.cn/info/Sedum engleri var. dentatum?t=foc)
+* [S.  engleri var. engleri  粗壮景天(原变种)](http://www.iplant.cn/info/Sedum engleri var. engleri?t=foc)
+* [S.  erici-magnusii  大炮山景天](http://www.iplant.cn/info/Sedum erici-magnusii?t=foc)
+* [S.  erici-magnusii subsp. chilianense  祈连山景天](http://www.iplant.cn/info/Sedum erici-magnusii subsp. chilianense?t=foc)
+* [S.  erici-magnusii subsp. erici-magnusii  大炮山景天(原亚种)](http://www.iplant.cn/info/Sedum erici-magnusii subsp. erici-magnusii?t=foc)
+* [S.  erythrospermum  红籽佛甲草](http://www.iplant.cn/info/Sedum erythrospermum?t=foc)
+* [S.  feddei  折多景天](http://www.iplant.cn/info/Sedum feddei?t=foc)
+* [S.  fedtschenkoi  尖叶景天](http://www.iplant.cn/info/Sedum fedtschenkoi?t=foc)
+* [S.  filipes  小山飘风](http://www.iplant.cn/info/Sedum filipes?t=foc)
+* [S.  fischeri  小景天](http://www.iplant.cn/info/Sedum fischeri?t=foc)
+* [S.  formosanum  台湾佛甲草](http://www.iplant.cn/info/Sedum formosanum?t=foc)
+* [S.  forrestii  甘肃景天](http://www.iplant.cn/info/Sedum forrestii?t=foc)
+* [S.  franchetii  细叶山景天](http://www.iplant.cn/info/Sedum franchetii?t=foc)
+* [S.  fui  宽叶景天](http://www.iplant.cn/info/Sedum fui?t=foc)
+* [S.  fui var. fui  宽叶景天(原变种)](http://www.iplant.cn/info/Sedum fui var. fui?t=foc)
+* [S.  fui var. longisepalum  长萼宽叶景天](http://www.iplant.cn/info/Sedum fui var. longisepalum?t=foc)
+* [S.  gagei  锡金景天](http://www.iplant.cn/info/Sedum gagei?t=foc)
+* [S.  giajae  柔毛景天](http://www.iplant.cn/info/Sedum giajae?t=foc)
+* [S.  glaebosum  道孚景天](http://www.iplant.cn/info/Sedum glaebosum?t=foc)
+* [S.  grammophyllum  禾叶景天](http://www.iplant.cn/info/Sedum grammophyllum?t=foc)
+* [S.  hakonense  本州景天](http://www.iplant.cn/info/Sedum hakonense?t=foc)
+* [S.  hangzhouense  杭州景天](http://www.iplant.cn/info/Sedum hangzhouense?t=foc)
+* [S.  heckelii  巴塘景天](http://www.iplant.cn/info/Sedum heckelii?t=foc)
+* [S.  hengduanense  横断山景天](http://www.iplant.cn/info/Sedum hengduanense?t=foc)
+* [S.  henrici-robertii  山岭景天](http://www.iplant.cn/info/Sedum henrici-robertii?t=foc)
+* [S.  hoi  ](http://www.iplant.cn/info/Sedum hoi?t=foc)
+* [S.  japonicum  日本景天](http://www.iplant.cn/info/Sedum japonicum?t=foc)
+* [S.  jiulungshanense  九龙山景天](http://www.iplant.cn/info/Sedum jiulungshanense?t=foc)
+* [S.  kiangnanense  江南景天](http://www.iplant.cn/info/Sedum kiangnanense?t=foc)
+* [S.  latentibulbosum  潜茎景天](http://www.iplant.cn/info/Sedum latentibulbosum?t=foc)
+* [S.  leblancae  钝萼景天](http://www.iplant.cn/info/Sedum leblancae?t=foc)
+* [S.  leptophyllum  薄叶景天](http://www.iplant.cn/info/Sedum leptophyllum?t=foc)
+* [S.  leucocarpum  白果景天](http://www.iplant.cn/info/Sedum leucocarpum?t=foc)
+* [S.  lineare  佛甲草](http://www.iplant.cn/info/Sedum lineare?t=foc)
+* [S.  longifuniculatum  长珠柄景天](http://www.iplant.cn/info/Sedum longifuniculatum?t=foc)
+* [S.  longyanense  浪岩景天](http://www.iplant.cn/info/Sedum longyanense?t=foc)
+* [S.  luchuanicum  禄劝景天](http://www.iplant.cn/info/Sedum luchuanicum?t=foc)
+* [S.  lungtsuanense  龙泉景天](http://www.iplant.cn/info/Sedum lungtsuanense?t=foc)
+* [S.  lutzii  康定景天](http://www.iplant.cn/info/Sedum lutzii?t=foc)
+* [S.  lutzii var. lutzii  康定景天(原变种)](http://www.iplant.cn/info/Sedum lutzii var. lutzii?t=foc)
+* [S.  lutzii var. viridiflavum  黄绿景天](http://www.iplant.cn/info/Sedum lutzii var. viridiflavum?t=foc)
+* [S.  magniflorum  大花景天](http://www.iplant.cn/info/Sedum magniflorum?t=foc)
+* [S.  majus  山飘风](http://www.iplant.cn/info/Sedum majus?t=foc)
+* [S.  makinoi  圆叶景天](http://www.iplant.cn/info/Sedum makinoi?t=foc)
+* [S.  microsepalum  小萼佛甲草](http://www.iplant.cn/info/Sedum microsepalum?t=foc)
+* [S.  morotii  倒卵叶景天](http://www.iplant.cn/info/Sedum morotii?t=foc)
+* [S.  morotii var. morotii  倒卵叶景天(原变种)](http://www.iplant.cn/info/Sedum morotii var. morotii?t=foc)
+* [S.  morotii var. pinoyi  小倒卵叶景天](http://www.iplant.cn/info/Sedum morotii var. pinoyi?t=foc)
+* [S.  morrisonense  玉山佛甲草](http://www.iplant.cn/info/Sedum morrisonense?t=foc)
+* [S.  multicaule  多茎景天](http://www.iplant.cn/info/Sedum multicaule?t=foc)
+* [S.  multicaule subsp. multicaule  多茎景天(原亚种)](http://www.iplant.cn/info/Sedum multicaule subsp. multicaule?t=foc)
+* [S.  multicaule subsp. rugosum  皱茎景天](http://www.iplant.cn/info/Sedum multicaule subsp. rugosum?t=foc)
+* [S.  muyaicum  木雅景天](http://www.iplant.cn/info/Sedum muyaicum?t=foc)
+* [S.  nanchuanense  金佛山景天](http://www.iplant.cn/info/Sedum nanchuanense?t=foc)
+* [S.  nokoense  能高佛甲草](http://www.iplant.cn/info/Sedum nokoense?t=foc)
+* [S.  nothodugueyi  距萼景天](http://www.iplant.cn/info/Sedum nothodugueyi?t=foc)
+* [S.  obtrullatum  铲瓣景天](http://www.iplant.cn/info/Sedum obtrullatum?t=foc)
+* [S.  obtusipetalum  钝瓣景天](http://www.iplant.cn/info/Sedum obtusipetalum?t=foc)
+* [S.  oligocarpum  少果景天](http://www.iplant.cn/info/Sedum oligocarpum?t=foc)
+* [S.  oligospermum  大苞景天](http://www.iplant.cn/info/Sedum oligospermum?t=foc)
+* [S.  onychopetalum  爪瓣景天](http://www.iplant.cn/info/Sedum onychopetalum?t=foc)
+* [S.  oreades  山景天](http://www.iplant.cn/info/Sedum oreades?t=foc)
+* [S.  pagetodes  寒地景天](http://www.iplant.cn/info/Sedum pagetodes?t=foc)
+* [S.  pampaninii  秦岭景天](http://www.iplant.cn/info/Sedum pampaninii?t=foc)
+* [S.  paracelatum  敏感景天](http://www.iplant.cn/info/Sedum paracelatum?t=foc)
+* [S.  parvisepalum  尖萼佛甲草](http://www.iplant.cn/info/Sedum parvisepalum?t=foc)
+* [S.  perrotii  甘肃景天](http://www.iplant.cn/info/Sedum perrotii?t=foc)
+* [S.  phyllanthum  叶花景天](http://www.iplant.cn/info/Sedum phyllanthum?t=foc)
+* [S.  planifolium  平叶景天](http://www.iplant.cn/info/Sedum planifolium?t=foc)
+* [S.  platysepalum  宽萼景天](http://www.iplant.cn/info/Sedum platysepalum?t=foc)
+* [S.  polytrichoides  藓状景天](http://www.iplant.cn/info/Sedum polytrichoides?t=foc)
+* [S.  prasinopetalum  绿瓣景天](http://www.iplant.cn/info/Sedum prasinopetalum?t=foc)
+* [S.  pratoalpinum  牧山景天](http://www.iplant.cn/info/Sedum pratoalpinum?t=foc)
+* [S.  przewalskii  高原景天](http://www.iplant.cn/info/Sedum przewalskii?t=foc)
+* [S.  purdomii  裂鳞景天](http://www.iplant.cn/info/Sedum purdomii?t=foc)
+* [S.  ramentaceum  糠秕景天](http://www.iplant.cn/info/Sedum ramentaceum?t=foc)
+* [S.  raymondii  膨果景天](http://www.iplant.cn/info/Sedum raymondii?t=foc)
+* [S.  roborowskii  阔叶景天](http://www.iplant.cn/info/Sedum roborowskii?t=foc)
+* [S.  rosei  川西景天](http://www.iplant.cn/info/Sedum rosei?t=foc)
+* [S.  rosei var. magniflorum  大花川西景天](http://www.iplant.cn/info/Sedum rosei var. magniflorum?t=foc)
+* [S.  rosei var. rosei  川西景天(原变种)](http://www.iplant.cn/info/Sedum rosei var. rosei?t=foc)
+* [S.  rosthornianum  南川景天](http://www.iplant.cn/info/Sedum rosthornianum?t=foc)
+* [S.  sagittipetalum  箭瓣景天](http://www.iplant.cn/info/Sedum sagittipetalum?t=foc)
+* [S.  sarmentosum  垂盆草](http://www.iplant.cn/info/Sedum sarmentosum?t=foc)
+* [S.  sekiteiense  石啶佛甲草](http://www.iplant.cn/info/Sedum sekiteiense?t=foc)
+* [S.  semilunatum  月座景天](http://www.iplant.cn/info/Sedum semilunatum?t=foc)
+* [S.  sinoglaciale  冰川景天](http://www.iplant.cn/info/Sedum sinoglaciale?t=foc)
+* [S.  somenii  邓川景天](http://www.iplant.cn/info/Sedum somenii?t=foc)
+* [S.  stellariifolium  火焰草](http://www.iplant.cn/info/Sedum stellariifolium?t=foc)
+* [S.  stimulosum  刺毛景天](http://www.iplant.cn/info/Sedum stimulosum?t=foc)
+* [S.  subtile  细小景天](http://www.iplant.cn/info/Sedum subtile?t=foc)
+* [S.  susanneae  方腺景天](http://www.iplant.cn/info/Sedum susanneae?t=foc)
+* [S.  susanneae var. macrosepalum  大萼方腺景天](http://www.iplant.cn/info/Sedum susanneae var. macrosepalum?t=foc)
+* [S.  susanneae var. susanneae  方腺景天(原变种)](http://www.iplant.cn/info/Sedum susanneae var. susanneae?t=foc)
+* [S.  tetractinum  四芒景天](http://www.iplant.cn/info/Sedum tetractinum?t=foc)
+* [S.  tianmushanense  天目山景天](http://www.iplant.cn/info/Sedum tianmushanense?t=foc)
+* [S.  tosaense  土佐景天](http://www.iplant.cn/info/Sedum tosaense?t=foc)
+* [S.  triactina  三芒景天](http://www.iplant.cn/info/Sedum triactina?t=foc)
+* [S.  triactina subsp. leptum  小三芒景天](http://www.iplant.cn/info/Sedum triactina subsp. leptum?t=foc)
+* [S.  triactina subsp. triactina  三芒景天(原亚种)](http://www.iplant.cn/info/Sedum triactina subsp. triactina?t=foc)
+* [S.  trichospermum  毛籽景天](http://www.iplant.cn/info/Sedum trichospermum?t=foc)
+* [S.  trullipetalum  镘瓣景天](http://www.iplant.cn/info/Sedum trullipetalum?t=foc)
+* [S.  trullipetalum var. ciliatum  缘毛景天](http://www.iplant.cn/info/Sedum trullipetalum var. ciliatum?t=foc)
+* [S.  trullipetalum var. trullipetalum  镘瓣景天(原变种)](http://www.iplant.cn/info/Sedum trullipetalum var. trullipetalum?t=foc)
+* [S.  tsiangii var. torquatum  珠节景天](http://www.iplant.cn/info/Sedum tsiangii var. torquatum?t=foc)
+* [S.  tsiangii var. tsiangii  安龙景天(原变种)](http://www.iplant.cn/info/Sedum tsiangii var. tsiangii?t=foc)
+* [S.  tsinghaicum  青海景天](http://www.iplant.cn/info/Sedum tsinghaicum?t=foc)
+* [S.  tsonanum  错那景天](http://www.iplant.cn/info/Sedum tsonanum?t=foc)
+* [S.  ulricae  甘南景天](http://www.iplant.cn/info/Sedum ulricae?t=foc)
+* [S.  uniflorum  梳花佛甲草](http://www.iplant.cn/info/Sedum uniflorum?t=foc)
+* [S.  wangii  德钦景天](http://www.iplant.cn/info/Sedum wangii?t=foc)
+* [S.  wenchuanense  汶川景天](http://www.iplant.cn/info/Sedum wenchuanense?t=foc)
+* [S.  wilsonii  兴山景天](http://www.iplant.cn/info/Sedum wilsonii?t=foc)
+* [S.  woronowii  长萼景天](http://www.iplant.cn/info/Sedum woronowii?t=foc)
+* [S.  yvesii  短蕊景天](http://www.iplant.cn/info/Sedum yvesii?t=foc)
+
+
+## 中国植物志
+
+> * [长丝景天  S.  bergeri](http://www.iplant.cn/info/Sedum bergeri?t=z)
+> * [轮叶景天  S.  chauveaudii](http://www.iplant.cn/info/Sedum chauveaudii?t=z)
+> * [乳瓣景天  S.  dielsii](http://www.iplant.cn/info/Sedum dielsii?t=z)
+> * [钝萼景天  S.  leblancae](http://www.iplant.cn/info/Sedum leblancae?t=z)
+
+**安龙景天 Sedum tsiangii**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第34(1)卷](http://www.iplant.cn/frps/vol/34(1)) >> 125页 [PDF](http://www.iplant.cn/frps/pdf/34(1)/125a.PDF)
+**72．安龙景天（植物分类学报）**
+
+Sedum tsiangii Frod. 中研丛刊3: 199. 1933; id. in Acta Hort. Gothob. 10. Append.: 162. pl. 112. f. 1306-1314. 1933.
+**72a. 安龙景天（原变种）图版28：19-23**
+
+Sedum tsiangii Frod. var. tsiangii
+
+一年生草本，无毛。花茎近直立，高10-15厘米，下部或中部以上分枝。叶互生或基部兼轮生，倒披针形，长10-15毫米，有短钝距，先端近钝形，疏生乳头状突起。花序疏伞房状，有少数花；苞片近倒卵形。花为不等的五基数，有短梗；萼片披针形或线形，不等长，长3.5-4.2毫米，无距，先端近钝，有乳头状突起；花瓣黄色，长圆形，长4.5-5毫米，微合生或离生，先端有突尖头；雄蕊10，2轮，内轮的生于距花瓣基部0.5-1.2毫米处，长1.8-2.2毫米；鳞片方形，长0.5毫米，中部略收缩，先端截平；心皮直立，近卵形，长3.5-4.5毫米，合生0.8-1.2毫米，具短花柱，有多数胚珠，胎座线形。种子卵圆形，长0.5毫米，有乳头状突起。花期9-10月，果期10-11月。
+
+产贵州西部（水城、赫章）、云南东北部（镇雄）。生于山坡岩石或悬崖上，海拔483-2700米。模式标本采自贵州水城。
+
+本种和钝萼景天S. leblancae Hamet 二者的各部性状很近似，可能是同种，但因目前掌握的标本不多，故暂不予以合并。
+**72b．珠节景天（变种，改隶新组合）钝萼景天短柱变种（植物分类学报）**
+
+Sedum tsiangii Frod. var. torquatum (Frod.) K. T. Fu, transl. nov. ——S. leblancae Hamet var. torquatum Frod. in Acta Hort. Gothob. 6. Append.: 76. f. 592-598. 1931; 傅坤俊, 植物分类学报12: 73. 1974.
+
+叶全为3-4数轮生；苞片3片，不等大；花瓣宽卵形；鳞片线状匙形等。
+
+产云南（富宁）。生于山坡岩石上，海拔2550米。模式标本采自云南。
+
+### 下级分类
+* [珠节景天  Sedum tsiangii var. torquatum](http://www.iplant.cn/info/Sedum tsiangii var. torquatum?t=z)
+* [安龙景天（原变种）  Sedum tsiangii var. tsiangii](http://www.iplant.cn/info/Sedum tsiangii var. tsiangii?t=z)
+
+### 下级分类
+* [珠节景天  Sedum tsiangii var. torquatum](http://iplant.cn/info/sp/Sedum tsiangii var. torquatum?t=z)
+* [安龙景天（原变种）  Sedum tsiangii var. tsiangii](http://iplant.cn/info/sp/Sedum tsiangii var. tsiangii?t=z)

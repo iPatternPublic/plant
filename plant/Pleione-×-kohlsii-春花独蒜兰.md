@@ -1,0 +1,30 @@
+春花独蒜兰 **Pleione ×kohlsii**
+
+> [Orchidaceae](http://www.iplant.cn/info/Orchidaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Orchidaceae.pdf) >> [Pleione](http://www.iplant.cn/info/Pleione?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Pleione.pdf)
+
+### Parsublist
+
+* [P.  ×christianii  滇西独蒜兰](http://www.iplant.cn/info/Pleione ×christianii?t=foc)
+* [P.  ×confusa  芳香独蒜兰](http://www.iplant.cn/info/Pleione ×confusa?t=foc)
+* [P.  ×taliensis  大理独蒜兰](http://www.iplant.cn/info/Pleione ×taliensis?t=foc)
+* [P.  albiflora  白花独蒜兰](http://www.iplant.cn/info/Pleione albiflora?t=foc)
+* [P.  aurita  艳花独蒜兰](http://www.iplant.cn/info/Pleione aurita?t=foc)
+* [P.  autumnalis  长颈独蒜兰](http://www.iplant.cn/info/Pleione autumnalis?t=foc)
+* [P.  bulbocodioides  独蒜兰](http://www.iplant.cn/info/Pleione bulbocodioides?t=foc)
+* [P.  chunii  陈氏独蒜兰](http://www.iplant.cn/info/Pleione chunii?t=foc)
+* [P.  formosana  台湾独蒜兰](http://www.iplant.cn/info/Pleione formosana?t=foc)
+* [P.  forrestii  黄花独蒜兰](http://www.iplant.cn/info/Pleione forrestii?t=foc)
+* [P.  forrestii var. alba  白瓣独蒜兰](http://www.iplant.cn/info/Pleione forrestii var. alba?t=foc)
+* [P.  forrestii var. forrestii  黄花独蒜兰(原变种)](http://www.iplant.cn/info/Pleione forrestii var. forrestii?t=foc)
+* [P.  grandiflora  大花独蒜兰](http://www.iplant.cn/info/Pleione grandiflora?t=foc)
+* [P.  hookeriana  毛唇独蒜兰](http://www.iplant.cn/info/Pleione hookeriana?t=foc)
+* [P.  humilis  矮小独蒜兰](http://www.iplant.cn/info/Pleione humilis?t=foc)
+* [P.  kaatiae  卡氏独蒜兰](http://www.iplant.cn/info/Pleione kaatiae?t=foc)
+* [P.  limprichtii  四川独蒜兰](http://www.iplant.cn/info/Pleione limprichtii?t=foc)
+* [P.  maculata  秋花独蒜兰](http://www.iplant.cn/info/Pleione maculata?t=foc)
+* [P.  microphylla  小叶独蒜兰](http://www.iplant.cn/info/Pleione microphylla?t=foc)
+* [P.  pleionoides  美丽独蒜兰](http://www.iplant.cn/info/Pleione pleionoides?t=foc)
+* [P.  praecox  疣鞘独蒜兰](http://www.iplant.cn/info/Pleione praecox?t=foc)
+* [P.  saxicola  岩生独蒜兰](http://www.iplant.cn/info/Pleione saxicola?t=foc)
+* [P.  scopulorum  二叶独蒜兰](http://www.iplant.cn/info/Pleione scopulorum?t=foc)
+* [P.  yunnanensis  云南独蒜兰](http://www.iplant.cn/info/Pleione yunnanensis?t=foc)

@@ -1,0 +1,163 @@
+菩提树 **Ficus religiosa** Linnaeus
+
+> [Moraceae](http://www.iplant.cn/info/Moraceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Moraceae.pdf) >> [Ficus](http://www.iplant.cn/info/Ficus?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Ficus.pdf)
+
+## Description
+
+Trees, 15-25 m tall, d.b.h. 30-50 cm, epiphytic when young, crown wide when mature. Bark gray, smooth or longitudinally ± fissured. Branchlets grayish brown, sparsely pubescent when young. Stipules ovate, small, apex acute. Petiole slender, as long as or longer than leaf blade, articulate; leaf blade triangular-ovate, 9-17 × 8-12 cm, leathery, abaxially green, adaxially dark green and shiny, base broadly cuneate to ± cordate, margin entire or undulate, apex acute to caudate with a 2-5 cm cauda; basal lateral veins 2, secondary veins 5-7 on each side of midvein. Figs axillary on leafy branchlets, paired or solitary, red when mature, globose to depressed globose, 1-1.5 cm in diam., smooth; peduncle 4-9 mm; involucral bracts ovate. Male, gall, and female flowers within same fig. Male flowers: few, near apical pore, sessile; calyx 2- or 3-lobed, margin revolute; stamen 1; filament short. Gall flowers: pedicellate; calyx 3- or 4-lobed; ovary globose, smooth; style short; stigma enlarged, 2-lobed. Female flowers: sessile; calyx 4-lobed, broadly lanceolate; ovary globose, smooth; style thin; stigma narrow. Fl. Mar-Apr, fr. May-Jun.
+
+> **Habait** : 
+> Cultivated. Guangdong, Guangxi, S Yunnan [native to N India, Nepal, and Pakistan; cultivated throughout the tropics].
+
+### Synonym
+*Urostigma* *religiosum* (Linnaeus) Gasparrini.
+
+### Parsublist
+
+* [F.  abelii  石榕树](http://www.iplant.cn/info/Ficus abelii?t=foc)
+* [F.  altissima  高山榕](http://www.iplant.cn/info/Ficus altissima?t=foc)
+* [F.  ampelos  菲律宾榕](http://www.iplant.cn/info/Ficus ampelos?t=foc)
+* [F.  annulata  环纹榕](http://www.iplant.cn/info/Ficus annulata?t=foc)
+* [F.  aurantiaca  橙黄榕](http://www.iplant.cn/info/Ficus aurantiaca?t=foc)
+* [F.  auriculata  大果榕](http://www.iplant.cn/info/Ficus auriculata?t=foc)
+* [F.  beipeiensis  北碚榕](http://www.iplant.cn/info/Ficus beipeiensis?t=foc)
+* [F.  benguetensis  黄果榕](http://www.iplant.cn/info/Ficus benguetensis?t=foc)
+* [F.  benjamina var. benjamina  垂叶榕(原变种)](http://www.iplant.cn/info/Ficus benjamina var. benjamina?t=foc)
+* [F.  benjamina var. nuda  丛毛垂叶榕](http://www.iplant.cn/info/Ficus benjamina var. nuda?t=foc)
+* [F.  callosa  硬皮榕](http://www.iplant.cn/info/Ficus callosa?t=foc)
+* [F.  cardiophylla  龙州榕](http://www.iplant.cn/info/Ficus cardiophylla?t=foc)
+* [F.  carica  无花果](http://www.iplant.cn/info/Ficus carica?t=foc)
+* [F.  caulocarpa  大叶赤榕](http://www.iplant.cn/info/Ficus caulocarpa?t=foc)
+* [F.  chapaensis  沙坝榕](http://www.iplant.cn/info/Ficus chapaensis?t=foc)
+* [F.  chartacea  纸叶榕](http://www.iplant.cn/info/Ficus chartacea?t=foc)
+* [F.  chartacea var. chartacea  纸叶榕(原变种)](http://www.iplant.cn/info/Ficus chartacea var. chartacea?t=foc)
+* [F.  chartacea var. torulosa  无柄纸叶榕](http://www.iplant.cn/info/Ficus chartacea var. torulosa?t=foc)
+* [F.  concinna  雅榕](http://www.iplant.cn/info/Ficus concinna?t=foc)
+* [F.  cumingii  糙毛榕](http://www.iplant.cn/info/Ficus cumingii?t=foc)
+* [F.  curtipes  钝叶榕](http://www.iplant.cn/info/Ficus curtipes?t=foc)
+* [F.  cyrtophylla  歪叶榕](http://www.iplant.cn/info/Ficus cyrtophylla?t=foc)
+* [F.  daimingshanensis  大明山榕](http://www.iplant.cn/info/Ficus daimingshanensis?t=foc)
+* [F.  dinganensis  定安榕](http://www.iplant.cn/info/Ficus dinganensis?t=foc)
+* [F.  drupacea  枕果榕](http://www.iplant.cn/info/Ficus drupacea?t=foc)
+* [F.  drupacea var. drupacea  枕果榕(原变种)zhen](http://www.iplant.cn/info/Ficus drupacea var. drupacea?t=foc)
+* [F.  drupacea var. pubescens  毛枕果榕](http://www.iplant.cn/info/Ficus drupacea var. pubescens?t=foc)
+* [F.  elastica  印度榕](http://www.iplant.cn/info/Ficus elastica?t=foc)
+* [F.  erecta  矮小天仙果](http://www.iplant.cn/info/Ficus erecta?t=foc)
+* [F.  esquiroliana  黄毛榕](http://www.iplant.cn/info/Ficus esquiroliana?t=foc)
+* [F.  filicauda  线尾榕](http://www.iplant.cn/info/Ficus filicauda?t=foc)
+* [F.  filicauda var. filicauda  线尾榕(原变种)](http://www.iplant.cn/info/Ficus filicauda var. filicauda?t=foc)
+* [F.  filicauda var. longipes  长柄线尾榕](http://www.iplant.cn/info/Ficus filicauda var. longipes?t=foc)
+* [F.  fistulosa  水同木](http://www.iplant.cn/info/Ficus fistulosa?t=foc)
+* [F.  formosana  台湾榕](http://www.iplant.cn/info/Ficus formosana?t=foc)
+* [F.  fulva  金毛榕](http://www.iplant.cn/info/Ficus fulva?t=foc)
+* [F.  fusuiensis  扶绥榕](http://www.iplant.cn/info/Ficus fusuiensis?t=foc)
+* [F.  gasparriniana  冠毛榕](http://www.iplant.cn/info/Ficus gasparriniana?t=foc)
+* [F.  gasparriniana var. esquirolii  长叶冠毛榕](http://www.iplant.cn/info/Ficus gasparriniana var. esquirolii?t=foc)
+* [F.  gasparriniana var. gasparriniana  冠毛榕(原变种)](http://www.iplant.cn/info/Ficus gasparriniana var. gasparriniana?t=foc)
+* [F.  gasparriniana var. laceratifolia  菱叶冠毛榕](http://www.iplant.cn/info/Ficus gasparriniana var. laceratifolia?t=foc)
+* [F.  geniculata  曲枝榕](http://www.iplant.cn/info/Ficus geniculata?t=foc)
+* [F.  glaberrima  大叶水榕](http://www.iplant.cn/info/Ficus glaberrima?t=foc)
+* [F.  guangxiensis  广西榕](http://www.iplant.cn/info/Ficus guangxiensis?t=foc)
+* [F.  guizhouensis  贵州榕](http://www.iplant.cn/info/Ficus guizhouensis?t=foc)
+* [F.  hederacea  藤榕](http://www.iplant.cn/info/Ficus hederacea?t=foc)
+* [F.  henryi  尖叶榕](http://www.iplant.cn/info/Ficus henryi?t=foc)
+* [F.  heteromorpha  异叶榕](http://www.iplant.cn/info/Ficus heteromorpha?t=foc)
+* [F.  heterophylla  山榕](http://www.iplant.cn/info/Ficus heterophylla?t=foc)
+* [F.  heteropleura  尾叶榕](http://www.iplant.cn/info/Ficus heteropleura?t=foc)
+* [F.  hirta  粗叶榕](http://www.iplant.cn/info/Ficus hirta?t=foc)
+* [F.  hispida  对叶榕](http://www.iplant.cn/info/Ficus hispida?t=foc)
+* [F.  hookeriana  大青树](http://www.iplant.cn/info/Ficus hookeriana?t=foc)
+* [F.  irisana  糙叶榕](http://www.iplant.cn/info/Ficus irisana?t=foc)
+* [F.  ischnopoda  壶托榕](http://www.iplant.cn/info/Ficus ischnopoda?t=foc)
+* [F.  kurzii  滇缅榕](http://www.iplant.cn/info/Ficus kurzii?t=foc)
+* [F.  laevis  光叶榕](http://www.iplant.cn/info/Ficus laevis?t=foc)
+* [F.  langkokensis  青藤公](http://www.iplant.cn/info/Ficus langkokensis?t=foc)
+* [F.  maclellandii  瘤枝榕](http://www.iplant.cn/info/Ficus maclellandii?t=foc)
+* [F.  microcarpa  榕树](http://www.iplant.cn/info/Ficus microcarpa?t=foc)
+* [F.  napoensis  那坡榕](http://www.iplant.cn/info/Ficus napoensis?t=foc)
+* [F.  neriifolia  森林榕](http://www.iplant.cn/info/Ficus neriifolia?t=foc)
+* [F.  nervosa  九丁榕](http://www.iplant.cn/info/Ficus nervosa?t=foc)
+* [F.  oligodon  苹果榕](http://www.iplant.cn/info/Ficus oligodon?t=foc)
+* [F.  orthoneura  直脉榕](http://www.iplant.cn/info/Ficus orthoneura?t=foc)
+* [F.  ovatifolia  卵叶榕](http://www.iplant.cn/info/Ficus ovatifolia?t=foc)
+* [F.  pandurata  琴叶榕](http://www.iplant.cn/info/Ficus pandurata?t=foc)
+* [F.  pedunculosa  蔓榕](http://www.iplant.cn/info/Ficus pedunculosa?t=foc)
+* [F.  pisocarpa  豆果榕](http://www.iplant.cn/info/Ficus pisocarpa?t=foc)
+* [F.  polynervis  多脉榕](http://www.iplant.cn/info/Ficus polynervis?t=foc)
+* [F.  praetermissa  钩毛榕](http://www.iplant.cn/info/Ficus praetermissa?t=foc)
+* [F.  prostrata  平枝榕](http://www.iplant.cn/info/Ficus prostrata?t=foc)
+* [F.  pubigera  褐叶榕](http://www.iplant.cn/info/Ficus pubigera?t=foc)
+* [F.  pubigera var. anserina  鳞果褐叶榕](http://www.iplant.cn/info/Ficus pubigera var. anserina?t=foc)
+* [F.  pubigera var. maliformis  大果褐叶榕](http://www.iplant.cn/info/Ficus pubigera var. maliformis?t=foc)
+* [F.  pubigera var. pubigera  褐叶榕(原变种)](http://www.iplant.cn/info/Ficus pubigera var. pubigera?t=foc)
+* [F.  pubigera var. reticulata  网果褐叶榕](http://www.iplant.cn/info/Ficus pubigera var. reticulata?t=foc)
+* [F.  pubilimba  球果山榕](http://www.iplant.cn/info/Ficus pubilimba?t=foc)
+* [F.  pubinervis  绿岛榕](http://www.iplant.cn/info/Ficus pubinervis?t=foc)
+* [F.  pumila  薜荔](http://www.iplant.cn/info/Ficus pumila?t=foc)
+* [F.  pumila var. awkeotsang  爱玉子](http://www.iplant.cn/info/Ficus pumila var. awkeotsang?t=foc)
+* [F.  pumila var. pumila  薜荔(原变种)](http://www.iplant.cn/info/Ficus pumila var. pumila?t=foc)
+* [F.  pyriformis  舶梨榕](http://www.iplant.cn/info/Ficus pyriformis?t=foc)
+* [F.  racemosa  聚果榕](http://www.iplant.cn/info/Ficus racemosa?t=foc)
+* [F.  racemosa var. miquelli  柔毛聚果榕](http://www.iplant.cn/info/Ficus racemosa var. miquelli?t=foc)
+* [F.  racemosa var. racemosa  聚果榕(原变种)](http://www.iplant.cn/info/Ficus racemosa var. racemosa?t=foc)
+* [F.  ruficaulis  红茎榕](http://www.iplant.cn/info/Ficus ruficaulis?t=foc)
+* [F.  rumphii  心叶榕](http://www.iplant.cn/info/Ficus rumphii?t=foc)
+* [F.  ruyuanensis  乳源榕](http://www.iplant.cn/info/Ficus ruyuanensis?t=foc)
+* [F.  sagittata  羊乳榕](http://www.iplant.cn/info/Ficus sagittata?t=foc)
+* [F.  sarmentosa  匍茎榕](http://www.iplant.cn/info/Ficus sarmentosa?t=foc)
+* [F.  sarmentosa var. duclouxii  大果藤爬榕](http://www.iplant.cn/info/Ficus sarmentosa var. duclouxii?t=foc)
+* [F.  sarmentosa var. henryi  珍珠莲](http://www.iplant.cn/info/Ficus sarmentosa var. henryi?t=foc)
+* [F.  sarmentosa var. impressa  爬藤榕](http://www.iplant.cn/info/Ficus sarmentosa var. impressa?t=foc)
+* [F.  sarmentosa var. lacrymans  尾尖爬藤榕](http://www.iplant.cn/info/Ficus sarmentosa var. lacrymans?t=foc)
+* [F.  sarmentosa var. luducca  长柄爬藤榕](http://www.iplant.cn/info/Ficus sarmentosa var. luducca?t=foc)
+* [F.  sarmentosa var. nipponica  白背爬藤榕](http://www.iplant.cn/info/Ficus sarmentosa var. nipponica?t=foc)
+* [F.  sarmentosa var. sarmentosa  匍茎榕(原变种)](http://www.iplant.cn/info/Ficus sarmentosa var. sarmentosa?t=foc)
+* [F.  sarmentosa var. thunbergii  少脉爬藤榕](http://www.iplant.cn/info/Ficus sarmentosa var. thunbergii?t=foc)
+* [F.  semicordata  鸡嗉子榕](http://www.iplant.cn/info/Ficus semicordata?t=foc)
+* [F.  septica  棱果榕](http://www.iplant.cn/info/Ficus septica?t=foc)
+* [F.  simplicissima  极简榕](http://www.iplant.cn/info/Ficus simplicissima?t=foc)
+* [F.  sinociliata  缘毛榕](http://www.iplant.cn/info/Ficus sinociliata?t=foc)
+* [F.  squamosa  肉托榕](http://www.iplant.cn/info/Ficus squamosa?t=foc)
+* [F.  stenophylla  竹叶榕](http://www.iplant.cn/info/Ficus stenophylla?t=foc)
+* [F.  stricta  劲直榕](http://www.iplant.cn/info/Ficus stricta?t=foc)
+* [F.  subincisa  棒果榕](http://www.iplant.cn/info/Ficus subincisa?t=foc)
+* [F.  subpisocarpa  笔管榕](http://www.iplant.cn/info/Ficus subpisocarpa?t=foc)
+* [F.  subulata  假斜叶榕](http://www.iplant.cn/info/Ficus subulata?t=foc)
+* [F.  tannoensis  滨榕](http://www.iplant.cn/info/Ficus tannoensis?t=foc)
+* [F.  tikoua  地果](http://www.iplant.cn/info/Ficus tikoua?t=foc)
+* [F.  tinctoria  梁料榕](http://www.iplant.cn/info/Ficus tinctoria?t=foc)
+* [F.  tinctoria subsp. gibbosa  斜叶榕](http://www.iplant.cn/info/Ficus tinctoria subsp. gibbosa?t=foc)
+* [F.  tinctoria subsp. swinhoei  匍匐斜叶榕](http://www.iplant.cn/info/Ficus tinctoria subsp. swinhoei?t=foc)
+* [F.  tinctoria subsp. tinctoria  梁料榕(原亚种)](http://www.iplant.cn/info/Ficus tinctoria subsp. tinctoria?t=foc)
+* [F.  trichocarpa Blume var. obtusa  钝叶毛果榕](http://www.iplant.cn/info/Ficus trichocarpa Blume var. obtusa?t=foc)
+* [F.  trivia  楔叶榕](http://www.iplant.cn/info/Ficus trivia?t=foc)
+* [F.  trivia var. laevigata  光叶楔叶榕](http://www.iplant.cn/info/Ficus trivia var. laevigata?t=foc)
+* [F.  trivia var. trivia  楔叶榕(原变种)](http://www.iplant.cn/info/Ficus trivia var. trivia?t=foc)
+* [F.  tsiangii  岩木瓜](http://www.iplant.cn/info/Ficus tsiangii?t=foc)
+* [F.  tuphapensis  平塘榕](http://www.iplant.cn/info/Ficus tuphapensis?t=foc)
+* [F.  undulata  波缘榕](http://www.iplant.cn/info/Ficus undulata?t=foc)
+* [F.  vaccinioides  越桔榕](http://www.iplant.cn/info/Ficus vaccinioides?t=foc)
+* [F.  variegata  杂色榕](http://www.iplant.cn/info/Ficus variegata?t=foc)
+* [F.  variolosa  变叶榕](http://www.iplant.cn/info/Ficus variolosa?t=foc)
+* [F.  vasculosa  白肉榕](http://www.iplant.cn/info/Ficus vasculosa?t=foc)
+* [F.  virens  黄葛树](http://www.iplant.cn/info/Ficus virens?t=foc)
+* [F.  virgata  岛榕](http://www.iplant.cn/info/Ficus virgata?t=foc)
+* [F.  yunnanensis  云南榕](http://www.iplant.cn/info/Ficus yunnanensis?t=foc)
+
+## 中国植物志
+
+> * [龙州榕  F.  cardiophylla](http://www.iplant.cn/info/Ficus cardiophylla?t=z)
+
+**菩提树 Ficus religiosa",
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第23(1)卷](http://www.iplant.cn/frps/vol/23(1)) >> 097页 [PDF](http://www.iplant.cn/frps/pdf/23(1)/097b.pdf)
+
+**6.菩提树（植物名实图考引通志）思维树（群芳谱）图版19：1-2**
+
+Ficus religiosa Linn. Sp. Pl. 1059. 1753; Miq. Fl. Ind. Bat. 1 (2): 333. 1859; King in Ann. Bot. Gard. Calcutta 1: 55, t. 67. 1888; Hook. f. Fl. Brit. Ind. 5: 513. 1888; Ridl., Fl. Mal. Penin. 3: 937. 1924; Gagnep. in Lecomte, Fl. Gen. Indo-Chine 5: 767. 1928; 陈嵘, 中国树木分类学237. 1937; Corner in Gard. Bull. Sing. 17: 371. 1959; in Dansk Bot. Ark. 23 (1): 28. 1963; et in Gard. Bull. Sing. 21: 6. 1965; Liu, Ill. Nat. Intr. Lign. Pl. Taiwan 2: 735, f. 589. 1962; 中国高等植物图鉴1: 486. f. 971. 1972; Terasaki, Ill. Fl. Japan. ed.: 128, f. 494. 1979; Yamazaki in Journ. Phytogergr. Taxon: 4. 1983; Griers. et Long, Fl. Bhutan 1 (1): 94. 1983; H. Koba et al., Nam. List Fl. Pl. Gymnosp. Nepal 212. 1994; Nguyen T. Hiep in Tap chi SINH HOC 16 (4) : 62. 1994. ——Urostigma religiosum (Linn. ) Gasp. Fic. 82, t. 7. 1844.
+
+大乔木，幼时附生于其他树上，高达15-25米，胸径30-50厘米；树皮灰色，平滑或微具纵纹，冠幅广展；小枝灰褐色，幼时被微柔毛。叶革质，三角状卵形，长9-17厘米，宽8-12厘米，表面深绿色，光亮，背面绿色，先端骤尖，顶部延伸为尾状，尾尖长2-5厘米，基部宽截形至浅心形，全缘或为波状，基生叶脉三出，侧脉5-7对；叶柄纤细，有关节，与叶片等长或长于叶片；托叶小，卵形，先端急尖。榕果球形至扁球形，直径1-1.5厘米，成熟时红色，光滑；基生苞片3，卵圆形；总梗长约4-9毫米；雄花，瘿花和雌花生于同一榕果内壁；雄花少，生于近口部，无柄，花被2-3裂，内卷，雄蕊1枚，花丝短；瘿花具柄，花被3-4裂，子房光滑，球形，花柱短，柱头膨大，2裂；雌花无柄，花被片4，宽披针形，子房光滑，球形。花柱纤细，柱头狭窄。花期3-4月，果期5-6月。
+
+广东（沿海岛屿）、广西、云南（北至景东，海拔400-630米）多为栽培。日本、马来西亚、泰国、越南、不丹、锡金、尼泊尔、巴基斯坦及印度也有分布，多属栽培，但喜马拉雅山区，从巴基斯坦拉瓦尔品第至不丹均有野生。
+
+}

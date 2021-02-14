@@ -1,0 +1,196 @@
+堇色早熟禾 c.**Poa araratica subsp. ianthina** (Keng ex Shan Chen) Olonova & G. Zhu
+
+> [Poaceae](http://www.iplant.cn/info/Poaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Poaceae.pdf) >> [Poa](http://www.iplant.cn/info/Poa?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Poa.pdf)
+![Poa araratica subsp. ianthina](http://www.iplant.cn/foc/illast/Poa araratica subsp. ianthina.jpg)
+
+
+> **Comment** : 
+> The protologue of *Poa sinoglauca* reported the lemma to be pubescent on the intermediate veins. The type proved to have the lemma quite frequently pubescent both on the intermediate veins and on the area between the veins, and thus it is a better match with *P. araratica* subsp. *ianthina*.
+
+## Description
+
+Ligule 1–3 mm. Lemma keel shortly villous for 1/2 of length, marginal veins for 1/3, areas between veins pubescent; callus webbed or glabrous.
+
+
+> **Habait** : 
+>* Open grassy slopes, subalpine forest margins; 3300–4200 m. Gansu, Hebei, Nei Mongol, Qinghai, Shanxi, Sichuan, Xinjiang, Xizang, Yunnan.
+
+### Synonym
+Basionym: *Poa ianthina* Keng ex Shan Chen in Ma et al., Fl. Intramongol. 7: 260. 1983; *P. sinoglauca* Ohwi.
+
+
+### Parsublist
+
+* [P.  acroleuca  白顶早熟禾](http://www.iplant.cn/info/Poa acroleuca?t=foc)
+* [P.  acroleuca var. acroleuca  白顶早熟禾(原变种)](http://www.iplant.cn/info/Poa acroleuca var. acroleuca?t=foc)
+* [P.  acroleuca var. ryukyuensis  如昆早熟禾](http://www.iplant.cn/info/Poa acroleuca var. ryukyuensis?t=foc)
+* [P.  albertii  阿拉套早熟禾](http://www.iplant.cn/info/Poa albertii?t=foc)
+* [P.  albertii subsp. albertii  阿拉套早熟禾(原亚种)](http://www.iplant.cn/info/Poa albertii subsp. albertii?t=foc)
+* [P.  albertii subsp. arnoldii  阿诺早熟禾](http://www.iplant.cn/info/Poa albertii subsp. arnoldii?t=foc)
+* [P.  albertii subsp. kunlunensis  高寒早熟禾](http://www.iplant.cn/info/Poa albertii subsp. kunlunensis?t=foc)
+* [P.  albertii subsp. lahulensis  拉哈尔早熟禾](http://www.iplant.cn/info/Poa albertii subsp. lahulensis?t=foc)
+* [P.  albertii subsp. poophagorum  波伐早熟禾](http://www.iplant.cn/info/Poa albertii subsp. poophagorum?t=foc)
+* [P.  alpina  高山早熟禾](http://www.iplant.cn/info/Poa alpina?t=foc)
+* [P.  alta  高株早熟禾](http://www.iplant.cn/info/Poa alta?t=foc)
+* [P.  annua  早熟禾](http://www.iplant.cn/info/Poa annua?t=foc)
+* [P.  araratica  阿洼早熟禾](http://www.iplant.cn/info/Poa araratica?t=foc)
+* [P.  araratica subsp. altior  高阿洼早熟禾](http://www.iplant.cn/info/Poa araratica subsp. altior?t=foc)
+* [P.  araratica subsp. araratica  阿洼早熟禾(原亚种)](http://www.iplant.cn/info/Poa araratica subsp. araratica?t=foc)
+* [P.  araratica subsp. oligophylla  贫叶早熟禾](http://www.iplant.cn/info/Poa araratica subsp. oligophylla?t=foc)
+* [P.  araratica subsp. psilolepis  光稃早熟禾](http://www.iplant.cn/info/Poa araratica subsp. psilolepis?t=foc)
+* [P.  arctica subsp. caespitans  极地早熟禾](http://www.iplant.cn/info/Poa arctica subsp. caespitans?t=foc)
+* [P.  asperifolia  糙叶早熟禾](http://www.iplant.cn/info/Poa asperifolia?t=foc)
+* [P.  attenuata  渐尖早熟禾](http://www.iplant.cn/info/Poa attenuata?t=foc)
+* [P.  attenuata var. attenuata  渐尖早熟禾(原变种)](http://www.iplant.cn/info/Poa attenuata var. attenuata?t=foc)
+* [P.  attenuata var. dahurica  达呼里早熟禾](http://www.iplant.cn/info/Poa attenuata var. dahurica?t=foc)
+* [P.  bactriana  荒漠早熟禾](http://www.iplant.cn/info/Poa bactriana?t=foc)
+* [P.  bactriana subsp. bactriana  荒漠早熟禾(原亚种)](http://www.iplant.cn/info/Poa bactriana subsp. bactriana?t=foc)
+* [P.  bactriana subsp. glabriflora  光滑早熟禾](http://www.iplant.cn/info/Poa bactriana subsp. glabriflora?t=foc)
+* [P.  binodis  双节早熟禾](http://www.iplant.cn/info/Poa binodis?t=foc)
+* [P.  bomiensis  波密早熟禾](http://www.iplant.cn/info/Poa bomiensis?t=foc)
+* [P.  bucharica  布查早熟禾](http://www.iplant.cn/info/Poa bucharica?t=foc)
+* [P.  bucharica subsp. bucharica  布查早熟禾(原亚种)](http://www.iplant.cn/info/Poa bucharica subsp. bucharica?t=foc)
+* [P.  bucharica subsp. karateginensis  卡拉蒂早熟禾](http://www.iplant.cn/info/Poa bucharica subsp. karateginensis?t=foc)
+* [P.  bulbosa  鳞茎早熟禾](http://www.iplant.cn/info/Poa bulbosa?t=foc)
+* [P.  bulbosa subsp. bulbosa  鳞茎早熟禾(原亚种)](http://www.iplant.cn/info/Poa bulbosa subsp. bulbosa?t=foc)
+* [P.  bulbosa subsp. nevskii  尼氏早熟禾](http://www.iplant.cn/info/Poa bulbosa subsp. nevskii?t=foc)
+* [P.  bulbosa subsp. vivipara  胎生鳞茎早熟禾](http://www.iplant.cn/info/Poa bulbosa subsp. vivipara?t=foc)
+* [P.  burmanica  缅甸早熟禾](http://www.iplant.cn/info/Poa burmanica?t=foc)
+* [P.  calliopsis  花丽早熟禾](http://www.iplant.cn/info/Poa calliopsis?t=foc)
+* [P.  compressa  加拿大早熟禾](http://www.iplant.cn/info/Poa compressa?t=foc)
+* [P.  diaphora  阿尔泰旱禾](http://www.iplant.cn/info/Poa diaphora?t=foc)
+* [P.  diaphora subsp. diaphora  阿尔泰旱禾(原亚种)](http://www.iplant.cn/info/Poa diaphora subsp. diaphora?t=foc)
+* [P.  diaphora subsp. oxyglumis  旱禾](http://www.iplant.cn/info/Poa diaphora subsp. oxyglumis?t=foc)
+* [P.  dzongicola  雅江早熟禾](http://www.iplant.cn/info/Poa dzongicola?t=foc)
+* [P.  eleanorae  易乐早熟禾](http://www.iplant.cn/info/Poa eleanorae?t=foc)
+* [P.  faberi  法氏早熟禾](http://www.iplant.cn/info/Poa faberi?t=foc)
+* [P.  faberi var. faberi  法氏早熟禾(原变种)](http://www.iplant.cn/info/Poa faberi var. faberi?t=foc)
+* [P.  faberi var. ligulata  尖舌早熟禾](http://www.iplant.cn/info/Poa faberi var. ligulata?t=foc)
+* [P.  faberi var. longifolia  毛颖早熟禾](http://www.iplant.cn/info/Poa faberi var. longifolia?t=foc)
+* [P.  falconeri  福克纳早熟禾](http://www.iplant.cn/info/Poa falconeri?t=foc)
+* [P.  gammieana  茛密早熟禾](http://www.iplant.cn/info/Poa gammieana?t=foc)
+* [P.  glauca  灰早熟禾](http://www.iplant.cn/info/Poa glauca?t=foc)
+* [P.  glauca subsp. altaica  阿尔泰早熟禾](http://www.iplant.cn/info/Poa glauca subsp. altaica?t=foc)
+* [P.  glauca subsp. glauca  灰早熟禾(原亚种)](http://www.iplant.cn/info/Poa glauca subsp. glauca?t=foc)
+* [P.  grandis  阔叶早熟禾](http://www.iplant.cn/info/Poa grandis?t=foc)
+* [P.  himalayana  史蒂瓦早熟禾](http://www.iplant.cn/info/Poa himalayana?t=foc)
+* [P.  hirtiglumis  毛花早熟禾](http://www.iplant.cn/info/Poa hirtiglumis?t=foc)
+* [P.  hirtiglumis var. hirtiglumis  毛花早熟禾(原变种)](http://www.iplant.cn/info/Poa hirtiglumis var. hirtiglumis?t=foc)
+* [P.  hirtiglumis var. nimuana  尼木早熟禾](http://www.iplant.cn/info/Poa hirtiglumis var. nimuana?t=foc)
+* [P.  hisauchii  久内早熟禾](http://www.iplant.cn/info/Poa hisauchii?t=foc)
+* [P.  hissarica  希萨尔早熟禾](http://www.iplant.cn/info/Poa hissarica?t=foc)
+* [P.  hylobates  喜巴早熟禾](http://www.iplant.cn/info/Poa hylobates?t=foc)
+* [P.  imperialis  茁壮早熟禾](http://www.iplant.cn/info/Poa imperialis?t=foc)
+* [P.  infirma  低矮早熟禾](http://www.iplant.cn/info/Poa infirma?t=foc)
+* [P.  khasiana  喀斯早熟禾](http://www.iplant.cn/info/Poa khasiana?t=foc)
+* [P.  langtangensis  朗坦早熟禾](http://www.iplant.cn/info/Poa langtangensis?t=foc)
+* [P.  lapponica  拉扒早熟禾](http://www.iplant.cn/info/Poa lapponica?t=foc)
+* [P.  lapponica subsp. acmocalyx  尖颖早熟禾](http://www.iplant.cn/info/Poa lapponica subsp. acmocalyx?t=foc)
+* [P.  lapponica subsp. pilipes  毛轴早熟禾](http://www.iplant.cn/info/Poa lapponica subsp. pilipes?t=foc)
+* [P.  lhasaensis  江萨早熟禾](http://www.iplant.cn/info/Poa lhasaensis?t=foc)
+* [P.  lipskyi  疏穗早熟禾](http://www.iplant.cn/info/Poa lipskyi?t=foc)
+* [P.  lipskyi subsp. dschungarica  准噶尔早熟禾](http://www.iplant.cn/info/Poa lipskyi subsp. dschungarica?t=foc)
+* [P.  lipskyi subsp. lipskyi  疏穗早熟禾(原亚种)](http://www.iplant.cn/info/Poa lipskyi subsp. lipskyi?t=foc)
+* [P.  macroanthera  大药早熟禾](http://www.iplant.cn/info/Poa macroanthera?t=foc)
+* [P.  mairei  毛稃早熟禾](http://www.iplant.cn/info/Poa mairei?t=foc)
+* [P.  nankoensis  南湖大山早熟禾](http://www.iplant.cn/info/Poa nankoensis?t=foc)
+* [P.  nemoraliformis  林早熟禾](http://www.iplant.cn/info/Poa nemoraliformis?t=foc)
+* [P.  nemoralis  林地早熟禾](http://www.iplant.cn/info/Poa nemoralis?t=foc)
+* [P.  nemoralis var. nemoralis  林地早熟禾(原变种)](http://www.iplant.cn/info/Poa nemoralis var. nemoralis?t=foc)
+* [P.  nemoralis var. parca  疏穗林地早熟禾](http://www.iplant.cn/info/Poa nemoralis var. parca?t=foc)
+* [P.  nepalensis  尼泊尔早熟禾](http://www.iplant.cn/info/Poa nepalensis?t=foc)
+* [P.  nepalensis var. nepalensis  尼泊尔早熟禾(原变种)](http://www.iplant.cn/info/Poa nepalensis var. nepalensis?t=foc)
+* [P.  nepalensis var. nipponica  日本早熟禾](http://www.iplant.cn/info/Poa nepalensis var. nipponica?t=foc)
+* [P.  nitidespiculata  闪穗早熟禾](http://www.iplant.cn/info/Poa nitidespiculata?t=foc)
+* [P.  nubigena  云生早熟禾](http://www.iplant.cn/info/Poa nubigena?t=foc)
+* [P.  pagophila  曲枝早熟禾](http://www.iplant.cn/info/Poa pagophila?t=foc)
+* [P.  palustris  泽地早熟禾](http://www.iplant.cn/info/Poa palustris?t=foc)
+* [P.  perennis  宿生早熟禾](http://www.iplant.cn/info/Poa perennis?t=foc)
+* [P.  polycolea  多鞘早熟禾](http://www.iplant.cn/info/Poa polycolea?t=foc)
+* [P.  polyneuron  多脉早熟禾](http://www.iplant.cn/info/Poa polyneuron?t=foc)
+* [P.  pratensis  草地早熟禾](http://www.iplant.cn/info/Poa pratensis?t=foc)
+* [P.  pratensis subsp. alpigena  高原早熟禾](http://www.iplant.cn/info/Poa pratensis subsp. alpigena?t=foc)
+* [P.  pratensis subsp. angustifolia  细叶早熟禾](http://www.iplant.cn/info/Poa pratensis subsp. angustifolia?t=foc)
+* [P.  pratensis subsp. pratensis  草地早熟禾(原亚种)](http://www.iplant.cn/info/Poa pratensis subsp. pratensis?t=foc)
+* [P.  pratensis subsp. pruinosa  粉绿早熟禾](http://www.iplant.cn/info/Poa pratensis subsp. pruinosa?t=foc)
+* [P.  pratensis subsp. sergievskajae  色早熟禾](http://www.iplant.cn/info/Poa pratensis subsp. sergievskajae?t=foc)
+* [P.  pratensis subsp. staintonii  长稃早熟禾](http://www.iplant.cn/info/Poa pratensis subsp. staintonii?t=foc)
+* [P.  pratensis subsp. stenachyra  窄颖早熟禾](http://www.iplant.cn/info/Poa pratensis subsp. stenachyra?t=foc)
+* [P.  pseudamoena  拟早熟禾](http://www.iplant.cn/info/Poa pseudamoena?t=foc)
+* [P.  qinghaiensis  青海早熟禾](http://www.iplant.cn/info/Poa qinghaiensis?t=foc)
+* [P.  raduliformis  糙早熟禾](http://www.iplant.cn/info/Poa raduliformis?t=foc)
+* [P.  rajbhandarii  喜马拉雅早熟禾](http://www.iplant.cn/info/Poa rajbhandarii?t=foc)
+* [P.  remota  疏序早熟禾](http://www.iplant.cn/info/Poa remota?t=foc)
+* [P.  secunda subsp. juncifolia  巨早熟禾](http://www.iplant.cn/info/Poa secunda subsp. juncifolia?t=foc)
+* [P.  sibirica  西伯利亚早熟禾](http://www.iplant.cn/info/Poa sibirica?t=foc)
+* [P.  sibirica subsp. sibirica  西伯利亚早熟禾(原亚种)](http://www.iplant.cn/info/Poa sibirica subsp. sibirica?t=foc)
+* [P.  sibirica subsp. uralensis  显稃早熟禾](http://www.iplant.cn/info/Poa sibirica subsp. uralensis?t=foc)
+* [P.  sichotensis  西可早熟禾](http://www.iplant.cn/info/Poa sichotensis?t=foc)
+* [P.  sikkimensis  锡金早熟禾](http://www.iplant.cn/info/Poa sikkimensis?t=foc)
+* [P.  smirnowii  史米诺早熟禾](http://www.iplant.cn/info/Poa smirnowii?t=foc)
+* [P.  smirnowii subsp. mariae  美丽早熟禾](http://www.iplant.cn/info/Poa smirnowii subsp. mariae?t=foc)
+* [P.  smirnowii subsp. polozhiae  朴咯早熟禾](http://www.iplant.cn/info/Poa smirnowii subsp. polozhiae?t=foc)
+* [P.  smirnowii subsp. smirnowii  史米诺早熟禾(原亚种)](http://www.iplant.cn/info/Poa smirnowii subsp. smirnowii?t=foc)
+* [P.  sphondylodes  硬质早熟禾](http://www.iplant.cn/info/Poa sphondylodes?t=foc)
+* [P.  sphondylodes var. erikssonii  多叶早熟禾](http://www.iplant.cn/info/Poa sphondylodes var. erikssonii?t=foc)
+* [P.  sphondylodes var. macerrima  瘦弱早熟禾](http://www.iplant.cn/info/Poa sphondylodes var. macerrima?t=foc)
+* [P.  sphondylodes var. sphondylodes  硬质早熟禾(原变种)](http://www.iplant.cn/info/Poa sphondylodes var. sphondylodes?t=foc)
+* [P.  sphondylodes var. subtrivialis  大穗早熟禾](http://www.iplant.cn/info/Poa sphondylodes var. subtrivialis?t=foc)
+* [P.  stapfiana  斯塔夫早熟禾](http://www.iplant.cn/info/Poa stapfiana?t=foc)
+* [P.  subfastigiata  散穗早熟禾](http://www.iplant.cn/info/Poa subfastigiata?t=foc)
+* [P.  sunbisinii  孙必兴早熟禾](http://www.iplant.cn/info/Poa sunbisinii?t=foc)
+* [P.  supina  仰卧早熟禾](http://www.iplant.cn/info/Poa supina?t=foc)
+* [P.  szechuensis  四川早熟禾](http://www.iplant.cn/info/Poa szechuensis?t=foc)
+* [P.  szechuensis var. debilior  垂枝早熟禾](http://www.iplant.cn/info/Poa szechuensis var. debilior?t=foc)
+* [P.  szechuensis var. rossbergiana  罗氏早熟禾](http://www.iplant.cn/info/Poa szechuensis var. rossbergiana?t=foc)
+* [P.  szechuensis var. szechuensis  四川早熟禾(原变种)](http://www.iplant.cn/info/Poa szechuensis var. szechuensis?t=foc)
+* [P.  takasagomontana  高砂早熟禾](http://www.iplant.cn/info/Poa takasagomontana?t=foc)
+* [P.  tangii  唐氏早熟禾](http://www.iplant.cn/info/Poa tangii?t=foc)
+* [P.  tenuicula  细杆早熟禾](http://www.iplant.cn/info/Poa tenuicula?t=foc)
+* [P.  tibetica  西藏早熟禾](http://www.iplant.cn/info/Poa tibetica?t=foc)
+* [P.  tibetica var. aristulata  芒柱早熟禾](http://www.iplant.cn/info/Poa tibetica var. aristulata?t=foc)
+* [P.  tibetica var. tibetica  西藏早熟禾(原变种)](http://www.iplant.cn/info/Poa tibetica var. tibetica?t=foc)
+* [P.  timoleontis var. dshilgensis  季茛早熟禾](http://www.iplant.cn/info/Poa timoleontis var. dshilgensis?t=foc)
+* [P.  trivialis  普通早熟禾](http://www.iplant.cn/info/Poa trivialis?t=foc)
+* [P.  trivialis subsp. sylvicola  欧早熟禾](http://www.iplant.cn/info/Poa trivialis subsp. sylvicola?t=foc)
+* [P.  trivialis subsp. trivialis  普通早熟禾(原亚种)](http://www.iplant.cn/info/Poa trivialis subsp. trivialis?t=foc)
+* [P.  urssulensis  乌苏里早熟禾](http://www.iplant.cn/info/Poa urssulensis?t=foc)
+* [P.  urssulensis var. kanboensis  坎博早熟禾](http://www.iplant.cn/info/Poa urssulensis var. kanboensis?t=foc)
+* [P.  urssulensis var. korshunensis  柯顺早熟禾](http://www.iplant.cn/info/Poa urssulensis var. korshunensis?t=foc)
+* [P.  urssulensis var. urssulensis  乌苏里早熟禾(原变种)](http://www.iplant.cn/info/Poa urssulensis var. urssulensis?t=foc)
+* [P.  ussuriensis  乌苏早熟禾](http://www.iplant.cn/info/Poa ussuriensis?t=foc)
+* [P.  veresczaginii  薇早熟禾](http://www.iplant.cn/info/Poa veresczaginii?t=foc)
+* [P.  versicolor  变色早熟禾](http://www.iplant.cn/info/Poa versicolor?t=foc)
+* [P.  versicolor subsp. ochotensis  乌库早熟禾](http://www.iplant.cn/info/Poa versicolor subsp. ochotensis?t=foc)
+* [P.  versicolor subsp. orinosa  山地早熟禾](http://www.iplant.cn/info/Poa versicolor subsp. orinosa?t=foc)
+* [P.  versicolor subsp. relaxa  新疆早熟禾](http://www.iplant.cn/info/Poa versicolor subsp. relaxa?t=foc)
+* [P.  versicolor subsp. reverdattoi  瑞沃达早熟禾](http://www.iplant.cn/info/Poa versicolor subsp. reverdattoi?t=foc)
+* [P.  versicolor subsp. stepposa  低山早熟禾](http://www.iplant.cn/info/Poa versicolor subsp. stepposa?t=foc)
+* [P.  versicolor subsp. varia  多变早熟禾](http://www.iplant.cn/info/Poa versicolor subsp. varia?t=foc)
+* [P.  wardiana  瓦迪早熟禾](http://www.iplant.cn/info/Poa wardiana?t=foc)
+* [P.  x_schischkinii  希斯肯早熟禾](http://www.iplant.cn/info/Poa x_schischkinii?t=foc)
+* [P.  xingkaiensis  星早熟禾](http://www.iplant.cn/info/Poa xingkaiensis?t=foc)
+* [P.  zhongdianensis  中甸早熟禾](http://www.iplant.cn/info/Poa zhongdianensis?t=foc)
+
+
+## 中国植物志
+
+> * [阿洼早熟禾  P.  araratica](http://www.iplant.cn/info/Poa araratica?t=z)
+> * [额尔古纳早熟禾  P.  argunensis](http://www.iplant.cn/info/Poa argunensis?t=z)
+> * [阿尔金山早熟禾  P.  arjinsanensis](http://www.iplant.cn/info/Poa arjinsanensis?t=z)
+> * [渐尖早熟禾  P.  attenuata](http://www.iplant.cn/info/Poa attenuata?t=z)
+> * [短舌早熟禾  P.  breviligula](http://www.iplant.cn/info/Poa breviligula?t=z)
+
+  "morefrpsname": "您是否要找：<span class='spantxt'>[Poa ianthina](http://www.iplant.cn/info/Poa ianthina?t=z)  ",
+**华灰早熟禾 Poa sinoglauca**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第9(2)卷](http://www.iplant.cn/frps/vol/9(2)) >> 200页 [PDF](http://www.iplant.cn/frps/pdf/9(2)/200.pdf)
+**181．华灰早熟禾（禾本科图说）图版23：1**
+
+Poa sinoglauca Ohwi in Journ. Jap. Bot. 19: 169. 1943; 中国主要植物图说禾本科196, 图148. 1959; 横断山区维管植物2: 2197. 1994.
+
+多年生。秆丛生，直立，细长而较硬，高20-30厘米，具1-2节，顶节位于秆下部1/5处，花序以下长裸露，微粗糙。叶鞘平滑无毛，基部带红色，顶生叶鞘长7-10厘米；叶舌长2-2.5毫米；叶片稍内卷或扁平，长4-8厘米，宽1-1.5毫米。圆锥花序直立，狭窄，长4-6厘米，宽约1厘米；分枝孪生，长1-2厘米，基部密生小穗；小穗紫色，含2-3小花，长约5毫米；两颖近相等，长2.5-3毫米，顶端尖至渐尖，具3脉，脊上部粗糙，表面具点状粗糙；外稃长约3毫米，边缘狭膜质，5脉不明显，脉间有细点状粗糙，脊中部以下与边脉基部1/4有短柔毛，基盘具少量绵毛；内稃稍短于外稃，脊具小纤毛。花药长达2毫米。花期5-7月。
+
+产山西、河北、内蒙古、辽宁、吉林、四川。生于黄土高原山坡草地、河谷滩地，海拔2000-3300米。模式标本采自山西五台山。
+
+}

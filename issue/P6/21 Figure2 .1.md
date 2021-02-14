@@ -1,0 +1,2 @@
+![image](https://user-images.githubusercontent.com/75465037/103789219-b7834e00-507a-11eb-8414-74b70407c6ed.png)
+Examples  of  results  of  taxonomic  studies .A. Principal  components  analysis,  a  statistical  procedure  demonstrating  the  distinctiveness  of  a  new  plant  variety  (from  Simpson  et  al .  2016 .  Madroño  63:  39–54) .B. Line drawings of vegetative and floral parts, illustrating distinctiveness from closely related taxa (from Dodero and Simpson 2012 . Madroño 59:223-229) . Courtesy of Madroño .

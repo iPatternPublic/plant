@@ -1,0 +1,139 @@
+长叶点地梅 **Androsace longifolia** Turczaninow
+
+> [Primulaceae](http://www.iplant.cn/info/Primulaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Primulaceae.pdf) >> [Androsace](http://www.iplant.cn/info/Androsace?t=foc)
+ - [PDF](http://www.iplant.cn/foc/pdf/Androsace.pdf)
+
+## Description
+
+Herbs perennial, densely cespitose, with many dwarf shoots densely covered by dense remains of old leaves. Leaves sessile, grayish green, linear to linear-lanceolate, 7--30(--50) X 1--2 mm, cartilaginous, tapering to base, glabrous except for ciliate margin when young, erect, apex acute. Scapes to 1 cm, usually hidden in leaves, densely villous; umbels 4--7(--10)-flowered; bracts linear-lanceolate, 3--6 mm, glabrescent. Pedicel 4--10 mm, villous. Calyx 3.5--4.5 mm, sparsely short pubescent and minutely glandular or glabrescent, parted to middle; lobes triangular, ciliate, apex acute. Corolla white, 5--6 mm in diam.; lobes obovate-elliptic, apex slightly emarginate. Fl. May.
+
+> **Habait** : 
+> Dry gravelly slopes; 1300--1500 m. Heilongjiang, Nei Mongol, Ningxia, Shaanxi [Mongolia].
+
+### Parsublist
+
+* [A.  adenocephala  腺序点地梅](http://www.iplant.cn/info/Androsace adenocephala?t=foc)
+* [A.  aizoon  莲座点地梅](http://www.iplant.cn/info/Androsace aizoon?t=foc)
+* [A.  alaschanica  阿拉善点地梅](http://www.iplant.cn/info/Androsace alaschanica?t=foc)
+* [A.  alaschanica var. alaschanica  ](http://www.iplant.cn/info/Androsace alaschanica var. alaschanica?t=foc)
+* [A.  alaschanica var. zadoensis  扎多点地梅](http://www.iplant.cn/info/Androsace alaschanica var. zadoensis?t=foc)
+* [A.  alchemilloides  花叶点地梅](http://www.iplant.cn/info/Androsace alchemilloides?t=foc)
+* [A.  axillaris  腋花点地梅](http://www.iplant.cn/info/Androsace axillaris?t=foc)
+* [A.  bisulca  冒都点地梅](http://www.iplant.cn/info/Androsace bisulca?t=foc)
+* [A.  bisulca var. aurata  黄花冒都点地梅](http://www.iplant.cn/info/Androsace bisulca var. aurata?t=foc)
+* [A.  bisulca var. bisulca  ](http://www.iplant.cn/info/Androsace bisulca var. bisulca?t=foc)
+* [A.  brachystegia  玉门点地梅](http://www.iplant.cn/info/Androsace brachystegia?t=foc)
+* [A.  bulleyana  景天点地梅](http://www.iplant.cn/info/Androsace bulleyana?t=foc)
+* [A.  cernuiflora  弯花点地梅](http://www.iplant.cn/info/Androsace cernuiflora?t=foc)
+* [A.  ciliifolia  睫毛点地梅](http://www.iplant.cn/info/Androsace ciliifolia?t=foc)
+* [A.  coronata  环冠点地梅](http://www.iplant.cn/info/Androsace coronata?t=foc)
+* [A.  croftii  红毛点地梅](http://www.iplant.cn/info/Androsace croftii?t=foc)
+* [A.  cuscutiformis  细蔓点地梅](http://www.iplant.cn/info/Androsace cuscutiformis?t=foc)
+* [A.  cuttingii  江孜点地梅](http://www.iplant.cn/info/Androsace cuttingii?t=foc)
+* [A.  delavayi  滇西北点地梅](http://www.iplant.cn/info/Androsace delavayi?t=foc)
+* [A.  dissecta  裂叶点地梅](http://www.iplant.cn/info/Androsace dissecta?t=foc)
+* [A.  elatior  高葶点地梅](http://www.iplant.cn/info/Androsace elatior?t=foc)
+* [A.  engleri  陕西点地梅](http://www.iplant.cn/info/Androsace engleri?t=foc)
+* [A.  erecta  直立点地梅](http://www.iplant.cn/info/Androsace erecta?t=foc)
+* [A.  euryantha  大花点地梅](http://www.iplant.cn/info/Androsace euryantha?t=foc)
+* [A.  filiformis  东北点地梅](http://www.iplant.cn/info/Androsace filiformis?t=foc)
+* [A.  flavescens  南疆点地梅](http://www.iplant.cn/info/Androsace flavescens?t=foc)
+* [A.  forrestiana  滇藏点地梅](http://www.iplant.cn/info/Androsace forrestiana?t=foc)
+* [A.  gagnepainiana  披散点地梅](http://www.iplant.cn/info/Androsace gagnepainiana?t=foc)
+* [A.  geraniifolia  掌叶点地梅](http://www.iplant.cn/info/Androsace geraniifolia?t=foc)
+* [A.  globifera  球形点地梅](http://www.iplant.cn/info/Androsace globifera?t=foc)
+* [A.  gmelinii  小点地梅](http://www.iplant.cn/info/Androsace gmelinii?t=foc)
+* [A.  gmelinii var. geophila  短葶小点地梅](http://www.iplant.cn/info/Androsace gmelinii var. geophila?t=foc)
+* [A.  gmelinii var. gmelinii  ](http://www.iplant.cn/info/Androsace gmelinii var. gmelinii?t=foc)
+* [A.  graceae  圆叶点地梅](http://www.iplant.cn/info/Androsace graceae?t=foc)
+* [A.  gracilis  细弱点地梅](http://www.iplant.cn/info/Androsace gracilis?t=foc)
+* [A.  graminifolia  禾叶点地梅](http://www.iplant.cn/info/Androsace graminifolia?t=foc)
+* [A.  henryi  莲叶点地梅](http://www.iplant.cn/info/Androsace henryi?t=foc)
+* [A.  henryi subsp. henryi  ](http://www.iplant.cn/info/Androsace henryi subsp. henryi?t=foc)
+* [A.  henryi subsp. simulans  ](http://www.iplant.cn/info/Androsace henryi subsp. simulans?t=foc)
+* [A.  hookeriana  亚东点地梅](http://www.iplant.cn/info/Androsace hookeriana?t=foc)
+* [A.  incana  白花点地梅](http://www.iplant.cn/info/Androsace incana?t=foc)
+* [A.  integra  石莲叶点地梅](http://www.iplant.cn/info/Androsace integra?t=foc)
+* [A.  kouytchensis  贵州点地梅](http://www.iplant.cn/info/Androsace kouytchensis?t=foc)
+* [A.  laxa  秦巴点地梅](http://www.iplant.cn/info/Androsace laxa?t=foc)
+* [A.  lehmanniana  旱生点地梅](http://www.iplant.cn/info/Androsace lehmanniana?t=foc)
+* [A.  lehmannii  钻叶点地梅](http://www.iplant.cn/info/Androsace lehmannii?t=foc)
+* [A.  limprichtii  康定点地梅](http://www.iplant.cn/info/Androsace limprichtii?t=foc)
+* [A.  mairei  绿棱点地梅](http://www.iplant.cn/info/Androsace mairei?t=foc)
+* [A.  mariae  西藏点地梅](http://www.iplant.cn/info/Androsace mariae?t=foc)
+* [A.  maxima  大苞点地梅](http://www.iplant.cn/info/Androsace maxima?t=foc)
+* [A.  medifissa  梵净山点地梅](http://www.iplant.cn/info/Androsace medifissa?t=foc)
+* [A.  minor  小丛点地梅](http://www.iplant.cn/info/Androsace minor?t=foc)
+* [A.  mirabilis  大叶点地梅](http://www.iplant.cn/info/Androsace mirabilis?t=foc)
+* [A.  mollis  柔软点地梅](http://www.iplant.cn/info/Androsace mollis?t=foc)
+* [A.  nortonii  绢毛点地梅](http://www.iplant.cn/info/Androsace nortonii?t=foc)
+* [A.  ovalifolia  卵叶点地梅](http://www.iplant.cn/info/Androsace ovalifolia?t=foc)
+* [A.  ovczinnikovii  天山点地梅](http://www.iplant.cn/info/Androsace ovczinnikovii?t=foc)
+* [A.  paxiana  峨眉点地梅](http://www.iplant.cn/info/Androsace paxiana?t=foc)
+* [A.  pomeiensis  波密点地梅](http://www.iplant.cn/info/Androsace pomeiensis?t=foc)
+* [A.  rigida  硬枝点地梅](http://www.iplant.cn/info/Androsace rigida?t=foc)
+* [A.  robusta  雪球点地梅](http://www.iplant.cn/info/Androsace robusta?t=foc)
+* [A.  rockii  密毛点地梅](http://www.iplant.cn/info/Androsace rockii?t=foc)
+* [A.  rotundifolia  叶苞点地梅](http://www.iplant.cn/info/Androsace rotundifolia?t=foc)
+* [A.  rotundifolia var. glandulosa  ](http://www.iplant.cn/info/Androsace rotundifolia var. glandulosa?t=foc)
+* [A.  rotundifolia var. rotundifolia  ](http://www.iplant.cn/info/Androsace rotundifolia var. rotundifolia?t=foc)
+* [A.  rotundifolia var. thomsonii  ](http://www.iplant.cn/info/Androsace rotundifolia var. thomsonii?t=foc)
+* [A.  runcinata  异叶点地梅](http://www.iplant.cn/info/Androsace runcinata?t=foc)
+* [A.  sarmentosa  匍茎点地梅](http://www.iplant.cn/info/Androsace sarmentosa?t=foc)
+* [A.  selago  紫花点地梅](http://www.iplant.cn/info/Androsace selago?t=foc)
+* [A.  septentrionalis  北点地梅](http://www.iplant.cn/info/Androsace septentrionalis?t=foc)
+* [A.  septentrionalis var. breviscapa  短葶北点地梅](http://www.iplant.cn/info/Androsace septentrionalis var. breviscapa?t=foc)
+* [A.  septentrionalis var. septentrionalis  ](http://www.iplant.cn/info/Androsace septentrionalis var. septentrionalis?t=foc)
+* [A.  spinulifera  刺叶点地梅](http://www.iplant.cn/info/Androsace spinulifera?t=foc)
+* [A.  squarrosula  鳞叶点地梅](http://www.iplant.cn/info/Androsace squarrosula?t=foc)
+* [A.  stenophylla  狭叶点地梅](http://www.iplant.cn/info/Androsace stenophylla?t=foc)
+* [A.  strigillosa  糙伏毛点地梅](http://www.iplant.cn/info/Androsace strigillosa?t=foc)
+* [A.  sublanata  绵毛点地梅](http://www.iplant.cn/info/Androsace sublanata?t=foc)
+* [A.  tanggulashanensis  唐古拉点地梅](http://www.iplant.cn/info/Androsace tanggulashanensis?t=foc)
+* [A.  tapete  垫状点地梅](http://www.iplant.cn/info/Androsace tapete?t=foc)
+* [A.  umbellata  点地梅](http://www.iplant.cn/info/Androsace umbellata?t=foc)
+* [A.  wardii  粗毛点地梅](http://www.iplant.cn/info/Androsace wardii?t=foc)
+* [A.  wilsoniana  岩居点地梅](http://www.iplant.cn/info/Androsace wilsoniana?t=foc)
+* [A.  yargongensis  雅江点地梅](http://www.iplant.cn/info/Androsace yargongensis?t=foc)
+* [A.  zambalensis  高原点地梅](http://www.iplant.cn/info/Androsace zambalensis?t=foc)
+* [A.  zayulensis  察隅点地梅](http://www.iplant.cn/info/Androsace zayulensis?t=foc)
+
+## 中国植物志
+
+> * [腺序点地梅  A.  adenocephala](Androsace-adenocephala-腺序点地梅.md)
+> * [阿拉善点地梅  A.  alaschanica](Androsace-alaschanica-阿拉善点地梅.md)
+> * [昌都点地梅  A.  bisulca](Androsace-bisulca-冒都点地梅.md)
+> * [玉门点地梅  A.  brachystegia](Androsace-brachystegia-玉门点地梅.md)
+> * [弯花点地梅  A.  cernuiflora](Androsace-cernuiflora-弯花点地梅.md)
+
+**长叶点地梅 Androsace longifolia**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第59(1)卷](http://www.iplant.cn/frps/vol/59(1)) >> 196页 [PDF](http://www.iplant.cn/frps/pdf/59(1)/196a.pdf)
+
+**67. 长叶点地梅（内蒙古植物志）矮葶点地梅（东北草本植物志）**
+
+Androsace longifolia Turcz. in Bull. Soc. Nat. Mosc. 5: 202. 1832; Kom., Fl. Mansh. 3: 230. 1905: R. Knuth in Engl. Pflanzenr. 22 (IV-237): 187. 1905; Hand. -Mazz. in Not. Roy. Bot. Gard. Edinb. 15: 289. 1927; 内蒙古植物志5: 37. 图版15, 图5-9. 1980; 东北草本植物志7: 31. 图版14, 图4-7. 1982。
+
+**67a. 长叶点地梅（原变种）**
+
+var. longifolia
+
+多年生草本。主根直长，具少数支根；根出条短，通常2至数条簇生，下部有覆叠的枯叶。当年生莲座状叶丛叠生于老叶丛上，无节间；叶同型，线形或线状披针形，长1-3 (5) 厘米，宽1-2毫米，灰绿色，下部带黄褐色，先端锐尖并延伸成小尖头，边缘软骨质，两面无毛，仅边缘微具短毛。花葶极短或长达1厘米，藏于叶丛中，被柔毛；伞形花序4-7 (10) 花；苞片线形，短于花梗；花梗长达1厘米，密被长柔毛和腺体；花萼狭钟形，长4-5毫米，分裂达中部，裂片阔披针形或三角状披针形，先端锐尖，被稀疏的短柔毛和缘毛；花冠白色或带粉红色，直径7-8毫米，筒部短于花萼，裂片倒卵状椭圆形，近全缘或先端微凹。蒴果近球形，约与宿存花萼近等长。花期5月。
+
+产于宁夏、山西、内蒙古和黑龙江。生于多石砾的山坡、岗顶和砾石质草原。蒙古亦有分布。
+
+**67b. 疏丛长叶点地梅（变种）**
+
+var. decipiens Hand. -Mazz. in Not. Roy. Bot. Gard. Edinb. 15: 289. 1927; C. M. Hu et Y. C. Yang in Act. Phytotax. Sin. 24: 231. 1986.
+
+植株为较疏松的垫状体，高4-20厘米。根出条伸长，粗壮，少分枝，上部有鳞覆的栗褐色枯叶残片；叶片椭圆状披针形，通常长7-10毫米，宽2.5-3毫米；花萼狭钟形，具稍明显的肋。
+
+产于甘肃南部。生于旱干的阳坡石质地上，海拔1300-1500米。模式标本采自甘肃西固。
+
+### 下级分类
+* [疏丛长叶点地梅  Androsace longifolia var. decipiens](http://www.iplant.cn/info/Androsace longifolia var. decipiens?t=z)
+* [长叶点地梅（原变种）  Androsace longifolia var. longifolia](http://www.iplant.cn/info/Androsace longifolia var. longifolia?t=z)
+
+### 下级分类
+* [疏丛长叶点地梅  Androsace longifolia var. decipiens](http://www.iplant.cn/info/sp/Androsace longifolia var. decipiens?t=z)
+* [长叶点地梅（原变种）  Androsace longifolia var. longifolia](http://www.iplant.cn/info/sp/Androsace longifolia var. longifolia?t=z)

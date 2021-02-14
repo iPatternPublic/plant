@@ -1,0 +1,68 @@
+粤琼玉凤花 **Habenaria hystrix** Ames Orchidaceae. 2: 35. 1908.
+
+> [Orchidaceae](http://www.iplant.cn/info/Orchidaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Orchidaceae.pdf) >> [Habenaria](http://www.iplant.cn/info/Habenaria?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Habenaria.pdf)
+
+## Description
+
+Plants 28-45 cm tall. Tubers oblong, ca. 3 × 1 cm, fleshy. Stem erect, terete, stout, with 5 or 6 leaves below middle and 5-8 bractlike leaves above. Leaf blade narrowly elliptic or oblong, 9-16 × 3-5 cm, base contracted and amplexicaul, apex acuminate or acute. Raceme 6-10-flowered, 8-11 cm; peduncle and rachis ridged, ridges villous; floral bracts ovate, ca. 1.5 cm, shorter than ovary, ciliate, apex acuminate; ovary twisted, cylindric-fusiform, slightly ridged, including pedicel ca. 18 mm. Flowers white or greenish white. Dorsal sepal forming a concave hood with petals, broadly ovate, ca. 6 × 6-6.5 mm, 3-veined; lateral sepals reflexed, strongly oblique, ovate, ca. 7 × 6 mm, 3-veined, apex acute. Petals obliquely triangular-lanceolate, ca. 6 × 2 mm, simple, 1-veined, apex long acuminate; lip longer than sepals, deeply 3-lobed from base; lobes parallel, filiform; lateral lobes 20-22 mm; mid-lobe 20-24 mm, base with 1 obtusely conic callus; spur spreading horizontally, cylindric-clavate, 16-20 mm, ca. as long as ovary, slightly dilated toward apex; stigmas narrowly elliptic, ca. 1.5 mm. Fl. Aug-Sep. 2*n* = 42.
+
+### Statistics
+Forests, along valleys; 300-400 m. Guangdong, W Hainan [Indonesia (Kalimantan), Philippines].
+
+### Parsublist
+
+* [H.  acianthoides  小花玉凤花](http://www.iplant.cn/info/Habenaria acianthoides?t=foc)
+* [H.  acuifera  凸孔坡参](http://www.iplant.cn/info/Habenaria acuifera?t=foc)
+* [H.  aitchisonii  落地金钱](http://www.iplant.cn/info/Habenaria aitchisonii?t=foc)
+* [H.  anomaliflora  ](http://www.iplant.cn/info/Habenaria anomaliflora?t=foc)
+* [H.  arietina  毛瓣玉凤花](http://www.iplant.cn/info/Habenaria arietina?t=foc)
+* [H.  austrosinensis  薄叶玉凤花](http://www.iplant.cn/info/Habenaria austrosinensis?t=foc)
+* [H.  balfouriana  滇蜀玉凤花](http://www.iplant.cn/info/Habenaria balfouriana?t=foc)
+* [H.  ciliolaris  毛葶玉凤花](http://www.iplant.cn/info/Habenaria ciliolaris?t=foc)
+* [H.  commelinifolia  斧萼玉凤花](http://www.iplant.cn/info/Habenaria commelinifolia?t=foc)
+* [H.  coultousii  香港玉凤花](http://www.iplant.cn/info/Habenaria coultousii?t=foc)
+* [H.  davidii  长距玉凤花](http://www.iplant.cn/info/Habenaria davidii?t=foc)
+* [H.  delavayi  厚瓣玉凤花](http://www.iplant.cn/info/Habenaria delavayi?t=foc)
+* [H.  dentata  鹅毛玉凤花](http://www.iplant.cn/info/Habenaria dentata?t=foc)
+* [H.  diphylla  二叶玉凤花](http://www.iplant.cn/info/Habenaria diphylla?t=foc)
+* [H.  diplonema  小巧玉凤花](http://www.iplant.cn/info/Habenaria diplonema?t=foc)
+* [H.  fargesii  雅致玉凤花](http://www.iplant.cn/info/Habenaria fargesii?t=foc)
+* [H.  finetiana  齿片玉凤花](http://www.iplant.cn/info/Habenaria finetiana?t=foc)
+* [H.  fordii  线瓣玉凤花](http://www.iplant.cn/info/Habenaria fordii?t=foc)
+* [H.  fulva  褐黄玉凤花](http://www.iplant.cn/info/Habenaria fulva?t=foc)
+* [H.  furcifera  密花玉凤花](http://www.iplant.cn/info/Habenaria furcifera?t=foc)
+* [H.  glaucifolia  粉叶玉凤花](http://www.iplant.cn/info/Habenaria glaucifolia?t=foc)
+* [H.  hosokawae  毛唇玉凤花](http://www.iplant.cn/info/Habenaria hosokawae?t=foc)
+* [H.  humidicola  湿地玉凤花](http://www.iplant.cn/info/Habenaria humidicola?t=foc)
+* [H.  intermedia  大花玉凤花](http://www.iplant.cn/info/Habenaria intermedia?t=foc)
+* [H.  iyoensis  岩坡玉凤花](http://www.iplant.cn/info/Habenaria iyoensis?t=foc)
+* [H.  leptoloba  细裂玉凤花](http://www.iplant.cn/info/Habenaria leptoloba?t=foc)
+* [H.  limprichtii  宽药隔玉凤花](http://www.iplant.cn/info/Habenaria limprichtii?t=foc)
+* [H.  linearifolia  线叶十字兰](http://www.iplant.cn/info/Habenaria linearifolia?t=foc)
+* [H.  linguella  坡参](http://www.iplant.cn/info/Habenaria linguella?t=foc)
+* [H.  lucida  细花玉凤花](http://www.iplant.cn/info/Habenaria lucida?t=foc)
+* [H.  mairei  棒距玉凤花](http://www.iplant.cn/info/Habenaria mairei?t=foc)
+* [H.  malintana  南方玉凤花](http://www.iplant.cn/info/Habenaria malintana?t=foc)
+* [H.  marginata  滇南玉凤花](http://www.iplant.cn/info/Habenaria marginata?t=foc)
+* [H.  medioflexa  版纳玉凤花](http://www.iplant.cn/info/Habenaria medioflexa?t=foc)
+* [H.  nematocerata  细距玉凤花](http://www.iplant.cn/info/Habenaria nematocerata?t=foc)
+* [H.  pantlingiana  丝瓣玉凤花](http://www.iplant.cn/info/Habenaria pantlingiana?t=foc)
+* [H.  pectinata  剑叶玉凤花](http://www.iplant.cn/info/Habenaria pectinata?t=foc)
+* [H.  petelotii  裂瓣玉凤花](http://www.iplant.cn/info/Habenaria petelotii?t=foc)
+* [H.  plurifoliata  莲座玉凤花](http://www.iplant.cn/info/Habenaria plurifoliata?t=foc)
+* [H.  polytricha  丝裂玉凤花](http://www.iplant.cn/info/Habenaria polytricha?t=foc)
+* [H.  reniformis  肾叶玉凤花](http://www.iplant.cn/info/Habenaria reniformis?t=foc)
+* [H.  rhodocheila  橙黄玉凤花](http://www.iplant.cn/info/Habenaria rhodocheila?t=foc)
+* [H.  rostellifera  齿片坡参](http://www.iplant.cn/info/Habenaria rostellifera?t=foc)
+* [H.  rostrata  喙房坡参](http://www.iplant.cn/info/Habenaria rostrata?t=foc)
+* [H.  schindleri  十字兰](http://www.iplant.cn/info/Habenaria schindleri?t=foc)
+* [H.  shweliensis  中缅玉凤花](http://www.iplant.cn/info/Habenaria shweliensis?t=foc)
+* [H.  siamensis  中泰玉凤花](http://www.iplant.cn/info/Habenaria siamensis?t=foc)
+* [H.  stenopetala  狭瓣玉凤花](http://www.iplant.cn/info/Habenaria stenopetala?t=foc)
+* [H.  szechuanica  四川玉凤花](http://www.iplant.cn/info/Habenaria szechuanica?t=foc)
+* [H.  tibetica  西藏玉凤花](http://www.iplant.cn/info/Habenaria tibetica?t=foc)
+* [H.  tonkinensis  丛叶玉凤花](http://www.iplant.cn/info/Habenaria tonkinensis?t=foc)
+* [H.  viridiflora  绿花玉凤花](http://www.iplant.cn/info/Habenaria viridiflora?t=foc)
+* [H.  wangii  ](http://www.iplant.cn/info/Habenaria wangii?t=foc)
+* [H.  wolongensis  卧龙玉凤花](http://www.iplant.cn/info/Habenaria wolongensis?t=foc)
+* [H.  yuana  川滇玉凤花](http://www.iplant.cn/info/Habenaria yuana?t=foc)

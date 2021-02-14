@@ -1,0 +1,83 @@
+芽竹 **Phyllostachys robustiramea** S. Y. Chen & C. Y. Yao
+
+> [Poaceae](http://www.iplant.cn/info/Poaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Poaceae.pdf) >> [Phyllostachys](http://www.iplant.cn/info/Phyllostachys?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Phyllostachys.pdf)
+
+> **Comment** : 
+> The shoots are delicious, and the culms are used for tool handles and are split for weaving.
+
+## Description
+
+Culms to 10 m, ca. 6 cm in diam.; internodes initially purple-green, becoming gray-green, to 26 cm, white powdery, glabrous; wall 3.5–4 mm thick; nodal ridge elevated, more prominent than sheath scar. Culm sheaths green-purple, unmarked or occasionally with small, sparse spots, sparsely strigose; auricles not developed on lower sheaths, minute on upper ones; oral setae erect, green; ligule pale green, truncate or slightly arcuate, 2–3 mm, densely white-green ciliate; blade erect to reflexed, pale green to dark green or dark brown, with pale yellow margins, lanceolate to linear, crinkled in lower and middle culm sheaths. Leaves 2 or 3 per ultimate branch; auricles small; oral setae pale green-brown to pale yellow, 4–6 mm; blade 6.5–12 × 1.1–2 cm. Inflorescence not known. New shoots Apr.
+
+> **Habait** : 
+>* Cultivated. Anhui, Zhejiang.
+
+### Synonym
+*Phyllostachys erecta* T. H. Wen.
+
+### Parsublist
+
+* [P.  acuta  尖头青竹](http://www.iplant.cn/info/Phyllostachys acuta?t=foc)
+* [P.  angusta  黄古竹](http://www.iplant.cn/info/Phyllostachys angusta?t=foc)
+* [P.  arcana  石绿竹](http://www.iplant.cn/info/Phyllostachys arcana?t=foc)
+* [P.  atrovaginata  乌芽竹](http://www.iplant.cn/info/Phyllostachys atrovaginata?t=foc)
+* [P.  aurea  人面竹](http://www.iplant.cn/info/Phyllostachys aurea?t=foc)
+* [P.  aureosulcata  黄槽竹](http://www.iplant.cn/info/Phyllostachys aureosulcata?t=foc)
+* [P.  bissetii  蓉城竹](http://www.iplant.cn/info/Phyllostachys bissetii?t=foc)
+* [P.  carnea  湖南刚竹](http://www.iplant.cn/info/Phyllostachys carnea?t=foc)
+* [P.  circumpilis  毛壳花哺鸡竹](http://www.iplant.cn/info/Phyllostachys circumpilis?t=foc)
+* [P.  dulcis  白哺鸡竹](http://www.iplant.cn/info/Phyllostachys dulcis?t=foc)
+* [P.  edulis  毛竹](http://www.iplant.cn/info/Phyllostachys edulis?t=foc)
+* [P.  elegans  甜笋竹](http://www.iplant.cn/info/Phyllostachys elegans?t=foc)
+* [P.  fimbriligula  角竹](http://www.iplant.cn/info/Phyllostachys fimbriligula?t=foc)
+* [P.  flexuosa  曲竿竹](http://www.iplant.cn/info/Phyllostachys flexuosa?t=foc)
+* [P.  glabrata  花哺鸡竹](http://www.iplant.cn/info/Phyllostachys glabrata?t=foc)
+* [P.  glauca  淡竹](http://www.iplant.cn/info/Phyllostachys glauca?t=foc)
+* [P.  glauca var. glauca  淡竹(原变种)](http://www.iplant.cn/info/Phyllostachys glauca var. glauca?t=foc)
+* [P.  glauca var. variabilis  变竹](http://www.iplant.cn/info/Phyllostachys glauca var. variabilis?t=foc)
+* [P.  guizhouensis  贵州刚竹](http://www.iplant.cn/info/Phyllostachys guizhouensis?t=foc)
+* [P.  heteroclada  水竹](http://www.iplant.cn/info/Phyllostachys heteroclada?t=foc)
+* [P.  heterocycla f. epruinosa  ](http://www.iplant.cn/info/Phyllostachys heterocycla f. epruinosa?t=foc)
+* [P.  heterocycla f. gracilis  ](http://www.iplant.cn/info/Phyllostachys heterocycla f. gracilis?t=foc)
+* [P.  heterocycla f. obtusangulata  ](http://www.iplant.cn/info/Phyllostachys heterocycla f. obtusangulata?t=foc)
+* [P.  heterocycla f. pachyloen  ](http://www.iplant.cn/info/Phyllostachys heterocycla f. pachyloen?t=foc)
+* [P.  heterocycla f. tetrangulata  ](http://www.iplant.cn/info/Phyllostachys heterocycla f. tetrangulata?t=foc)
+* [P.  heterocycla f. tubaeformis  ](http://www.iplant.cn/info/Phyllostachys heterocycla f. tubaeformis?t=foc)
+* [P.  heterocycla f. venusta  ](http://www.iplant.cn/info/Phyllostachys heterocycla f. venusta?t=foc)
+* [P.  incarnata  红壳雷竹](http://www.iplant.cn/info/Phyllostachys incarnata?t=foc)
+* [P.  iridescens  红哺鸡竹](http://www.iplant.cn/info/Phyllostachys iridescens?t=foc)
+* [P.  kwangsiensis  假毛竹](http://www.iplant.cn/info/Phyllostachys kwangsiensis?t=foc)
+* [P.  lofushanensis  大节刚竹](http://www.iplant.cn/info/Phyllostachys lofushanensis?t=foc)
+* [P.  makinoi  台湾桂竹](http://www.iplant.cn/info/Phyllostachys makinoi?t=foc)
+* [P.  mannii  美竹](http://www.iplant.cn/info/Phyllostachys mannii?t=foc)
+* [P.  meyeri  毛环竹](http://www.iplant.cn/info/Phyllostachys meyeri?t=foc)
+* [P.  nidularia  篌竹](http://www.iplant.cn/info/Phyllostachys nidularia?t=foc)
+* [P.  nigella  富阳乌哺鸡竹](http://www.iplant.cn/info/Phyllostachys nigella?t=foc)
+* [P.  nigra  紫竹](http://www.iplant.cn/info/Phyllostachys nigra?t=foc)
+* [P.  nigra var. henonis  毛金竹](http://www.iplant.cn/info/Phyllostachys nigra var. henonis?t=foc)
+* [P.  nigra var. nigra  紫竹(原变种)](http://www.iplant.cn/info/Phyllostachys nigra var. nigra?t=foc)
+* [P.  nuda  灰竹](http://www.iplant.cn/info/Phyllostachys nuda?t=foc)
+* [P.  parvifolia  安吉金竹](http://www.iplant.cn/info/Phyllostachys parvifolia?t=foc)
+* [P.  platyglossa  灰水竹](http://www.iplant.cn/info/Phyllostachys platyglossa?t=foc)
+* [P.  prominens  高节竹](http://www.iplant.cn/info/Phyllostachys prominens?t=foc)
+* [P.  propinqua  早园竹](http://www.iplant.cn/info/Phyllostachys propinqua?t=foc)
+* [P.  reticulata  桂竹](http://www.iplant.cn/info/Phyllostachys reticulata?t=foc)
+* [P.  rivalis  河竹](http://www.iplant.cn/info/Phyllostachys rivalis?t=foc)
+* [P.  rubicunda  红后竹](http://www.iplant.cn/info/Phyllostachys rubicunda?t=foc)
+* [P.  rubromarginata  红边竹](http://www.iplant.cn/info/Phyllostachys rubromarginata?t=foc)
+* [P.  rutila  衢县红壳竹](http://www.iplant.cn/info/Phyllostachys rutila?t=foc)
+* [P.  shuchengensis  舒城刚竹](http://www.iplant.cn/info/Phyllostachys shuchengensis?t=foc)
+* [P.  stimulosa  漫竹](http://www.iplant.cn/info/Phyllostachys stimulosa?t=foc)
+* [P.  sulphurea  金竹](http://www.iplant.cn/info/Phyllostachys sulphurea?t=foc)
+* [P.  sulphurea f. robert-young  ](http://www.iplant.cn/info/Phyllostachys sulphurea f. robert-young?t=foc)
+* [P.  sulphurea var. sulphurea  金竹(原变种)](http://www.iplant.cn/info/Phyllostachys sulphurea var. sulphurea?t=foc)
+* [P.  sulphurea var. viridis  刚竹](http://www.iplant.cn/info/Phyllostachys sulphurea var. viridis?t=foc)
+* [P.  tianmuensis  天目早竹](http://www.iplant.cn/info/Phyllostachys tianmuensis?t=foc)
+* [P.  varioauriculata  乌竹](http://www.iplant.cn/info/Phyllostachys varioauriculata?t=foc)
+* [P.  veitchiana  硬头青竹](http://www.iplant.cn/info/Phyllostachys veitchiana?t=foc)
+* [P.  verrucosa  长沙刚竹](http://www.iplant.cn/info/Phyllostachys verrucosa?t=foc)
+* [P.  violascens  早竹](http://www.iplant.cn/info/Phyllostachys violascens?t=foc)
+* [P.  virella  东阳青皮竹](http://www.iplant.cn/info/Phyllostachys virella?t=foc)
+* [P.  viridiglaucescens  粉绿竹](http://www.iplant.cn/info/Phyllostachys viridiglaucescens?t=foc)
+* [P.  vivax  乌哺鸡竹](http://www.iplant.cn/info/Phyllostachys vivax?t=foc)
+* [P.  yunhoensis  云和哺鸡竹](http://www.iplant.cn/info/Phyllostachys yunhoensis?t=foc)

@@ -1,0 +1,176 @@
+球柱草属 **Bulbostylis** Kunth Enum. Pl. 2: 205. 1837.
+
+> [Cyperaceae](http://www.iplant.cn/info/Cyperaceae ?t=foc) - [PDF](http://iplant.cn/foc/pdf/Cyperaceae.pdf)>>[Bulbostylis](http://www.iplant.cn/info/Bulbostylis ?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Bulbostylis.pdf)
+
+> **Comment** : 
+> About 100 species: tropical to temperate regions worldwide with high concentration of species in tropical Africa and tropical America; three species in China.
+
+## Description
+
+Herbs, annual [or perennial]. Culms tufted, very slender. Leaves with a leaf blade or rarely reduced to a bladeless sheath, mouth with lax white hairs; leaf blade filiform to linear, margin often involute. Involucral bracts leaflike or setaceous. Inflorescence a terminal simple or compound anthela or capitate, sometimes reduced to a single spikelet. Spikelets ovoid to ellipsoid, many flowered. Glumes spirally arranged or rarely distichous, herbaceous or membranous, deciduous, subtending a flower but basal 1 or 2 empty. Flowers bisexual. Perianth bristles absent. Stamens (1 or)2(or 3). Style filiform, base thickened, bulbous, and persistent in fruit; stigmas 3. Nutlet obovoid to obpyriform, 3-sided.
+
+## Keylist
+
+* 1 Spikelets 2-15, sessile in a capitate inflorescence; glumes brownish to yellowish green, apex with a recurved short awn.——3 [球柱草](http://www.iplant.cn/info/Bulbostylis barbata?t=foc)
+* ~ Spikelet single, in a simple to compound anthela; glumes brownish to brown, apex mucronate——(2)
+
+* 2 (1)Glumes glabrous, apex obtuse; nutlet irregularly puncticulate.——1 [丝叶球柱草](http://www.iplant.cn/info/Bulbostylis densa?t=foc)
+* ~ Glumes pubescent, apex acute; nutlet undulate-corrugate.——2 [毛鳞球柱草](http://www.iplant.cn/info/Bulbostylis puberula?t=foc)
+
+* [Bulbostylis.PDF](http://iplant.cn/foc/pdf/Bulbostylis.pdf)
+## Sublist
+* [B.  barbata](http://www.iplant.cn/info/Bulbostylis barbata?t=foc)
+ 球柱草
+* [B.  densa](http://www.iplant.cn/info/Bulbostylis densa?t=foc)
+ 丝叶球柱草
+* [B.  puberula](http://www.iplant.cn/info/Bulbostylis puberula?t=foc) 毛鳞球柱草",
+
+### Parsublist
+
+* [Actinoschoenus  星穗莎属](Actinoschoenus-星穗莎属.md)
+* [Actinoscirpus  大藨草属](Actinoscirpus-大藨草属.md)
+* [Blysmus  扁穗草属](http://www.iplant.cn/info/Blysmus?t=foc)
+* [Bolboschoenus  三棱草属](http://www.iplant.cn/info/Bolboschoenus?t=foc)
+* [Carex  薹草属](http://www.iplant.cn/info/Carex?t=foc)
+* [C.  sect. ACROCYSTIS  玉簪薹草组](http://www.iplant.cn/info/CAREX sect. ACROCYSTIS?t=foc)
+* [C.  sect. ALBAE  白鳞薹草组](http://www.iplant.cn/info/CAREX sect. ALBAE?t=foc)
+* [C.  sect. ANOMALAE  异囊薹草组](http://www.iplant.cn/info/CAREX sect. ANOMALAE?t=foc)
+* [C.  sect. AULOCYSTIS  冻原薹草组](http://www.iplant.cn/info/CAREX sect. AULOCYSTIS?t=foc)
+* [C.  sect. CAPITULIGERAE  头穗薹草组](http://www.iplant.cn/info/CAREX sect. CAPITULIGERAE?t=foc)
+* [C.  sect. CAREX  薹草组](http://www.iplant.cn/info/CAREX sect. CAREX?t=foc)
+* [C.  sect. CAREYANAE  疏花薹草组](http://www.iplant.cn/info/CAREX sect. CAREYANAE?t=foc)
+* [C.  sect. CHLOROSTACHYAE  绿穗薹草组](http://www.iplant.cn/info/CAREX sect. CHLOROSTACHYAE?t=foc)
+* [C.  sect. CLANDESTINAE  指状薹草组](http://www.iplant.cn/info/CAREX sect. CLANDESTINAE?t=foc)
+* [C.  sect. Confertiflorae  密花薹草组](http://www.iplant.cn/info/Carex sect. Confertiflorae?t=foc)
+* [C.  sect. Cryptostachyae  隐穗薹草组](http://www.iplant.cn/info/Carex sect. Cryptostachyae?t=foc)
+* [C.  sect. CYPEROIDEAE  莎薹草组](http://www.iplant.cn/info/CAREX sect. CYPEROIDEAE?t=foc)
+* [C.  sect. Debiles  瘦果薹草组](http://www.iplant.cn/info/Carex sect. Debiles?t=foc)
+* [C.  sect. Decorae  美穗薹草组](http://www.iplant.cn/info/Carex sect. Decorae?t=foc)
+* [C.  sect. DISPERMAE  二籽薹草组](http://www.iplant.cn/info/CAREX sect. DISPERMAE?t=foc)
+* [C.  sect. Echinochloomorphae  类稗薹草组](http://www.iplant.cn/info/Carex sect. Echinochloomorphae?t=foc)
+* [C.  sect. Euprepes  菰叶薹草组](http://www.iplant.cn/info/Carex sect. Euprepes?t=foc)
+* [C.  sect. FOETIDAE  烈味薹草组](http://www.iplant.cn/info/CAREX sect. FOETIDAE?t=foc)
+* [C.  sect. Forficulae  溪水薹草组](http://www.iplant.cn/info/Carex sect. Forficulae?t=foc)
+* [C.  sect. Gibbae  穹隆薹草组](http://www.iplant.cn/info/Carex sect. Gibbae?t=foc)
+* [C.  sect. GLAREOSAE  白山薹草组](http://www.iplant.cn/info/CAREX sect. GLAREOSAE?t=foc)
+* [C.  sect. Glauciformes  米柱薹草组](http://www.iplant.cn/info/Carex sect. Glauciformes?t=foc)
+* [C.  sect. Graciles  细柄薹草组](http://www.iplant.cn/info/Carex sect. Graciles?t=foc)
+* [C.  sect. Grallatoriae  短喙薹草组](http://www.iplant.cn/info/Carex sect. Grallatoriae?t=foc)
+* [C.  sect. Hangzhouenses  杭州薹草组](http://www.iplant.cn/info/Carex sect. Hangzhouenses?t=foc)
+* [C.  sect. HELEOGLOCHIN  圆锥薹草组](http://www.iplant.cn/info/CAREX sect. HELEOGLOCHIN?t=foc)
+* [C.  sect. Hemiscaposae  花葶薹草组](http://www.iplant.cn/info/Carex sect. Hemiscaposae?t=foc)
+* [C.  sect. Hirtae  糙果薹草组](http://www.iplant.cn/info/Carex sect. Hirtae?t=foc)
+* [C.  sect. HOLARRHENAE  二柱薹草组](http://www.iplant.cn/info/CAREX sect. HOLARRHENAE?t=foc)
+* [C.  sect. HYMENOCHLAENAE  膜囊薹草组](http://www.iplant.cn/info/CAREX sect. HYMENOCHLAENAE?t=foc)
+* [C.  sect. Hypolytroides  宝兴薹草组](http://www.iplant.cn/info/Carex sect. Hypolytroides?t=foc)
+* [C.  sect. Indicae  印度薹草组](http://www.iplant.cn/info/Carex sect. Indicae?t=foc)
+* [C.  sect. Japonicae  日本薹草组](http://www.iplant.cn/info/Carex sect. Japonicae?t=foc)
+* [C.  sect. Lageniformes  匏囊薹草组](http://www.iplant.cn/info/Carex sect. Lageniformes?t=foc)
+* [C.  sect. LAMPROCHLAENAE  黄囊薹草组](http://www.iplant.cn/info/CAREX sect. LAMPROCHLAENAE?t=foc)
+* [C.  sect. LEUCOGLOCHIN  尖苞薹草组](http://www.iplant.cn/info/CAREX sect. LEUCOGLOCHIN?t=foc)
+* [C.  sect. LIMOSAE  湿生薹草组](http://www.iplant.cn/info/CAREX sect. LIMOSAE?t=foc)
+* [C.  sect. MACROCEPHALAE  筛草组](http://www.iplant.cn/info/CAREX sect. MACROCEPHALAE?t=foc)
+* [C.  sect. Mitratae  灰帽薹草组](http://www.iplant.cn/info/CAREX sect. Mitratae?t=foc)
+* [C.  sect. Molliculae  柔果薹草组](http://www.iplant.cn/info/Carex sect. Molliculae?t=foc)
+* [C.  sect. Mundae  秀丽薹草组](http://www.iplant.cn/info/Carex sect. Mundae?t=foc)
+* [C.  sect. Occlusae  硬毛果薹草组](http://www.iplant.cn/info/Carex sect. Occlusae?t=foc)
+* [C.  sect. OVALES  卵果薹草组](http://www.iplant.cn/info/CAREX sect. OVALES?t=foc)
+* [C.  sect. PALUDOSAE  沼生薹草组](http://www.iplant.cn/info/CAREX sect. PALUDOSAE?t=foc)
+* [C.  sect. PANICEAE  少花薹草组](http://www.iplant.cn/info/CAREX sect. PANICEAE?t=foc)
+* [C.  sect. PHACOCYSTIS  急尖薹草组](http://www.iplant.cn/info/CAREX sect. PHACOCYSTIS?t=foc)
+* [C.  sect. Phleoideae  多花薹草组](http://www.iplant.cn/info/Carex sect. Phleoideae?t=foc)
+* [C.  sect. Physocarpae  胀囊薹草组](http://www.iplant.cn/info/Carex sect. Physocarpae?t=foc)
+* [C.  sect. Physodeae  囊果薹草组](http://www.iplant.cn/info/Carex sect. Physodeae?t=foc)
+* [C.  sect. PHYSOGLOCHIN  异株薹草组](http://www.iplant.cn/info/CAREX sect. PHYSOGLOCHIN?t=foc)
+* [C.  sect. Planatae  高秆薹草组](http://www.iplant.cn/info/Carex sect. Planatae?t=foc)
+* [C.  sect. Polystachyae  多穗薹草组](http://www.iplant.cn/info/Carex sect. Polystachyae?t=foc)
+* [C.  sect. Praelongae  帚状薹草组](http://www.iplant.cn/info/Carex sect. Praelongae?t=foc)
+* [C.  sect. Pseudocypereae  似莎薹草组](http://www.iplant.cn/info/Carex sect. Pseudocypereae?t=foc)
+* [C.  sect. RACEMOSAE  褐穗薹草组](http://www.iplant.cn/info/CAREX sect. RACEMOSAE?t=foc)
+* [C.  sect. Radicales  根穗薹草组](http://www.iplant.cn/info/Carex sect. Radicales?t=foc)
+* [C.  sect. Rarae  单穗薹草组](http://www.iplant.cn/info/Carex sect. Rarae?t=foc)
+* [C.  sect. Remotae  薮薹草组](http://www.iplant.cn/info/Carex sect. Remotae?t=foc)
+* [C.  sect. Rhizopodae  根足薹草组](http://www.iplant.cn/info/Carex sect. Rhizopodae?t=foc)
+* [C.  sect. Rhomboidales  菱形果薹草组](http://www.iplant.cn/info/Carex sect. Rhomboidales?t=foc)
+* [C.  sect. RUPESTRES  石薹草组](http://www.iplant.cn/info/CAREX sect. RUPESTRES?t=foc)
+* [C.  sect. Scabrellae  粗糙薹草组](http://www.iplant.cn/info/Carex sect. Scabrellae?t=foc)
+* [C.  sect. Secalinae  离穗薹草组](http://www.iplant.cn/info/Carex sect. Secalinae?t=foc)
+* [C.  sect. Siderostictae  宽叶薹草组](http://www.iplant.cn/info/Carex sect. Siderostictae?t=foc)
+* [C.  sect. STELLULATAE  星穗薹草组](http://www.iplant.cn/info/CAREX sect. STELLULATAE?t=foc)
+* [C.  sect. Surculosae  蘖枝薹草组](http://www.iplant.cn/info/Carex sect. Surculosae?t=foc)
+* [C.  sect. Thomsonianae  高节薹草组](http://www.iplant.cn/info/Carex sect. Thomsonianae?t=foc)
+* [C.  sect. Tuminenses  图们薹草组](http://www.iplant.cn/info/Carex sect. Tuminenses?t=foc)
+* [C.  sect. VULPINAE  海绵基薹草组](http://www.iplant.cn/info/CAREX sect. VULPINAE?t=foc)
+* [C.  subg. Carex  薹草亚属](http://www.iplant.cn/info/Carex subg. Carex?t=foc)
+* [C.  subg. Vignea  二柱薹草亚属](http://www.iplant.cn/info/Carex subg. Vignea?t=foc)
+* [C.  subg. Vigneastra  复序薹草亚属](http://www.iplant.cn/info/Carex subg. Vigneastra?t=foc)
+* [C.  subsect. Caespitosae  丛薹草亚组](http://www.iplant.cn/info/Carex subsect. Caespitosae?t=foc)
+* [C.  subsect. Ferrugineae  锈色薹草亚组](http://www.iplant.cn/info/Carex subsect. Ferrugineae?t=foc)
+* [C.  subsect. Fuliginosae  黑色薹草亚组](http://www.iplant.cn/info/Carex subsect. Fuliginosae?t=foc)
+* [C.  subsect. Gynaecandrae  雌雄序薹草亚组](http://www.iplant.cn/info/Carex subsect. Gynaecandrae?t=foc)
+* [C.  subsect. Rigidae  坚挺薹草亚组](http://www.iplant.cn/info/Carex subsect. Rigidae?t=foc)
+* [Cladium  克拉莎属](http://www.iplant.cn/info/Cladium?t=foc)
+* [Courtoisina  翅鳞莎属](http://www.iplant.cn/info/Courtoisina?t=foc)
+* [Cyperus  莎草属](http://www.iplant.cn/info/Cyperus?t=foc)
+* [Diplacrum  裂颖茅属](http://www.iplant.cn/info/Diplacrum?t=foc)
+* [Eleocharis  荸荠属](http://www.iplant.cn/info/Eleocharis?t=foc)
+* [Eriophorum  羊胡子草属](http://www.iplant.cn/info/Eriophorum?t=foc)
+* [Fimbristylis  飘拂草属](http://www.iplant.cn/info/Fimbristylis?t=foc)
+* [Fuirena  芙兰草属](http://www.iplant.cn/info/Fuirena?t=foc)
+* [Gahnia  黑莎草属](http://www.iplant.cn/info/Gahnia?t=foc)
+* [Hypolytrum  割鸡芒属](http://www.iplant.cn/info/Hypolytrum?t=foc)
+* [Isolepis  细莞属](http://www.iplant.cn/info/Isolepis?t=foc)
+* [Kobresia  嵩草属](http://www.iplant.cn/info/Kobresia?t=foc)
+* [Kyllinga  水蜈蚣属](http://www.iplant.cn/info/Kyllinga?t=foc)
+* [Lepidosperma  鳞籽莎属](http://www.iplant.cn/info/Lepidosperma?t=foc)
+* [Lepironia  石龙刍属](http://www.iplant.cn/info/Lepironia?t=foc)
+* [Lipocarpha  湖瓜草属](http://www.iplant.cn/info/Lipocarpha?t=foc)
+* [Machaerina  剑叶莎属](http://www.iplant.cn/info/Machaerina?t=foc)
+* [Mapania  擂鼓苈属](http://www.iplant.cn/info/Mapania?t=foc)
+* [Pycreus  扁莎属](http://www.iplant.cn/info/Pycreus?t=foc)
+* [Remirea  海滨莎属](http://www.iplant.cn/info/Remirea?t=foc)
+* [Rhynchospora  刺子莞属](http://www.iplant.cn/info/Rhynchospora?t=foc)
+* [Schoenoplectus  水葱属](http://www.iplant.cn/info/Schoenoplectus?t=foc)
+* [Schoenus  赤箭莎属](http://www.iplant.cn/info/Schoenus?t=foc)
+* [Scirpus  藨草属](http://www.iplant.cn/info/Scirpus?t=foc)
+* [Scleria  珍珠茅属](http://www.iplant.cn/info/Scleria?t=foc)
+* [Trichophorum  针蔺属](http://www.iplant.cn/info/Trichophorum?t=foc)
+* [Tricostularia  三肋果莎属](http://www.iplant.cn/info/Tricostularia?t=foc)
+
+## 中国植物志
+
+> * [扁穗草属  Blysmus](Blysmus-扁穗草属.md)
+> * [羊胡子草属  Eriophorum](http://www.iplant.cn/info/Eriophorum?t=z)
+> * [飘拂草属  Fimbristylis](http://www.iplant.cn/info/Fimbristylis?t=z)
+> * [芙兰草属  Fuirena](http://www.iplant.cn/info/Fuirena?t=z)
+
+**球柱草属 Bulbostylis**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第11卷](http://www.iplant.cn/frps/vol/11) >> 069页 [PDF](http://www.iplant.cn/frps/pdf/11/069y.pdf)
+
+**6. 球柱草属——Bulbostylis C. B. Clarke**
+
+C. B. Clarke in Hook. f. Fl. Brit. Ind. VI 651——Stenophyllus Raf. Neogn. 4.
+
+一年生或多年生草本。稈丛生，细。叶基生，很细；叶鞘顶端有长柔毛或长丝状毛。长侧枝聚繖花序简单或复出或呈头状，有时仅具1个小穗；苞片极细，叶状；小穗具多数花；花两性；鳞片复瓦状排列，最下部的1-2片鳞片内无花；无下位刚毛；雄蕊1-3个；花柱细长，基部呈球茎状或盘状，常为小型，不脱落，柱头3，细尖，有附属物。小坚果倒卵形、三稜形。
+
+全世界约有60余种，我国有3种，分布于沿海、华中及西南各省。
+
+## 检索表
+
+* 1 小穗单个地排列为简单或复出的长侧枝聚繖花序；鳞片棕色或暗棕色；花药长圆形。——(2)
+* ~小穗成簇地排列成头状长侧枝聚繖花序；鳞片棕色或黄绿色，顶端具外弯芒状短尖；花药卵形或长圆状卵形。——[球柱草](Bulbostylis-barbata-球柱草.md)
+
+* 2 鳞片无毛，顶端钝。小坚果表面具小突起。——[丝叶球柱草](Bulbostylis-densa-丝叶球柱草.md)
+
+* ~鳞片被短柔毛，顶端急尖，具芒状短尖。小坚果表面具波状皱纹。——[毛麟球柱草](Bulbostylis-puberula-毛鳞球柱草.md)
+
+### 下级分类
+* [球柱草  Bulbostylis barbata](Bulbostylis-barbata-球柱草.md)
+* [丝叶球柱草  Bulbostylis densa](Bulbostylis-densa-丝叶球柱草.md)
+* [毛麟球柱草  Bulbostylis puberula](Bulbostylis-puberula-毛鳞球柱草.md)
+
+### 下级分类
+* [球柱草  Bulbostylis barbata](http://iplant.cn/info/sp/Bulbostylis barbata?t=z)
+* [丝叶球柱草  Bulbostylis densa](http://iplant.cn/info/sp/Bulbostylis densa?t=z)
+* [毛麟球柱草  Bulbostylis puberula](http://iplant.cn/info/sp/Bulbostylis puberula?t=z)

@@ -1,0 +1,66 @@
+白花附地菜 **Trigonotis leucantha** W. T. Wang
+
+> [Boraginaceae](http://www.iplant.cn/info/Boraginaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Boraginaceae.pdf) >> [Trigonotis](http://www.iplant.cn/info/Trigonotis?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Trigonotis.pdf)
+
+## Description
+
+Herbs annual. Stems much branched from base upward, ca. 15 cm tall, white pubescent. Petiole of basal leaves 1.8-3.4 cm; leaf blade ovate, 0.9-1.6 cm &amp;#215; 6-12 mm, papery, minutely strigose, base rounded-truncate, apex rounded; stem leaves similar, with shorter petiole, sometimes &amp;#177; cordate at base. Inflorescences 2-7 cm, axis minutely strigose; bracts basal, 2 or 3. Pedicel 1.5-3 mm, minutely strigose. Calyx lobes broadly lanceolate, ca. 1.2 mm, outside sparsely minute strigose, apex acute. Corolla white, glabrous, ca. 4 mm wide; tube ca. 1 mm; throat appendages trapeziform, ca. 0.2 mm; lobes suborbicular. Anthers ca. 0.3 mm. Nutlets subulate, trigonous-tetrahedral, smooth, glabrous, adaxial surfaces forming sharp angles; abaxial surfaces deltate, ca. 1.1 &amp;#215; 1 mm, sessile. Fl. and fr. Jul.
+
+> **Habait** : 
+>* In mountain forests; ca. 3700 m. Sichuan.
+
+### Parsublist
+
+* [T.  barkamensis  金川附地菜](http://www.iplant.cn/info/Trigonotis barkamensis?t=foc)
+* [T.  bracteata  全苞附地菜](http://www.iplant.cn/info/Trigonotis bracteata?t=foc)
+* [T.  cavaleriei  西南附地菜](http://www.iplant.cn/info/Trigonotis cavaleriei?t=foc)
+* [T.  cavaleriei var. angustifolia  窄叶西南附地菜](http://www.iplant.cn/info/Trigonotis cavaleriei var. angustifolia?t=foc)
+* [T.  cavaleriei var. cavaleriei  西南附地菜 (原变种)](http://www.iplant.cn/info/Trigonotis cavaleriei var. cavaleriei?t=foc)
+* [T.  chengkouensis  城口附地菜](http://www.iplant.cn/info/Trigonotis chengkouensis?t=foc)
+* [T.  cinereifolia  灰叶附地菜](http://www.iplant.cn/info/Trigonotis cinereifolia?t=foc)
+* [T.  compressa  狭叶附地菜](http://www.iplant.cn/info/Trigonotis compressa?t=foc)
+* [T.  corispermoides  虫实附地菜](http://www.iplant.cn/info/Trigonotis corispermoides?t=foc)
+* [T.  corispermoides var. corispermoides  虫实附地菜 (原变种)](http://www.iplant.cn/info/Trigonotis corispermoides var. corispermoides?t=foc)
+* [T.  corispermoides var. sessilis  无柄虫实附地菜](http://www.iplant.cn/info/Trigonotis corispermoides var. sessilis?t=foc)
+* [T.  delicatula  扭梗附地菜](http://www.iplant.cn/info/Trigonotis delicatula?t=foc)
+* [T.  elevatovenosa  凸脉附地菜](http://www.iplant.cn/info/Trigonotis elevatovenosa?t=foc)
+* [T.  floribunda  多花附地菜](http://www.iplant.cn/info/Trigonotis floribunda?t=foc)
+* [T.  formosana  台湾附地菜](http://www.iplant.cn/info/Trigonotis formosana?t=foc)
+* [T.  formosana var. elevatovenosa  ](http://www.iplant.cn/info/Trigonotis formosana var. elevatovenosa?t=foc)
+* [T.  funingensis  富宁附地菜](http://www.iplant.cn/info/Trigonotis funingensis?t=foc)
+* [T.  giraldii  秦岭附地菜](http://www.iplant.cn/info/Trigonotis giraldii?t=foc)
+* [T.  gracilipes  细梗附地菜](http://www.iplant.cn/info/Trigonotis gracilipes?t=foc)
+* [T.  harrysmithii  松潘附地菜](http://www.iplant.cn/info/Trigonotis harrysmithii?t=foc)
+* [T.  heliotropifolia  毛花附地菜](http://www.iplant.cn/info/Trigonotis heliotropifolia?t=foc)
+* [T.  jinfoshanica  ](http://www.iplant.cn/info/Trigonotis jinfoshanica?t=foc)
+* [T.  laxa  南川附地菜](http://www.iplant.cn/info/Trigonotis laxa?t=foc)
+* [T.  laxa var. hirsuta  硬毛附地菜](http://www.iplant.cn/info/Trigonotis laxa var. hirsuta?t=foc)
+* [T.  laxa var. laxa  南川附地菜 (原变种)](http://www.iplant.cn/info/Trigonotis laxa var. laxa?t=foc)
+* [T.  laxa var. xichougensis  西畴附地菜](http://www.iplant.cn/info/Trigonotis laxa var. xichougensis?t=foc)
+* [T.  leyeensis  乐叶附地菜](http://www.iplant.cn/info/Trigonotis leyeensis?t=foc)
+* [T.  longipes  长梗附地菜](http://www.iplant.cn/info/Trigonotis longipes?t=foc)
+* [T.  longiramosa  长枝附地菜](http://www.iplant.cn/info/Trigonotis longiramosa?t=foc)
+* [T.  macrophylla  大叶附地菜](http://www.iplant.cn/info/Trigonotis macrophylla?t=foc)
+* [T.  macrophylla var. macrophylla  大叶附地菜 (原变种)](http://www.iplant.cn/info/Trigonotis macrophylla var. macrophylla?t=foc)
+* [T.  macrophylla var. trichocarpa  毛果附地菜](http://www.iplant.cn/info/Trigonotis macrophylla var. trichocarpa?t=foc)
+* [T.  macrophylla var. verrucosa  瘤果附地菜](http://www.iplant.cn/info/Trigonotis macrophylla var. verrucosa?t=foc)
+* [T.  mairei  长梗附地菜](http://www.iplant.cn/info/Trigonotis mairei?t=foc)
+* [T.  microcarpa  毛脉附地菜](http://www.iplant.cn/info/Trigonotis microcarpa?t=foc)
+* [T.  mollis  湖北附地菜](http://www.iplant.cn/info/Trigonotis mollis?t=foc)
+* [T.  muliensis  木里附地菜](http://www.iplant.cn/info/Trigonotis muliensis?t=foc)
+* [T.  myosotidea  水甸附地菜](http://www.iplant.cn/info/Trigonotis myosotidea?t=foc)
+* [T.  nandanensis  南丹附地菜](http://www.iplant.cn/info/Trigonotis nandanensis?t=foc)
+* [T.  nankotaizanensis  白花附地菜](http://www.iplant.cn/info/Trigonotis nankotaizanensis?t=foc)
+* [T.  omeiensis  峨眉附地菜](http://www.iplant.cn/info/Trigonotis omeiensis?t=foc)
+* [T.  orbicularifolia  厚叶附地菜](http://www.iplant.cn/info/Trigonotis orbicularifolia?t=foc)
+* [T.  peduncularis  附地菜](http://www.iplant.cn/info/Trigonotis peduncularis?t=foc)
+* [T.  peduncularis var. amblyosepala  钝萼附地菜](http://www.iplant.cn/info/Trigonotis peduncularis var. amblyosepala?t=foc)
+* [T.  peduncularis var. macrantha  大花附地菜](http://www.iplant.cn/info/Trigonotis peduncularis var. macrantha?t=foc)
+* [T.  peduncularis var. peduncularis  附地菜(原变种)](http://www.iplant.cn/info/Trigonotis peduncularis var. peduncularis?t=foc)
+* [T.  petiolaris  祁连山附地菜](http://www.iplant.cn/info/Trigonotis petiolaris?t=foc)
+* [T.  radicans  北附地菜](http://www.iplant.cn/info/Trigonotis radicans?t=foc)
+* [T.  rockii  高山附地菜](http://www.iplant.cn/info/Trigonotis rockii?t=foc)
+* [T.  rotundata  圆叶附地菜](http://www.iplant.cn/info/Trigonotis rotundata?t=foc)
+* [T.  tenera  蒙山附地菜](http://www.iplant.cn/info/Trigonotis tenera?t=foc)
+* [T.  tibetica  西藏附地菜](http://www.iplant.cn/info/Trigonotis tibetica?t=foc)
+* [T.  vestita  灰毛附地菜](http://www.iplant.cn/info/Trigonotis vestita?t=foc)

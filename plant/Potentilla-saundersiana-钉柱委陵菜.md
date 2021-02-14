@@ -1,0 +1,238 @@
+钉柱委陵菜 **Potentilla saundersiana** Royle
+
+> [Rosaceae](http://www.iplant.cn/info/Rosaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Rosaceae.pdf) >> [Potentilla](http://www.iplant.cn/info/Potentilla?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Potentilla.pdf)
+## Description
+
+Herbs perennial. Roots robust, terete, rarely slender. Flowering stems erect or ascending, rarely low and tufted, 10–20 cm tall, together with petioles white tomentose and pilose. Radical leaves 2–5 cm including petiole; stipules brown, membranous, abaxially white villous or glabrescent; leaf blade subpinnately or palmately 3–7(or 8)-foliolate; leaflets sessile, adaxially green or grayish green, oblong-obovate, rarely broadly obovate, 0.5–2 cm × 4–10 mm, abaxially densely white tomentose, appressed pilose on veins, adaxially sparsely appressed pilose or densely appressed sericeous, base cuneate, margin slightly obtusely or acutely many incised serrate, rarely lobed to parted, apex obtuse, rarely acute; cauline leaves 1 or 2; stipules green, ovate or ovate-lanceolate, herbaceous, abaxially white tomentose and pilose, margin usually entire, apex acute or acuminate; leaf blade 3–5-foliolate; leaflets resembling those of radical leaves. Inflorescence terminal, laxly cymose, 1(or 2)- or many flowered. Flowers 1–1.4 cm in diam.; pedicel 1–3 cm, white tomentose. Sepals triangular-ovate or triangular-lanceolate; epicalyx segments lanceolate or elliptic, shorter than or nearly equaling sepals, abaxially white tomentose and pilose, apex acute or 1–3(–5)-fid. Petals yellow, obovate, slightly longer than or ca. 2 × as long as sepals, apex emarginate. Style subterminal, base inconspicuously thickened; stigma slightly dilated. Achenes smooth. Fl. and fr. Jun–Aug.
+
+> **Habait** : 
+> Alpine thickets and meadows, gravel fields; 2600--5200 m. Gansu, Nei Mongol, Ningxia, Qinghai, Shaanxi, Shanxi, Sichuan, Xinjiang, Xizang, Yunnan [Bhutan, India, Nepal, Sikkim].
+
+## Keylist
+* 1 Inflorescence 1(or 2)-flowered.——51d  [var. caespitosa 丛生钉柱委陵菜](http://www.iplant.cn/info/Potentilla saundersiana var. caespitosa?t=foc)
+* ~ Inflorescence a many-flowered cyme.——(2)
+* 2 (1)Radical leaves subpinnately  (3–)5–7(or 8)-foliolate.——51c  [var. subpinnata 羽叶钉柱委陵菜](http://www.iplant.cn/info/Potentilla saundersiana var. subpinnata?t=foc)
+* ~ Radical leaves palmately 3–5-foliolate.——(3)
+* 3 (2) Leaflets adaxially green, sparsely  appressed pilose; epicalyx  segments shorter than or  nearly equaling sepals,  apex acute.——51a  [var. saundersiana 钉柱委陵菜(原变种)](http://www.iplant.cn/info/Potentilla saundersiana var. saundersiana?t=foc)
+* ~ Leaflets adaxially grayish  green, densely appressed  sericeous; epicalyx segments  nearly equaling sepals, apex  2- or 3(–5)-fid.——51b  [var. jacquemontii 裂萼钉柱委陵菜](http://www.iplant.cn/info/Potentilla saundersiana var. jacquemontii?t=foc)
+
+### Parsublist
+
+* [P.  acaulis  星毛委陵菜](http://www.iplant.cn/info/Potentilla acaulis?t=foc)
+* [P.  ancistrifolia  皱叶委陵菜](http://www.iplant.cn/info/Potentilla ancistrifolia?t=foc)
+* [P.  ancistrifolia var. ancistrifolia  皱叶委陵菜(原变种)](http://www.iplant.cn/info/Potentilla ancistrifolia var. ancistrifolia?t=foc)
+* [P.  ancistrifolia var. dickinsii  薄叶委陵菜](http://www.iplant.cn/info/Potentilla ancistrifolia var. dickinsii?t=foc)
+* [P.  angustiloba  窄裂委陵菜](http://www.iplant.cn/info/Potentilla angustiloba?t=foc)
+* [P.  anserina  蕨麻](http://www.iplant.cn/info/Potentilla anserina?t=foc)
+* [P.  argentea  银背委陵菜](http://www.iplant.cn/info/Potentilla argentea?t=foc)
+* [P.  argyrophylla  银光委陵菜](http://www.iplant.cn/info/Potentilla argyrophylla?t=foc)
+* [P.  argyrophylla var. argyrophylla  银光委陵菜(原变种)](http://www.iplant.cn/info/Potentilla argyrophylla var. argyrophylla?t=foc)
+* [P.  argyrophylla var. atrosanguinea  紫花银光委陵菜](http://www.iplant.cn/info/Potentilla argyrophylla var. atrosanguinea?t=foc)
+* [P.  aristata  多对小叶委陵菜](http://www.iplant.cn/info/Potentilla aristata?t=foc)
+* [P.  articulata  关节委陵菜](http://www.iplant.cn/info/Potentilla articulata?t=foc)
+* [P.  articulata var. articulata  关节委陵菜(原变种)](http://www.iplant.cn/info/Potentilla articulata var. articulata?t=foc)
+* [P.  articulata var. latipetiolata  宽柄关节委陵菜](http://www.iplant.cn/info/Potentilla articulata var. latipetiolata?t=foc)
+* [P.  asperrima  刚毛委陵菜](http://www.iplant.cn/info/Potentilla asperrima?t=foc)
+* [P.  betonicifolia  白萼委陵菜](http://www.iplant.cn/info/Potentilla betonicifolia?t=foc)
+* [P.  biflora  双花委陵菜](http://www.iplant.cn/info/Potentilla biflora?t=foc)
+* [P.  biflora var. biflora  双花委陵菜(原变种)](http://www.iplant.cn/info/Potentilla biflora var. biflora?t=foc)
+* [P.  biflora var. lahulensis  五叶双花委陵菜](http://www.iplant.cn/info/Potentilla biflora var. lahulensis?t=foc)
+* [P.  bifurca  二裂委陵菜](http://www.iplant.cn/info/Potentilla bifurca?t=foc)
+* [P.  bifurca var. bifurca  二裂委陵菜(原变种)](http://www.iplant.cn/info/Potentilla bifurca var. bifurca?t=foc)
+* [P.  bifurca var. humilior  矮生二裂委陵菜](http://www.iplant.cn/info/Potentilla bifurca var. humilior?t=foc)
+* [P.  bifurca var. major  长叶二裂委陵菜](http://www.iplant.cn/info/Potentilla bifurca var. major?t=foc)
+* [P.  cardotiana  聚伞委陵菜](http://www.iplant.cn/info/Potentilla cardotiana?t=foc)
+* [P.  centigrana  蛇莓委陵菜](http://www.iplant.cn/info/Potentilla centigrana?t=foc)
+* [P.  chinensis  委陵菜](http://www.iplant.cn/info/Potentilla chinensis?t=foc)
+* [P.  chinensis var. chinensis  委陵菜(原变种)](http://www.iplant.cn/info/Potentilla chinensis var. chinensis?t=foc)
+* [P.  chinensis var. lineariloba  细裂委陵菜](http://www.iplant.cn/info/Potentilla chinensis var. lineariloba?t=foc)
+* [P.  chrysantha  黄花委陵菜](http://www.iplant.cn/info/Potentilla chrysantha?t=foc)
+* [P.  commutata var. polyandra  多蕊委陵菜](http://www.iplant.cn/info/Potentilla commutata var. polyandra?t=foc)
+* [P.  conferta  大萼委陵菜](http://www.iplant.cn/info/Potentilla conferta?t=foc)
+* [P.  conferta var. conferta  大萼委陵菜(原变种)](http://www.iplant.cn/info/Potentilla conferta var. conferta?t=foc)
+* [P.  conferta var. trijuga  矮生大萼委陵菜](http://www.iplant.cn/info/Potentilla conferta var. trijuga?t=foc)
+* [P.  contigua  高山委陵菜](http://www.iplant.cn/info/Potentilla contigua?t=foc)
+* [P.  coriandrifolia  荽叶委陵菜](http://www.iplant.cn/info/Potentilla coriandrifolia?t=foc)
+* [P.  coriandrifolia var. coriandrifolia  荽叶委陵菜(原变种)](http://www.iplant.cn/info/Potentilla coriandrifolia var. coriandrifolia?t=foc)
+* [P.  coriandrifolia var. dumosa  丛生荽叶委陵菜](http://www.iplant.cn/info/Potentilla coriandrifolia var. dumosa?t=foc)
+* [P.  crenulata  圆齿委陵菜](http://www.iplant.cn/info/Potentilla crenulata?t=foc)
+* [P.  cryptotaeniae  狼牙委陵菜](http://www.iplant.cn/info/Potentilla cryptotaeniae?t=foc)
+* [P.  cuneata  楔叶委陵菜](http://www.iplant.cn/info/Potentilla cuneata?t=foc)
+* [P.  delavayi  滇西委陵菜](http://www.iplant.cn/info/Potentilla delavayi?t=foc)
+* [P.  desertorum  荒漠委陵菜](http://www.iplant.cn/info/Potentilla desertorum?t=foc)
+* [P.  discolor  翻白草](http://www.iplant.cn/info/Potentilla discolor?t=foc)
+* [P.  eriocarpa  毛果委陵菜](http://www.iplant.cn/info/Potentilla eriocarpa?t=foc)
+* [P.  eriocarpa var. eriocarpa  毛果委陵菜(原变种)](http://www.iplant.cn/info/Potentilla eriocarpa var. eriocarpa?t=foc)
+* [P.  eriocarpa var. tsarongensis  裂叶毛果委陵菜](http://www.iplant.cn/info/Potentilla eriocarpa var. tsarongensis?t=foc)
+* [P.  evestita  脱绒委陵菜](http://www.iplant.cn/info/Potentilla evestita?t=foc)
+* [P.  fallens  川滇委陵菜](http://www.iplant.cn/info/Potentilla fallens?t=foc)
+* [P.  festiva  合耳委陵菜](http://www.iplant.cn/info/Potentilla festiva?t=foc)
+* [P.  flagellaris  匐枝委陵菜](http://www.iplant.cn/info/Potentilla flagellaris?t=foc)
+* [P.  fragarioides  莓叶委陵菜](http://www.iplant.cn/info/Potentilla fragarioides?t=foc)
+* [P.  freyniana  三叶委陵菜](http://www.iplant.cn/info/Potentilla freyniana?t=foc)
+* [P.  freyniana var. freyniana  三叶委陵菜(原变种)](http://www.iplant.cn/info/Potentilla freyniana var. freyniana?t=foc)
+* [P.  freyniana var. sinica  中华三叶委陵菜](http://www.iplant.cn/info/Potentilla freyniana var. sinica?t=foc)
+* [P.  fruticosa  金露梅](http://www.iplant.cn/info/Potentilla fruticosa?t=foc)
+* [P.  fruticosa var. albicans  白毛金露梅](http://www.iplant.cn/info/Potentilla fruticosa var. albicans?t=foc)
+* [P.  fruticosa var. arbuscula  伏毛金露梅](http://www.iplant.cn/info/Potentilla fruticosa var. arbuscula?t=foc)
+* [P.  fruticosa var. fruticosa  金露梅(原变种)](http://www.iplant.cn/info/Potentilla fruticosa var. fruticosa?t=foc)
+* [P.  fruticosa var. pumila  垫状金露梅](http://www.iplant.cn/info/Potentilla fruticosa var. pumila?t=foc)
+* [P.  gelida  耐寒委陵菜](http://www.iplant.cn/info/Potentilla gelida?t=foc)
+* [P.  gelida var. gelida  耐寒委陵菜(原变种)](http://www.iplant.cn/info/Potentilla gelida var. gelida?t=foc)
+* [P.  gelida var. sericea  绢毛耐寒委陵菜](http://www.iplant.cn/info/Potentilla gelida var. sericea?t=foc)
+* [P.  glabra  银露梅](http://www.iplant.cn/info/Potentilla glabra?t=foc)
+* [P.  glabra var. glabra  银露梅(原变种)](http://www.iplant.cn/info/Potentilla glabra var. glabra?t=foc)
+* [P.  glabra var. longipetala  长瓣银露梅](http://www.iplant.cn/info/Potentilla glabra var. longipetala?t=foc)
+* [P.  glabra var. mandshurica  白毛银露梅](http://www.iplant.cn/info/Potentilla glabra var. mandshurica?t=foc)
+* [P.  glabra var. veitchii  伏毛银露梅](http://www.iplant.cn/info/Potentilla glabra var. veitchii?t=foc)
+* [P.  glabriuscula  光叶委陵菜](http://www.iplant.cn/info/Potentilla glabriuscula?t=foc)
+* [P.  glabriuscula var. glabriuscula  光叶委陵菜(原变种)](http://www.iplant.cn/info/Potentilla glabriuscula var. glabriuscula?t=foc)
+* [P.  glabriuscula var. oligandra  多蕊光叶委陵菜](http://www.iplant.cn/info/Potentilla glabriuscula var. oligandra?t=foc)
+* [P.  gombalana  川边委陵菜](http://www.iplant.cn/info/Potentilla gombalana?t=foc)
+* [P.  granulosa  腺粒委陵菜](http://www.iplant.cn/info/Potentilla granulosa?t=foc)
+* [P.  griffithii  柔毛委陵菜](http://www.iplant.cn/info/Potentilla griffithii?t=foc)
+* [P.  griffithii var. griffithii  柔毛委陵菜(原变种)](http://www.iplant.cn/info/Potentilla griffithii var. griffithii?t=foc)
+* [P.  griffithii var. velutina  长柔毛委陵菜](http://www.iplant.cn/info/Potentilla griffithii var. velutina?t=foc)
+* [P.  hololeuca  全白委陵菜](http://www.iplant.cn/info/Potentilla hololeuca?t=foc)
+* [P.  hypargyrea  白背委陵菜](http://www.iplant.cn/info/Potentilla hypargyrea?t=foc)
+* [P.  hypargyrea var. hypargyrea  白背委陵菜(原变种)](http://www.iplant.cn/info/Potentilla hypargyrea var. hypargyrea?t=foc)
+* [P.  hypargyrea var. subpinnata  假羽白背委陵菜](http://www.iplant.cn/info/Potentilla hypargyrea var. subpinnata?t=foc)
+* [P.  imbricata  覆瓦委陵菜](http://www.iplant.cn/info/Potentilla imbricata?t=foc)
+* [P.  inclinata  薄毛委陵菜](http://www.iplant.cn/info/Potentilla inclinata?t=foc)
+* [P.  kleiniana  蛇含委陵菜](http://www.iplant.cn/info/Potentilla kleiniana?t=foc)
+* [P.  lancinata  条裂委陵菜](http://www.iplant.cn/info/Potentilla lancinata?t=foc)
+* [P.  leuconota  银叶委陵菜](http://www.iplant.cn/info/Potentilla leuconota?t=foc)
+* [P.  leuconota var. brachyphyllaria  脱毛银叶委陵菜](http://www.iplant.cn/info/Potentilla leuconota var. brachyphyllaria?t=foc)
+* [P.  leuconota var. leuconota  银叶委陵菜(原变种)](http://www.iplant.cn/info/Potentilla leuconota var. leuconota?t=foc)
+* [P.  leuconota var. omeiensis  峨眉银叶委陵菜](http://www.iplant.cn/info/Potentilla leuconota var. omeiensis?t=foc)
+* [P.  limprichtii  下江委陵菜](http://www.iplant.cn/info/Potentilla limprichtii?t=foc)
+* [P.  lineata  西南委陵菜](http://www.iplant.cn/info/Potentilla lineata?t=foc)
+* [P.  longifolia  腺毛委陵菜](http://www.iplant.cn/info/Potentilla longifolia?t=foc)
+* [P.  macrosepala  大花委陵菜](http://www.iplant.cn/info/Potentilla macrosepala?t=foc)
+* [P.  microphylla  小叶委陵菜](http://www.iplant.cn/info/Potentilla microphylla?t=foc)
+* [P.  microphylla var. luteopilosa  黄毛小叶委陵菜](http://www.iplant.cn/info/Potentilla microphylla var. luteopilosa?t=foc)
+* [P.  microphylla var. microphylla  小叶委陵菜(原变种)](http://www.iplant.cn/info/Potentilla microphylla var. microphylla?t=foc)
+* [P.  microphylla var. tapetodes  丛生小叶委陵菜](http://www.iplant.cn/info/Potentilla microphylla var. tapetodes?t=foc)
+* [P.  multicaulis  多茎委陵菜](http://www.iplant.cn/info/Potentilla multicaulis?t=foc)
+* [P.  multiceps  多头委陵菜](http://www.iplant.cn/info/Potentilla multiceps?t=foc)
+* [P.  multifida  多裂委陵菜](http://www.iplant.cn/info/Potentilla multifida?t=foc)
+* [P.  multifida var. multifida  多裂委陵菜(原变种)](http://www.iplant.cn/info/Potentilla multifida var. multifida?t=foc)
+* [P.  multifida var. nubigena  矮生多裂委陵菜](http://www.iplant.cn/info/Potentilla multifida var. nubigena?t=foc)
+* [P.  multifida var. ornithopoda  掌叶多裂委陵菜](http://www.iplant.cn/info/Potentilla multifida var. ornithopoda?t=foc)
+* [P.  nervosa  显脉委陵菜](http://www.iplant.cn/info/Potentilla nervosa?t=foc)
+* [P.  nivea  雪白委陵菜](http://www.iplant.cn/info/Potentilla nivea?t=foc)
+* [P.  nivea var. elongata  多齿雪白委陵菜](http://www.iplant.cn/info/Potentilla nivea var. elongata?t=foc)
+* [P.  nivea var. nivea  雪白委陵菜(原变种)](http://www.iplant.cn/info/Potentilla nivea var. nivea?t=foc)
+* [P.  pamiroalaica  高原委陵菜](http://www.iplant.cn/info/Potentilla pamiroalaica?t=foc)
+* [P.  parvifolia  小叶金露梅](http://www.iplant.cn/info/Potentilla parvifolia?t=foc)
+* [P.  parvifolia var. hypoleuca  白毛小叶金露梅](http://www.iplant.cn/info/Potentilla parvifolia var. hypoleuca?t=foc)
+* [P.  parvifolia var. parvifolia  小叶金露梅(原变种)](http://www.iplant.cn/info/Potentilla parvifolia var. parvifolia?t=foc)
+* [P.  peduncularis  总梗委陵菜](http://www.iplant.cn/info/Potentilla peduncularis?t=foc)
+* [P.  peduncularis var. curta  少齿总梗委陵菜](http://www.iplant.cn/info/Potentilla peduncularis var. curta?t=foc)
+* [P.  peduncularis var. peduncularis  总梗委陵菜(原变种)](http://www.iplant.cn/info/Potentilla peduncularis var. peduncularis?t=foc)
+* [P.  peduncularis var. shweliensis  多齿总梗委陵菜](http://www.iplant.cn/info/Potentilla peduncularis var. shweliensis?t=foc)
+* [P.  peduncularis var. vittata  狭叶总梗委陵菜](http://www.iplant.cn/info/Potentilla peduncularis var. vittata?t=foc)
+* [P.  pendula  垂花委陵菜](http://www.iplant.cn/info/Potentilla pendula?t=foc)
+* [P.  plumosa  羽毛委陵菜](http://www.iplant.cn/info/Potentilla plumosa?t=foc)
+* [P.  polyphylla  多叶委陵菜](http://www.iplant.cn/info/Potentilla polyphylla?t=foc)
+* [P.  polyphylla var. interrupta  间断委陵菜](http://www.iplant.cn/info/Potentilla polyphylla var. interrupta?t=foc)
+* [P.  polyphylla var. polyphylla  多叶委陵菜(原变种)](http://www.iplant.cn/info/Potentilla polyphylla var. polyphylla?t=foc)
+* [P.  polyphylloides  似多叶委陵菜](http://www.iplant.cn/info/Potentilla polyphylloides?t=foc)
+* [P.  potaninii  华西委陵菜](http://www.iplant.cn/info/Potentilla potaninii?t=foc)
+* [P.  potaninii var. compsophylla  裂叶华西委陵菜](http://www.iplant.cn/info/Potentilla potaninii var. compsophylla?t=foc)
+* [P.  potaninii var. potaninii  华西委陵菜(原变种)](http://www.iplant.cn/info/Potentilla potaninii var. potaninii?t=foc)
+* [P.  pseudosimulatrix  ](http://www.iplant.cn/info/Potentilla pseudosimulatrix?t=foc)
+* [P.  recta  直立委陵菜](http://www.iplant.cn/info/Potentilla recta?t=foc)
+* [P.  reptans  匍匐委陵菜](http://www.iplant.cn/info/Potentilla reptans?t=foc)
+* [P.  reptans var. reptans  匍匐委陵菜(原变种)](http://www.iplant.cn/info/Potentilla reptans var. reptans?t=foc)
+* [P.  reptans var. sericophylla  绢毛匍匐委陵菜](http://www.iplant.cn/info/Potentilla reptans var. sericophylla?t=foc)
+* [P.  rosulifera  曲枝委陵菜](http://www.iplant.cn/info/Potentilla rosulifera?t=foc)
+* [P.  rupestris  石生委陵菜](http://www.iplant.cn/info/Potentilla rupestris?t=foc)
+* [P.  saundersiana var. caespitosa  丛生钉柱委陵菜](http://www.iplant.cn/info/Potentilla saundersiana var. caespitosa?t=foc)
+* [P.  saundersiana var. jacquemontii  裂萼钉柱委陵菜](http://www.iplant.cn/info/Potentilla saundersiana var. jacquemontii?t=foc)
+* [P.  saundersiana var. saundersiana  钉柱委陵菜(原变种)](http://www.iplant.cn/info/Potentilla saundersiana var. saundersiana?t=foc)
+* [P.  saundersiana var. subpinnata  羽叶钉柱委陵菜](http://www.iplant.cn/info/Potentilla saundersiana var. subpinnata?t=foc)
+* [P.  sericea  绢毛委陵菜](http://www.iplant.cn/info/Potentilla sericea?t=foc)
+* [P.  sericea var. polyschista  变叶绢毛委陵菜](http://www.iplant.cn/info/Potentilla sericea var. polyschista?t=foc)
+* [P.  sericea var. sericea  绢毛委陵菜(原变种)](http://www.iplant.cn/info/Potentilla sericea var. sericea?t=foc)
+* [P.  simulatrix  等齿委陵菜](http://www.iplant.cn/info/Potentilla simulatrix?t=foc)
+* [P.  sischanensis  西山委陵菜](http://www.iplant.cn/info/Potentilla sischanensis?t=foc)
+* [P.  sischanensis var. peterae  齿裂西山委陵菜](http://www.iplant.cn/info/Potentilla sischanensis var. peterae?t=foc)
+* [P.  sischanensis var. sischanensis  西山委陵菜(原变种)](http://www.iplant.cn/info/Potentilla sischanensis var. sischanensis?t=foc)
+* [P.  smithiana  齿萼委陵菜](http://www.iplant.cn/info/Potentilla smithiana?t=foc)
+* [P.  spectabilis  ](http://www.iplant.cn/info/Potentilla spectabilis?t=foc)
+* [P.  stenophylla  狭叶委陵菜](http://www.iplant.cn/info/Potentilla stenophylla?t=foc)
+* [P.  stenophylla var. cristata  贡山狭叶委陵菜](http://www.iplant.cn/info/Potentilla stenophylla var. cristata?t=foc)
+* [P.  stenophylla var. emergens  康定委陵菜](http://www.iplant.cn/info/Potentilla stenophylla var. emergens?t=foc)
+* [P.  stenophylla var. stenophylla  狭叶委陵菜(原变种)](http://www.iplant.cn/info/Potentilla stenophylla var. stenophylla?t=foc)
+* [P.  stenophylla var. taliensis  大理委陵菜](http://www.iplant.cn/info/Potentilla stenophylla var. taliensis?t=foc)
+* [P.  strigosa  茸毛委陵菜](http://www.iplant.cn/info/Potentilla strigosa?t=foc)
+* [P.  subdigitata  混叶委陵菜](http://www.iplant.cn/info/Potentilla subdigitata?t=foc)
+* [P.  supina  朝天委陵菜](http://www.iplant.cn/info/Potentilla supina?t=foc)
+* [P.  supina var. supina  朝天委陵菜(原变种)](http://www.iplant.cn/info/Potentilla supina var. supina?t=foc)
+* [P.  supina var. ternata  三叶朝天委陵菜](http://www.iplant.cn/info/Potentilla supina var. ternata?t=foc)
+* [P.  tanacetifolia  菊叶委陵菜](http://www.iplant.cn/info/Potentilla tanacetifolia?t=foc)
+* [P.  taronensis  大果委陵菜](http://www.iplant.cn/info/Potentilla taronensis?t=foc)
+* [P.  tugitakensis  台湾委陵菜](http://www.iplant.cn/info/Potentilla tugitakensis?t=foc)
+* [P.  turfosa  簇生委陵菜](http://www.iplant.cn/info/Potentilla turfosa?t=foc)
+* [P.  turfosa var. gracilescens  纤细委陵菜](http://www.iplant.cn/info/Potentilla turfosa var. gracilescens?t=foc)
+* [P.  turfosa var. turfosa  簇生委陵菜(原变种)](http://www.iplant.cn/info/Potentilla turfosa var. turfosa?t=foc)
+* [P.  verticillaris  轮叶委陵菜](http://www.iplant.cn/info/Potentilla verticillaris?t=foc)
+* [P.  virgata  密枝委陵菜](http://www.iplant.cn/info/Potentilla virgata?t=foc)
+* [P.  virgata var. pinnatifida  羽裂密枝委陵菜](http://www.iplant.cn/info/Potentilla virgata var. pinnatifida?t=foc)
+* [P.  virgata var. virgata  密枝委陵菜(原变种)](http://www.iplant.cn/info/Potentilla virgata var. virgata?t=foc)
+* [P.  wenchuensis  汶川委陵菜](http://www.iplant.cn/info/Potentilla wenchuensis?t=foc)
+* [P.  xizangensis  西藏委陵菜](http://www.iplant.cn/info/Potentilla xizangensis?t=foc)
+* [P.  zhangbeiensis  ](http://www.iplant.cn/info/Potentilla zhangbeiensis?t=foc)
+
+## 中国植物志
+
+> * [银光委陵菜  P.  argyrophylla](http://www.iplant.cn/info/Potentilla argyrophylla?t=z)
+> * [白萼委陵菜  P.  betonicifolia](http://www.iplant.cn/info/Potentilla betonicifolia?t=z)
+> * [滇西委陵菜  P.  delavayi](http://www.iplant.cn/info/Potentilla delavayi?t=z)
+> * [脱绒委陵菜  P.  evestita](http://www.iplant.cn/info/Potentilla evestita?t=z)
+> * [显脉委陵菜  P.  nervosa](http://www.iplant.cn/info/Potentilla nervosa?t=z)
+
+**钉柱委陵菜 Potentilla saundersiana**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第37卷](http://www.iplant.cn/frps/vol/37) >> 298页 [PDF](http://www.iplant.cn/frps/pdf/37/298.PDF)
+**48. 钉柱委陵菜（中国高等植物图鉴）**
+Potentilla saundersiana Royle, Ill. Bot. Himal. Mount. 2: 207. t. 41. 1839, Hand.-Mazz. in Acta Hort. Gothob. 13:312. 1939; 中国高等植物图鉴 2: 293. 图2316. 1972. ——P. multifida L. var. saundersiana Hook. f. Fl. Brit. Ind. 2: 345. 1878. ——P. leschenaultiana Ser. var. pumila Franch. Pl. Delav. 212. 1890. ——P. potaninii Wolf var. subdigitata Wolf in Bibl. Bot. 71: 167. 1908. ——P. thibetica Card. in Lecomte, Not. Syst. 3: 233. 1914. ——P. griffithii Hook. f. var. pumila (Franch.) Hand.-Mazz. Symb. Sin. 7: 511. 1933.
+**48a. 钉柱委陵菜（原变种）**
+P. saundersiana Royle var. saundersiana
+多年生草本。根粗壮，圆柱形。花茎直立或上升，高10-20厘米，被白色绒毛及疏柔毛。基生叶3-5掌状复叶，连叶柄长2-5厘米，被白色绒毛及疏柔毛，小叶无柄；小叶片长圆倒卵形，长0.5-2厘米，宽0.4-1厘米，顶端圆钝或急尖，基部楔形，边缘有多数缺刻状锯齿，齿顶端急尖或微钝，上面绿色，伏生稀疏柔毛，下面密被白色绒毛，沿脉伏生疏柔毛，茎生叶1-2，小叶3-5，与基生叶小叶相似；基生叶托叶膜质，褐色，外面被白色长柔毛或脱落几无毛，茎生叶托叶草质，绿色，卵形或卵状披针形，通常全缘，顶端渐尖或急尖，下面被白色绒毛及疏柔毛。聚伞花序顶生，有花多朵，疏散，花梗长1-3厘米，外被白色绒毛；花直径1-1.4厘米；萼片三角卵形或三角披针形，副萼片披针形，顶端尖锐，比萼片短或几等长，外被白色绒毛及柔毛；花瓣黄色，倒卵形，顶端下凹，比萼片略长或长1倍；花柱近顶生，基部膨大不明显，柱头略扩大。瘦果光滑。花果期6-8月。
+产山西、陕西、甘肃、宁夏、新疆、青海、四川、云南、西藏。生山坡草地、多石山顶、高山灌丛及草甸，海拔2600-5150米。印度、尼泊尔、不丹和锡金也有分布。
+本种广布于我国北部及西南部高山地区，植株高矮，毛茸多少均有变异，掌状复叶以5小叶为多，也有3小叶，有时最下两小叶稍有间隔成亚羽状，叶边锯齿或深或浅，有的成裂片状变异较大。
+**48b. 裂萼钉柱委陵菜（变种）**
+P. saundersiana Royle var. jaequemontii Franch. Pl. Delav. 3: 215. 1890: Hand.-Mazz. Symb. Sin. 7: 513. 1933. ——P. forrestii W. W. Smith in Not. Roy. Bot. Gard. Edinb. 8: 198. 1914: H. R. Fletcher in Not. Roy. Bot. Gard. Edinb. 20: 210. 1950.
+本变种特点：叶3-5掌状复叶，小叶边缘有多数锯齿，上面或多或少密集伏生绢状柔毛，下面被灰白色绒毛及绢毛，副萼片常有2-3裂齿，稀4-5裂，与萼片近等长，外面密被白色绒毛及柔毛，可与其他变种相区别。
+产云南、西藏。生山坡草地、高山灌丛、草甸，海拔3400-4100米。
+**48c. 羽叶钉柱委陵菜（变种）**
+P. saundersiana Royle var. subpinnata Hand. -Mazz. Symb. Sin. 7: 513. 1933. ——P. forrestii W. W. Smith var. subpinnata Hand.-Mazz. in Acta Hort. Gothob. 13: 312. 1939.
+本变种的特点：基生叶小叶(3-)5-7(-8)近羽状排列，上面密被伏生绢状柔毛；副萼片顶端急尖或有1-2裂齿。
+产四川、云南。生高山草地、多石砾地，海拔3100-3600米。
+**48d. 丛生钉柱委陵菜（变种）　雪委陵菜（秦岭植物志）**
+P. saundersiana Royle var. eaespitosa (Lehm.) Wolf in Bibl. Bot. 71: 243. 1908. ——P. caespitosa Lehm. in Ind. Sem. Hort. Bot. Hamb. 10. 1849; Revis. Potent. 172. t. 53. f. 2. 18.56. ——P. sino-nivea Hulten in Bot. Not. 2: 138. 1945.
+本变种与原变种不同在于，植株矮小丛生，根向下生长较细，叶常3出，小叶宽倒形，边缘浅裂至深裂，单花顶生，稀2花。
+产内蒙古、山西、陕西、甘肃、青海、新疆、四川、云南、西藏。生高山草地及灌木林下，海拔2700-5200米。
+
+## 检索表
+* 1 花多朵成聚伞花序。——(2)
+* ~花单生，稀2花。——[丛生钉柱委陵菜](http://www.iplant.cn/info/Potentilla saundersiana var. caespitosa?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+* 2 基生叶3-5掌状复叶。——(3)
+* ~基生叶小叶5-7近羽状排列，上面伏生绢状柔毛。——[羽叶钉柱委陵菜](http://www.iplant.cn/info/Potentilla saundersiana var. subpinnata?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+* 3 小叶上面灰绿色，密被伏生绢状柔毛；副萼片顶端有2-3裂齿，稀4-5裂齿，与萼片近等长。——[裂萼钉柱委陵菜](http://www.iplant.cn/info/Potentilla saundersiana var. jacquemontii?t=z)
+* ~小叶上面绿色，伏生疏柔毛；副萼片顶端尖锐，比萼片短或几与萼片近等长。——[钉柱委陵菜（原变种）](http://www.iplant.cn/info/Potentilla saundersiana var. saundersiana?t=z)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+### 下级分类
+* [丛生钉柱委陵菜  Potentilla saundersiana var. caespitosa](http://www.iplant.cn/info/Potentilla saundersiana var. caespitosa?t=z)
+* [裂萼钉柱委陵菜  Potentilla saundersiana var. jacquemontii](http://www.iplant.cn/info/Potentilla saundersiana var. jacquemontii?t=z)
+* [钉柱委陵菜（原变种）  Potentilla saundersiana var. saundersiana](http://www.iplant.cn/info/Potentilla saundersiana var. saundersiana?t=z)
+* [羽叶钉柱委陵菜  Potentilla saundersiana var. subpinnata](http://www.iplant.cn/info/Potentilla saundersiana var. subpinnata?t=z)
+
+### 下级分类
+* [丛生钉柱委陵菜  Potentilla saundersiana var. caespitosa](http://iplant.cn/info/sp/Potentilla saundersiana var. caespitosa?t=z)
+* [裂萼钉柱委陵菜  Potentilla saundersiana var. jacquemontii](http://iplant.cn/info/sp/Potentilla saundersiana var. jacquemontii?t=z)
+* [钉柱委陵菜（原变种）  Potentilla saundersiana var. saundersiana](http://iplant.cn/info/sp/Potentilla saundersiana var. saundersiana?t=z)
+* [羽叶钉柱委陵菜  Potentilla saundersiana var. subpinnata](http://iplant.cn/info/sp/Potentilla saundersiana var. subpinnata?t=z)

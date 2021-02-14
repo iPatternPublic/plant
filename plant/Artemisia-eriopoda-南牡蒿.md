@@ -1,0 +1,279 @@
+南牡蒿 **Artemisia eriopoda** Bunge Enum. Pl. China Bor. 37. 1833.
+
+> [Asteraceae](http://www.iplant.cn/info/Asteraceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Asteraceae.pdf) >> [Artemisia](http://www.iplant.cn/info/Artemisia?t=foc)
+ - [PDF](http://www.iplant.cn/foc/pdf/Artemisia.pdf)
+
+## Description
+
+Herbs, perennial, (30-)40-80 cm tall, much branched, with a short thick terete rootstock. Basal and lower stem leaves: petiole 1.5-3 cm; leaf blade suborbicular, broadly ovate, or obovate, 4-6(-8) × 2.5-6 cm, 1- or 2-pinnatisect to almost entire; segments 2 or 3(or 4) pairs, obovate or subspatulate, cleft or serrate at margin or leaves entire or few serrate, base attenuate. Middle stem leaves: blade suborbicular or broadly ovate, 2-4 × 2-4 cm, 1- or 2-pinnatisect or partite; lobes 2 or 3 pairs, elliptic or subspatulate, 3-partite or -cleft, serrate or entire apically. Uppermost leaves pinnatisect; lobes elliptic or lobules narrowly linear or narrowly lanceolate; leaflike bracts 3-lobed or entire. Synflorescence a broad panicle, main branches many, with short lateral branches. Capitula many, pedunculate. Involucre broadly ovoid or subglobose, 1.5-2.5 mm in diam. Marginal female florets 4-8. Disk florets 6-10, male. Achenes oblong. Fl. and fr. Jun-Nov.
+
+### Statistics
+Forest margins, roadsides, grasslands, shrublands, canyons, forest steppes, steppes, seashore dunes, waste areas, slopes, mountains; near sea level to 2100 m. Anhui, S and SW Gansu, Hebei, Henan, Hubei, Hunan, Jiangsu, Liaoning, Nei Mongol, S Shaanxi, Shandong, Shanxi, Sichuan, N Yunnan [Japan, Korea, E Mongolia].
+
+### Parsublist
+
+* [A.  abaensis  阿坝蒿](http://www.iplant.cn/info/Artemisia abaensis?t=foc)
+* [A.  absinthium  中亚苦蒿](http://www.iplant.cn/info/Artemisia absinthium?t=foc)
+* [A.  adamsii  东北丝裂蒿](http://www.iplant.cn/info/Artemisia adamsii?t=foc)
+* [A.  aksaiensis  阿克塞蒿](http://www.iplant.cn/info/Artemisia aksaiensis?t=foc)
+* [A.  anethifolia  碱蒿](http://www.iplant.cn/info/Artemisia anethifolia?t=foc)
+* [A.  anethoides  莳萝蒿](http://www.iplant.cn/info/Artemisia anethoides?t=foc)
+* [A.  angustissima  狭叶牡蒿](http://www.iplant.cn/info/Artemisia angustissima?t=foc)
+* [A.  annua  黄花蒿](http://www.iplant.cn/info/Artemisia annua?t=foc)
+* [A.  anomala  奇蒿](http://www.iplant.cn/info/Artemisia anomala?t=foc)
+* [A.  anomala var. anomala  奇蒿(原变种)](http://www.iplant.cn/info/Artemisia anomala var. anomala?t=foc)
+* [A.  anomala var. tomentella  密毛奇蒿](http://www.iplant.cn/info/Artemisia anomala var. tomentella?t=foc)
+* [A.  argyi  艾](http://www.iplant.cn/info/Artemisia argyi?t=foc)
+* [A.  argyrophylla  银叶蒿](http://www.iplant.cn/info/Artemisia argyrophylla?t=foc)
+* [A.  argyrophylla var. argyrophylla  银叶蒿(原变种)](http://www.iplant.cn/info/Artemisia argyrophylla var. argyrophylla?t=foc)
+* [A.  argyrophylla var. brevis  小银叶蒿](http://www.iplant.cn/info/Artemisia argyrophylla var. brevis?t=foc)
+* [A.  aschurbajewii  褐头蒿](http://www.iplant.cn/info/Artemisia aschurbajewii?t=foc)
+* [A.  atrovirens  暗绿蒿](http://www.iplant.cn/info/Artemisia atrovirens?t=foc)
+* [A.  aurata  黄金蒿](http://www.iplant.cn/info/Artemisia aurata?t=foc)
+* [A.  austriaca  银蒿](http://www.iplant.cn/info/Artemisia austriaca?t=foc)
+* [A.  austroyunnanensis  滇南艾](http://www.iplant.cn/info/Artemisia austroyunnanensis?t=foc)
+* [A.  baimaensis  班玛蒿](http://www.iplant.cn/info/Artemisia baimaensis?t=foc)
+* [A.  bargusinensis  巴尔古津蒿](http://www.iplant.cn/info/Artemisia bargusinensis?t=foc)
+* [A.  blepharolepis  白莎蒿](http://www.iplant.cn/info/Artemisia blepharolepis?t=foc)
+* [A.  brachyloba  山蒿](http://www.iplant.cn/info/Artemisia brachyloba?t=foc)
+* [A.  brachyphylla  高岭蒿](http://www.iplant.cn/info/Artemisia brachyphylla?t=foc)
+* [A.  caespitosa  矮丛蒿](http://www.iplant.cn/info/Artemisia caespitosa?t=foc)
+* [A.  calophylla  美叶蒿](http://www.iplant.cn/info/Artemisia calophylla?t=foc)
+* [A.  campbellii  绒毛蒿](http://www.iplant.cn/info/Artemisia campbellii?t=foc)
+* [A.  campestris  荒野蒿](http://www.iplant.cn/info/Artemisia campestris?t=foc)
+* [A.  capillaris  茵陈蒿](http://www.iplant.cn/info/Artemisia capillaris?t=foc)
+* [A.  caruifolia  青蒿](http://www.iplant.cn/info/Artemisia caruifolia?t=foc)
+* [A.  caruifolia var. caruifolia  青蒿(原变种)](http://www.iplant.cn/info/Artemisia caruifolia var. caruifolia?t=foc)
+* [A.  caruifolia var. schochii  大头青蒿](http://www.iplant.cn/info/Artemisia caruifolia var. schochii?t=foc)
+* [A.  chienshanica  千山蒿](http://www.iplant.cn/info/Artemisia chienshanica?t=foc)
+* [A.  chingii  南毛蒿](http://www.iplant.cn/info/Artemisia chingii?t=foc)
+* [A.  comaiensis  高山矮蒿](http://www.iplant.cn/info/Artemisia comaiensis?t=foc)
+* [A.  conaensis  错那蒿](http://www.iplant.cn/info/Artemisia conaensis?t=foc)
+* [A.  dalai-lamae  米蒿](http://www.iplant.cn/info/Artemisia dalai-lamae?t=foc)
+* [A.  demissa  纤杆蒿](http://www.iplant.cn/info/Artemisia demissa?t=foc)
+* [A.  depauperata  中亚草原蒿](http://www.iplant.cn/info/Artemisia depauperata?t=foc)
+* [A.  desertorum  沙蒿](http://www.iplant.cn/info/Artemisia desertorum?t=foc)
+* [A.  desertorum var. desertorum  沙蒿(原变种)](http://www.iplant.cn/info/Artemisia desertorum var. desertorum?t=foc)
+* [A.  desertorum var. foetida  矮沙蒿](http://www.iplant.cn/info/Artemisia desertorum var. foetida?t=foc)
+* [A.  desertorum var. tongolensis  东俄洛沙蒿](http://www.iplant.cn/info/Artemisia desertorum var. tongolensis?t=foc)
+* [A.  deversa  侧蒿](http://www.iplant.cn/info/Artemisia deversa?t=foc)
+* [A.  disjuncta  矮丛光蒿](http://www.iplant.cn/info/Artemisia disjuncta?t=foc)
+* [A.  divaricata  叉枝蒿](http://www.iplant.cn/info/Artemisia divaricata?t=foc)
+* [A.  dracunculus  龙蒿](http://www.iplant.cn/info/Artemisia dracunculus?t=foc)
+* [A.  dracunculus var. changaica  杭爱龙蒿](http://www.iplant.cn/info/Artemisia dracunculus var. changaica?t=foc)
+* [A.  dracunculus var. dracunculus  龙蒿(原变种)](http://www.iplant.cn/info/Artemisia dracunculus var. dracunculus?t=foc)
+* [A.  dracunculus var. pamirica  帕米尔蒿](http://www.iplant.cn/info/Artemisia dracunculus var. pamirica?t=foc)
+* [A.  dracunculus var. qinghaiensis  青海龙蒿](http://www.iplant.cn/info/Artemisia dracunculus var. qinghaiensis?t=foc)
+* [A.  dracunculus var. turkestanica  宽裂龙蒿](http://www.iplant.cn/info/Artemisia dracunculus var. turkestanica?t=foc)
+* [A.  dubia  牛尾蒿](http://www.iplant.cn/info/Artemisia dubia?t=foc)
+* [A.  dubia var. dubia  牛尾蒿(原变种)](http://www.iplant.cn/info/Artemisia dubia var. dubia?t=foc)
+* [A.  dubia var. subdigitata  无毛牛尾蒿](http://www.iplant.cn/info/Artemisia dubia var. subdigitata?t=foc)
+* [A.  duthreuil-de-rhinsi  青藏蒿](http://www.iplant.cn/info/Artemisia duthreuil-de-rhinsi?t=foc)
+* [A.  emeiensis  峨眉蒿](http://www.iplant.cn/info/Artemisia emeiensis?t=foc)
+* [A.  eriopoda var. eriopoda  南牡蒿(原变种)](http://www.iplant.cn/info/Artemisia eriopoda var. eriopoda?t=foc)
+* [A.  eriopoda var. gansuensis  甘肃南牡蒿](http://www.iplant.cn/info/Artemisia eriopoda var. gansuensis?t=foc)
+* [A.  eriopoda var. maritima  渤海滨南牡蒿](http://www.iplant.cn/info/Artemisia eriopoda var. maritima?t=foc)
+* [A.  eriopoda var. rotundifolia  圆叶南牡蒿](http://www.iplant.cn/info/Artemisia eriopoda var. rotundifolia?t=foc)
+* [A.  eriopoda var. shanxiensis  山西南牡蒿](http://www.iplant.cn/info/Artemisia eriopoda var. shanxiensis?t=foc)
+* [A.  erlangshanensis  二郎山蒿](http://www.iplant.cn/info/Artemisia erlangshanensis?t=foc)
+* [A.  fauriei  海州蒿](http://www.iplant.cn/info/Artemisia fauriei?t=foc)
+* [A.  flaccida  垂叶蒿](http://www.iplant.cn/info/Artemisia flaccida?t=foc)
+* [A.  flaccida var. flaccida  垂叶蒿(原变种)](http://www.iplant.cn/info/Artemisia flaccida var. flaccida?t=foc)
+* [A.  flaccida var. meiguensis  齿裂垂叶蒿](http://www.iplant.cn/info/Artemisia flaccida var. meiguensis?t=foc)
+* [A.  forrestii  亮苞蒿](http://www.iplant.cn/info/Artemisia forrestii?t=foc)
+* [A.  freyniana  绿栉齿叶蒿](http://www.iplant.cn/info/Artemisia freyniana?t=foc)
+* [A.  frigida  冷蒿](http://www.iplant.cn/info/Artemisia frigida?t=foc)
+* [A.  frigida var. atropurpurea  紫花冷蒿](http://www.iplant.cn/info/Artemisia frigida var. atropurpurea?t=foc)
+* [A.  frigida var. frigida  冷蒿(原变种)](http://www.iplant.cn/info/Artemisia frigida var. frigida?t=foc)
+* [A.  fukudo  滨艾](http://www.iplant.cn/info/Artemisia fukudo?t=foc)
+* [A.  fulgens  亮蒿](http://www.iplant.cn/info/Artemisia fulgens?t=foc)
+* [A.  gansuensis  甘肃蒿](http://www.iplant.cn/info/Artemisia gansuensis?t=foc)
+* [A.  gansuensis var. gansuensis  甘肃蒿(原变种)](http://www.iplant.cn/info/Artemisia gansuensis var. gansuensis?t=foc)
+* [A.  gansuensis var. oligantha  小甘肃蒿](http://www.iplant.cn/info/Artemisia gansuensis var. oligantha?t=foc)
+* [A.  gilvescens  湘赣艾](http://www.iplant.cn/info/Artemisia gilvescens?t=foc)
+* [A.  giraldii  华北米蒿](http://www.iplant.cn/info/Artemisia giraldii?t=foc)
+* [A.  giraldii var. giraldii  华北米蒿(原变种)](http://www.iplant.cn/info/Artemisia giraldii var. giraldii?t=foc)
+* [A.  giraldii var. longipedunculata  长梗米蒿](http://www.iplant.cn/info/Artemisia giraldii var. longipedunculata?t=foc)
+* [A.  globosoides  假球蒿](http://www.iplant.cn/info/Artemisia globosoides?t=foc)
+* [A.  gmelinii  细裂叶莲蒿](http://www.iplant.cn/info/Artemisia gmelinii?t=foc)
+* [A.  gmelinii var. gmelinii  白莲蒿(原变种)](http://www.iplant.cn/info/Artemisia gmelinii var. gmelinii?t=foc)
+* [A.  gmelinii var. incana  灰莲蒿](http://www.iplant.cn/info/Artemisia gmelinii var. incana?t=foc)
+* [A.  gmelinii var. messerschmidiana  密毛白莲蒿](http://www.iplant.cn/info/Artemisia gmelinii var. messerschmidiana?t=foc)
+* [A.  gongshanensis  贡山蒿](http://www.iplant.cn/info/Artemisia gongshanensis?t=foc)
+* [A.  gyangzeensis  江孜蒿](http://www.iplant.cn/info/Artemisia gyangzeensis?t=foc)
+* [A.  gyitangensis  吉塘蒿](http://www.iplant.cn/info/Artemisia gyitangensis?t=foc)
+* [A.  halodendron  盐蒿](http://www.iplant.cn/info/Artemisia halodendron?t=foc)
+* [A.  hancei  雷琼牡蒿](http://www.iplant.cn/info/Artemisia hancei?t=foc)
+* [A.  hedinii  臭蒿](http://www.iplant.cn/info/Artemisia hedinii?t=foc)
+* [A.  igniaria  歧茎蒿](http://www.iplant.cn/info/Artemisia igniaria?t=foc)
+* [A.  imponens  锈苞蒿](http://www.iplant.cn/info/Artemisia imponens?t=foc)
+* [A.  incisa  尖裂叶蒿](http://www.iplant.cn/info/Artemisia incisa?t=foc)
+* [A.  indica  五月艾](http://www.iplant.cn/info/Artemisia indica?t=foc)
+* [A.  indica var. elegantissima  雅致艾](http://www.iplant.cn/info/Artemisia indica var. elegantissima?t=foc)
+* [A.  indica var. indica  五月艾(原变种)](http://www.iplant.cn/info/Artemisia indica var. indica?t=foc)
+* [A.  integrifolia  柳叶蒿](http://www.iplant.cn/info/Artemisia integrifolia?t=foc)
+* [A.  japonica  牡蒿](http://www.iplant.cn/info/Artemisia japonica?t=foc)
+* [A.  japonica var. hainanensis  海南牡蒿](http://www.iplant.cn/info/Artemisia japonica var. hainanensis?t=foc)
+* [A.  japonica var. japonica  牡蒿(原变种)](http://www.iplant.cn/info/Artemisia japonica var. japonica?t=foc)
+* [A.  jilongensis  吉隆蒿](http://www.iplant.cn/info/Artemisia jilongensis?t=foc)
+* [A.  kanashiroi  狭裂白蒿](http://www.iplant.cn/info/Artemisia kanashiroi?t=foc)
+* [A.  kangmarensis  康马蒿](http://www.iplant.cn/info/Artemisia kangmarensis?t=foc)
+* [A.  kawakamii  山艾](http://www.iplant.cn/info/Artemisia kawakamii?t=foc)
+* [A.  keiskeana  无齿蒌蒿](http://www.iplant.cn/info/Artemisia keiskeana?t=foc)
+* [A.  klementzae  蒙古沙地蒿](http://www.iplant.cn/info/Artemisia klementzae?t=foc)
+* [A.  kuschakewiczii  掌裂蒿](http://www.iplant.cn/info/Artemisia kuschakewiczii?t=foc)
+* [A.  lactiflora  白苞蒿](http://www.iplant.cn/info/Artemisia lactiflora?t=foc)
+* [A.  lactiflora var. incisa  细裂叶白苞蒿](http://www.iplant.cn/info/Artemisia lactiflora var. incisa?t=foc)
+* [A.  lactiflora var. lactiflora  白苞蒿(原变种)](http://www.iplant.cn/info/Artemisia lactiflora var. lactiflora?t=foc)
+* [A.  lactiflora var. taibaishanensis  太白山白苞蒿](http://www.iplant.cn/info/Artemisia lactiflora var. taibaishanensis?t=foc)
+* [A.  lagocephala  白山蒿](http://www.iplant.cn/info/Artemisia lagocephala?t=foc)
+* [A.  lancea  矮蒿](http://www.iplant.cn/info/Artemisia lancea?t=foc)
+* [A.  latifolia  宽叶蒿](http://www.iplant.cn/info/Artemisia latifolia?t=foc)
+* [A.  lavandulifolia  野艾蒿](http://www.iplant.cn/info/Artemisia lavandulifolia?t=foc)
+* [A.  leucophylla  白叶蒿](http://www.iplant.cn/info/Artemisia leucophylla?t=foc)
+* [A.  littoricola  滨海牡蒿](http://www.iplant.cn/info/Artemisia littoricola?t=foc)
+* [A.  macilenta  细杆沙蒿](http://www.iplant.cn/info/Artemisia macilenta?t=foc)
+* [A.  macrantha  亚洲大花蒿](http://www.iplant.cn/info/Artemisia macrantha?t=foc)
+* [A.  macrocephala  大花蒿](http://www.iplant.cn/info/Artemisia macrocephala?t=foc)
+* [A.  mairei  小亮苞蒿](http://www.iplant.cn/info/Artemisia mairei?t=foc)
+* [A.  manshurica  东北牡蒿](http://www.iplant.cn/info/Artemisia manshurica?t=foc)
+* [A.  marschalliana  中亚旱蒿](http://www.iplant.cn/info/Artemisia marschalliana?t=foc)
+* [A.  marschalliana var. marschalliana  中亚旱蒿(原变种)](http://www.iplant.cn/info/Artemisia marschalliana var. marschalliana?t=foc)
+* [A.  marschalliana var. sericophylla  绢毛旱蒿](http://www.iplant.cn/info/Artemisia marschalliana var. sericophylla?t=foc)
+* [A.  mattfeldii  粘毛蒿](http://www.iplant.cn/info/Artemisia mattfeldii?t=foc)
+* [A.  mattfeldii var. etomentosa  无绒粘毛蒿](http://www.iplant.cn/info/Artemisia mattfeldii var. etomentosa?t=foc)
+* [A.  mattfeldii var. mattfeldii  粘毛蒿(原变种)](http://www.iplant.cn/info/Artemisia mattfeldii var. mattfeldii?t=foc)
+* [A.  maximovicziana  东亚栉齿蒿](http://www.iplant.cn/info/Artemisia maximovicziana?t=foc)
+* [A.  medioxima  尖栉齿叶蒿](http://www.iplant.cn/info/Artemisia medioxima?t=foc)
+* [A.  minor  垫型蒿](http://www.iplant.cn/info/Artemisia minor?t=foc)
+* [A.  mongolica  蒙古蒿](http://www.iplant.cn/info/Artemisia mongolica?t=foc)
+* [A.  montana  山地蒿](http://www.iplant.cn/info/Artemisia montana?t=foc)
+* [A.  moorcroftiana  小球花蒿](http://www.iplant.cn/info/Artemisia moorcroftiana?t=foc)
+* [A.  morrisonensis  细叶山艾](http://www.iplant.cn/info/Artemisia morrisonensis?t=foc)
+* [A.  myriantha  多花蒿](http://www.iplant.cn/info/Artemisia myriantha?t=foc)
+* [A.  myriantha var. myriantha  多花蒿(原变种)](http://www.iplant.cn/info/Artemisia myriantha var. myriantha?t=foc)
+* [A.  myriantha var. pleiocephala  白毛多花蒿](http://www.iplant.cn/info/Artemisia myriantha var. pleiocephala?t=foc)
+* [A.  nakaii  矮滨蒿](http://www.iplant.cn/info/Artemisia nakaii?t=foc)
+* [A.  nanschanica  昆仑蒿](http://www.iplant.cn/info/Artemisia nanschanica?t=foc)
+* [A.  niitakayamensis  玉山艾](http://www.iplant.cn/info/Artemisia niitakayamensis?t=foc)
+* [A.  nilagirica  南亚蒿](http://www.iplant.cn/info/Artemisia nilagirica?t=foc)
+* [A.  nortonii  藏旱蒿](http://www.iplant.cn/info/Artemisia nortonii?t=foc)
+* [A.  nujianensis  怒江蒿](http://www.iplant.cn/info/Artemisia nujianensis?t=foc)
+* [A.  obtusiloba  钝裂蒿](http://www.iplant.cn/info/Artemisia obtusiloba?t=foc)
+* [A.  obtusiloba var. glabra  亮绿蒿](http://www.iplant.cn/info/Artemisia obtusiloba var. glabra?t=foc)
+* [A.  obtusiloba var. obtusiloba  钝裂蒿(原变种)](http://www.iplant.cn/info/Artemisia obtusiloba var. obtusiloba?t=foc)
+* [A.  occidentalisichuanensis  川西腺毛蒿](http://www.iplant.cn/info/Artemisia occidentalisichuanensis?t=foc)
+* [A.  occidentalisinensis  华西蒿](http://www.iplant.cn/info/Artemisia occidentalisinensis?t=foc)
+* [A.  occidentalisinensis var. denticulata  齿裂华西蒿](http://www.iplant.cn/info/Artemisia occidentalisinensis var. denticulata?t=foc)
+* [A.  occidentalisinensis var. occidentalisinensis  华西蒿(原变种)](http://www.iplant.cn/info/Artemisia occidentalisinensis var. occidentalisinensis?t=foc)
+* [A.  oligocarpa  高山艾](http://www.iplant.cn/info/Artemisia oligocarpa?t=foc)
+* [A.  ordosica  黑沙蒿](http://www.iplant.cn/info/Artemisia ordosica?t=foc)
+* [A.  orientalihengduangensis  东方蒿](http://www.iplant.cn/info/Artemisia orientalihengduangensis?t=foc)
+* [A.  orientalixizangensis  昌都蒿](http://www.iplant.cn/info/Artemisia orientalixizangensis?t=foc)
+* [A.  orientaliyunnanensis  滇东蒿](http://www.iplant.cn/info/Artemisia orientaliyunnanensis?t=foc)
+* [A.  oxycephala  光沙蒿](http://www.iplant.cn/info/Artemisia oxycephala?t=foc)
+* [A.  palustris  黑蒿](http://www.iplant.cn/info/Artemisia palustris?t=foc)
+* [A.  parviflora  西南牡蒿](http://www.iplant.cn/info/Artemisia parviflora?t=foc)
+* [A.  pengchuoensis  彭错蒿](http://www.iplant.cn/info/Artemisia pengchuoensis?t=foc)
+* [A.  persica  伊朗蒿](http://www.iplant.cn/info/Artemisia persica?t=foc)
+* [A.  persica var. persica  伊朗蒿(原变种)](http://www.iplant.cn/info/Artemisia persica var. persica?t=foc)
+* [A.  persica var. subspinescens  微刺伊朗蒿](http://www.iplant.cn/info/Artemisia persica var. subspinescens?t=foc)
+* [A.  pewzowii  纤梗蒿](http://www.iplant.cn/info/Artemisia pewzowii?t=foc)
+* [A.  phaeolepis  褐苞蒿](http://www.iplant.cn/info/Artemisia phaeolepis?t=foc)
+* [A.  phyllobotrys  叶苞蒿](http://www.iplant.cn/info/Artemisia phyllobotrys?t=foc)
+* [A.  polybotryoidea  甘新青蒿](http://www.iplant.cn/info/Artemisia polybotryoidea?t=foc)
+* [A.  pontica  西北蒿](http://www.iplant.cn/info/Artemisia pontica?t=foc)
+* [A.  prattii  藏岩蒿](http://www.iplant.cn/info/Artemisia prattii?t=foc)
+* [A.  princeps  魁蒿](http://www.iplant.cn/info/Artemisia princeps?t=foc)
+* [A.  przewalskii  甘青小蒿](http://www.iplant.cn/info/Artemisia przewalskii?t=foc)
+* [A.  pubescens  柔毛蒿](http://www.iplant.cn/info/Artemisia pubescens?t=foc)
+* [A.  pubescens var. coracina  黑柔毛蒿](http://www.iplant.cn/info/Artemisia pubescens var. coracina?t=foc)
+* [A.  pubescens var. gebleriana  大头柔毛蒿](http://www.iplant.cn/info/Artemisia pubescens var. gebleriana?t=foc)
+* [A.  pubescens var. pubescens  柔毛蒿(原变种)](http://www.iplant.cn/info/Artemisia pubescens var. pubescens?t=foc)
+* [A.  qinlingensis  秦岭蒿](http://www.iplant.cn/info/Artemisia qinlingensis?t=foc)
+* [A.  robusta  粗茎蒿](http://www.iplant.cn/info/Artemisia robusta?t=foc)
+* [A.  rosthornii  川南蒿](http://www.iplant.cn/info/Artemisia rosthornii?t=foc)
+* [A.  roxburghiana  灰苞蒿](http://www.iplant.cn/info/Artemisia roxburghiana?t=foc)
+* [A.  roxburghiana var. purpurascens  紫苞蒿](http://www.iplant.cn/info/Artemisia roxburghiana var. purpurascens?t=foc)
+* [A.  roxburghiana var. roxburghiana  灰苞蒿(原变种)](http://www.iplant.cn/info/Artemisia roxburghiana var. roxburghiana?t=foc)
+* [A.  rubripes  红足蒿](http://www.iplant.cn/info/Artemisia rubripes?t=foc)
+* [A.  rupestris  岩蒿](http://www.iplant.cn/info/Artemisia rupestris?t=foc)
+* [A.  rutifolia  香叶蒿](http://www.iplant.cn/info/Artemisia rutifolia?t=foc)
+* [A.  rutifolia var. altaica  阿尔泰香叶蒿](http://www.iplant.cn/info/Artemisia rutifolia var. altaica?t=foc)
+* [A.  rutifolia var. ruoqiangensis  诺羌香叶蒿](http://www.iplant.cn/info/Artemisia rutifolia var. ruoqiangensis?t=foc)
+* [A.  rutifolia var. rutifolia  香叶蒿(原变种)](http://www.iplant.cn/info/Artemisia rutifolia var. rutifolia?t=foc)
+* [A.  saposhnikovii  昆仑沙蒿](http://www.iplant.cn/info/Artemisia saposhnikovii?t=foc)
+* [A.  scoparia  猪毛蒿](http://www.iplant.cn/info/Artemisia scoparia?t=foc)
+* [A.  vulgaris  北艾](http://www.iplant.cn/info/Artemisia vulgaris?t=foc)
+* [A.  vulgaris var. vulgaris  北艾(原变种)](http://www.iplant.cn/info/Artemisia vulgaris var. vulgaris?t=foc)
+
+## 中国植物志
+
+> * [狭叶牡蒿  A.  angustissima](Artemisia-angustissima-狭叶牡蒿.md)
+> * [雷琼牡蒿  A.  hancei](Artemisia-hancei-雷琼牡蒿.md)
+> * [牡蒿  A.  japonica](Artemisia-japonica-牡蒿.md)
+> * [滨海牡蒿  A.  littoricola](Artemisia-littoricola-滨海牡蒿.md)
+
+**南牡蒿 Artemisia eriopoda",
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第76(2)卷](http://www.iplant.cn/frps/vol/76(2)) >> 235页 [PDF](http://www.iplant.cn/frps/pdf/76(2)/235.PDF)
+
+**174.南牡蒿（东北植物检索表）牡蒿（北京植物志），拔拉蒿（山东青岛），黄蒿（山西、内蒙古），一枝蒿（山西），米蒿（河北、山西），“乌苏力格一沙里尔日”（蒙语名）**
+
+Artemisia eriopoda Bge. in Mem. Acad. Sci. Petersb 2: 111. 1833; DC. Prodr. 6: 96. 1837; Maxim. in Bull. Acad. Sci. Petersb. 8: 526. 1872; Franch. Pl. David. 1: 168 1884; Forb. et Hemsl. in Journ. Linn. Soc. Bot, 23: 442. 1888; Hand.-Mazz. in Act. Hort. Gothob. 12: 27 5. 1938; Kitag. Lineam. Fl. Mansh. 425, 1939;东北植物检索表394. 1959; Noda, Fl. N.-E. Prov. (Manch.) China 1212. 1971; S. Y. Hu in Quart. Journ. Taiwan Mus. 18(1-2): 133. 1965;中国高等植物图鉴4.527, 图6468. 1975; 江苏植物志, 下: 871, 图2190. 1982.——A. japonica Thunb. var. eriopoda (Bge.) Komar. Fl. Mansh. 3: 657. 1907. ——A. japonica Thunb. f. resedifolia Takeda in Bot. Mag. Tokyo 25: 22. 1911. ——A. japonica Thunb. var. japonica Maxim. f. eriopoda (Bge.) Pamp. in Nuov. Giorn. Bot. Ital. n. s. 34: 663一669. 1927, incl. subf. resedifolia Pamp. et var. rotundifolia Debeaux f. vestita Pamp. p. p.: Chen in Bull. Fan Mem. Inst. Biol. 5: 65. 1934. ——A. iaponica Thunb. var. macrocephala Pamp. f. chinensis Pamp. l. c. 34: 688. 1927, p. p.——A. capillaris Thunb. var. scoparia (Waldst. et Kit.) Pamp. f. grandiflora Pamp. l. c. 39: 24 1932.——A. pubescens Ledeb. subsp. Briopoda (Bge.) Kitam. in Mem. Coll. Sci. Kyoto Univ. ser. B. 15 (3): 387-1940. ——desertorum Spreng. var. tongolensis Pamp. f. latifolia Pamp. l. c. 39: 25. 1932.
+
+**174a. 南牡蒿（原变种）图版32:1-9**
+
+var. eriopoda
+
+多年生草本。主根明显，粗短、侧根多；根状茎稍粗短，肥厚，常成短圆柱状，直径5-8毫米，直立或斜向上，常有短的营养枝，枝上密生叶。茎通常单生，稀少2至少数，高 (30-)40-80厘米，具细纵棱，基部密生短柔毛，其余无毛，分枝多，开展，枝长10-20厘米，绿色或稍带紫褐色，疏被毛，以后渐脱落。叶纸质，上面无毛，背面微有短柔毛或无毛；基生叶与茎下部叶近圆形、宽卵形或倒卵形，长4-6(-8)厘米，宽2.5-6厘米，一至二回大头羽状深裂或全裂或不分裂，仅边缘具数枚疏锯齿，分裂叶每侧有裂片2-3(-4)枚，裂片倒卵形、近匙形或宽楔形，裂片先端至边缘具规则或不规则的深裂片或浅裂片，并有锯齿，叶基部渐狭，宽楔形，叶柄长1.5-3厘米；中部叶近圆形或宽卵形，长、宽2-4厘米，一至二回羽状深裂或全裂，每侧有裂片2-3枚，裂片椭圆形或近匙形，先端具3深裂或浅裂齿或全缘，叶基部宽楔形，近无柄，基部有线形分裂的假托叶；上部叶渐小，卵形或长卵形，羽状全裂，每侧裂片2-3枚，裂片椭圆形，先端常有3枚浅裂齿；苞片叶3深裂或不分裂；裂片或不分裂之苞片叶线状披针形、椭圆状披针形或披针形。头状花序多数，宽卵形或近球形，直径1.5-2.5毫米，无梗或具短梗，基部具线形的小苞叶，在茎端、分枝上半部及小枝上排成穗状花序或穗状花序式的总状花序，并在茎上组成开展、稍大型的圆锥花序；总苞片3-4层，外层略短小，外、中层总苞片卵形或长卵形，背面绿色或稍带紫褐色，无毛，边膜质，内层总苞片长卵形，半膜质；雌花4-8朵，花冠狭圆锥状，檐部具2-3裂齿，花柱伸出花冠外，先端2叉，叉端尖；两性花6-10朵，不孕育，花冠管状，花药线形，先端附属物尖，长三角形，基部圆钝，花柱短，先端稍膨大，不叉开。瘦果长圆形。花果期6-11月。
+
+产吉林、辽宁、内蒙古、河北、山西、陕西（南部）、山东、江苏、安徽、河南、湖北、湖南、四川、云南（北部）；生于海拔1 500米以下的林缘、路旁、草坡、灌.丛、溪边、疏林内或林中空地，也见于森林草原与山地草原地区，局部地区为植物群落的主要伴生种。朝鲜、日本、蒙古（东部）也有。模式标本采自北京郊区平谷县盘山。
+
+本种入药，有祛风、去湿、解毒之效。另亦作青蒿（即黄花蒿）的代用品。
+
+**174b.渤海滨南牡蒿（变种）**
+
+Artemisia eriopoda Bge. var. maritima Ling et Y. R. Ling in Bull. Bot. Res. 8(3): 6. 1988.
+
+与原变种区别在于本变种基生叶与茎下部叶质地稍肥厚，每侧具3枚裂片，每裂片先端具3枚规整的浅裂齿。头状花序在茎上排成中等开展的圆锥花序。
+
+产山东省烟台及荣成等海边沙地。模式标本采自山东烟台。
+
+**174c.圆叶南牡蒿（变种）**
+
+Artemisia eriopoda Bge. var. rotundifolia (Debeaux) Y. R. Ling l. c. 8 (4): 56. 1988. ——A. japonica Thunb. var. rotundifolia Debeaux in Act. Soc. Linn. Bord. 31: 220. 1876; Pamp. l. c . 34: 669. 1927, incl. f. genuina Pamp. subf. elata Pamp.; S. Y. Hu l. c. 18 (1-2): 140. 1965. ——A. japonica Thunb. f. rotundifolia Franch. in Mem. Soc. Sci. Nat. Cherb. 34: 226. 1884. ——A. rotundifolia (Debeaux) Krasch. in Mat. Hist. Fl. Veg. 2: 174.1946.
+
+与原变种区别在于本变种基生叶与茎下部叶近圆形或倒卵状宽匙形，不分裂或仅先端有疏而浅的裂齿或锯齿。
+
+产河北、山东与江苏（北部）；生于田边、路旁与坡地。模式标本采自山东烟台。
+
+**174d.甘肃南牡蒿（变种）**
+
+var. gansuensis Ling et Y. R. Ling in Bull. Bot. Res. 8(3): 7. 1988.
+
+与原变种区别在于本变种植株矮小，高仅10-30厘米；根状茎粗短。叶小，中部叶羽状全裂，每裂片具2-3枚浅裂齿。头状花序在茎上排成中等开展或略狭窄的圆锥花序。
+
+产甘肃南部及西南部；生于海拔2 100米以下地区的田边、路旁及山坡上。模式标本采自甘肃南部（康县）。
+
+**174e.山西南牡蒿（变种）**
+
+var. shanxiensis Y. R. Ling in Bull. Bot. Res. 8(3): 7. 1988.
+
+与原变种的区别在于本变种的茎上部分枝，枝长3-4厘米。中部叶一至二回羽状全裂，小裂片或裂片狭线形或狭线状披针形，长1.5-3厘米，宽1-1.5毫米。头状花序直径1.5-2毫米，在茎上排成狭窄的圆锥花序。
+
+产山西中条山。
+
+### 下级分类
+* [南牡蒿（原变种）  Artemisia eriopoda var. eriopoda](Artemisia-eriopoda-var-eriopoda-南牡蒿(原变种).md)
+* [甘肃南牡蒿   Artemisia eriopoda var. gansuensis](Artemisia-eriopoda-var-gansuensis-甘肃南牡蒿.md)
+* [渤海滨南牡蒿  Artemisia eriopoda var. maritima](Artemisia-eriopoda-var-maritima-渤海滨南牡蒿.md)
+* [圆叶南牡蒿  Artemisia eriopoda var. rotundifolia](Artemisia-eriopoda-var-rotundifolia-圆叶南牡蒿.md)
+* [山西南牡蒿  Artemisia eriopoda var. shanxiensis](Artemisia-eriopoda-var-shanxiensis-山西南牡蒿.md)
+
+### 下级分类
+* [南牡蒿（原变种）  Artemisia eriopoda var. eriopoda](http://iplant.cn/info/sp/Artemisia eriopoda var. eriopoda?t=z)
+* [甘肃南牡蒿   Artemisia eriopoda var. gansuensis](http://iplant.cn/info/sp/Artemisia eriopoda var. gansuensis?t=z)
+* [渤海滨南牡蒿  Artemisia eriopoda var. maritima](http://iplant.cn/info/sp/Artemisia eriopoda var. maritima?t=z)
+* [圆叶南牡蒿  Artemisia eriopoda var. rotundifolia](http://iplant.cn/info/sp/Artemisia eriopoda var. rotundifolia?t=z)
+* [山西南牡蒿  Artemisia eriopoda var. shanxiensis](http://iplant.cn/info/sp/Artemisia eriopoda var. shanxiensis?t=z)

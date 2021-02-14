@@ -1,0 +1,352 @@
+空竹属 **Cephalostachyum** Munro
+
+> [Poaceae](http://www.iplant.cn/info/Poaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Poaceae.pdf) >> [Cephalostachyum](http://www.iplant.cn/info/Cephalostachyum?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Cephalostachyum.pdf)
+
+
+> **Comment** : 
+> Several early names were based on fragmentary material collected in NE India and Myanmar. The Chinese specimens cannot be reliably identified until better gatherings have been made both in China and in neighboring countries.
+
+## Description
+
+Arborescent or shrubby bamboos. Rhizomes short necked, pachymorph. Culms straight, pendulous, or occasionally clambering; internodes terete, smooth, usually glabrous; wall usually thin; nodal ridge not prominent; sheath scar prominent. Branches many, subequal or occasionally with a dominant branch replacing main culm. Culm sheaths deciduous, thickly papery to leathery, usually rigid, apex truncate or concave; auricles usually conspicuous; oral setae usually developed, often fimbriate; ligule truncate, short, serrulate; blade reflexed, sometimes erect. Leaf sheaths pubescent; auricles usually conspicuous; blade lanceolate or ovate-elliptical, variable in size, transverse veins scarcely visible. Inflorescence fully bracteate, iterauctant, initially densely glomerate with many pseudospikelets, terminal to a leafy shoot, later spicate, lateral to leafless flowering branches, subtended by several large bracts. Spikelets 1-flowered, with a rachilla extension. Glumes 2 or 3, long mucronate or awned; lemma similar to glumes, convolute. Palea thin, 2-keeled. Lodicules 3. Stamens 6; filaments free. Ovary stalked; style long, hollow; stigmas 2 or 3, plumose. Caryopsis nutlike, terete, apex with persistent style base.
+
+### Statistics
+About nine species: S and SE Asia; six species in China (Xizang, Yunnan).
+
+
+## Keylist
+
+* 1 Culms climbing; culm sheath blade erect, not articulate with sheaths——(2)
+* ~ Culms erect; culm sheath blade reflexed, articulate with sheaths——(3)
+
+* 2 (1)Culm internodes solid; culm sheaths abaxially sparsely white hairy, centrally and on distal margins brown hirsute.——1  [独龙江空竹](http://www.iplant.cn/info/Cephalostachyum mannii?t=foc)
+* ~ Culm internodes with narrow cavity; culm sheaths abaxially dark brown or black tomentose.——2  [真麻竹](http://www.iplant.cn/info/Cephalostachyum scandens?t=foc)
+
+* 3 (1) Culm sheaths thickly leathery, brown, smooth, glossy, with dark brown hairs; culm internodes glaucous, white hispid.——3  [香糯竹](http://www.iplant.cn/info/Cephalostachyum pergracile?t=foc)
+* ~ Culm sheaths papery to leathery, yellow, grooved, dull, pubescent or hirsute——(4)
+
+* 4 (3) Leaf blade ovate to elliptical, 8–10 cm wide; culm sheath apically projecting upward on each side of blade.——4  [空竹](http://www.iplant.cn/info/Cephalostachyum latifolium?t=foc)
+* ~ Leaf blade lanceolate, 2–5 cm wide; culm sheath apically truncate——(5)
+
+* 5 (4) Culms 1.5–2.5 cm in diam., culm sheaths pale pubescent.——5  [小空竹](http://www.iplant.cn/info/Cephalostachyum pallidum?t=foc)
+* ~ Culms 5–10 cm in diam.; culm sheaths yellow hispid.——6  [金毛空竹](http://www.iplant.cn/info/Cephalostachyum virgatum?t=foc)
+
+  "pdflink": "[Cephalostachyum.PDF](http://www.iplant.cn/foc/pdf/Cephalostachyum.pdf)
+
+## Sublist
+
+* [C.  pallidum](http://www.iplant.cn/info/Cephalostachyum pallidum?t=foc)
+ 小空竹
+* [C.  pergracile](http://www.iplant.cn/info/Cephalostachyum pergracile?t=foc)
+ 香糯竹
+* [C.  scandens](http://www.iplant.cn/info/Cephalostachyum scandens?t=foc)
+ 真麻竹
+* [C.  virgatum](http://www.iplant.cn/info/Cephalostachyum virgatum?t=foc)
+ 金毛空竹
+* [C.  latifolium](http://www.iplant.cn/info/Cephalostachyum latifolium?t=foc)
+ 空竹
+* [C.  mannii](http://www.iplant.cn/info/Cephalostachyum mannii?t=foc)
+ 独龙江空竹
+* [C.  chinense](http://www.iplant.cn/info/Cephalostachyum chinense?t=foc)
+ 
+* [C.  sanguineum](http://www.iplant.cn/info/Cephalostachyum sanguineum?t=foc) ",
+
+### Parsublist
+
+* [S.  subg. Sasa  赤竹亚属](http://www.iplant.cn/info/Sasa subg. Sasa?t=foc)
+* [B.  subg. Bambusa  簕竹亚属](http://www.iplant.cn/info/Bambusa subg. Bambusa?t=foc)
+* [Aegilops  山羊草属](Aegilops-山羊草属.md)
+* [P.  subg. Ochlopoa  黄褐早熟禾亚属](http://www.iplant.cn/info/Poa subg. Ochlopoa?t=foc)
+* [Thamnocalamus  筱竹属](http://www.iplant.cn/info/Thamnocalamus?t=foc)
+* [Aeluropus  獐毛属](Aeluropus-獐毛属.md)
+* [Themeda  菅属](http://www.iplant.cn/info/Themeda?t=foc)
+* [P.  subg. Pseudosasa  矢竹亚属](http://www.iplant.cn/info/Pseudosasa subg. Pseudosasa?t=foc)
+* [x_AGROPOGON  剪棒草属](http://www.iplant.cn/info/x_AGROPOGON?t=foc)
+* [Alopecurus  看麦娘属](http://www.iplant.cn/info/Alopecurus?t=foc)
+* [P.  sect. Heterocladae  水竹组](http://www.iplant.cn/info/Phyllostachys sect. Heterocladae?t=foc)
+* [Alloteropsis  毛颖草属](http://www.iplant.cn/info/Alloteropsis?t=foc)
+* [Sorghum  高粱属](http://www.iplant.cn/info/Sorghum?t=foc)
+* [Spartina  米草属](http://www.iplant.cn/info/Spartina?t=foc)
+* [Sphaerocaryum  稗荩属](http://www.iplant.cn/info/Sphaerocaryum?t=foc)
+* [P.  sect. Phyllostachys  刚竹组](http://www.iplant.cn/info/Phyllostachys sect. Phyllostachys?t=foc)
+* [Spinifex  鬣刺属](http://www.iplant.cn/info/Spinifex?t=foc)
+* [Spodiopogon  大油芒属](http://www.iplant.cn/info/Spodiopogon?t=foc)
+* [P.  subg. Arctopoa  类早熟禾亚属](http://www.iplant.cn/info/Poa subg. Arctopoa?t=foc)
+* [P.  subg. Sinicae  茶秆竹亚属](http://www.iplant.cn/info/Pseudosasa subg. Sinicae?t=foc)
+* [P.  subg. Poa  早熟禾亚属](http://www.iplant.cn/info/Poa subg. Poa?t=foc)
+* [Aira  银须草属](http://www.iplant.cn/info/Aira?t=foc)
+* [A.  subg. Sarocalamus  冷箭竹亚属](http://www.iplant.cn/info/Arundinaria subg. Sarocalamus?t=foc)
+* [Agrostis  剪股颖属](Agrostis-剪股颖属.md)
+* [Stenotaphrum  钝叶草属](http://www.iplant.cn/info/Stenotaphrum?t=foc)
+* [Agropyron  冰草属](Agropyron-冰草属.md)
+* [A.  subg. Bashania  巴山木竹亚属](http://www.iplant.cn/info/Arundinaria subg. Bashania?t=foc)
+* [Stephanachne  冠毛草属](http://www.iplant.cn/info/Stephanachne?t=foc)
+* [S.  subg. Sasamorpha  华箬竹亚属](http://www.iplant.cn/info/Sasa subg. Sasamorpha?t=foc)
+* [P.  subg. Stenopoa  林地亚属](http://www.iplant.cn/info/Poa subg. Stenopoa?t=foc)
+* [Stipa  针茅属](http://www.iplant.cn/info/Stipa?t=foc)
+* [Stipagrostis  针禾属](http://www.iplant.cn/info/Stipagrostis?t=foc)
+* [Sporobolus  鼠尾粟属](http://www.iplant.cn/info/Sporobolus?t=foc)
+* [Vulpia  鼠茅属](http://www.iplant.cn/info/Vulpia?t=foc)
+* [Zoysia  结缕草属](http://www.iplant.cn/info/Zoysia?t=foc)
+* [Oligostachyum  少穗竹属](http://www.iplant.cn/info/Oligostachyum?t=foc)
+* [Ferrocalamus  铁竹属](http://www.iplant.cn/info/Ferrocalamus?t=foc)
+* [Drepanostachyum  镰序竹属](http://www.iplant.cn/info/Drepanostachyum?t=foc)
+* [Gaoligongshania  贡山竹属](http://www.iplant.cn/info/Gaoligongshania?t=foc)
+* [Chimonocalamus  香竹属](http://www.iplant.cn/info/Chimonocalamus?t=foc)
+* [Kengyilia  以礼草属](http://www.iplant.cn/info/Kengyilia?t=foc)
+* [Zizania  菰属](http://www.iplant.cn/info/Zizania?t=foc)
+* [Zea  玉蜀黍属](http://www.iplant.cn/info/Zea?t=foc)
+* [Yushania  玉山竹属](http://www.iplant.cn/info/Yushania?t=foc)
+* [Neomicrocalamus  新小竹属](http://www.iplant.cn/info/Neomicrocalamus?t=foc)
+* [Psammochloa  沙鞭属](http://www.iplant.cn/info/Psammochloa?t=foc)
+* [Himalayacalamus  喜马拉雅筱竹属](http://www.iplant.cn/info/Himalayacalamus?t=foc)
+* [Gelidocalamus  短枝竹属](http://www.iplant.cn/info/Gelidocalamus?t=foc)
+* [Acroceras  凤头黍属](Acroceras-凤头黍属.md)
+* [Trisetum  三毛草属](http://www.iplant.cn/info/Trisetum?t=foc)
+* [Tripogon  草沙蚕属](http://www.iplant.cn/info/Tripogon?t=foc)
+* [Trikeraia  三角草属](http://www.iplant.cn/info/Trikeraia?t=foc)
+* [Achnatherum  芨芨草属](Achnatherum-芨芨草属.md)
+* [Acidosasa  酸竹属](Acidosasa-酸竹属.md)
+* [Acrachne  尖稃草属](Acrachne-尖稃草属.md)
+* [P.  subg. Pseudopoa  假早熟禾亚属](http://www.iplant.cn/info/Poa subg. Pseudopoa?t=foc)
+* [Thysanolaena  粽叶芦属](http://www.iplant.cn/info/Thysanolaena?t=foc)
+* [B.  subg. Lingnania  箪竹亚属](http://www.iplant.cn/info/Bambusa subg. Lingnania?t=foc)
+* [B.  subg. Dendrocalamopsis  绿竹亚属](http://www.iplant.cn/info/Bambusa subg. Dendrocalamopsis?t=foc)
+* [Thyrsostachys  泰竹属](http://www.iplant.cn/info/Thyrsostachys?t=foc)
+* [D.  subg. Dendrocalamus  牡竹亚属](http://www.iplant.cn/info/Dendrocalamus subg. Dendrocalamus?t=foc)
+* [D.  subg. Sinocalamus  麻竹亚属](http://www.iplant.cn/info/Dendrocalamus subg. Sinocalamus?t=foc)
+* [Tragus  锋芒草属](http://www.iplant.cn/info/Tragus?t=foc)
+* [Thuarea  蒭雷草属](http://www.iplant.cn/info/Thuarea?t=foc)
+* [Triticum  小麦属](http://www.iplant.cn/info/Triticum?t=foc)
+* [B.  subg. Leleba  孝顺竹亚属](http://www.iplant.cn/info/Bambusa subg. Leleba?t=foc)
+* [Setiacis  刺毛头黍属](http://www.iplant.cn/info/Setiacis?t=foc)
+* [Urochloa  尾稃草属](http://www.iplant.cn/info/Urochloa?t=foc)
+* [Pseudosclerochloa  假硬草属](http://www.iplant.cn/info/Pseudosclerochloa?t=foc)
+* [Milium  粟草属](http://www.iplant.cn/info/Milium?t=foc)
+* [Brachypodium  短柄草属](http://www.iplant.cn/info/Brachypodium?t=foc)
+* [Eragrostis  画眉草属](http://www.iplant.cn/info/Eragrostis?t=foc)
+* [Eremochloa  蜈蚣草属](http://www.iplant.cn/info/Eremochloa?t=foc)
+* [Eremopyrum  旱麦草属](http://www.iplant.cn/info/Eremopyrum?t=foc)
+* [Muhlenbergia  乱子草属](http://www.iplant.cn/info/Muhlenbergia?t=foc)
+* [Molinia  麦氏草属](http://www.iplant.cn/info/Molinia?t=foc)
+* [Mnesithea  毛俭草属](http://www.iplant.cn/info/Mnesithea?t=foc)
+* [Briza  凌风草属](http://www.iplant.cn/info/Briza?t=foc)
+* [Bromus  雀麦属](http://www.iplant.cn/info/Bromus?t=foc)
+* [Miscanthus  芒属](http://www.iplant.cn/info/Miscanthus?t=foc)
+* [Sinochasea  三蕊草属](http://www.iplant.cn/info/Sinochasea?t=foc)
+* [Brylkinia  扁穗草属](http://www.iplant.cn/info/Brylkinia?t=foc)
+* [Brachyelytrum  短颖草属](http://www.iplant.cn/info/Brachyelytrum?t=foc)
+* [Microstegium  莠竹属](http://www.iplant.cn/info/Microstegium?t=foc)
+* [Buchloe  野牛草属](http://www.iplant.cn/info/Buchloe?t=foc)
+* [Eriochloa  野黍属](http://www.iplant.cn/info/Eriochloa?t=foc)
+* [Microchloa  小草属](http://www.iplant.cn/info/Microchloa?t=foc)
+* [Colpodium  小沿沟草属](http://www.iplant.cn/info/Colpodium?t=foc)
+* [Calamagrostis  拂子茅属](http://www.iplant.cn/info/Calamagrostis?t=foc)
+* [Melocanna  梨竹属](http://www.iplant.cn/info/Melocanna?t=foc)
+* [Melocalamus  梨籐竹属](http://www.iplant.cn/info/Melocalamus?t=foc)
+* [Melinis  糖蜜草属](http://www.iplant.cn/info/Melinis?t=foc)
+* [Perotis  茅根属](http://www.iplant.cn/info/Perotis?t=foc)
+* [Eriachne  鹧鸪草属](http://www.iplant.cn/info/Eriachne?t=foc)
+* [Orinus  固沙草属](http://www.iplant.cn/info/Orinus?t=foc)
+* [Bambusa  簕竹属](http://www.iplant.cn/info/Bambusa?t=foc)
+* [Pennisetum  狼尾草属](http://www.iplant.cn/info/Pennisetum?t=foc)
+* [Ehrharta  皱稃草属](http://www.iplant.cn/info/Ehrharta?t=foc)
+* [Paspalum  雀稗属](http://www.iplant.cn/info/Paspalum?t=foc)
+* [Paspalidium  类雀稗属](http://www.iplant.cn/info/Paspalidium?t=foc)
+* [Eleusine  穇属](http://www.iplant.cn/info/Eleusine?t=foc)
+* [Beckmannia  菵草属](http://www.iplant.cn/info/Beckmannia?t=foc)
+* [Parapholis  假牛鞭草属](http://www.iplant.cn/info/Parapholis?t=foc)
+* [Panicum  黍属](http://www.iplant.cn/info/Panicum?t=foc)
+* [Ottochloa  露籽草属](http://www.iplant.cn/info/Ottochloa?t=foc)
+* [Eragrostiella  细画眉草属](http://www.iplant.cn/info/Eragrostiella?t=foc)
+* [Orthoraphium  直芒草属](http://www.iplant.cn/info/Orthoraphium?t=foc)
+* [Enteropogon  肠须草属](http://www.iplant.cn/info/Enteropogon?t=foc)
+* [Elymus  披碱草属](http://www.iplant.cn/info/Elymus?t=foc)
+* [Oplismenus  求米草属](http://www.iplant.cn/info/Oplismenus?t=foc)
+* [Elytrigia  偃麦草属](http://www.iplant.cn/info/Elytrigia?t=foc)
+* [Helictotrichon  异燕麦属](http://www.iplant.cn/info/Helictotrichon?t=foc)
+* [Bonia  单枝竹属](http://www.iplant.cn/info/Bonia?t=foc)
+* [Bothriochloa  孔颖草属](http://www.iplant.cn/info/Bothriochloa?t=foc)
+* [Neyraudia  类芦属](http://www.iplant.cn/info/Neyraudia?t=foc)
+* [Bouteloua  格兰马草属](http://www.iplant.cn/info/Bouteloua?t=foc)
+* [Enneapogon  九顶草属](http://www.iplant.cn/info/Enneapogon?t=foc)
+* [Brachiaria  臂形草属](http://www.iplant.cn/info/Brachiaria?t=foc)
+* [Eulalia  黄金茅属](http://www.iplant.cn/info/Eulalia?t=foc)
+* [Oryza  稻属](http://www.iplant.cn/info/Oryza?t=foc)
+* [Holcus  绒毛草属](http://www.iplant.cn/info/Holcus?t=foc)
+* [Imperata  白茅属](http://www.iplant.cn/info/Imperata?t=foc)
+* [Ichnanthus  距花黍属](http://www.iplant.cn/info/Ichnanthus?t=foc)
+* [Hystrix  猬草属](http://www.iplant.cn/info/Hystrix?t=foc)
+* [Hyparrhenia  苞茅属](http://www.iplant.cn/info/Hyparrhenia?t=foc)
+* [Hymenachne  膜稃草属](http://www.iplant.cn/info/Hymenachne?t=foc)
+* [Hygroryza  水禾属](http://www.iplant.cn/info/Hygroryza?t=foc)
+* [Cleistogenes  隐子草属](http://www.iplant.cn/info/Cleistogenes?t=foc)
+* [Chikusichloa  山涧草属](http://www.iplant.cn/info/Chikusichloa?t=foc)
+* [Hordeum  大麦属](http://www.iplant.cn/info/Hordeum?t=foc)
+* [Chimonobambusa  方竹属](http://www.iplant.cn/info/Chimonobambusa?t=foc)
+* [Melica  臭草属](http://www.iplant.cn/info/Melica?t=foc)
+* [Chionachne  葫芦草属](http://www.iplant.cn/info/Chionachne?t=foc)
+* [Isachne  柳叶箬属](http://www.iplant.cn/info/Isachne?t=foc)
+* [Germainia  吉曼草属](http://www.iplant.cn/info/Germainia?t=foc)
+* [Gigantochloa  巨竹属](http://www.iplant.cn/info/Gigantochloa?t=foc)
+* [Heteropogon  黄茅属](http://www.iplant.cn/info/Heteropogon?t=foc)
+* [Chloris  虎尾草属](http://www.iplant.cn/info/Chloris?t=foc)
+* [Glyceria  甜茅属](http://www.iplant.cn/info/Glyceria?t=foc)
+* [Cinna  单蕊草属](http://www.iplant.cn/info/Cinna?t=foc)
+* [Hackelochloa  球穗草属](http://www.iplant.cn/info/Hackelochloa?t=foc)
+* [Hemarthria  牛鞭草属](http://www.iplant.cn/info/Hemarthria?t=foc)
+* [Harpachne  镰稃草属](http://www.iplant.cn/info/Harpachne?t=foc)
+* [Chrysopogon  金须茅属](http://www.iplant.cn/info/Chrysopogon?t=foc)
+* [Garnotia  耳稃草属](http://www.iplant.cn/info/Garnotia?t=foc)
+* [Lepturus  细穗草属](http://www.iplant.cn/info/Lepturus?t=foc)
+* [Pseudanthistiria  假铁秆草属](http://www.iplant.cn/info/Pseudanthistiria?t=foc)
+* [Coleanthus  莎禾属](http://www.iplant.cn/info/Coleanthus?t=foc)
+* [Eulaliopsis  拟金茅属](http://www.iplant.cn/info/Eulaliopsis?t=foc)
+* [Capillipedium  细柄草属](http://www.iplant.cn/info/Capillipedium?t=foc)
+* [Coix  薏苡属](http://www.iplant.cn/info/Coix?t=foc)
+* [Lophatherum  淡竹叶属](http://www.iplant.cn/info/Lophatherum?t=foc)
+* [Lolium  黑麦草属](http://www.iplant.cn/info/Lolium?t=foc)
+* [Coelachne  小丽草属](http://www.iplant.cn/info/Coelachne?t=foc)
+* [Eustachys  真穗草属](http://www.iplant.cn/info/Eustachys?t=foc)
+* [Littledalea  扇穗茅属](http://www.iplant.cn/info/Littledalea?t=foc)
+* [Indocalamus  箬竹属](http://www.iplant.cn/info/Indocalamus?t=foc)
+* [Leymus  赖草属](http://www.iplant.cn/info/Leymus?t=foc)
+* [Indosasa  大节竹属](http://www.iplant.cn/info/Indosasa?t=foc)
+* [Catabrosa  沿沟草属](http://www.iplant.cn/info/Catabrosa?t=foc)
+* [Leptochloa  千金子属](http://www.iplant.cn/info/Leptochloa?t=foc)
+* [Leptaspis  囊稃竹属](http://www.iplant.cn/info/Leptaspis?t=foc)
+* [Festuca  羊茅属](http://www.iplant.cn/info/Festuca?t=foc)
+* [Leersia  假稻属](http://www.iplant.cn/info/Leersia?t=foc)
+* [Cenchrus  蒺藜草属](http://www.iplant.cn/info/Cenchrus?t=foc)
+* [Centotheca  假淡竹叶属](http://www.iplant.cn/info/Centotheca?t=foc)
+* [草属](http://www.iplant.cn/info/Koeleria?t=foc)
+* [Ischaemum  鸭嘴草属](http://www.iplant.cn/info/Ischaemum?t=foc)
+* [Ophiuros  蛇尾草属](http://www.iplant.cn/info/Ophiuros?t=foc)
+* [Fargesia  箭竹属](http://www.iplant.cn/info/Fargesia?t=foc)
+* [Pseudopogonatherum  假金发草属](http://www.iplant.cn/info/Pseudopogonatherum?t=foc)
+* [Polypogon  棒头草属](http://www.iplant.cn/info/Polypogon?t=foc)
+* [Elytrophorus  总苞草属](http://www.iplant.cn/info/Elytrophorus?t=foc)
+* [Echinochloa  稗属](http://www.iplant.cn/info/Echinochloa?t=foc)
+* [Cyathopus  杯禾属](http://www.iplant.cn/info/Cyathopus?t=foc)
+* [Pseudostachyum  泡竹属](http://www.iplant.cn/info/Pseudostachyum?t=foc)
+* [Pseudosorghum  假高粱属](http://www.iplant.cn/info/Pseudosorghum?t=foc)
+* [Apluda  水蔗草属](http://www.iplant.cn/info/Apluda?t=foc)
+* [Apocopis  楔颖草属](http://www.iplant.cn/info/Apocopis?t=foc)
+* [Pseudosasa  矢竹属](http://www.iplant.cn/info/Pseudosasa?t=foc)
+* [Ampelocalamus  悬竹属](http://www.iplant.cn/info/Ampelocalamus?t=foc)
+* [Pseudoraphis  伪针茅属](http://www.iplant.cn/info/Pseudoraphis?t=foc)
+* [Scolochloa  水茅属](http://www.iplant.cn/info/Scolochloa?t=foc)
+* [Secale  黑麦属](http://www.iplant.cn/info/Secale?t=foc)
+* [Pseudechinolaena  钩毛草属](http://www.iplant.cn/info/Pseudechinolaena?t=foc)
+* [Dendrocalamus  牡竹属](http://www.iplant.cn/info/Dendrocalamus?t=foc)
+* [Psathyrostachys  新麦草属](http://www.iplant.cn/info/Psathyrostachys?t=foc)
+* [Sehima  沟颖草属](http://www.iplant.cn/info/Sehima?t=foc)
+* [Digitaria  马唐属](http://www.iplant.cn/info/Digitaria?t=foc)
+* [Dimeria  觿茅属](http://www.iplant.cn/info/Dimeria?t=foc)
+* [Polytrias  单序草属](http://www.iplant.cn/info/Polytrias?t=foc)
+* [Polytoca  多裔草属](http://www.iplant.cn/info/Polytoca?t=foc)
+* [Pseudoroegneria  假鹅观草属](http://www.iplant.cn/info/Pseudoroegneria?t=foc)
+* [Rottboellia  筒轴茅属](http://www.iplant.cn/info/Rottboellia?t=foc)
+* [Schismus  齿稃草属](http://www.iplant.cn/info/Schismus?t=foc)
+* [Schizachne  裂稃茅属](http://www.iplant.cn/info/Schizachne?t=foc)
+* [Deschampsia  发草属](http://www.iplant.cn/info/Deschampsia?t=foc)
+* [Sasa  赤竹属](http://www.iplant.cn/info/Sasa?t=foc)
+* [Andropogon  须芒草属](http://www.iplant.cn/info/Andropogon?t=foc)
+* [Desmostachya  羽穗草属](http://www.iplant.cn/info/Desmostachya?t=foc)
+* [Schizachyrium  裂稃草属](http://www.iplant.cn/info/Schizachyrium?t=foc)
+* [Deyeuxia  野青茅属](http://www.iplant.cn/info/Deyeuxia?t=foc)
+* [Sacciolepis  囊颖草属](http://www.iplant.cn/info/Sacciolepis?t=foc)
+* [Dactyloctenium  龙爪茅属](http://www.iplant.cn/info/Dactyloctenium?t=foc)
+* [Saccharum  甘蔗属](http://www.iplant.cn/info/Saccharum?t=foc)
+* [Cymbopogon  香茅属](http://www.iplant.cn/info/Cymbopogon?t=foc)
+* [Aniselytron  沟稃草属](http://www.iplant.cn/info/Aniselytron?t=foc)
+* [Crypsis  隐花草属](http://www.iplant.cn/info/Crypsis?t=foc)
+* [竹属](http://www.iplant.cn/info/Schizostachyum?t=foc)
+* [Diarrhena  龙常草属](http://www.iplant.cn/info/Diarrhena?t=foc)
+* [Sclerochloa  硬草属](http://www.iplant.cn/info/Sclerochloa?t=foc)
+* [Anthoxanthum  黄花茅属](http://www.iplant.cn/info/Anthoxanthum?t=foc)
+* [Dichanthium  双花草属](http://www.iplant.cn/info/Dichanthium?t=foc)
+* [Puccinellia  碱茅属](http://www.iplant.cn/info/Puccinellia?t=foc)
+* [Ptilagrostis  细柄茅属](http://www.iplant.cn/info/Ptilagrostis?t=foc)
+* [Danthonia  扁芒草属](http://www.iplant.cn/info/Danthonia?t=foc)
+* [Dactylis  鸭茅属](http://www.iplant.cn/info/Dactylis?t=foc)
+* [Arrhenatherum  燕麦草属](http://www.iplant.cn/info/Arrhenatherum?t=foc)
+* [Arundo  芦竹属](http://www.iplant.cn/info/Arundo?t=foc)
+* [Phragmites  芦苇属](http://www.iplant.cn/info/Phragmites?t=foc)
+* [Phyllostachys  刚竹属](http://www.iplant.cn/info/Phyllostachys?t=foc)
+* [Arthraxon  荩草属](http://www.iplant.cn/info/Arthraxon?t=foc)
+* [Cynodon  狗牙根属](http://www.iplant.cn/info/Cynodon?t=foc)
+* [Setaria  狗尾草属](http://www.iplant.cn/info/Setaria?t=foc)
+* [Piptatherum  落芒草属](http://www.iplant.cn/info/Piptatherum?t=foc)
+* [Shibataea  鹅毛竹属](http://www.iplant.cn/info/Shibataea?t=foc)
+* [Arundinaria  青篱竹属](http://www.iplant.cn/info/Arundinaria?t=foc)
+* [Arundinella  野古草属](http://www.iplant.cn/info/Arundinella?t=foc)
+* [Dinebra  弯穗草属](http://www.iplant.cn/info/Dinebra?t=foc)
+* [Cortaderia  蒲苇属](http://www.iplant.cn/info/Cortaderia?t=foc)
+* [Cynosurus  洋狗尾草属](http://www.iplant.cn/info/Cynosurus?t=foc)
+* [Cyrtococcum  弓果黍属](http://www.iplant.cn/info/Cyrtococcum?t=foc)
+* [Duthiea  毛蕊草属](http://www.iplant.cn/info/Duthiea?t=foc)
+* [Sinobambusa  唐竹属](http://www.iplant.cn/info/Sinobambusa?t=foc)
+* [Aristida  三芒草属](http://www.iplant.cn/info/Aristida?t=foc)
+* [Semiarundinaria  业平竹属](http://www.iplant.cn/info/Semiarundinaria?t=foc)
+* [Pleioblastus  苦竹属](http://www.iplant.cn/info/Pleioblastus?t=foc)
+* [Avena  燕麦属](http://www.iplant.cn/info/Avena?t=foc)
+* [Axonopus  地毯草属](http://www.iplant.cn/info/Axonopus?t=foc)
+* [Phacelurus  束尾草属](http://www.iplant.cn/info/Phacelurus?t=foc)
+* [Pogonatherum  金发草属](http://www.iplant.cn/info/Pogonatherum?t=foc)
+* [Poa  早熟禾属](http://www.iplant.cn/info/Poa?t=foc)
+* [Phaenosperma  显子草属](http://www.iplant.cn/info/Phaenosperma?t=foc)
+* [草属](http://www.iplant.cn/info/Phalaris?t=foc)
+* [Phleum  梯牧草属](http://www.iplant.cn/info/Phleum?t=foc)
+
+
+## 中国植物志
+
+> * [梨藤竹属  Melocalamus](http://www.iplant.cn/info/Melocalamus?t=z)
+> * [梨竹属  Melocanna](http://www.iplant.cn/info/Melocanna?t=z)
+> * [单枝竹属  Monocladus](http://www.iplant.cn/info/Monocladus?t=z)
+> * [泡竹属  Pseudostachyum](http://www.iplant.cn/info/Pseudostachyum?t=z)
+
+
+**空竹属 Cephalostachyum**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第9(1)卷](http://www.iplant.cn/frps/vol/9(1)) >> 027页 [PDF](http://www.iplant.cn/frps/pdf/9(1)/027y.pdf)
+
+
+**4. 空竹属 Cephalostachyum Munro**
+
+Munro in Trans. Linn, Soc. 26: 138. 1868.
+
+小型乃至大型竹类、地下茎合轴型。竿丛生，直立，梢头下垂，有时为半攀援状；节间极长，平滑，竿壁甚薄，竿环常平坦，竿每节分枝多数，在节上呈半轮生状，各枝近等粗。竿箨脱落性，厚纸质乃至厚革质，背面平滑或纵肋明显；多少有些具箨耳；箨舌低矮，有时极不明显；箨片外翻，有时直立。每小枝具多数叶；叶耳常明显，并生有直立繸毛；叶片小型至大型，呈披针形乃至卵状椭圆形。花枝各节着生有多数假小穗，常排列成球形的假小穗簇丛，其下方具苞片。小穗1小花；小穗轴延伸至内稃之后；颖2或3，形宽，多脉，先端常作刺芒状；外稃与颖相似，质地较薄，先端具刺芒状尖头，边缘内卷；内稃质薄，具彼此紧靠之2脊，多脉，先端具2短尖头；鳞被3，宿存，基部有3-5脉纹，通常表面具乳头状突起；雄蕊11，花丝分离，花药长；子房卵圆球形，具柄，花柱长，柱头2或3，羽毛状。果实呈坚果状，长圆形，无毛，顶端具喙；果皮厚，易与种子分离。
+
+> 后选模式种：Cephalostachyum capitatum (Wall. et Griff.) Munro 原产印度卡西亚山区，我国不产。
+
+约20种，产印度、孟加拉、缅甸、锡金、泰国、柬埔寨、老挝及越南，非洲马达加斯加亦有分布。我国有4种，产于云南及西藏墨脱地区。
+
+## 检索表
+
+* 1 箨鞘纸质乃至革质，枯草色至暗黄色，背部纵肋明显，但无光泽，被柔毛或迟落的小刺毛。——(2)
+* ~箨鞘厚革质，棕栗色，背部纵肋不明显，有光泽，密被易落的棕色刺毛。竿粉绿色，被白色刺毛；小穗密被浅黄色小硬毛。——[糯竹](Cephalostachyum-pergracile-香糯竹.md)
+
+
+* 2 叶片披针形，宽2-5厘米；箨鞘顶端之两侧不耸起为圆肩，鞘口截形，并不下凹。——(3)
+* ~叶片卵状椭圆形，宽可达10厘米；箨鞘顶端两侧均耸起为圆肩，鞘口深下凹。——[空竹](http://www.iplant.cn/info/Cephalostachyum fuchsianum?t=z)
+
+
+* 3 假小穗密集成球形，后者单生于具叶小枝之顶端；竿较细，直径1.5-2.5厘米；箨鞘背部贴生淡色短柔毛；箨片窄长形，宽1-3厘米。——[小空竹](Cephalostachyum-pallidum-小空竹.md)
+
+* ~假小穗散生于无叶花枝之各节，并不聚集成球；竿粗5-10厘米；箨鞘背部贴生金黄色小刺毛；箨片三角形，宽5-7厘米。——[金毛空竹](Cephalostachyum-virgatum-金毛空竹.md)
+
+### 下级分类
+* [空竹  Cephalostachyum fuchsianum](http://www.iplant.cn/info/Cephalostachyum fuchsianum?t=z)
+* [小空竹  Cephalostachyum pallidum](Cephalostachyum-pallidum-小空竹.md)
+* [糯竹  Cephalostachyum pergracile](Cephalostachyum-pergracile-香糯竹.md)
+* [金毛空竹  Cephalostachyum virgatum](Cephalostachyum-virgatum-金毛空竹.md)
+
+### 下级分类
+* [空竹  Cephalostachyum fuchsianum](http://www.iplant.cn/info/sp/Cephalostachyum fuchsianum?t=z)
+* [小空竹  Cephalostachyum pallidum](http://www.iplant.cn/info/sp/Cephalostachyum pallidum?t=z)
+* [糯竹  Cephalostachyum pergracile](http://www.iplant.cn/info/sp/Cephalostachyum pergracile?t=z)
+* [金毛空竹  Cephalostachyum virgatum](http://www.iplant.cn/info/sp/Cephalostachyum virgatum?t=z)
+"
+}

@@ -1,0 +1,285 @@
+云南越桔 **Vaccinium duclouxii** (H. Léveillé) Handel-Mazzetti
+
+> [Ericaceae](http://www.iplant.cn/info/Ericaceae ?t=foc) - [PDF](http://iplant.cn/foc/pdf/Ericaceae.pdf) >> [Vaccinium](http://www.iplant.cn/info/Vaccinium ?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Vaccinium.pdf)
+
+## Description
+
+Shrubs or small trees, evergreen, 1–5(–10) m tall, much branched. Twigs angled, glabrous, pubescent, or glandular setose; bud scales inconspicuous. Leaves scattered; petiole 3–6 mm, glabrous, pubescent, or glandular setose; leaf blade ovate-lanceolate, oblong-lanceolate, or ovate, 3–7(–13) × 1.7–3.5 cm, leathery, glabrous or abaxially pubescent on midvein at base, secondary veins 3 pairs, secondary and fine veins raised abaxially, inconspicuous and impressed adaxially, base broadly cuneate or rounded, rarely cuneate, margin plane, slightly recurved, denticulate, apex acuminate or acute. Inflorescences racemose, 1.5–8 cm, glabrous, densely tomentellate, or hirtellous, 9–18-flowered; bracts caducous, ovate or broadly ovate, 5–7 mm, apex caudate. Pedicel 0.5–2.5 mm, glabrous; bracteoles 2, subapical, ovate, ca. 1.5 mm. Hypanthium globose, 1.5–1.7 mm, glabrous or hirtellous; calyx lobes 1–1.3 mm, ciliate or glandular fimbriate. Corolla white or pink, tubular-urceolate, 6–8 mm, glabrous; lobes usually reflexed, triangular. Filaments 2.5–3 mm, pilose; anthers 2.7–3 mm, with 2 inconspicuous spurs; tubules ca. as long as thecae. Berry 10-pseudoloculed, dark purple, globose, 6–7 mm in diam. Fl. Feb–May, fr. Jul–Nov.
+
+> **Habait** : 
+> Forests, thickets, grassy or rocky slopes; 1500–3100(–3200) m. Sichuan, Xizang, Yunnan.
+
+## Keylist
+
+* 1 Plant glabrous.——35a  [var. duclouxii 云南越桔(原变种)](http://www.iplant.cn/info/Vaccinium duclouxii var. duclouxii?t=foc)
+* ~ Plant with glandular setose and/or pubescent indumentum.——(2)
+
+* 2 (1)Twigs and petioles pubescent; inflorescence axis tomentellate.——35c  [var. pubipes 柔毛云南越桔](http://www.iplant.cn/info/Vaccinium duclouxii var. pubipes?t=foc)
+* ~ Twigs and petioles glandular setose; inflorescence axis glandular setose or hirtellous.——(3)
+
+* 3 (2) Indumentum glandular setose.——35b  [var. hirticaule 刚毛云南越桔](http://www.iplant.cn/info/Vaccinium duclouxii var. hirticaule?t=foc)
+* ~ Rachis, hypanthium, and calyx lobes hirtellous, twigs pubescent and glandular setose.——35d  [var. hirtellum 毛果云南越桔](http://www.iplant.cn/info/Vaccinium duclouxii var. hirtellum?t=foc)
+
+### Parsublist
+
+* [V.  albidens  白花越桔](http://www.iplant.cn/info/Vaccinium albidens?t=foc)
+* [V.  anthonyi  ](http://www.iplant.cn/info/Vaccinium anthonyi?t=foc)
+* [V.  arbutoides  草莓树状越桔](http://www.iplant.cn/info/Vaccinium arbutoides?t=foc)
+* [V.  ardisioides  紫梗越桔](http://www.iplant.cn/info/Vaccinium ardisioides?t=foc)
+* [V.  brachyandrum  短蕊越桔](http://www.iplant.cn/info/Vaccinium brachyandrum?t=foc)
+* [V.  brachybotrys  短序越桔](http://www.iplant.cn/info/Vaccinium brachybotrys?t=foc)
+* [V.  brachybotrys var. glaucocarpum  ](http://www.iplant.cn/info/Vaccinium brachybotrys var. glaucocarpum?t=foc)
+* [V.  bracteatum  南烛](http://www.iplant.cn/info/Vaccinium bracteatum?t=foc)
+* [V.  bracteatum var. bracteatum  南烛(原变种)](http://www.iplant.cn/info/Vaccinium bracteatum var. bracteatum?t=foc)
+* [V.  bracteatum var. chinense  小叶南烛](http://www.iplant.cn/info/Vaccinium bracteatum var. chinense?t=foc)
+* [V.  bracteatum var. formosanum  ](http://www.iplant.cn/info/Vaccinium bracteatum var. formosanum?t=foc)
+* [V.  bracteatum var. lanceolatum  ](http://www.iplant.cn/info/Vaccinium bracteatum var. lanceolatum?t=foc)
+* [V.  bracteatum var. longitubum  ](http://www.iplant.cn/info/Vaccinium bracteatum var. longitubum?t=foc)
+* [V.  bracteatum var. obovatum  倒卵叶南烛](http://www.iplant.cn/info/Vaccinium bracteatum var. obovatum?t=foc)
+* [V.  bracteatum var. rubellum  淡红南烛](http://www.iplant.cn/info/Vaccinium bracteatum var. rubellum?t=foc)
+* [V.  bracteatum var. wrightii  ](http://www.iplant.cn/info/Vaccinium bracteatum var. wrightii?t=foc)
+* [V.  brevipedicellatum  短梗乌饭](http://www.iplant.cn/info/Vaccinium brevipedicellatum?t=foc)
+* [V.  bullatum  泡泡叶越桔](http://www.iplant.cn/info/Vaccinium bullatum?t=foc)
+* [V.  bulleyanum  灯台越桔](http://www.iplant.cn/info/Vaccinium bulleyanum?t=foc)
+* [V.  buxifolium  ](http://www.iplant.cn/info/Vaccinium buxifolium?t=foc)
+* [V.  camphorifolium  ](http://www.iplant.cn/info/Vaccinium camphorifolium?t=foc)
+* [V.  carlesii  短尾越桔](http://www.iplant.cn/info/Vaccinium carlesii?t=foc)
+* [V.  carlesii var. longicaudatum  ](http://www.iplant.cn/info/Vaccinium carlesii var. longicaudatum?t=foc)
+* [V.  caudatifolium  ](http://www.iplant.cn/info/Vaccinium caudatifolium?t=foc)
+* [V.  cavinerve  圆顶越桔](http://www.iplant.cn/info/Vaccinium cavinerve?t=foc)
+* [V.  chaetothrix  团叶越桔](http://www.iplant.cn/info/Vaccinium chaetothrix?t=foc)
+* [V.  chamaebuxus  矮越桔](http://www.iplant.cn/info/Vaccinium chamaebuxus?t=foc)
+* [V.  chapaense  ](http://www.iplant.cn/info/Vaccinium chapaense?t=foc)
+* [V.  chengiae  四川越桔](http://www.iplant.cn/info/Vaccinium chengiae?t=foc)
+* [V.  chengiae var. chengiae  四川越桔(原变种)](http://www.iplant.cn/info/Vaccinium chengiae var. chengiae?t=foc)
+* [V.  chengiae var. pilosum  毛萼四川越桔](http://www.iplant.cn/info/Vaccinium chengiae var. pilosum?t=foc)
+* [V.  chinense  ](http://www.iplant.cn/info/Vaccinium chinense?t=foc)
+* [V.  chingii  ](http://www.iplant.cn/info/Vaccinium chingii?t=foc)
+* [V.  chunii  蓝果越桔](http://www.iplant.cn/info/Vaccinium chunii?t=foc)
+* [V.  conchophyllum  贝叶越桔](http://www.iplant.cn/info/Vaccinium conchophyllum?t=foc)
+* [V.  craspedotum  长萼越桔](http://www.iplant.cn/info/Vaccinium craspedotum?t=foc)
+* [V.  craspedotum var. brevipes  ](http://www.iplant.cn/info/Vaccinium craspedotum var. brevipes?t=foc)
+* [V.  crassivenium  网脉越桔](http://www.iplant.cn/info/Vaccinium crassivenium?t=foc)
+* [V.  cuspidifolium  凸尖越桔](http://www.iplant.cn/info/Vaccinium cuspidifolium?t=foc)
+* [V.  delavayi  苍山越桔](http://www.iplant.cn/info/Vaccinium delavayi?t=foc)
+* [V.  delavayi subsp. delavayi  苍山越桔(原亚种)](http://www.iplant.cn/info/Vaccinium delavayi subsp. delavayi?t=foc)
+* [V.  delavayi subsp. merrillianum  台湾越桔](http://www.iplant.cn/info/Vaccinium delavayi subsp. merrillianum?t=foc)
+* [V.  dendrocharis  树生越桔](http://www.iplant.cn/info/Vaccinium dendrocharis?t=foc)
+* [V.  diaphanoloma  ](http://www.iplant.cn/info/Vaccinium diaphanoloma?t=foc)
+* [V.  donianum var. austrosinense  ](http://www.iplant.cn/info/Vaccinium donianum var. austrosinense?t=foc)
+* [V.  donianum var. brachybotrys  ](http://www.iplant.cn/info/Vaccinium donianum var. brachybotrys?t=foc)
+* [V.  donianum var. hangchouense  ](http://www.iplant.cn/info/Vaccinium donianum var. hangchouense?t=foc)
+* [V.  donianum var. laetum  ](http://www.iplant.cn/info/Vaccinium donianum var. laetum?t=foc)
+* [V.  dopii  ](http://www.iplant.cn/info/Vaccinium dopii?t=foc)
+* [V.  duclouxii var. duclouxii  云南越桔(原变种)](http://www.iplant.cn/info/Vaccinium duclouxii var. duclouxii?t=foc)
+* [V.  duclouxii var. hirtellum  毛果云南越桔](http://www.iplant.cn/info/Vaccinium duclouxii var. hirtellum?t=foc)
+* [V.  duclouxii var. hirticaule  刚毛云南越桔](http://www.iplant.cn/info/Vaccinium duclouxii var. hirticaule?t=foc)
+* [V.  duclouxii var. pubipes  柔毛云南越桔](http://www.iplant.cn/info/Vaccinium duclouxii var. pubipes?t=foc)
+* [V.  dunalianum  樟叶越桔](http://www.iplant.cn/info/Vaccinium dunalianum?t=foc)
+* [V.  dunalianum var. calycinum  ](http://www.iplant.cn/info/Vaccinium dunalianum var. calycinum?t=foc)
+* [V.  dunalianum var. caudatifolium  长尾叶越桔](http://www.iplant.cn/info/Vaccinium dunalianum var. caudatifolium?t=foc)
+* [V.  dunalianum var. dunalianum  樟叶越桔(原变种)](http://www.iplant.cn/info/Vaccinium dunalianum var. dunalianum?t=foc)
+* [V.  dunalianum var. megaphyllum  大樟叶越桔](http://www.iplant.cn/info/Vaccinium dunalianum var. megaphyllum?t=foc)
+* [V.  dunalianum var. urophyllum  尾叶越桔](http://www.iplant.cn/info/Vaccinium dunalianum var. urophyllum?t=foc)
+* [V.  dunnianum  长穗越桔](http://www.iplant.cn/info/Vaccinium dunnianum?t=foc)
+* [V.  emarginatum  凹顶越桔](http://www.iplant.cn/info/Vaccinium emarginatum?t=foc)
+* [V.  exaristatum  隐距越桔](http://www.iplant.cn/info/Vaccinium exaristatum?t=foc)
+* [V.  exaristatum var. pubescens  ](http://www.iplant.cn/info/Vaccinium exaristatum var. pubescens?t=foc)
+* [V.  fimbribracteatum  齿苞越桔](http://www.iplant.cn/info/Vaccinium fimbribracteatum?t=foc)
+* [V.  fimbricalyx  流苏萼越桔](http://www.iplant.cn/info/Vaccinium fimbricalyx?t=foc)
+* [V.  foetidissimum  臭越桔](http://www.iplant.cn/info/Vaccinium foetidissimum?t=foc)
+* [V.  formosanum  ](http://www.iplant.cn/info/Vaccinium formosanum?t=foc)
+* [V.  forrestii  ](http://www.iplant.cn/info/Vaccinium forrestii?t=foc)
+* [V.  fragile  乌鸦果](http://www.iplant.cn/info/Vaccinium fragile?t=foc)
+* [V.  fragile var. crinitum  ](http://www.iplant.cn/info/Vaccinium fragile var. crinitum?t=foc)
+* [V.  fragile var. fragile  乌鸦果(原变种)](http://www.iplant.cn/info/Vaccinium fragile var. fragile?t=foc)
+* [V.  fragile var. mekongense  大叶乌鸦果](http://www.iplant.cn/info/Vaccinium fragile var. mekongense?t=foc)
+* [V.  fragile var. myrtifolium  ](http://www.iplant.cn/info/Vaccinium fragile var. myrtifolium?t=foc)
+* [V.  gaultheriifolium  软骨边越桔](http://www.iplant.cn/info/Vaccinium gaultheriifolium?t=foc)
+* [V.  gaultheriifolium var. gaultheriifolium  软骨边越桔(原变种)](http://www.iplant.cn/info/Vaccinium gaultheriifolium var. gaultheriifolium?t=foc)
+* [V.  gaultheriifolium var. glaucorubrum  粉花软骨边越桔](http://www.iplant.cn/info/Vaccinium gaultheriifolium var. glaucorubrum?t=foc)
+* [V.  glandulosissimum  ](http://www.iplant.cn/info/Vaccinium glandulosissimum?t=foc)
+* [V.  glaucoalbum  粉白越桔](http://www.iplant.cn/info/Vaccinium glaucoalbum?t=foc)
+* [V.  glaucophyllum  灰叶乌饭](http://www.iplant.cn/info/Vaccinium glaucophyllum?t=foc)
+* [V.  guangdongense  广东乌饭](http://www.iplant.cn/info/Vaccinium guangdongense?t=foc)
+* [V.  hainanense  海南越桔](http://www.iplant.cn/info/Vaccinium hainanense?t=foc)
+* [V.  haitangense  海棠越桔](http://www.iplant.cn/info/Vaccinium haitangense?t=foc)
+* [V.  hancockiae  ](http://www.iplant.cn/info/Vaccinium hancockiae?t=foc)
+* [V.  hangchouense  ](http://www.iplant.cn/info/Vaccinium hangchouense?t=foc)
+* [V.  harmandianum  长冠越桔](http://www.iplant.cn/info/Vaccinium harmandianum?t=foc)
+* [V.  henryi  无梗越桔](http://www.iplant.cn/info/Vaccinium henryi?t=foc)
+* [V.  henryi var. chingii  有梗越桔](http://www.iplant.cn/info/Vaccinium henryi var. chingii?t=foc)
+* [V.  henryi var. henryi  无梗越桔(原变种)](http://www.iplant.cn/info/Vaccinium henryi var. henryi?t=foc)
+* [V.  impressinerve  凹脉越桔](http://www.iplant.cn/info/Vaccinium impressinerve?t=foc)
+* [V.  iteophyllum  黄背越桔](http://www.iplant.cn/info/Vaccinium iteophyllum?t=foc)
+* [V.  iteophyllum var. fragrans  ](http://www.iplant.cn/info/Vaccinium iteophyllum var. fragrans?t=foc)
+* [V.  iteophyllum var. glandulosum  腺毛米饭树](http://www.iplant.cn/info/Vaccinium iteophyllum var. glandulosum?t=foc)
+* [V.  iteophyllum var. hispidum  ](http://www.iplant.cn/info/Vaccinium iteophyllum var. hispidum?t=foc)
+* [V.  iteophyllum var. iteophyllum  黄背越桔(原变种)](http://www.iplant.cn/info/Vaccinium iteophyllum var. iteophyllum?t=foc)
+* [V.  japonicum  日本扁枝越桔](http://www.iplant.cn/info/Vaccinium japonicum?t=foc)
+* [V.  japonicum var. lasiostemon  台湾扁枝越桔](http://www.iplant.cn/info/Vaccinium japonicum var. lasiostemon?t=foc)
+* [V.  japonicum var. sinicum  扁枝越桔](http://www.iplant.cn/info/Vaccinium japonicum var. sinicum?t=foc)
+* [V.  jesoense  ](http://www.iplant.cn/info/Vaccinium jesoense?t=foc)
+* [V.  kachinense  卡钦越桔](http://www.iplant.cn/info/Vaccinium kachinense?t=foc)
+* [V.  kengii  鞍马山越桔](http://www.iplant.cn/info/Vaccinium kengii?t=foc)
+* [V.  kingdon-wardii  纸叶越桔](http://www.iplant.cn/info/Vaccinium kingdon-wardii?t=foc)
+* [V.  koreanum  红果越桔](http://www.iplant.cn/info/Vaccinium koreanum?t=foc)
+* [V.  laetum  ](http://www.iplant.cn/info/Vaccinium laetum?t=foc)
+* [V.  laetum var. undulatum  ](http://www.iplant.cn/info/Vaccinium laetum var. undulatum?t=foc)
+* [V.  lamprophyllum  亮叶越桔](http://www.iplant.cn/info/Vaccinium lamprophyllum?t=foc)
+* [V.  lanigerum  羽毛越桔](http://www.iplant.cn/info/Vaccinium lanigerum?t=foc)
+* [V.  leucobotrys  白果越桔](http://www.iplant.cn/info/Vaccinium leucobotrys?t=foc)
+* [V.  lincangense  ](http://www.iplant.cn/info/Vaccinium lincangense?t=foc)
+* [V.  longicaudatum  长尾乌饭](http://www.iplant.cn/info/Vaccinium longicaudatum?t=foc)
+* [V.  longitubulosum  ](http://www.iplant.cn/info/Vaccinium longitubulosum?t=foc)
+* [V.  loquihense  ](http://www.iplant.cn/info/Vaccinium loquihense?t=foc)
+* [V.  mairei  ](http://www.iplant.cn/info/Vaccinium mairei?t=foc)
+* [V.  malaccense  ](http://www.iplant.cn/info/Vaccinium malaccense?t=foc)
+* [V.  mandarinorum  江南越桔](http://www.iplant.cn/info/Vaccinium mandarinorum?t=foc)
+* [V.  mandarinorum var. austrosinense  ](http://www.iplant.cn/info/Vaccinium mandarinorum var. austrosinense?t=foc)
+* [V.  mandarinorum var. laetum  ](http://www.iplant.cn/info/Vaccinium mandarinorum var. laetum?t=foc)
+* [V.  mekongense  ](http://www.iplant.cn/info/Vaccinium mekongense?t=foc)
+* [V.  merrillianum  ](http://www.iplant.cn/info/Vaccinium merrillianum?t=foc)
+* [V.  microcarpum  小果红莓苔子](http://www.iplant.cn/info/Vaccinium microcarpum?t=foc)
+* [V.  miniatum  ](http://www.iplant.cn/info/Vaccinium miniatum?t=foc)
+* [V.  modestum  大苞越桔](http://www.iplant.cn/info/Vaccinium modestum?t=foc)
+* [V.  moupinense  宝兴越桔](http://www.iplant.cn/info/Vaccinium moupinense?t=foc)
+* [V.  myrtillus  黑果越桔](http://www.iplant.cn/info/Vaccinium myrtillus?t=foc)
+* [V.  nummularia  抱石越桔](http://www.iplant.cn/info/Vaccinium nummularia?t=foc)
+* [V.  nummularia var. oblongifolium  ](http://www.iplant.cn/info/Vaccinium nummularia var. oblongifolium?t=foc)
+* [V.  obovatum  ](http://www.iplant.cn/info/Vaccinium obovatum?t=foc)
+* [V.  oldhamii  腺齿越桔](http://www.iplant.cn/info/Vaccinium oldhamii?t=foc)
+* [V.  omeiense  峨眉越桔](http://www.iplant.cn/info/Vaccinium omeiense?t=foc)
+* [V.  oreotrephes  ](http://www.iplant.cn/info/Vaccinium oreotrephes?t=foc)
+* [V.  oxycoccus  红莓苔子](http://www.iplant.cn/info/Vaccinium oxycoccus?t=foc)
+* [V.  papillatum  粉果越桔](http://www.iplant.cn/info/Vaccinium papillatum?t=foc)
+* [V.  papulosum  瘤果越桔](http://www.iplant.cn/info/Vaccinium papulosum?t=foc)
+* [V.  parvibracteatum  ](http://www.iplant.cn/info/Vaccinium parvibracteatum?t=foc)
+* [V.  petelotii  大叶越桔](http://www.iplant.cn/info/Vaccinium petelotii?t=foc)
+* [](http://www.iplant.cn/info/Vaccinium petelotii <homonym1>?t=foc)
+* [V.  piliferum  ](http://www.iplant.cn/info/Vaccinium piliferum?t=foc)
+* [V.  podocarpoideum  罗汉松叶乌饭](http://www.iplant.cn/info/Vaccinium podocarpoideum?t=foc)
+* [V.  pratense  草地越桔](http://www.iplant.cn/info/Vaccinium pratense?t=foc)
+* [V.  pseudobullatum  拟泡叶乌饭](http://www.iplant.cn/info/Vaccinium pseudobullatum?t=foc)
+* [V.  pseudorobustum  椭圆叶越桔](http://www.iplant.cn/info/Vaccinium pseudorobustum?t=foc)
+* [V.  pseudospadiceum  耳叶越桔](http://www.iplant.cn/info/Vaccinium pseudospadiceum?t=foc)
+* [V.  pseudotonkinense  腺萼越桔](http://www.iplant.cn/info/Vaccinium pseudotonkinense?t=foc)
+* [V.  pubicalyx  毛萼越桔](http://www.iplant.cn/info/Vaccinium pubicalyx?t=foc)
+* [V.  pubicalyx var. anomalum  少毛毛萼越桔](http://www.iplant.cn/info/Vaccinium pubicalyx var. anomalum?t=foc)
+* [V.  pubicalyx var. leucocalyx  多毛毛萼越桔](http://www.iplant.cn/info/Vaccinium pubicalyx var. leucocalyx?t=foc)
+* [V.  pubicalyx var. pubicalyx  毛萼越桔(原变种)](http://www.iplant.cn/info/Vaccinium pubicalyx var. pubicalyx?t=foc)
+* [V.  randaiense  峦大越桔](http://www.iplant.cn/info/Vaccinium randaiense?t=foc)
+* [V.  repens  ](http://www.iplant.cn/info/Vaccinium repens?t=foc)
+* [V.  retusum  西藏越桔](http://www.iplant.cn/info/Vaccinium retusum?t=foc)
+* [V.  rubescens  红梗越桔](http://www.iplant.cn/info/Vaccinium rubescens?t=foc)
+* [V.  rugosum  ](http://www.iplant.cn/info/Vaccinium rugosum?t=foc)
+* [V.  salweenense  ](http://www.iplant.cn/info/Vaccinium salweenense?t=foc)
+* [V.  sangtavanense  ](http://www.iplant.cn/info/Vaccinium sangtavanense?t=foc)
+* [V.  saxicola  石生越桔](http://www.iplant.cn/info/Vaccinium saxicola?t=foc)
+* [V.  scalarinervium  ](http://www.iplant.cn/info/Vaccinium scalarinervium?t=foc)
+* [V.  sciaphilum  林生越桔](http://www.iplant.cn/info/Vaccinium sciaphilum?t=foc)
+* [V.  scopulorum  岩生越桔](http://www.iplant.cn/info/Vaccinium scopulorum?t=foc)
+* [V.  serpens  ](http://www.iplant.cn/info/Vaccinium serpens?t=foc)
+* [V.  serratum  ](http://www.iplant.cn/info/Vaccinium serratum?t=foc)
+* [V.  serratum var. leucobotrys  ](http://www.iplant.cn/info/Vaccinium serratum var. leucobotrys?t=foc)
+* [V.  serrulatum  细齿乌饭](http://www.iplant.cn/info/Vaccinium serrulatum?t=foc)
+* [V.  setosum  ](http://www.iplant.cn/info/Vaccinium setosum?t=foc)
+* [V.  siccum  ](http://www.iplant.cn/info/Vaccinium siccum?t=foc)
+* [V.  sikangense  ](http://www.iplant.cn/info/Vaccinium sikangense?t=foc)
+* [V.  sikkimense  荚蒾叶越桔](http://www.iplant.cn/info/Vaccinium sikkimense?t=foc)
+* [V.  sinicum  广西越桔](http://www.iplant.cn/info/Vaccinium sinicum?t=foc)
+* [V.  spicatum  ](http://www.iplant.cn/info/Vaccinium spicatum?t=foc)
+* [V.  spicigerum  ](http://www.iplant.cn/info/Vaccinium spicigerum?t=foc)
+* [V.  spiculatum  小尖叶越桔](http://www.iplant.cn/info/Vaccinium spiculatum?t=foc)
+* [V.  subdissitifolium  梯脉越桔](http://www.iplant.cn/info/Vaccinium subdissitifolium?t=foc)
+* [V.  subfalcatum  镰叶越桔](http://www.iplant.cn/info/Vaccinium subfalcatum?t=foc)
+* [V.  supracostatum  凸脉越桔](http://www.iplant.cn/info/Vaccinium supracostatum?t=foc)
+* [V.  taliense  ](http://www.iplant.cn/info/Vaccinium taliense?t=foc)
+* [V.  tenuiflorum  狭花越桔](http://www.iplant.cn/info/Vaccinium tenuiflorum?t=foc)
+* [V.  trichocladum  刺毛越桔](http://www.iplant.cn/info/Vaccinium trichocladum?t=foc)
+* [V.  trichocladum var. glabriracemosum  光序刺毛越桔](http://www.iplant.cn/info/Vaccinium trichocladum var. glabriracemosum?t=foc)
+* [V.  trichocladum var. trichocladum  刺毛越桔(原变种)](http://www.iplant.cn/info/Vaccinium trichocladum var. trichocladum?t=foc)
+* [V.  triflorum  三花越桔](http://www.iplant.cn/info/Vaccinium triflorum?t=foc)
+* [V.  truncatocalyx  平萼乌饭](http://www.iplant.cn/info/Vaccinium truncatocalyx?t=foc)
+* [V.  uliginosum  笃斯越桔](http://www.iplant.cn/info/Vaccinium uliginosum?t=foc)
+* [V.  uliginosum var. album  ](http://www.iplant.cn/info/Vaccinium uliginosum var. album?t=foc)
+* [V.  urceolatum  红花越桔](http://www.iplant.cn/info/Vaccinium urceolatum?t=foc)
+* [V.  urceolatum var. pubescens  毛序红花越桔](http://www.iplant.cn/info/Vaccinium urceolatum var. pubescens?t=foc)
+* [V.  urceolatum var. urceolatum  红花越桔(原变种)](http://www.iplant.cn/info/Vaccinium urceolatum var. urceolatum?t=foc)
+* [V.  vacciniaceum  小轮叶越桔](http://www.iplant.cn/info/Vaccinium vacciniaceum?t=foc)
+* [V.  vacciniaceum subsp. glabritubum  秃冠小轮叶越桔](http://www.iplant.cn/info/Vaccinium vacciniaceum subsp. glabritubum?t=foc)
+* [V.  vacciniaceum subsp. vacciniaceum  小轮叶越桔(原亚种)](http://www.iplant.cn/info/Vaccinium vacciniaceum subsp. vacciniaceum?t=foc)
+* [V.  vacciniaceum var. hispidum  ](http://www.iplant.cn/info/Vaccinium vacciniaceum var. hispidum?t=foc)
+* [V.  venosum  轮生叶越桔](http://www.iplant.cn/info/Vaccinium venosum?t=foc)
+* [V.  venosum var. hispidum  ](http://www.iplant.cn/info/Vaccinium venosum var. hispidum?t=foc)
+* [V.  viburnoides  ](http://www.iplant.cn/info/Vaccinium viburnoides?t=foc)
+* [V.  vitis-idaea  越桔](http://www.iplant.cn/info/Vaccinium vitis-idaea?t=foc)
+* [V.  vitis-idaea var. merrillianum  ](http://www.iplant.cn/info/Vaccinium vitis-idaea var. merrillianum?t=foc)
+* [V.  wardii  ](http://www.iplant.cn/info/Vaccinium wardii?t=foc)
+* [V.  wrightii  海岛越桔](http://www.iplant.cn/info/Vaccinium wrightii?t=foc)
+* [V.  wrightii var. formosanum  长柄海岛越桔](http://www.iplant.cn/info/Vaccinium wrightii var. formosanum?t=foc)
+* [V.  wrightii var. wrightii  海岛越桔(原变种)](http://www.iplant.cn/info/Vaccinium wrightii var. wrightii?t=foc)
+* [V.  yaoshanicum  瑶山越桔](http://www.iplant.cn/info/Vaccinium yaoshanicum?t=foc)
+* [V.  yaoshanicum var. megaphyllum  ](http://www.iplant.cn/info/Vaccinium yaoshanicum var. megaphyllum?t=foc)
+* [V.  yersinii  ](http://www.iplant.cn/info/Vaccinium yersinii?t=foc)
+* [V.  yunnanense  ](http://www.iplant.cn/info/Vaccinium yunnanense?t=foc)
+* [V.  yunnanense var. franchetianum  ](http://www.iplant.cn/info/Vaccinium yunnanense var. franchetianum?t=foc)
+
+## 中国植物志
+
+> * [白花越桔  V.  albidens](http://www.iplant.cn/info/Vaccinium albidens?t=z)
+> * [短序越桔  V.  brachybotrys](http://www.iplant.cn/info/Vaccinium brachybotrys?t=z)
+> * [短尾越桔  V.  carlesii](http://www.iplant.cn/info/Vaccinium carlesii?t=z)
+> * [矮越桔  V.  chamaebuxus](http://www.iplant.cn/info/Vaccinium chamaebuxus?t=z)
+
+**云南越桔 Vaccinium duclouxii**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第57(1)卷](http://www.iplant.cn/frps/vol/57(1)) >> 113页 [PDF](http://www.iplant.cn/frps/pdf/57(3)/113.pdf)
+
+**35.云南越桔**
+
+Vaccinium duclouxii (Levl.) Hand. -Mazz. in Anz. Akad. Wiss. Wien Math. -Nat. Kl. 62: 146. 1925: id. Symb. Sin. 7 (4): 794. 1936; Rehd. in Journ. Arn. Arb. 15: 284. 1934 et 18: 231. 1937; Sealy in Curtis's Bot. Mag. 164: pl. 9658. 1944. ——Pieris duclouzii Levl. in Bull. Acad. Geogr. Bot. 12: 253. 1903.——Vaccinium forrestii Diels in Not. Roy. Bot. Gard. Edinb. 5: 294. 1912.——V. donnianum Anth. in Not. Roy. Bot. Gard. Edinb. 18: 16. 1933, p. p.——V. sprengelii (G. Don) Sleumer in Bot. Jahrb. 71 (4): 460. 1941, p. p.; Chamberl. in Not. Roy. Bot. Gard. Edinb. 35: 255. 1977, p. p.
+
+**35a.云南越桔**
+
+var. duclouxii
+
+常绿灌木或小乔木，高1-5（-10）米；分枝多。幼枝有棱，无毛。叶片革质，卵状披针形、长圆状披针形或卵形，长3-7（-13）厘米，宽1.7-3.5厘米，顶端渐尖、锐尖或长渐尖，基部宽楔形或钝圆，稀楔形渐狭，边缘有细锯齿，两面无毛，中脉在两面突起，侧脉纤细，于两面稍突起，或于表面平坦不显或微陷入；叶柄长3-6毫米，无毛。花序生于枝顶叶腋和下部叶腋，长1.5-8厘米，序轴无毛；苞片卵形或宽卵形，长5-7毫米，顶端尾尖，两面无毛，早落，小苞片2，卵形，长约1.5毫米，着生花梗上部紧贴萼筒；花梗极短，长0.5-2.5毫米，无毛；萼筒球形，无毛，萼齿三角形，长约1毫米，齿缘有时有疏而细的短缘毛或有具腺流苏；花冠白色或淡红色，筒状坛形，口部稍缢缩，长6-8毫米，外面无毛，内面有微毛，于口部稍密，裂齿三角形，直立或通常反拆；雄蕊内藏，花丝有疏柔毛，药室背部有短距，药管与药室近等长；花柱略微伸出花冠。浆果熟时紫黑色，直径6-7毫米。花期2-5月，果期7-11月。
+
+产四川西南部、云南东南部至西北部。生于山坡灌丛或山地常绿阔叶林，松、栎林林下，海拔1 550-2 600（-3 100）米。模式标本采自云南昆明市郊筇竹寺。
+
+**35b. 刚毛云南越桔（云南植物研究）（变种）**
+
+var. hirticaule C. Y. Wu in Act. Bot. Yunn 9:386. 1987.
+
+与原变种不同在于茎和叶柄被具腺刚毛，有时毛极疏。
+
+产云南东部。生于山谷疏林、山坡灌丛或石山、草坡，海拔1 550-1 970（-2 260）米。模式标本采自广南。
+
+**35c. 柔毛云南越桔（云南植物研究）（变种）**
+
+var. pubipes C. Y. Wu in Act. Bot. Yunn. 9:387, 1987. ——V. sprengelii (G. Don) Sleumer in Bot. Jahrb. 71 (4): 460. 1941, quoad specim. Forrest 4182.
+
+与原变种不同在于幼枝、叶柄、叶背面中脉基部被黄褐色短柔毛；序轴通常被短茸毛。
+
+产云南西北部。山谷杂木林、松林或山坡灌丛中，海拔（1700-）2 300-2 700（-3 200）米。模式标本采自维西。
+
+**35d. 毛果云南越桔（云南植物研究）（变种）**
+
+var. hirtellum C. Y. Wu et R. C. Fang in Act. Bot. Yunn. 9:387. 1987.
+
+与原变种不同在于幼枝被短柔毛，杂生具腺刚毛；序轴、萼筒、萼齿密被微硬毛。
+
+产云南（玉溪）。生于灌丛中。模式标本采自玉溪。
+
+### 下级分类
+* [云南越桔（原变种）  Vaccinium duclouxii var. duclouxii](http://www.iplant.cn/info/Vaccinium duclouxii var. duclouxii?t=z)
+* [毛果云南越桔  Vaccinium duclouxii var. hirtellum](http://www.iplant.cn/info/Vaccinium duclouxii var. hirtellum?t=z)
+* [刚毛云南越桔  Vaccinium duclouxii var. hirticaule](http://www.iplant.cn/info/Vaccinium duclouxii var. hirticaule?t=z)
+* [柔毛云南越桔  Vaccinium duclouxii var. pubipes](http://www.iplant.cn/info/Vaccinium duclouxii var. pubipes?t=z)
+
+### 下级分类
+* [云南越桔（原变种）  Vaccinium duclouxii var. duclouxii](http://iplant.cn/info/sp/Vaccinium duclouxii var. duclouxii?t=z)
+* [毛果云南越桔  Vaccinium duclouxii var. hirtellum](http://iplant.cn/info/sp/Vaccinium duclouxii var. hirtellum?t=z)
+* [刚毛云南越桔  Vaccinium duclouxii var. hirticaule](http://iplant.cn/info/sp/Vaccinium duclouxii var. hirticaule?t=z)
+* [柔毛云南越桔  Vaccinium duclouxii var. pubipes](http://iplant.cn/info/sp/Vaccinium duclouxii var. pubipes?t=z)

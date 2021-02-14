@@ -1,0 +1,215 @@
+宽叶韭 **Allium hookeri** Thwaites
+
+> [Liliaceae](http://www.iplant.cn/info/Liliaceae ?t=foc) - [PDF](http://iplant.cn/foc/pdf/Liliaceae.pdf) >> [Allium](http://www.iplant.cn/info/Allium?t=foc)
+
+ - [PDF](http://www.iplant.cn/foc/pdf/Allium.pdf)
+
+## Description
+
+Roots elongate, thick, fleshy. Bulbs clustered, cylindric; tunic membranous, entire. Leaves linear to broadly so, shorter than to subequaling scape, 0.5--1 cm wide, midvein distinct. Scape lateral, usually arising from base of bulb, (10--)20--60 cm, usually without leaf sheaths, sometimes with 1. Spathe 2-valved, usually deciduous. Umbel hemispheric to globose, many flowered. Pedicels subequal, 2--3(--4) × as long as perianth, ebracteolate. Perianth white or greenish yellow to yellow; segments similar, lanceolate, 4--7.5 × 1--1.5 mm, apex acuminate, sometimes unequally 2-lobed. Filaments subulate, slightly shorter than to subequaling perianth segments, connate at base and adnate to perianth segments. Ovary obovoid, smooth, base constricted into a short stipe; ovules 1 per locule. Style longer than ovary; stigma punctiform. Fl. and fr. Jul--Oct. 2* n* = 22*, 44*.
+
+> **Habait** : 
+> Forests, forest margins, moist places, meadows; 1400--4200 m. SW Sichuan, SE Xizang, NW Yunnan [Bhutan, India, Myanmar, Sri Lanka].
+
+## Keylist
+
+* 1 Perianth white  ——9a [var. hookeri 宽叶韭 (原变种)](http://www.iplant.cn/info/Allium hookeri var. hookeri?t=foc)
+* ~ Perianth greenish yellow to yellow  ——9b [var. muliense 木里韭](http://www.iplant.cn/info/Allium hookeri var. muliense?t=foc)
+
+### Parsublist
+
+* [A.  aciphyllum  针叶韭](http://www.iplant.cn/info/Allium aciphyllum?t=foc)
+* [A.  alabasicum  鄂尔多斯韭](http://www.iplant.cn/info/Allium alabasicum?t=foc)
+* [A.  altaicum  阿尔泰葱](http://www.iplant.cn/info/Allium altaicum?t=foc)
+* [A.  amphibolum  直立韭](http://www.iplant.cn/info/Allium amphibolum?t=foc)
+* [A.  anisopodium  矮韭](http://www.iplant.cn/info/Allium anisopodium?t=foc)
+* [A.  anisopodium var. anisopodium  矮韭 (原变种)](http://www.iplant.cn/info/Allium anisopodium var. anisopodium?t=foc)
+* [A.  anisopodium var. zimmermannianum  糙葶韭](http://www.iplant.cn/info/Allium anisopodium var. zimmermannianum?t=foc)
+* [A.  atrosanguineum  蓝苞葱](http://www.iplant.cn/info/Allium atrosanguineum?t=foc)
+* [A.  atrosanguineum var. atrosanguineum  蓝苞葱 (原变种)](http://www.iplant.cn/info/Allium atrosanguineum var. atrosanguineum?t=foc)
+* [A.  atrosanguineum var. fedschenkoanum  费葱](http://www.iplant.cn/info/Allium atrosanguineum var. fedschenkoanum?t=foc)
+* [A.  atrosanguineum var. tibeticum  藏葱](http://www.iplant.cn/info/Allium atrosanguineum var. tibeticum?t=foc)
+* [A.  beesianum  蓝花韭](http://www.iplant.cn/info/Allium beesianum?t=foc)
+* [A.  bidentatum  砂韭](http://www.iplant.cn/info/Allium bidentatum?t=foc)
+* [A.  blandum  白韭](http://www.iplant.cn/info/Allium blandum?t=foc)
+* [A.  brevidentatum  矮齿韭](http://www.iplant.cn/info/Allium brevidentatum?t=foc)
+* [A.  caeruleum  棱叶薤](http://www.iplant.cn/info/Allium caeruleum?t=foc)
+* [A.  caesium  知母薤](http://www.iplant.cn/info/Allium caesium?t=foc)
+* [A.  caespitosum  疏生韭](http://www.iplant.cn/info/Allium caespitosum?t=foc)
+* [A.  caricoides  石生韭](http://www.iplant.cn/info/Allium caricoides?t=foc)
+* [A.  carolinianum  镰叶韭](http://www.iplant.cn/info/Allium carolinianum?t=foc)
+* [A.  cepa  洋葱](http://www.iplant.cn/info/Allium cepa?t=foc)
+* [A.  cepa var. aggregatum  火葱](http://www.iplant.cn/info/Allium cepa var. aggregatum?t=foc)
+* [A.  cepa var. cepa  洋葱 (原变种)](http://www.iplant.cn/info/Allium cepa var. cepa?t=foc)
+* [A.  cepa var. proliferum  楼子葱](http://www.iplant.cn/info/Allium cepa var. proliferum?t=foc)
+* [A.  cepiforme  香葱](http://www.iplant.cn/info/Allium cepiforme?t=foc)
+* [A.  changduense  昌都韭](http://www.iplant.cn/info/Allium changduense?t=foc)
+* [A.  chienchuanense  剑川韭](http://www.iplant.cn/info/Allium chienchuanense?t=foc)
+* [A.  chinense  头](http://www.iplant.cn/info/Allium chinense?t=foc)
+* [A.  chiwui  冀韭](http://www.iplant.cn/info/Allium chiwui?t=foc)
+* [A.  chrysanthum  野葱](http://www.iplant.cn/info/Allium chrysanthum?t=foc)
+* [A.  chrysocephalum  折被韭](http://www.iplant.cn/info/Allium chrysocephalum?t=foc)
+* [A.  clathratum  细叶北韭](http://www.iplant.cn/info/Allium clathratum?t=foc)
+* [A.  condensatum  黄花韭](http://www.iplant.cn/info/Allium condensatum?t=foc)
+* [A.  cyaneum  天蓝韭](http://www.iplant.cn/info/Allium cyaneum?t=foc)
+* [A.  cyathophorum  杯花韭](http://www.iplant.cn/info/Allium cyathophorum?t=foc)
+* [A.  cyathophorum var. cyathophorum  杯花韭 (原变种)](http://www.iplant.cn/info/Allium cyathophorum var. cyathophorum?t=foc)
+* [A.  cyathophorum var. farreri  川甘韭](http://www.iplant.cn/info/Allium cyathophorum var. farreri?t=foc)
+* [A.  delicatulum  迷人薤](http://www.iplant.cn/info/Allium delicatulum?t=foc)
+* [A.  dentigerum  短齿韭](http://www.iplant.cn/info/Allium dentigerum?t=foc)
+* [A.  eduardii  贺兰韭](http://www.iplant.cn/info/Allium eduardii?t=foc)
+* [A.  elegantulum  雅韭](http://www.iplant.cn/info/Allium elegantulum?t=foc)
+* [A.  eusperma  真籽薤](http://www.iplant.cn/info/Allium eusperma?t=foc)
+* [A.  fasciculatum  粗根韭](http://www.iplant.cn/info/Allium fasciculatum?t=foc)
+* [A.  fetisowii  多籽蒜](http://www.iplant.cn/info/Allium fetisowii?t=foc)
+* [A.  fistulosum  葱](http://www.iplant.cn/info/Allium fistulosum?t=foc)
+* [A.  flavidum  新疆韭](http://www.iplant.cn/info/Allium flavidum?t=foc)
+* [A.  flavovirens  阿拉善韭](http://www.iplant.cn/info/Allium flavovirens?t=foc)
+* [A.  forrestii  梭沙韭](http://www.iplant.cn/info/Allium forrestii?t=foc)
+* [A.  funckiifolium  玉簪叶山葱](http://www.iplant.cn/info/Allium funckiifolium?t=foc)
+* [A.  galanthum  实葶葱](http://www.iplant.cn/info/Allium galanthum?t=foc)
+* [A.  glomeratum  头花薤](http://www.iplant.cn/info/Allium glomeratum?t=foc)
+* [A.  grisellum  灰皮薤](http://www.iplant.cn/info/Allium grisellum?t=foc)
+* [A.  guanxianense  灌县韭](http://www.iplant.cn/info/Allium guanxianense?t=foc)
+* [A.  henryi  疏花韭](http://www.iplant.cn/info/Allium henryi?t=foc)
+* [A.  herderianum  金头韭](http://www.iplant.cn/info/Allium herderianum?t=foc)
+* [A.  heteronema  异梗韭](http://www.iplant.cn/info/Allium heteronema?t=foc)
+* [A.  hookeri var. hookeri  宽叶韭 (原变种)](http://www.iplant.cn/info/Allium hookeri var. hookeri?t=foc)
+* [A.  hookeri var. muliense  木里韭](http://www.iplant.cn/info/Allium hookeri var. muliense?t=foc)
+* [A.  humile  雪韭](http://www.iplant.cn/info/Allium humile?t=foc)
+* [A.  hymenorhizum  北疆韭](http://www.iplant.cn/info/Allium hymenorhizum?t=foc)
+* [A.  hymenorhizum var. dentatum  旱生韭](http://www.iplant.cn/info/Allium hymenorhizum var. dentatum?t=foc)
+* [A.  hymenorhizum var. hymenorhizum  北疆韭 (原变种)](http://www.iplant.cn/info/Allium hymenorhizum var. hymenorhizum?t=foc)
+* [A.  inutile  齿棱茎合被韭](http://www.iplant.cn/info/Allium inutile?t=foc)
+* [A.  jacquemontii  高原薤](http://www.iplant.cn/info/Allium jacquemontii?t=foc)
+* [A.  juldusicola  尤尔都斯薤](http://www.iplant.cn/info/Allium juldusicola?t=foc)
+* [A.  kaschianum  草地韭](http://www.iplant.cn/info/Allium kaschianum?t=foc)
+* [A.  kingdonii  钟花韭](http://www.iplant.cn/info/Allium kingdonii?t=foc)
+* [A.  korolkowii  褐皮韭](http://www.iplant.cn/info/Allium korolkowii?t=foc)
+* [A.  kurssanovii  条叶长喙韭](http://www.iplant.cn/info/Allium kurssanovii?t=foc)
+* [A.  ledebourianum  硬皮葱](http://www.iplant.cn/info/Allium ledebourianum?t=foc)
+* [A.  leucocephalum  白头韭](http://www.iplant.cn/info/Allium leucocephalum?t=foc)
+* [A.  lineare  北韭](http://www.iplant.cn/info/Allium lineare?t=foc)
+* [A.  listera  对叶山葱](http://www.iplant.cn/info/Allium listera?t=foc)
+* [A.  longistylum  长柱韭](http://www.iplant.cn/info/Allium longistylum?t=foc)
+* [A.  maackii  马克韭](http://www.iplant.cn/info/Allium maackii?t=foc)
+* [A.  macranthum  大花韭](http://www.iplant.cn/info/Allium macranthum?t=foc)
+* [A.  macrostemon  薤白](http://www.iplant.cn/info/Allium macrostemon?t=foc)
+* [A.  mairei  滇韭](http://www.iplant.cn/info/Allium mairei?t=foc)
+* [A.  maowenense  茂汶薤](http://www.iplant.cn/info/Allium maowenense?t=foc)
+* [A.  maximowiczii  马葱](http://www.iplant.cn/info/Allium maximowiczii?t=foc)
+* [A.  megalobulbon  大鳞韭](http://www.iplant.cn/info/Allium megalobulbon?t=foc)
+* [A.  monanthum  单花薤](http://www.iplant.cn/info/Allium monanthum?t=foc)
+* [A.  mongolicum  蒙古韭](http://www.iplant.cn/info/Allium mongolicum?t=foc)
+* [A.  nanodes  短葶山葱](http://www.iplant.cn/info/Allium nanodes?t=foc)
+* [A.  neriniflorum  长梗合被韭](http://www.iplant.cn/info/Allium neriniflorum?t=foc)
+* [A.  nutans  齿丝山韭](http://www.iplant.cn/info/Allium nutans?t=foc)
+* [A.  obliquum  高葶韭](http://www.iplant.cn/info/Allium obliquum?t=foc)
+* [A.  oliganthum  少花葱](http://www.iplant.cn/info/Allium oliganthum?t=foc)
+* [A.  omeiense  峨眉韭](http://www.iplant.cn/info/Allium omeiense?t=foc)
+* [A.  oreophilum  高地蒜](http://www.iplant.cn/info/Allium oreophilum?t=foc)
+* [A.  oreoprasum  滩地韭](http://www.iplant.cn/info/Allium oreoprasum?t=foc)
+* [A.  ovalifolium  卵叶山葱](http://www.iplant.cn/info/Allium ovalifolium?t=foc)
+* [A.  ovalifolium var. cordifolium  心叶山葱](http://www.iplant.cn/info/Allium ovalifolium var. cordifolium?t=foc)
+* [A.  ovalifolium var. leuconeurum  白脉山葱](http://www.iplant.cn/info/Allium ovalifolium var. leuconeurum?t=foc)
+* [A.  ovalifolium var. ovalifolium  卵叶山葱 (原变种)](http://www.iplant.cn/info/Allium ovalifolium var. ovalifolium?t=foc)
+* [A.  paepalanthoides  天蒜](http://www.iplant.cn/info/Allium paepalanthoides?t=foc)
+* [A.  pallasii  小山薤](http://www.iplant.cn/info/Allium pallasii?t=foc)
+* [A.  petraeum  石坡韭](http://www.iplant.cn/info/Allium petraeum?t=foc)
+* [A.  pevtzovii  昆仑韭](http://www.iplant.cn/info/Allium pevtzovii?t=foc)
+* [A.  phariense  帕里韭](http://www.iplant.cn/info/Allium phariense?t=foc)
+* [A.  platyspathum  宽苞韭](http://www.iplant.cn/info/Allium platyspathum?t=foc)
+* [A.  platyspathum subsp. amblyophyllum  钝叶韭](http://www.iplant.cn/info/Allium platyspathum subsp. amblyophyllum?t=foc)
+* [A.  platyspathum subsp. platyspathum  宽苞韭 (原亚种)](http://www.iplant.cn/info/Allium platyspathum subsp. platyspathum?t=foc)
+* [A.  plurifoliatum  多叶韭](http://www.iplant.cn/info/Allium plurifoliatum?t=foc)
+* [A.  plurifoliatum var. plurifoliatum  多叶韭 (原变种)](http://www.iplant.cn/info/Allium plurifoliatum var. plurifoliatum?t=foc)
+* [A.  plurifoliatum var. zhegushanense  鹧鸪韭](http://www.iplant.cn/info/Allium plurifoliatum var. zhegushanense?t=foc)
+* [A.  polyrhizum  碱韭](http://www.iplant.cn/info/Allium polyrhizum?t=foc)
+* [A.  porrum  韭葱](http://www.iplant.cn/info/Allium porrum?t=foc)
+* [A.  prattii  太白山葱](http://www.iplant.cn/info/Allium prattii?t=foc)
+* [A.  prostratum  蒙古野韭](http://www.iplant.cn/info/Allium prostratum?t=foc)
+* [A.  przewalskianum  青甘韭](http://www.iplant.cn/info/Allium przewalskianum?t=foc)
+* [A.  ramosum  野韭](http://www.iplant.cn/info/Allium ramosum?t=foc)
+* [A.  rhynchogynum  宽叶滇韭](http://www.iplant.cn/info/Allium rhynchogynum?t=foc)
+* [A.  roborowskianum  新疆蒜](http://www.iplant.cn/info/Allium roborowskianum?t=foc)
+* [A.  robustum  健蒜](http://www.iplant.cn/info/Allium robustum?t=foc)
+* [A.  rubens  红花韭](http://www.iplant.cn/info/Allium rubens?t=foc)
+* [A.  rude  野黄韭](http://www.iplant.cn/info/Allium rude?t=foc)
+* [A.  sabulosum  沙地薤](http://www.iplant.cn/info/Allium sabulosum?t=foc)
+* [A.  sacculiferum  朝鲜薤](http://www.iplant.cn/info/Allium sacculiferum?t=foc)
+* [A.  sairamense  赛里木薤](http://www.iplant.cn/info/Allium sairamense?t=foc)
+* [A.  sativum  蒜](http://www.iplant.cn/info/Allium sativum?t=foc)
+* [A.  saxatile  长喙韭](http://www.iplant.cn/info/Allium saxatile?t=foc)
+* [A.  schoenoprasoides  类北薤](http://www.iplant.cn/info/Allium schoenoprasoides?t=foc)
+* [A.  schoenoprasum  北葱](http://www.iplant.cn/info/Allium schoenoprasum?t=foc)
+* [A.  schoenoprasum var. scaberrimum  糙葶北葱](http://www.iplant.cn/info/Allium schoenoprasum var. scaberrimum?t=foc)
+* [A.  schoenoprasum var. schoenoprasum  北葱 (原变种)](http://www.iplant.cn/info/Allium schoenoprasum var. schoenoprasum?t=foc)
+* [A.  schrenkii  单丝辉韭](http://www.iplant.cn/info/Allium schrenkii?t=foc)
+* [A.  semenovii  管丝葱](http://www.iplant.cn/info/Allium semenovii?t=foc)
+* [A.  senescens  山韭](http://www.iplant.cn/info/Allium senescens?t=foc)
+* [A.  setifolium  丝叶韭](http://www.iplant.cn/info/Allium setifolium?t=foc)
+* [A.  sikkimense  高山韭](http://www.iplant.cn/info/Allium sikkimense?t=foc)
+* [A.  siphonanthum  管花韭](http://www.iplant.cn/info/Allium siphonanthum?t=foc)
+* [A.  songpanicum  松潘薤](http://www.iplant.cn/info/Allium songpanicum?t=foc)
+* [A.  spirale  扭叶韭](http://www.iplant.cn/info/Allium spirale?t=foc)
+* [A.  splendens  丽韭](http://www.iplant.cn/info/Allium splendens?t=foc)
+* [A.  spurium  岩韭](http://www.iplant.cn/info/Allium spurium?t=foc)
+* [A.  stenodon  雾灵韭](http://www.iplant.cn/info/Allium stenodon?t=foc)
+* [A.  strictum  辉韭](http://www.iplant.cn/info/Allium strictum?t=foc)
+* [A.  subangulatum  紫花韭](http://www.iplant.cn/info/Allium subangulatum?t=foc)
+* [A.  subtilissimum  蜜囊韭](http://www.iplant.cn/info/Allium subtilissimum?t=foc)
+* [A.  taishanense  泰山韭](http://www.iplant.cn/info/Allium taishanense?t=foc)
+* [A.  tanguticum  唐古薤](http://www.iplant.cn/info/Allium tanguticum?t=foc)
+* [A.  tekesicola  荒漠韭](http://www.iplant.cn/info/Allium tekesicola?t=foc)
+* [A.  tenuissimum  细叶韭](http://www.iplant.cn/info/Allium tenuissimum?t=foc)
+* [A.  teretifolium  西疆韭](http://www.iplant.cn/info/Allium teretifolium?t=foc)
+* [A.  thunbergii  球序薤](http://www.iplant.cn/info/Allium thunbergii?t=foc)
+* [A.  tianschanicum  天山韭](http://www.iplant.cn/info/Allium tianschanicum?t=foc)
+* [A.  trifurcatum  三柱韭](http://www.iplant.cn/info/Allium trifurcatum?t=foc)
+* [A.  tuberosum  韭](http://www.iplant.cn/info/Allium tuberosum?t=foc)
+* [A.  tubiflorum  合被韭](http://www.iplant.cn/info/Allium tubiflorum?t=foc)
+* [A.  tulipifolium  郁金叶蒜](http://www.iplant.cn/info/Allium tulipifolium?t=foc)
+* [A.  victorialis  葱](http://www.iplant.cn/info/Allium victorialis?t=foc)
+* [A.  wallichii  多星韭](http://www.iplant.cn/info/Allium wallichii?t=foc)
+* [A.  wallichii var. platyphyllum  柳叶韭](http://www.iplant.cn/info/Allium wallichii var. platyphyllum?t=foc)
+* [A.  wallichii var. wallichii  多星韭 (原变种)](http://www.iplant.cn/info/Allium wallichii var. wallichii?t=foc)
+* [A.  weschniakowii  坛丝韭](http://www.iplant.cn/info/Allium weschniakowii?t=foc)
+* [A.  winklerianum  伊犁蒜](http://www.iplant.cn/info/Allium winklerianum?t=foc)
+* [A.  xiangchengense  乡城韭](http://www.iplant.cn/info/Allium xiangchengense?t=foc)
+* [A.  xichuanense  西川韭](http://www.iplant.cn/info/Allium xichuanense?t=foc)
+* [A.  yanchiense  白花薤](http://www.iplant.cn/info/Allium yanchiense?t=foc)
+* [A.  yongdengense  永登韭](http://www.iplant.cn/info/Allium yongdengense?t=foc)
+* [A.  yuanum  齿被韭](http://www.iplant.cn/info/Allium yuanum?t=foc)
+
+## 中国植物志
+
+> * [剑川韭  A.  chienchuanense](Allium-chienchuanense-剑川韭.md)
+> * [杯花韭  A.  cyathophorum](Allium-cyathophorum-杯花韭.md)
+> * [粗根韭  A.  fasciculatum](Allium-fasciculatum-粗根韭.md)
+> * [A.  humile](Allium-humile-雪韭.md)
+
+**宽叶韭 Allium hookeri**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第14卷](http://www.iplant.cn/frps/vol/14) >> 208页 [PDF](http://www.iplant.cn/frps/pdf/14/208.pdf)
+
+**7. 宽叶韭 大叶韭 图31**
+
+Allium hookeri Thwaites, Enum. pl. Zeyl. 339. 1864; Hook. f., Fl. Brit. Ind. 6: 341. 1892.——A. tsoongii Wang et Tang, 静生生物所汇报, Bot. Ser. 7: 292. 1937.
+
+鳞茎圆柱状，具粗壮的根；鳞茎外皮白色，膜质，不破裂。叶条形至宽条形，稀为倒披针状条形，比花葶短或近等长，宽5-10 (-28) 毫米，具明显的中脉。花葶侧生，圆柱状，或略呈三棱柱状，高 (10-) 20-60厘米，下部被叶鞘；总苞2裂，常早落；伞形花序近球状，多花，花较密集；小花梗纤细，近等长，为花被片的2-3 (-4) 倍长，基部无小苞片；花白色，星芒状开展；花被片等长，披针形至条形，长4-7.5毫米，宽1-1.2毫米；先端渐尖或不等的2裂；花丝等长，比花被片短或近等长，在最基部合生并与花被片贴生；子房倒卵形，基部收狭成短柄，外壁平滑，每室1胚珠；花柱比子房长；柱头点状。花果期8-19月。
+
+产四川、云南（西北部）和西藏（东南部）。生于海拔1500-4000米的湿润山坡或林下。斯里兰卡、不丹和印度的北部也有分布。在我国南方的一些地区栽培作蔬菜食用。
+
+**7a. 木里韭（变种）**
+
+var. muliense Airy-Shaw in Notes. Bot. Gard. Edinb. 16: 139. 1931.
+
+与宽叶韭的区别在于本变种的花葶比叶短，高3-15 (-30) 厘米；叶条形，宽2-5 (-10) 毫米；花淡绿黄色至淡黄色。花果期7-9月。
+
+产四川（木里、稻城）和云南（丽江玉龙山、中甸）。生于海拔2800-4200米的草坡、湿地或林缘。
+
+### 下级分类
+* [木里韭  Allium hookeri var. muliense](Allium-hookeri-var-muliense-木里韭.md)
+
+### 下级分类
+* [木里韭  Allium hookeri var. muliense](http://iplant.cn/info/sp/Allium hookeri var. muliense?t=z)

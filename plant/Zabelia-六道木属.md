@@ -1,0 +1,39 @@
+六道木属 **Zabelia** (Rehder) Makino Makinoa. 9: 175. 1948.
+
+> [Linnaeaceae](http://www.iplant.cn/info/Linnaeaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Linnaeaceae.pdf)>>[Zabelia](http://www.iplant.cn/info/Zabelia?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Zabelia.pdf)
+
+> **Comment** : 
+> Six species: Afghanistan, China, NW India, Japan, Korea, Kyrgyzstan, Nepal, Russia (Far East); three species (one endemic) in China.
+
+## Description
+
+Shrubs, deciduous. Old branches often with 6 deep longitudinal grooves. Young branches often with retrorse stiff hairs. Leaves opposite, margin entire or dentate (or sometimes lobed on vigorous shoots), shortly petiolate, estipulate. Petioles of opposite leaf pairs dilated and connate at base, enclosing winter buds. Inflorescence a terminal congested thyrse of sessile cymes; cymes 1-3-flowered. Calyx of 4 or 5 sepals, persistent, spreading, narrowly oblong to elliptic. Corolla white, pale rose, or sometimes reddish, hypocrateriform and ± zygomorphic, 4- or 5-lobed; corolla tube usually without distinct swelling at base, glandular inside. Stamens included, didynamous, inserted at base or middle of corolla tube; anthers yellow, introrse. Ovary usually 3-locular, 2 locules with 2 series of sterile ovules and 1 locule with a single fertile ovule; style filiform; stigmas green, capitate, mucilaginous. Fruit a leathery achene, oblong, crowned with persistent calyx lobes; seed subterete, testa membranous; endosperm fleshy.
+
+> Reference: 
+> This group was first published by Rehder (in Sargent, Pl. Wilson. 1: 118. 1911) as *Abelia* sect. *Zabelia*. It was described in honor of Zabel who was the first to delimit the genus *Abelia* into sections (Mitt. Deutsch. Dendrol. Ges. 2: 33. 1893). The phylogeny of this group was further studied by Makino and supported by the studies of Ikuse and Kurosawa (Notes on Sect. *Zabelia* Rehder of the genus *Abelia*, J. Jap. Bot. 29(4): 11. 1954), and later by Fukuoka (Phylogeny of the Tribe Linnaeeae, Acta Phytotax. Geobot. 23: 82. 1968). The genus *Zabelia* was segregated from *Abelia* based on pollen, wood anatomy, inflorescence structure, and karyology (Makino, Makinoa 9: 175. 1948; cf. Hisauchi & Hara, J. Jap. Bot. 29: 143. 1954).<h4>Species Complex</h4> <dl> <dt><b>2-3. Zabelia biflora species complex</b></dt> <dd> <p class=Description>Shrubs deciduous, 2-3 m tall. Petiole 4-7 mm, sparsely hispid. Leaf blade narrowly ovate or obovate to lanceolate, 30-80 × 5-30 mm, abaxially glabrous but with stiff hairs on veins, adaxially sparsely pubescent when young, base cuneate to ob-tuse, margin entire or with 1-6 pairs of teeth, apex acute to long acuminate. Inflorescence terminal, of paired flowers (occa-sionally more due to supernumerary flowers axillary to brac-teoles); flowers sessile but long pedunculate, peduncles often appearing ± fused; peduncles 0-12 mm; flowers with 3 bracts at base of each ovary; bracts 1-6 mm. Sepals 4, ovate-lanceolate or obovate. Corolla white sometimes tinged red abaxially, 4-lobed; lobes orbicular, 1/3 or 1/5 as long as tube; tube pu-bescent inside. Stamens 4, didynamous, included. Ovary to 8 mm, with sparse, stiff hairs; styles long, equaling corolla, slen-der; stigmas capitate, not exserted from corolla tube. Achene 1-1.5 cm, crowned with 4 persistent and slightly enlarged sepals. Fl. Apr-Jun, fr. Aug-Sep. <p class=Distribution>Scrub, forests, grasslands; 800-3700 m. Anhui, Fujian, SE Gansu, Guizhou, Hebei, Henan, Hubei, Hunan, Jiangxi, Liaoning, Nei Mongol, S Ningxia, Shaanxi, Shanxi, Sichuan, Xizang, Yunnan, Zhejiang [Japan, Korea, Russia (Far East)]. The *Zabelia biflora* species complex was revised by Nakai (J. Jap. Bot. 13(8): 1-12. 1937) who distinguished 11 species. We cur-rently recognize two species in China. Most of the differences between taxa were based on the length of the peduncles, bracts, and bracteoles, which are highly variable. Classi-fication of *Zabelia biflora* is complex and needs to be investigated. </dd> </dl>This group was first published by Rehder (in Sargent, Pl. Wilson. 1: 118. 1911) as *Abelia* sect. *Zabelia*. It was described in honor of Zabel who was the first to delimit the genus *Abelia* into sections (Mitt. Deutsch. Dendrol. Ges. 2: 33. 1893). The phylogeny of this group was further studied by Makino and supported by the studies of Ikuse and Kurosawa (Notes on Sect. *Zabelia* Rehder of the genus *Abelia*, J. Jap. Bot. 29(4): 11. 1954), and later by Fukuoka (Phylogeny of the Tribe Linnaeeae, Acta Phytotax. Geobot. 23: 82. 1968). The genus *Zabelia* was segregated from *Abelia* based on pollen, wood anatomy, inflorescence structure, and karyology (Makino, Makinoa 9: 175. 1948; cf. Hisauchi & Hara, J. Jap. Bot. 29: 143. 1954).<h4>Species Complex</h4> <dl> <dt><b>2-3. Zabelia biflora species complex</b></dt> <dd> <p class=Description>Shrubs deciduous, 2-3 m tall. Petiole 4-7 mm, sparsely hispid. Leaf blade narrowly ovate or obovate to lanceolate, 30-80 × 5-30 mm, abaxially glabrous but with stiff hairs on veins, adaxially sparsely pubescent when young, base cuneate to ob-tuse, margin entire or with 1-6 pairs of teeth, apex acute to long acuminate. Inflorescence terminal, of paired flowers (occa-sionally more due to supernumerary flowers axillary to brac-teoles); flowers sessile but long pedunculate, peduncles often appearing ± fused; peduncles 0-12 mm; flowers with 3 bracts at base of each ovary; bracts 1-6 mm. Sepals 4, ovate-lanceolate or obovate. Corolla white sometimes tinged red abaxially, 4-lobed; lobes orbicular, 1/3 or 1/5 as long as tube; tube pu-bescent inside. Stamens 4, didynamous, included. Ovary to 8 mm, with sparse, stiff hairs; styles long, equaling corolla, slen-der; stigmas capitate, not exserted from corolla tube. Achene 1-1.5 cm, crowned with 4 persistent and slightly enlarged sepals. Fl. Apr-Jun, fr. Aug-Sep. <p class=Distribution>Scrub, forests, grasslands; 800-3700 m. Anhui, Fujian, SE Gansu, Guizhou, Hebei, Henan, Hubei, Hunan, Jiangxi, Liaoning, Nei Mongol, S Ningxia, Shaanxi, Shanxi, Sichuan, Xizang, Yunnan, Zhejiang [Japan, Korea, Russia (Far East)]. The *Zabelia biflora* species complex was revised by Nakai (J. Jap. Bot. 13(8): 1-12. 1937) who distinguished 11 species. We cur-rently recognize two species in China. Most of the differences between taxa were based on the length of the peduncles, bracts, and bracteoles, which are highly variable. Classi-fication of *Zabelia biflora* is complex and needs to be investigated. </dd> </dl>
+
+### Synonym
+*Abelia* sect. *Zabelia* Rehder in Sargent, Pl. Wilson. 1: 124. 1911.
+
+## Keylist
+
+* 1 Calyx and corolla lobes 5; inflorescence a congested terminal thyrse of sessile cymes (cymes 1-3-flowered); bracts and bracteoles leaflike; sepals long ciliate in fruit.——1  [醉鱼草状六道木](http://www.iplant.cn/info/Zabelia triflora?t=foc)
+* ~ Calyx and corolla lobes 4; inflorescence terminal of paired flowers (occasionally more due to supernumerary flowers axillary to bracteoles); bracts and bracteoles reduced; sepals not long ciliate in fruit (occasionally sparsely ciliate).——Z. biflora species complex               Lower Taxa  [六道木](http://www.iplant.cn/info/Zabelia biflora?t=foc)
+
+* [Zabelia.PDF](http://www.iplant.cn/foc/pdf/Zabelia.pdf)
+
+## Sublist
+
+* [Z.  biflora](http://www.iplant.cn/info/Zabelia biflora?t=foc)
+ 六道木
+* [Z.  dielsii](http://www.iplant.cn/info/Zabelia dielsii?t=foc)
+ 南方六道木
+* [Z.  triflora](http://www.iplant.cn/info/Zabelia triflora?t=foc) 醉鱼草状六道木",
+
+### Parsublist
+
+* [Abelia  糯米条属](Abelia-糯米条属.md)
+* [Diabelia  双六道木属](http://www.iplant.cn/info/Diabelia?t=foc)
+* [Dipelta  双盾木属](http://www.iplant.cn/info/Dipelta?t=foc)
+* [Kolkwitzia  蝟实属](http://www.iplant.cn/info/Kolkwitzia?t=foc)
+* [Linnaea  北极花属](http://www.iplant.cn/info/Linnaea?t=foc)

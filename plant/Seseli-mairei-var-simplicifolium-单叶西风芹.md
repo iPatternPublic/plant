@@ -1,0 +1,87 @@
+单叶西风芹 **Seseli mairei var. simplicifolium** C. Y. Wu ex R. H. Shan & M. L. Sheh
+
+> [Apiaceae](http://www.iplant.cn/info/Apiaceae ?t=foc) - [PDF](http://iplant.cn/foc/pdf/Apiaceae.pdf) >> [Seseli](http://www.iplant.cn/info/Seseli ?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Seseli.pdf)
+
+> **Comment** : 
+> Two of us (Pimenov and Kljuykov) note that this taxon was originally projected for description by H. Wolff under the manuscript name “*Seseli* *plantagineum*” (herbarium P), and that specific status is preferable as, in nature, there are no mixed populations of this and the typical variety.
+> Two of us (Pimenov & Kljuykov, FOC 14: 129. 2005) prefer to treat this as *Seseli simplicifolium*.
+
+## Description
+
+Leaf blade simple, elliptic or elliptic-lanceolate, apex acute. Upper leaves linear-lanceolate.
+
+> **Habait** : 
+> Open woodlands, sunny mountain slopes, grassy places; 1200–3200 m. SW Sichuan (Huidong), C Yunnan (Yuanmou).
+
+### Parsublist
+
+* [S.  abolinii  ](http://www.iplant.cn/info/Seseli abolinii?t=foc)
+* [S.  acaule  ](http://www.iplant.cn/info/Seseli acaule?t=foc)
+* [S.  aemulans  大果西风芹](http://www.iplant.cn/info/Seseli aemulans?t=foc)
+* [S.  albescens  ](http://www.iplant.cn/info/Seseli albescens?t=foc)
+* [S.  altissimum  ](http://www.iplant.cn/info/Seseli altissimum?t=foc)
+* [S.  asperulum  微毛西风芹](http://www.iplant.cn/info/Seseli asperulum?t=foc)
+* [S.  benghalense  ](http://www.iplant.cn/info/Seseli benghalense?t=foc)
+* [S.  buchtormense  ](http://www.iplant.cn/info/Seseli buchtormense?t=foc)
+* [S.  condensatum  ](http://www.iplant.cn/info/Seseli condensatum?t=foc)
+* [S.  coronatum  柱冠西风芹](http://www.iplant.cn/info/Seseli coronatum?t=foc)
+* [S.  coronatum var. asperulum  ](http://www.iplant.cn/info/Seseli coronatum var. asperulum?t=foc)
+* [S.  cyclolobum  ](http://www.iplant.cn/info/Seseli cyclolobum?t=foc)
+* [S.  daucifolium  ](http://www.iplant.cn/info/Seseli daucifolium?t=foc)
+* [S.  delavayi  多毛西风芹](http://www.iplant.cn/info/Seseli delavayi?t=foc)
+* [S.  depressum  ](http://www.iplant.cn/info/Seseli depressum?t=foc)
+* [S.  dolichostylum  ](http://www.iplant.cn/info/Seseli dolichostylum?t=foc)
+* [S.  eriocarpum  ](http://www.iplant.cn/info/Seseli eriocarpum?t=foc)
+* [S.  eriocephalum  毛序西风芹](http://www.iplant.cn/info/Seseli eriocephalum?t=foc)
+* [S.  fedtschenkoanum var. iliense  ](http://www.iplant.cn/info/Seseli fedtschenkoanum var. iliense?t=foc)
+* [S.  foeniculum  ](http://www.iplant.cn/info/Seseli foeniculum?t=foc)
+* [S.  giraldii  ](http://www.iplant.cn/info/Seseli giraldii?t=foc)
+* [S.  glabratum  膜盘西风芹](http://www.iplant.cn/info/Seseli glabratum?t=foc)
+* [S.  graveolens  ](http://www.iplant.cn/info/Seseli graveolens?t=foc)
+* [S.  grubovii  ](http://www.iplant.cn/info/Seseli grubovii?t=foc)
+* [S.  iliense  ](http://www.iplant.cn/info/Seseli iliense?t=foc)
+* [S.  incanum  ](http://www.iplant.cn/info/Seseli incanum?t=foc)
+* [S.  incisodentatum  锐齿西风芹](http://www.iplant.cn/info/Seseli incisodentatum?t=foc)
+* [S.  intramongolicum  内蒙西风芹](http://www.iplant.cn/info/Seseli intramongolicum?t=foc)
+* [S.  jinanense  ](http://www.iplant.cn/info/Seseli jinanense?t=foc)
+* [S.  junatovii  硬枝西风芹](http://www.iplant.cn/info/Seseli junatovii?t=foc)
+* [S.  lancifolium  ](http://www.iplant.cn/info/Seseli lancifolium?t=foc)
+* [S.  langshanense  ](http://www.iplant.cn/info/Seseli langshanense?t=foc)
+* [S.  lanzhouense  ](http://www.iplant.cn/info/Seseli lanzhouense?t=foc)
+* [S.  laserpitiifolium  ](http://www.iplant.cn/info/Seseli laserpitiifolium?t=foc)
+* [S.  laticalycinum  ](http://www.iplant.cn/info/Seseli laticalycinum?t=foc)
+* [S.  libanotis subsp. sibiricum  ](http://www.iplant.cn/info/Seseli libanotis subsp. sibiricum?t=foc)
+* [S.  libanotis var. sibiricum  ](http://www.iplant.cn/info/Seseli libanotis var. sibiricum?t=foc)
+* [S.  mairei  竹叶西风芹](http://www.iplant.cn/info/Seseli mairei?t=foc)
+* [S.  mairei var. mairei  竹叶西风芹(原变种)](http://www.iplant.cn/info/Seseli mairei var. mairei?t=foc)
+* [S.  meyeri  ](http://www.iplant.cn/info/Seseli meyeri?t=foc)
+* [S.  mucronatum  ](http://www.iplant.cn/info/Seseli mucronatum?t=foc)
+* [S.  nortonii  西藏西风芹](http://www.iplant.cn/info/Seseli nortonii?t=foc)
+* [S.  nudum  ](http://www.iplant.cn/info/Seseli nudum?t=foc)
+* [S.  pelliotii  ](http://www.iplant.cn/info/Seseli pelliotii?t=foc)
+* [S.  pratense  ](http://www.iplant.cn/info/Seseli pratense?t=foc)
+* [S.  provostii  ](http://www.iplant.cn/info/Seseli provostii?t=foc)
+* [S.  purpureovaginatum  紫鞘西风芹](http://www.iplant.cn/info/Seseli purpureovaginatum?t=foc)
+* [S.  rivinianum  ](http://www.iplant.cn/info/Seseli rivinianum?t=foc)
+* [S.  sandbergiae  山西西风芹](http://www.iplant.cn/info/Seseli sandbergiae?t=foc)
+* [S.  schansiense  ](http://www.iplant.cn/info/Seseli schansiense?t=foc)
+* [S.  schrenkianum  ](http://www.iplant.cn/info/Seseli schrenkianum?t=foc)
+* [S.  seseloides  ](http://www.iplant.cn/info/Seseli seseloides?t=foc)
+* [S.  sessiliflorum  无柄西风芹](http://www.iplant.cn/info/Seseli sessiliflorum?t=foc)
+* [S.  siamicum  ](http://www.iplant.cn/info/Seseli siamicum?t=foc)
+* [S.  sibiricum  ](http://www.iplant.cn/info/Seseli sibiricum?t=foc)
+* [S.  simplicifolium  ](http://www.iplant.cn/info/Seseli simplicifolium?t=foc)
+* [S.  songoricum  ](http://www.iplant.cn/info/Seseli songoricum?t=foc)
+* [S.  spodotrichoma  ](http://www.iplant.cn/info/Seseli spodotrichoma?t=foc)
+* [S.  squarrosum  ](http://www.iplant.cn/info/Seseli squarrosum?t=foc)
+* [S.  squarrulosum  粗糙西风芹](http://www.iplant.cn/info/Seseli squarrulosum?t=foc)
+* [S.  strictum  劲直西风芹](http://www.iplant.cn/info/Seseli strictum?t=foc)
+* [S.  tachiroei  ](http://www.iplant.cn/info/Seseli tachiroei?t=foc)
+* [S.  tenuifolium  ](http://www.iplant.cn/info/Seseli tenuifolium?t=foc)
+* [S.  togasii  绒果西风芹](http://www.iplant.cn/info/Seseli togasii?t=foc)
+* [S.  trichocarpum  ](http://www.iplant.cn/info/Seseli trichocarpum?t=foc)
+* [S.  vaillantii  ](http://www.iplant.cn/info/Seseli vaillantii?t=foc)
+* [S.  valentinae  叉枝西风芹](http://www.iplant.cn/info/Seseli valentinae?t=foc)
+* [S.  wannienchun  ](http://www.iplant.cn/info/Seseli wannienchun?t=foc)
+* [S.  wawrae  ](http://www.iplant.cn/info/Seseli wawrae?t=foc)
+* [S.  yunnanense  松叶西风芹](http://www.iplant.cn/info/Seseli yunnanense?t=foc)

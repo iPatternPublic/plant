@@ -1,0 +1,103 @@
+马尾南星 **Arisaema victoriae** V. D. Nguyen Aroideana. 23: 38. 2000.
+
+> [Araceae](http://www.iplant.cn/info/Araceae ?t=foc) - [PDF](http://iplant.cn/foc/pdf/Araceae.pdf) >> [Arisaema](http://www.iplant.cn/info/Arisaema?t=foc)
+
+ - [PDF](http://www.iplant.cn/foc/pdf/Arisaema.pdf)
+
+## Description
+
+Rhizome oblique or horizontal, light brown outside, violaceous in section, cylindric, 3-6 × 2-3 cm. Cataphylls 3 or 4, grayish brown with purplish and black spots, longest one 10-15 cm, apex mucronate. Leaves 2; petiole green, marked with purple, to 30 cm, proximal 15-25 cm forming pseudostem; leaf blade 3-foliolate, paler and evidently veined abaxially, shiny green adaxially; central leaflet elliptic, 9.5-10 × 3.2-3.5 cm, aristate at apex, with a tip 8-11 mm; lateral ones slightly smaller. Peduncle erect, overtopping leaves. Spathe green tinged except for white center, ca. 12 cm, with proximal margins incurved or ± overlapping to form a cylindric tube to 6 × 2.7 cm, scarcely or slightly auriculate at throat; limb subovate-lanceolate, ca. 8 × 4 cm, apex aristate and recurved. Male spadix subsessile, ca. 16 cm; fertile zone green, subterete, gradually attenuate distally, ca. 4 cm, loosely flowered; male flowers stipitate, usually diandrous; stipe 0.2-0.9 mm; thecae ellipsoid, 0.4-0.7 mm; appendix extending beyond throat of spathe tube, recurved, greenish, horsetail-shaped, ca. 12 cm, with many filiform subulate neuter flowers; proximal neuter flowers scattered, 3-4 mm; distal ones numerous and crowded, 2.5-5.5 cm. Female spadix unknown. Fl. Jun.
+
+> Reference: 
+> One of us (Murata) recognizes *Arisaema hippocaudatum* S. C. Chen & H. Li (Acta Bot. Yunnan. 24: 607. 2002) as a rare Chinese species known only from the type and *A. victoriae* as endemic to Vietnam. In *A. victoriae*, the main axis of the spadix appendix is distinct and much longer than the branches (neuter flowers) as in *A. lihengianum*, whereas in *A. hippocaudatum*, the main axis is not clear and (if still present) is of a similar size and shape to the branches in its distal part. On the other hand, one of us (Li) believes that the two entities are conspecific, based on observations of cultivated plants.One of us (Murata) recognizes *Arisaema hippocaudatum* S. C. Chen & H. Li (Acta Bot. Yunnan. 24: 607. 2002) as a rare Chinese species known only from the type and *A. victoriae* as endemic to Vietnam. In *A. victoriae*, the main axis of the spadix appendix is distinct and much longer than the branches (neuter flowers) as in *A. lihengianum*, whereas in *A. hippocaudatum*, the main axis is not clear and (if still present) is of a similar size and shape to the branches in its distal part. On the other hand, one of us (Li) believes that the two entities are conspecific, based on observations of cultivated plants.
+
+### Statistics
+Limestone crevices on hilltops; 600-700 m. Guangxi (Du’an) [Vietnam].
+
+### Synonym
+*Arisaema hippocaudatum* S. C. Chen & H. Li.
+
+### Parsublist
+
+* [A.  amurense  东北南星](http://www.iplant.cn/info/Arisaema amurense?t=foc)
+* [A.  aridum  旱生南星](http://www.iplant.cn/info/Arisaema aridum?t=foc)
+* [A.  asperatum  刺柄南星](http://www.iplant.cn/info/Arisaema asperatum?t=foc)
+* [A.  auriculatum  长耳南星](http://www.iplant.cn/info/Arisaema auriculatum?t=foc)
+* [A.  austroyunnanense  滇南南星](http://www.iplant.cn/info/Arisaema austroyunnanense?t=foc)
+* [A.  bannaense  版纳南星](http://www.iplant.cn/info/Arisaema bannaense?t=foc)
+* [A.  bockii  灯台莲](http://www.iplant.cn/info/Arisaema bockii?t=foc)
+* [A.  bonatianum  丹珠南星](http://www.iplant.cn/info/Arisaema bonatianum?t=foc)
+* [A.  brucei  贝氏南星](http://www.iplant.cn/info/Arisaema brucei?t=foc)
+* [A.  calcareum  金江南星](http://www.iplant.cn/info/Arisaema calcareum?t=foc)
+* [A.  candidissimum  白苞南星](http://www.iplant.cn/info/Arisaema candidissimum?t=foc)
+* [A.  chuanxiense  ](http://www.iplant.cn/info/Arisaema chuanxiense?t=foc)
+* [A.  ciliatum  缘毛南星](http://www.iplant.cn/info/Arisaema ciliatum?t=foc)
+* [A.  clavatum  棒头南星](http://www.iplant.cn/info/Arisaema clavatum?t=foc)
+* [A.  concinnum  皱序南星](http://www.iplant.cn/info/Arisaema concinnum?t=foc)
+* [A.  cordatum  心檐南星](http://www.iplant.cn/info/Arisaema cordatum?t=foc)
+* [A.  costatum  多脉南星](http://www.iplant.cn/info/Arisaema costatum?t=foc)
+* [A.  dahaiense  会泽南星](http://www.iplant.cn/info/Arisaema dahaiense?t=foc)
+* [A.  decipiens  雪里见](http://www.iplant.cn/info/Arisaema decipiens?t=foc)
+* [A.  echinatum  刺棒南星](http://www.iplant.cn/info/Arisaema echinatum?t=foc)
+* [A.  echinoides  拟刺棒南星](http://www.iplant.cn/info/Arisaema echinoides?t=foc)
+* [A.  elephas  象南星](http://www.iplant.cn/info/Arisaema elephas?t=foc)
+* [A.  erubescens  一把伞南星](http://www.iplant.cn/info/Arisaema erubescens?t=foc)
+* [A.  exappendiculatum  圈药南星](http://www.iplant.cn/info/Arisaema exappendiculatum?t=foc)
+* [A.  fargesii  螃蟹七](http://www.iplant.cn/info/Arisaema fargesii?t=foc)
+* [A.  flavum subsp. tibeticum  黄苞南星](http://www.iplant.cn/info/Arisaema flavum subsp. tibeticum?t=foc)
+* [A.  franchetianum  象头花](http://www.iplant.cn/info/Arisaema franchetianum?t=foc)
+* [A.  grapsospadix  毛笔南星](http://www.iplant.cn/info/Arisaema grapsospadix?t=foc)
+* [A.  hainanense  黎婆花](http://www.iplant.cn/info/Arisaema hainanense?t=foc)
+* [A.  handelii  疣序南星](http://www.iplant.cn/info/Arisaema handelii?t=foc)
+* [A.  heterophyllum  天南星](http://www.iplant.cn/info/Arisaema heterophyllum?t=foc)
+* [A.  hunanense  湘南星](http://www.iplant.cn/info/Arisaema hunanense?t=foc)
+* [A.  ilanense  宜兰南星](http://www.iplant.cn/info/Arisaema ilanense?t=foc)
+* [A.  intermedium  高原南星](http://www.iplant.cn/info/Arisaema intermedium?t=foc)
+* [A.  jacquemontii  藏南绿南星](http://www.iplant.cn/info/Arisaema jacquemontii?t=foc)
+* [A.  jingdongense  景东南星](http://www.iplant.cn/info/Arisaema jingdongense?t=foc)
+* [A.  lackneri  勐海南星](http://www.iplant.cn/info/Arisaema lackneri?t=foc)
+* [A.  lichiangense  丽江南星](http://www.iplant.cn/info/Arisaema lichiangense?t=foc)
+* [A.  lidaense  文山南星](http://www.iplant.cn/info/Arisaema lidaense?t=foc)
+* [A.  lihengianum  李恒南星](http://www.iplant.cn/info/Arisaema lihengianum?t=foc)
+* [A.  lingyunense  凌云南星](http://www.iplant.cn/info/Arisaema lingyunense?t=foc)
+* [A.  lobatum  花南星](http://www.iplant.cn/info/Arisaema lobatum?t=foc)
+* [A.  mairei  乌蒙南星](http://www.iplant.cn/info/Arisaema mairei?t=foc)
+* [A.  meleagris  褐斑南星](http://www.iplant.cn/info/Arisaema meleagris?t=foc)
+* [A.  menglaense  勐腊南星](http://www.iplant.cn/info/Arisaema menglaense?t=foc)
+* [A.  muratae  邑田南星](http://www.iplant.cn/info/Arisaema muratae?t=foc)
+* [A.  nangtciangense  南漳南星](http://www.iplant.cn/info/Arisaema nangtciangense?t=foc)
+* [A.  nepenthoides  猪笼南星](http://www.iplant.cn/info/Arisaema nepenthoides?t=foc)
+* [A.  odoratum  香南星](http://www.iplant.cn/info/Arisaema odoratum?t=foc)
+* [A.  parvum  小南星](http://www.iplant.cn/info/Arisaema parvum?t=foc)
+* [A.  penicillatum  画笔南星](http://www.iplant.cn/info/Arisaema penicillatum?t=foc)
+* [A.  peninsulae  细齿南星](http://www.iplant.cn/info/Arisaema peninsulae?t=foc)
+* [A.  petelotii  紫根南星](http://www.iplant.cn/info/Arisaema petelotii?t=foc)
+* [A.  petiolulatum  三匹箭](http://www.iplant.cn/info/Arisaema petiolulatum?t=foc)
+* [A.  pianmaense  片马南星](http://www.iplant.cn/info/Arisaema pianmaense?t=foc)
+* [A.  pingbianense  屏边南星](http://www.iplant.cn/info/Arisaema pingbianense?t=foc)
+* [A.  prazeri  河谷南星](http://www.iplant.cn/info/Arisaema prazeri?t=foc)
+* [A.  quinquelobatum  五叶山珠南星](http://www.iplant.cn/info/Arisaema quinquelobatum?t=foc)
+* [A.  ringens  普陀南星](http://www.iplant.cn/info/Arisaema ringens?t=foc)
+* [A.  rubrirhizomatum  红根南星](http://www.iplant.cn/info/Arisaema rubrirhizomatum?t=foc)
+* [A.  saxatile  银南星](http://www.iplant.cn/info/Arisaema saxatile?t=foc)
+* [A.  silvestrii  云台南星](http://www.iplant.cn/info/Arisaema silvestrii?t=foc)
+* [A.  sinii  瑶山南星](http://www.iplant.cn/info/Arisaema sinii?t=foc)
+* [A.  smitinandii  披发南星](http://www.iplant.cn/info/Arisaema smitinandii?t=foc)
+* [A.  souliei  东俄洛南星](http://www.iplant.cn/info/Arisaema souliei?t=foc)
+* [A.  speciosum  美丽南星](http://www.iplant.cn/info/Arisaema speciosum?t=foc)
+* [A.  sukotaiense  中泰南星](http://www.iplant.cn/info/Arisaema sukotaiense?t=foc)
+* [A.  taiwanense  蓬莱南星](http://www.iplant.cn/info/Arisaema taiwanense?t=foc)
+* [A.  taiwanense var. brevipedunculatum  短梗蓬莱南星](http://www.iplant.cn/info/Arisaema taiwanense var. brevipedunculatum?t=foc)
+* [A.  taiwanense var. taiwanense  蓬莱南星(原变种)](http://www.iplant.cn/info/Arisaema taiwanense var. taiwanense?t=foc)
+* [A.  tengtsungense  腾冲南星](http://www.iplant.cn/info/Arisaema tengtsungense?t=foc)
+* [A.  thunbergii subsp. autumnale  东台南星](http://www.iplant.cn/info/Arisaema thunbergii subsp. autumnale?t=foc)
+* [A.  tortuosum  曲序南星](http://www.iplant.cn/info/Arisaema tortuosum?t=foc)
+* [A.  utile  网檐南星](http://www.iplant.cn/info/Arisaema utile?t=foc)
+* [A.  vexillatum  细腰南星](http://www.iplant.cn/info/Arisaema vexillatum?t=foc)
+* [A.  wangmoense  ](http://www.iplant.cn/info/Arisaema wangmoense?t=foc)
+* [A.  wardii  隐序南星](http://www.iplant.cn/info/Arisaema wardii?t=foc)
+* [A.  wattii  双耳南星](http://www.iplant.cn/info/Arisaema wattii?t=foc)
+* [A.  wilsonii  川中南星](http://www.iplant.cn/info/Arisaema wilsonii?t=foc)
+* [A.  xuanweiense  宣威南星](http://www.iplant.cn/info/Arisaema xuanweiense?t=foc)
+* [A.  yunnanense  山珠南星](http://www.iplant.cn/info/Arisaema yunnanense?t=foc)
+* [A.  zhui  维明南星](http://www.iplant.cn/info/Arisaema zhui?t=foc)

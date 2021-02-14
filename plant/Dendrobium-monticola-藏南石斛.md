@@ -1,0 +1,106 @@
+藏南石斛** **Dendrobium monticola**
+
+> [Orchidaceae](http://www.iplant.cn/info/Orchidaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Orchidaceae.pdf)>>[Dendrobium](http://www.iplant.cn/info/Dendrobium?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Dendrobium.pdf)
+
+### Parsublist
+
+* [D.  aduncum  钩状石斛](http://www.iplant.cn/info/Dendrobium aduncum?t=foc)
+* [D.  bellatulum  矮石斛](http://www.iplant.cn/info/Dendrobium bellatulum?t=foc)
+* [D.  brymerianum  长苏石斛](http://www.iplant.cn/info/Dendrobium brymerianum?t=foc)
+* [D.  capillipes  短棒石斛](http://www.iplant.cn/info/Dendrobium capillipes?t=foc)
+* [D.  cariniferum  翅萼石斛](http://www.iplant.cn/info/Dendrobium cariniferum?t=foc)
+* [D.  catenatum  黄石斛](http://www.iplant.cn/info/Dendrobium catenatum?t=foc)
+* [D.  chameleon  长爪石斛](http://www.iplant.cn/info/Dendrobium chameleon?t=foc)
+* [D.  christyanum  毛鞘石斛](http://www.iplant.cn/info/Dendrobium christyanum?t=foc)
+* [D.  chrysanthum  束花石斛](http://www.iplant.cn/info/Dendrobium chrysanthum?t=foc)
+* [D.  chryseum  线叶石斛](http://www.iplant.cn/info/Dendrobium chryseum?t=foc)
+* [D.  chrysotoxum  鼓槌石斛](http://www.iplant.cn/info/Dendrobium chrysotoxum?t=foc)
+* [D.  compactum  草石斛](http://www.iplant.cn/info/Dendrobium compactum?t=foc)
+* [D.  crepidatum  玫瑰石斛](http://www.iplant.cn/info/Dendrobium crepidatum?t=foc)
+* [D.  crumenatum  木石斛](http://www.iplant.cn/info/Dendrobium crumenatum?t=foc)
+* [D.  crystallinum  晶帽石斛](http://www.iplant.cn/info/Dendrobium crystallinum?t=foc)
+* [D.  cucullatum  兜唇石斛](http://www.iplant.cn/info/Dendrobium cucullatum?t=foc)
+* [D.  denneanum  叠鞘石斛](http://www.iplant.cn/info/Dendrobium denneanum?t=foc)
+* [D.  densiflorum  密花石斛](http://www.iplant.cn/info/Dendrobium densiflorum?t=foc)
+* [D.  devonianum  齿瓣石斛](http://www.iplant.cn/info/Dendrobium devonianum?t=foc)
+* [D.  dixanthum  黄花石斛](http://www.iplant.cn/info/Dendrobium dixanthum?t=foc)
+* [D.  ellipsophyllum  反瓣石斛](http://www.iplant.cn/info/Dendrobium ellipsophyllum?t=foc)
+* [D.  equitans  燕石斛](http://www.iplant.cn/info/Dendrobium equitans?t=foc)
+* [D.  exile  景洪石斛](http://www.iplant.cn/info/Dendrobium exile?t=foc)
+* [D.  falconeri  串珠石斛](http://www.iplant.cn/info/Dendrobium falconeri?t=foc)
+* [D.  fanjingshanense  梵净山石斛](http://www.iplant.cn/info/Dendrobium fanjingshanense?t=foc)
+* [D.  fimbriatum  流苏石斛](http://www.iplant.cn/info/Dendrobium fimbriatum?t=foc)
+* [D.  findlayanum  棒节石斛](http://www.iplant.cn/info/Dendrobium findlayanum?t=foc)
+* [D.  flexicaule  曲茎石斛](http://www.iplant.cn/info/Dendrobium flexicaule?t=foc)
+* [D.  furcatopedicellatum  双花石斛](http://www.iplant.cn/info/Dendrobium furcatopedicellatum?t=foc)
+* [D.  gibsonii  曲轴石斛](http://www.iplant.cn/info/Dendrobium gibsonii?t=foc)
+* [D.  goldschmidtianum  红花石斛](http://www.iplant.cn/info/Dendrobium goldschmidtianum?t=foc)
+* [D.  gratiosissimum  杯鞘石斛](http://www.iplant.cn/info/Dendrobium gratiosissimum?t=foc)
+* [D.  hainanense  海南石斛](http://www.iplant.cn/info/Dendrobium hainanense?t=foc)
+* [D.  hancockii  细叶石斛](http://www.iplant.cn/info/Dendrobium hancockii?t=foc)
+* [D.  harveyanum  苏瓣石斛](http://www.iplant.cn/info/Dendrobium harveyanum?t=foc)
+* [D.  hekouense  ](http://www.iplant.cn/info/Dendrobium hekouense?t=foc)
+* [D.  henryi  疏花石斛](http://www.iplant.cn/info/Dendrobium henryi?t=foc)
+* [D.  hercoglossum  重唇石斛](http://www.iplant.cn/info/Dendrobium hercoglossum?t=foc)
+* [D.  heterocarpum  尖刀唇石斛](http://www.iplant.cn/info/Dendrobium heterocarpum?t=foc)
+* [D.  hookerianum  金耳石斛](http://www.iplant.cn/info/Dendrobium hookerianum?t=foc)
+* [D.  jenkinsii  小黄花石斛](http://www.iplant.cn/info/Dendrobium jenkinsii?t=foc)
+* [D.  jiajiangense  夹江石斛](http://www.iplant.cn/info/Dendrobium jiajiangense?t=foc)
+* [D.  lagarum  ](http://www.iplant.cn/info/Dendrobium lagarum?t=foc)
+* [D.  leptocladum  菱唇石斛](http://www.iplant.cn/info/Dendrobium leptocladum?t=foc)
+* [D.  linawianum  矩唇石斛](http://www.iplant.cn/info/Dendrobium linawianum?t=foc)
+* [D.  lindleyi  聚石斛](http://www.iplant.cn/info/Dendrobium lindleyi?t=foc)
+* [D.  lituiflorum  喇叭唇石斛](http://www.iplant.cn/info/Dendrobium lituiflorum?t=foc)
+* [D.  loddigesii  美花石斛](http://www.iplant.cn/info/Dendrobium loddigesii?t=foc)
+* [D.  lohohense  罗河石斛](http://www.iplant.cn/info/Dendrobium lohohense?t=foc)
+* [D.  longicornu  长距石斛](http://www.iplant.cn/info/Dendrobium longicornu?t=foc)
+* [D.  luzonense  吕宋石斛](http://www.iplant.cn/info/Dendrobium luzonense?t=foc)
+* [D.  menglaense  勐腊石斛](http://www.iplant.cn/info/Dendrobium menglaense?t=foc)
+* [D.  moniliforme  细茎石斛](http://www.iplant.cn/info/Dendrobium moniliforme?t=foc)
+* [D.  moschatum  杓唇石斛](http://www.iplant.cn/info/Dendrobium moschatum?t=foc)
+* [D.  nobile  石斛](http://www.iplant.cn/info/Dendrobium nobile?t=foc)
+* [D.  okinawense  琉球石斛](http://www.iplant.cn/info/Dendrobium okinawense?t=foc)
+* [D.  parciflorum  少花石斛](http://www.iplant.cn/info/Dendrobium parciflorum?t=foc)
+* [D.  parishii  紫瓣石斛](http://www.iplant.cn/info/Dendrobium parishii?t=foc)
+* [D.  pendulum  肿节石斛](http://www.iplant.cn/info/Dendrobium pendulum?t=foc)
+* [D.  polyanthum  报春石斛](http://www.iplant.cn/info/Dendrobium polyanthum?t=foc)
+* [D.  porphyrochilum  单葶草石斛](http://www.iplant.cn/info/Dendrobium porphyrochilum?t=foc)
+* [D.  pseudotenellum  针叶石斛](http://www.iplant.cn/info/Dendrobium pseudotenellum?t=foc)
+* [D.  salaccense  竹枝石斛](http://www.iplant.cn/info/Dendrobium salaccense?t=foc)
+* [D.  scoriarum  广西石斛](http://www.iplant.cn/info/Dendrobium scoriarum?t=foc)
+* [D.  shixingense  ](http://www.iplant.cn/info/Dendrobium shixingense?t=foc)
+* [D.  sinense  华石斛](http://www.iplant.cn/info/Dendrobium sinense?t=foc)
+* [D.  sinominutiflorum  勐海石斛](http://www.iplant.cn/info/Dendrobium sinominutiflorum?t=foc)
+* [D.  somae  小双花石斛](http://www.iplant.cn/info/Dendrobium somae?t=foc)
+* [D.  spatella  剑叶石斛](http://www.iplant.cn/info/Dendrobium spatella?t=foc)
+* [D.  strongylanthum  梳唇石斛](http://www.iplant.cn/info/Dendrobium strongylanthum?t=foc)
+* [D.  stuposum  叉唇石斛](http://www.iplant.cn/info/Dendrobium stuposum?t=foc)
+* [D.  sulcatum  具槽石斛](http://www.iplant.cn/info/Dendrobium sulcatum?t=foc)
+* [D.  terminale  刀叶石斛](http://www.iplant.cn/info/Dendrobium terminale?t=foc)
+* [D.  thyrsiflorum  球花石斛](http://www.iplant.cn/info/Dendrobium thyrsiflorum?t=foc)
+* [D.  trigonopus  翅梗石斛](http://www.iplant.cn/info/Dendrobium trigonopus?t=foc)
+* [D.  wangliangii  王氏石斛](http://www.iplant.cn/info/Dendrobium wangliangii?t=foc)
+* [D.  wardianum  大苞鞘石斛](http://www.iplant.cn/info/Dendrobium wardianum?t=foc)
+* [D.  wattii  高山石斛](http://www.iplant.cn/info/Dendrobium wattii?t=foc)
+* [D.  williamsonii  黑毛石斛](http://www.iplant.cn/info/Dendrobium williamsonii?t=foc)
+* [D.  xichouense  西畴石斛](http://www.iplant.cn/info/Dendrobium xichouense?t=foc)
+
+## 中国植物志
+
+> * [草石斛  D.  compactum](http://www.iplant.cn/info/Dendrobium compactum?t=z)
+> * [勐海石斛  D.  minutiflorum](http://www.iplant.cn/info/Dendrobium minutiflorum?t=z)
+> * [单葶草石斛  D.  porphyrochilum](http://www.iplant.cn/info/Dendrobium porphyrochilum?t=z)
+> * [梳唇石斛  D.  strongylanthum](http://www.iplant.cn/info/Dendrobium strongylanthum?t=z)
+
+**藏南石斛 Dendrobium monticola**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第19卷](http://www.iplant.cn/frps/vol/19) >> 136页 [PDF](http://www.iplant.cn/frps/pdf/19/136.pdf)
+**63．藏南石斛（西藏植物志）**
+
+Dendrobium monticola P. F. Hunt et Summerh. in Taxon 10: 110. 1961; P. F. Hunt in Kew Bull. 24: 90. 1970; H. Hara et al., Enum. Flow. Pl. Nepal 1: 40. 1978; Z. H. Tsi in Acta Phytotax. Sin. 18 (4): 436. 1980; Seidenf. in Opera Bot. 83: 136, fig. 86. 1985; 西藏植物志5: 806. 图439. 1987. ——D. eriiflorum auct. non Griff.: 中国兰花全书, 155. 1998.
+
+植株矮小。茎肉质，直立或斜立，长达10厘米，从基部向上逐渐变细，当年生的被叶鞘所包，具数节，节间长约1厘米。叶二列互生于整个茎上，薄革质，狭长圆形，长25-45毫米，宽5-6毫米，先端锐尖并且不等侧微2裂，基部扩大为偏鼓状的鞘；叶鞘松松抱茎，在茎下部的最大，向上逐渐变小，鞘口斜截。总状花序常1-4个，顶生或从当年生具叶的茎上部发出，近直立或弯垂，长2.5-5厘米，具数朵小花；花苞片狭卵形，长2-3毫米，先端急尖；花梗和子房纤细，长约5毫米；花开展，白色；中萼片狭长圆形，长 (5-) 7-9毫米，宽1.5-1.8毫米，先端渐尖，具3条脉；侧萼片镰状披针形，长7-9毫米，宽约3.5毫米，中部以上骤然急尖，基部歪斜，较宽，具3条脉；萼囊短圆锥形；花瓣狭长圆形，长6-8毫米，宽约1.8毫米，先端渐尖，具1-3条脉；唇瓣近椭圆形，长5.5-6.5毫米，宽3.5-4.5毫米，中部稍缢缩，中部以上3裂，基部具短爪；侧裂片直立，先端渐狭为尖牙齿状，边缘梳状，具紫红色的脉纹；中裂片卵状三角形，反折，先端锐尖，边缘鸡冠状皱褶；唇盘除唇瓣先端白色外，其余具紫红色条纹，中央具2-3条褶片连成一体的脊突；脊突厚肉质，从唇瓣基部延伸到中裂片基部，其先端稍扩大；蕊柱长3毫米，中部较粗，达1毫米，上端无明显的蕊柱齿；蕊柱足长约5毫米，具紫红色斑点，边缘密被细乳突；药帽半球形，前端边缘具微齿。花期7-8月。
+
+产广西西南（那坡）、西藏南部（聂拉木、吉隆）。生于海拔1750-2200米的山谷岩石上。从印度西北部经尼泊尔到锡金和泰国也有分布。模式标本采自印度西北部。
+
+}

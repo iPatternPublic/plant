@@ -1,0 +1,2 @@
+![image](https://user-images.githubusercontent.com/75465037/103788957-68d5b400-507a-11eb-9efd-3efb2c06f11a.png)
+A. Simplified diagram of descent in sexually reproducing land plants, in which diploid sporophytes give rise to haploid spores (through meiosis), which develop into haploid gametophytes; the latter produce egg and sperm, fusing to form a diploid zygote, which devel-ops into a diploid sporophyte. B. A lineage, the result of transfer of genetic material over time and space. C. Divergence of one lineage into two, which may result in speciation (illustrated here).

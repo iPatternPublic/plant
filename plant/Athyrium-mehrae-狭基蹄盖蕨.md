@@ -1,0 +1,183 @@
+狭基蹄盖蕨 **Athyrium mehrae** Bir Nova Hedwigia. 44: 165. 1962.
+
+> [Athyriaceae](http://www.iplant.cn/info/Athyriaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Athyriaceae.pdf) >> [Athyrium](http://www.iplant.cn/info/Athyrium?t=foc)
+ - [PDF](http://www.iplant.cn/foc/pdf/Athyrium.pdf)
+
+> **Comment** : 
+> J. Z. Wang and S. H. Li (in P. Y. Fu et al., Clav. Pl. Chin. Bor.-Orient. 35. 1995) considered that *Athyrium rupestre* Kodama occurs in Jilin. It is characterized by the perispore surface without folds and the pinnae pinnatipartite to pinnatisect, less than 1 cm wide, and long acuminate. *Athyrium rupestre* is distributed in Hokkaido and N Honshu, Japan, and E Russia. If the identification by J. Z. Wang and S. H. Li is correct, the species should be new to China.
+
+## Description
+
+Rhizomes erect, apex densely clothed with brown, lanceolate to broadly lanceolate scales. Fronds caespitose; fertile fronds (20-)35-48(-80) cm; stipe blackish brown at base, upward brown-stramineous, (3-)8-20 cm, base (1-)1.4-2(-5) mm in diam., similarly densely scaly, upward glabrate; lamina pinnate-pinnatipartite, oblanceolate, (18-)26-38(-60) × (3.5-)5.5-7(-15) cm above middle, base gradually narrowed, apex acuminate; pinnae 25-30 pairs, alternate, subspreading, sessile, lower 6-9(-12) pairs of pinnae gradually shortened, basal pinnae often reduced to triangular auricles, 5-7(-20) mm, deflexed, middle pinnae lanceolate to broadly lanceolate, up to 3.5-6.5 × 1-1.4 cm, base broadened, equilateral, truncate or subcuneate, pinnatipartite to 1 mm to winged costa, apex shortly acuminate to caudate-acuminate; pinna segments 10-12(-17) pairs, basal segments opposite, upper segments alternate, slightly ascending or subspreading, approximate, oblong to lanceolate, basal segments larger, 4-6 × 1.8-3 mm, dentate at margin, apex obtuse-rounded and toothed; veins inconspicuous adaxially, visible abaxially, pinnate in segments, lateral veins 4 or 5 pairs, oblique, lower veins forked, upper veins simple, thin. Lamina herbaceous when dried, greenish brown, glabrate on both surfaces, with subulate spines at base of pinnae and pinna segments on adaxial side. Sori small, orbicular, 1 or 2(or 3) per segment, inframedial on basal acroscopic veins, close to midrib; indusia brown, small, orbicular-reniform, membranous, entire or erose at margin, persistent. Perispore surface without folds, with granular ornamentation. 2*n* = 80.
+
+> **Habait** : 
+> Forests, shrub meadows, on rocks of mountain slopes; 3100-4100 m. SE Xizang, Yunnan [India (Sikkim)].
+
+### Synonym
+*Athyrium stenopodum* Ching & S. K. Wu; *A. tibeticum* Ching.
+
+### Parsublist
+
+* [A.  adpressum  金平蹄盖蕨](http://www.iplant.cn/info/Athyrium adpressum?t=foc)
+* [A.  adscendens  斜羽蹄盖蕨](http://www.iplant.cn/info/Athyrium adscendens?t=foc)
+* [A.  anisopterum  宿蹄盖蕨](http://www.iplant.cn/info/Athyrium anisopterum?t=foc)
+* [A.  araiostegioides  鹿角蹄盖蕨](http://www.iplant.cn/info/Athyrium araiostegioides?t=foc)
+* [A.  arisanense  阿里山蹄盖蕨](http://www.iplant.cn/info/Athyrium arisanense?t=foc)
+* [A.  atkinsonii  大叶假冷蕨](http://www.iplant.cn/info/Athyrium atkinsonii?t=foc)
+* [A.  attenuatum  剑叶蹄盖蕨](http://www.iplant.cn/info/Athyrium attenuatum?t=foc)
+* [A.  atuntzeense  阿墩子假冷蕨](http://www.iplant.cn/info/Athyrium atuntzeense?t=foc)
+* [A.  austro-orientale  藏东南蹄盖蕨](http://www.iplant.cn/info/Athyrium austro-orientale?t=foc)
+* [A.  baishanzuense  百山祖蹄盖蕨](http://www.iplant.cn/info/Athyrium baishanzuense?t=foc)
+* [A.  baoxingense  宝兴蹄盖蕨](http://www.iplant.cn/info/Athyrium baoxingense?t=foc)
+* [A.  biserrulatum  苍山蹄盖蕨](http://www.iplant.cn/info/Athyrium biserrulatum?t=foc)
+* [A.  bomicola  波密蹄盖蕨](http://www.iplant.cn/info/Athyrium bomicola?t=foc)
+* [A.  brevifrons  东北蹄盖蕨](http://www.iplant.cn/info/Athyrium brevifrons?t=foc)
+* [A.  brevisorum  中缅蹄盖蕨](http://www.iplant.cn/info/Athyrium brevisorum?t=foc)
+* [A.  brevistipes  短柄蹄盖蕨](http://www.iplant.cn/info/Athyrium brevistipes?t=foc)
+* [A.  bucahwangense  圆果蹄盖蕨](http://www.iplant.cn/info/Athyrium bucahwangense?t=foc)
+* [A.  caudatum  尾羽蹄盖蕨](http://www.iplant.cn/info/Athyrium caudatum?t=foc)
+* [A.  caudiforme  长尾蹄盖蕨](http://www.iplant.cn/info/Athyrium caudiforme?t=foc)
+* [A.  chingianum  秦氏蹄盖蕨](http://www.iplant.cn/info/Athyrium chingianum?t=foc)
+* [A.  christensenii  中越蹄盖蕨](http://www.iplant.cn/info/Athyrium christensenii?t=foc)
+* [A.  chungtienense  中甸蹄盖蕨](http://www.iplant.cn/info/Athyrium chungtienense?t=foc)
+* [A.  clarkei  芽胞蹄盖蕨](http://www.iplant.cn/info/Athyrium clarkei?t=foc)
+* [A.  clivicola  坡生蹄盖蕨](http://www.iplant.cn/info/Athyrium clivicola?t=foc)
+* [A.  clivicola var. clivicola  坡生蹄盖蕨(原变种)](http://www.iplant.cn/info/Athyrium clivicola var. clivicola?t=foc)
+* [A.  clivicola var. rotundum  圆羽蹄盖蕨](http://www.iplant.cn/info/Athyrium clivicola var. rotundum?t=foc)
+* [A.  contingens  短羽蹄盖蕨](http://www.iplant.cn/info/Athyrium contingens?t=foc)
+* [A.  costulalisorum  川西蹄盖蕨](http://www.iplant.cn/info/Athyrium costulalisorum?t=foc)
+* [A.  crassipes  粗柄蹄盖蕨](http://www.iplant.cn/info/Athyrium crassipes?t=foc)
+* [A.  criticum  蒿坪蹄盖蕨](http://www.iplant.cn/info/Athyrium criticum?t=foc)
+* [A.  cryptogrammoides  合欢山蹄盖蕨](http://www.iplant.cn/info/Athyrium cryptogrammoides?t=foc)
+* [A.  davidii  大卫假冷蕨](http://www.iplant.cn/info/Athyrium davidii?t=foc)
+* [A.  daxianglingense  大相岭蹄盖蕨](http://www.iplant.cn/info/Athyrium daxianglingense?t=foc)
+* [A.  decorum  林光蹄盖蕨](http://www.iplant.cn/info/Athyrium decorum?t=foc)
+* [A.  delavayi  翅轴蹄盖蕨](http://www.iplant.cn/info/Athyrium delavayi?t=foc)
+* [A.  delicatulum  薄叶蹄盖蕨](http://www.iplant.cn/info/Athyrium delicatulum?t=foc)
+* [A.  deltoidofrons  溪边蹄盖蕨](http://www.iplant.cn/info/Athyrium deltoidofrons?t=foc)
+* [A.  deltoidofrons var. deltoidofrons  溪边蹄盖蕨(原变种)](http://www.iplant.cn/info/Athyrium deltoidofrons var. deltoidofrons?t=foc)
+* [A.  deltoidofrons var. gracillimum  瘦叶蹄盖蕨](http://www.iplant.cn/info/Athyrium deltoidofrons var. gracillimum?t=foc)
+* [A.  dentigerum  希陶蹄盖蕨](http://www.iplant.cn/info/Athyrium dentigerum?t=foc)
+* [A.  dentilobum  齿尖蹄盖蕨](http://www.iplant.cn/info/Athyrium dentilobum?t=foc)
+* [A.  devolii  湿生蹄盖蕨](http://www.iplant.cn/info/Athyrium devolii?t=foc)
+* [A.  dissitifolium  疏叶蹄盖蕨](http://www.iplant.cn/info/Athyrium dissitifolium?t=foc)
+* [A.  dissitifolium var. dissitifolium  疏叶蹄盖蕨(原变种)](http://www.iplant.cn/info/Athyrium dissitifolium var. dissitifolium?t=foc)
+* [A.  dissitifolium var. funebre  二回疏叶蹄盖蕨](http://www.iplant.cn/info/Athyrium dissitifolium var. funebre?t=foc)
+* [A.  dissitifolium var. kulhaitense  库尔海蹄盖蕨](http://www.iplant.cn/info/Athyrium dissitifolium var. kulhaitense?t=foc)
+* [A.  drepanopterum  多变蹄盖蕨](http://www.iplant.cn/info/Athyrium drepanopterum?t=foc)
+* [A.  dubium  毛翼蹄盖蕨](http://www.iplant.cn/info/Athyrium dubium?t=foc)
+* [A.  elongatum  长叶蹄盖蕨](http://www.iplant.cn/info/Athyrium elongatum?t=foc)
+* [A.  emeicola  石生蹄盖蕨](http://www.iplant.cn/info/Athyrium emeicola?t=foc)
+* [A.  epirachis  轴果蹄盖蕨](http://www.iplant.cn/info/Athyrium epirachis?t=foc)
+* [A.  erythropodum  红柄蹄盖蕨](http://www.iplant.cn/info/Athyrium erythropodum?t=foc)
+* [A.  exindusiatum  无盖蹄盖蕨](http://www.iplant.cn/info/Athyrium exindusiatum?t=foc)
+* [A.  fallaciosum  麦秆蹄盖蕨](http://www.iplant.cn/info/Athyrium fallaciosum?t=foc)
+* [A.  fangii  方氏蹄盖蕨](http://www.iplant.cn/info/Athyrium fangii?t=foc)
+* [A.  fauriei  佛瑞蹄盖蕨](http://www.iplant.cn/info/Athyrium fauriei?t=foc)
+* [A.  fimbriatum  喜马拉雅蹄盖蕨](http://www.iplant.cn/info/Athyrium fimbriatum?t=foc)
+* [A.  flabellulatum  狭叶蹄盖蕨](http://www.iplant.cn/info/Athyrium flabellulatum?t=foc)
+* [A.  foliolosum  大盖蹄盖蕨](http://www.iplant.cn/info/Athyrium foliolosum?t=foc)
+* [A.  glandulosum  腺毛蹄盖蕨](http://www.iplant.cn/info/Athyrium glandulosum?t=foc)
+* [A.  guangnanense  广南蹄盖蕨](http://www.iplant.cn/info/Athyrium guangnanense?t=foc)
+* [A.  hainanense  海南蹄盖蕨](http://www.iplant.cn/info/Athyrium hainanense?t=foc)
+* [A.  himalaicum  中锡蹄盖蕨](http://www.iplant.cn/info/Athyrium himalaicum?t=foc)
+* [A.  hirtirachis  毛轴蹄盖蕨](http://www.iplant.cn/info/Athyrium hirtirachis?t=foc)
+* [A.  imbricatum  密羽蹄盖蕨](http://www.iplant.cn/info/Athyrium imbricatum?t=foc)
+* [A.  infrapuberulum  凌云蹄盖蕨](http://www.iplant.cn/info/Athyrium infrapuberulum?t=foc)
+* [A.  interjectum  居中蹄盖蕨](http://www.iplant.cn/info/Athyrium interjectum?t=foc)
+* [A.  intermixtum  中间蹄盖蕨](http://www.iplant.cn/info/Athyrium intermixtum?t=foc)
+* [A.  iseanum  长江蹄盖蕨](http://www.iplant.cn/info/Athyrium iseanum?t=foc)
+* [A.  iseanum var. chuanqianense  西南蹄盖蕨](http://www.iplant.cn/info/Athyrium iseanum var. chuanqianense?t=foc)
+* [A.  iseanum var. iseanum  长江蹄盖蕨(原变种)](http://www.iplant.cn/info/Athyrium iseanum var. iseanum?t=foc)
+* [A.  jinshajiangense  金沙江蹄盖蕨](http://www.iplant.cn/info/Athyrium jinshajiangense?t=foc)
+* [A.  kenzo-satakei  紫柄蹄盖蕨](http://www.iplant.cn/info/Athyrium kenzo-satakei?t=foc)
+* [A.  kenzo-satakei var. jieguishanense  介贵山蹄盖蕨](http://www.iplant.cn/info/Athyrium kenzo-satakei var. jieguishanense?t=foc)
+* [A.  kenzo-satakei var. kenzo-satakei  紫柄蹄盖蕨(原变种)](http://www.iplant.cn/info/Athyrium kenzo-satakei var. kenzo-satakei?t=foc)
+* [A.  kuratae  仓田蹄盖蕨](http://www.iplant.cn/info/Athyrium kuratae?t=foc)
+* [A.  lineare  线羽蹄盖蕨](http://www.iplant.cn/info/Athyrium lineare?t=foc)
+* [A.  longius  长柄蹄盖蕨](http://www.iplant.cn/info/Athyrium longius?t=foc)
+* [A.  ludingense  泸定蹄盖蕨](http://www.iplant.cn/info/Athyrium ludingense?t=foc)
+* [A.  mackinnonii  川滇蹄盖蕨](http://www.iplant.cn/info/Athyrium mackinnonii?t=foc)
+* [A.  mackinnonii var. glabratum  光轴蹄盖蕨](http://www.iplant.cn/info/Athyrium mackinnonii var. glabratum?t=foc)
+* [A.  mackinnonii var. mackinnonii  川滇蹄盖蕨(原变种)](http://www.iplant.cn/info/Athyrium mackinnonii var. mackinnonii?t=foc)
+* [A.  mackinnonii var. yigongense  易贡蹄盖蕨](http://www.iplant.cn/info/Athyrium mackinnonii var. yigongense?t=foc)
+* [A.  maoshanense  昴山蹄盖蕨](http://www.iplant.cn/info/Athyrium maoshanense?t=foc)
+* [A.  medogense  墨脱蹄盖蕨](http://www.iplant.cn/info/Athyrium medogense?t=foc)
+* [A.  melanolepis  黑鳞蹄盖蕨](http://www.iplant.cn/info/Athyrium melanolepis?t=foc)
+* [A.  mengtzeense  蒙自蹄盖蕨](http://www.iplant.cn/info/Athyrium mengtzeense?t=foc)
+* [A.  minimum  小蹄盖蕨](http://www.iplant.cn/info/Athyrium minimum?t=foc)
+* [A.  multipinnum  多羽蹄盖蕨](http://www.iplant.cn/info/Athyrium multipinnum?t=foc)
+* [A.  nakanoi  红苞蹄盖蕨](http://www.iplant.cn/info/Athyrium nakanoi?t=foc)
+* [A.  nanyueense  南岳蹄盖蕨](http://www.iplant.cn/info/Athyrium nanyueense?t=foc)
+* [A.  nephrodioides  疏羽蹄盖蕨](http://www.iplant.cn/info/Athyrium nephrodioides?t=foc)
+* [A.  nigripes  黑足蹄盖蕨](http://www.iplant.cn/info/Athyrium nigripes?t=foc)
+* [A.  nudifrons  滇西蹄盖蕨](http://www.iplant.cn/info/Athyrium nudifrons?t=foc)
+* [A.  nyalamense  聂拉木蹄盖蕨](http://www.iplant.cn/info/Athyrium nyalamense?t=foc)
+* [A.  nyalamense var. nyalamense  聂拉木蹄盖蕨(原变种)](http://www.iplant.cn/info/Athyrium nyalamense var. nyalamense?t=foc)
+* [A.  nyalamense var. puberulum  毛聂拉木蹄盖蕨](http://www.iplant.cn/info/Athyrium nyalamense var. puberulum?t=foc)
+* [A.  obtusilimbum  钝顶蹄盖蕨](http://www.iplant.cn/info/Athyrium obtusilimbum?t=foc)
+* [A.  omeiense  峨嵋蹄盖蕨](http://www.iplant.cn/info/Athyrium omeiense?t=foc)
+* [A.  oppositipennum  对生蹄盖蕨](http://www.iplant.cn/info/Athyrium oppositipennum?t=foc)
+* [A.  otophorum  光蹄盖蕨](http://www.iplant.cn/info/Athyrium otophorum?t=foc)
+* [A.  pachyphyllum  裸囊蹄盖蕨](http://www.iplant.cn/info/Athyrium pachyphyllum?t=foc)
+* [A.  pectinatum  篦齿蹄盖蕨](http://www.iplant.cn/info/Athyrium pectinatum?t=foc)
+* [A.  pubicostatum  贵州蹄盖蕨](http://www.iplant.cn/info/Athyrium pubicostatum?t=foc)
+* [A.  reflexipinnum  逆叶蹄盖蕨](http://www.iplant.cn/info/Athyrium reflexipinnum?t=foc)
+* [A.  repens  长根假冷蕨](http://www.iplant.cn/info/Athyrium repens?t=foc)
+* [A.  rhachidosorum  轴生蹄盖蕨](http://www.iplant.cn/info/Athyrium rhachidosorum?t=foc)
+* [A.  roseum  玫瑰蹄盖蕨](http://www.iplant.cn/info/Athyrium roseum?t=foc)
+* [A.  roseum var. fugongense  福贡蹄盖蕨](http://www.iplant.cn/info/Athyrium roseum var. fugongense?t=foc)
+* [A.  roseum var. roseum  玫瑰蹄盖蕨(原变种)](http://www.iplant.cn/info/Athyrium roseum var. roseum?t=foc)
+* [A.  rubripes  黑龙江蹄盖蕨](http://www.iplant.cn/info/Athyrium rubripes?t=foc)
+* [A.  ruilicola  瑞丽蹄盖蕨](http://www.iplant.cn/info/Athyrium ruilicola?t=foc)
+* [A.  rupicola  岩生蹄盖蕨](http://www.iplant.cn/info/Athyrium rupicola?t=foc)
+* [A.  schizochlamys  睫毛盖假冷蕨](http://www.iplant.cn/info/Athyrium schizochlamys?t=foc)
+* [A.  sericellum  绢毛蹄盖蕨](http://www.iplant.cn/info/Athyrium sericellum?t=foc)
+* [A.  silvicola  高山蹄盖蕨](http://www.iplant.cn/info/Athyrium silvicola?t=foc)
+* [A.  sinense  中华蹄盖蕨](http://www.iplant.cn/info/Athyrium sinense?t=foc)
+* [A.  spinulosum  假冷蕨](http://www.iplant.cn/info/Athyrium spinulosum?t=foc)
+* [A.  strigillosum  软刺蹄盖蕨](http://www.iplant.cn/info/Athyrium strigillosum?t=foc)
+* [A.  subrigescens  姬蹄盖蕨](http://www.iplant.cn/info/Athyrium subrigescens?t=foc)
+* [A.  subtriangulare  三角叶假冷蕨](http://www.iplant.cn/info/Athyrium subtriangulare?t=foc)
+* [A.  suprapuberulum  毛叶蹄盖蕨](http://www.iplant.cn/info/Athyrium suprapuberulum?t=foc)
+* [A.  suprapubescens  上毛蹄盖蕨](http://www.iplant.cn/info/Athyrium suprapubescens?t=foc)
+* [A.  supraspinescens  腺叶蹄盖蕨](http://www.iplant.cn/info/Athyrium supraspinescens?t=foc)
+* [A.  tarulakaense  察陇蹄盖蕨](http://www.iplant.cn/info/Athyrium tarulakaense?t=foc)
+* [A.  tripinnatum  三回蹄盖蕨](http://www.iplant.cn/info/Athyrium tripinnatum?t=foc)
+* [A.  uniforme  同形蹄盖蕨](http://www.iplant.cn/info/Athyrium uniforme?t=foc)
+* [A.  venulosum  粗脉蹄盖蕨](http://www.iplant.cn/info/Athyrium venulosum?t=foc)
+* [A.  vidalii  尖头蹄盖蕨](http://www.iplant.cn/info/Athyrium vidalii?t=foc)
+* [A.  vidalii var. amabile  松谷蹄盖蕨](http://www.iplant.cn/info/Athyrium vidalii var. amabile?t=foc)
+* [A.  vidalii var. vidalii  尖头蹄盖蕨(原变种)](http://www.iplant.cn/info/Athyrium vidalii var. vidalii?t=foc)
+* [A.  viviparum  胎生蹄盖蕨](http://www.iplant.cn/info/Athyrium viviparum?t=foc)
+* [A.  wallichianum  黑秆蹄盖蕨](http://www.iplant.cn/info/Athyrium wallichianum?t=foc)
+* [A.  wangii  启无蹄盖蕨](http://www.iplant.cn/info/Athyrium wangii?t=foc)
+* [A.  wardii  华中蹄盖蕨](http://www.iplant.cn/info/Athyrium wardii?t=foc)
+* [A.  wardii var. densipinnum  密羽华中蹄盖蕨](http://www.iplant.cn/info/Athyrium wardii var. densipinnum?t=foc)
+* [A.  wardii var. glabratum  无毛华中蹄盖蕨](http://www.iplant.cn/info/Athyrium wardii var. glabratum?t=foc)
+* [A.  wardii var. wardii  华中蹄盖蕨(原变种)](http://www.iplant.cn/info/Athyrium wardii var. wardii?t=foc)
+* [A.  wumonshanicum  乌蒙山蹄盖蕨](http://www.iplant.cn/info/Athyrium wumonshanicum?t=foc)
+* [A.  xichouense  西畴蹄盖蕨](http://www.iplant.cn/info/Athyrium xichouense?t=foc)
+* [A.  yokoscense  禾秆蹄盖蕨](http://www.iplant.cn/info/Athyrium yokoscense?t=foc)
+* [A.  yuanyangense  元阳蹄盖蕨](http://www.iplant.cn/info/Athyrium yuanyangense?t=foc)
+* [A.  yui  俞氏蹄盖蕨](http://www.iplant.cn/info/Athyrium yui?t=foc)
+* [A.  zayuense  察隅蹄盖蕨](http://www.iplant.cn/info/Athyrium zayuense?t=foc)
+* [A.  zhenfengense  贞丰蹄盖蕨](http://www.iplant.cn/info/Athyrium zhenfengense?t=foc)
+
+## 中国植物志
+
+**狭基蹄盖蕨 Athyrium mehrae",
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第3(2)卷](http://www.iplant.cn/frps/vol/3(2)) >> 175页 [PDF](http://www.iplant.cn/frps/pdf/3(2)/175.pdf)
+
+**40. 狭基蹄盖蕨（西藏植物志）西藏蹄盖蕨（西藏植物志）图版38: 1-7**
+
+Athyrium mehrae Bir in Nova Hedwigia 44: 165, t. 52. 1962; Jarrett, Ind. Fil. Suppl. 5: 28. 1985. ——Athyrium tibeticum Ching in C. Y. Wu, Fl. Xizang. 1: 137, t. 3, f. 7-8. 1983; Z. R. Wang in W. T. Wang, Vasc. Pl. Hengduan Mount. 1: 83. 1993. ——Athyrium stenopodum Ching et S. K. Wu in C. Y. Wu, Fl. Xizang. 1: 137. 1983.
+
+根状茎直立，先端和叶柄基部密被深褐色、披针形至阔披针形的鳞片；叶簇生。能育叶长 (20-) 35-48 (-80) 厘米；叶柄长 (3-) 8-20厘米，基部直径 (1-)1.4-2 (-5) 毫米，黑褐色，向上禾秆色，光滑；叶片倒披针形，长 (18-) 26-38(-60) 厘米，中部宽(3.5-) 5.5-7 (-15)厘米，先端渐尖，向基部逐渐变狭，一回羽状至一回羽状，羽片深羽裂；羽片 (裂片) 约25-30对，互生，近平展，无柄，下部6-9 (-12) 对逐渐缩短，最下部一对常成三角形耳片状，长5-7 (-20)毫米，斜向下，中部的披针形至阔披针形，长达3.5-6.5厘米，基部宽1-1.4厘米，先端短渐尖至尾状渐尖，基部较阔，对称，截形或近楔形，羽裂3/4可达羽轴1毫米处；裂片10-12 (-17) 对，基部的对生，向上的互生，略斜展，近平展，彼此密接，长圆形至披针形，基部一对较大，长 4-6毫米，宽1.8-3毫米，钝圆头，有张开的大齿牙，两侧边缘也有尖锯齿。叶脉上面不显，下面可见，在裂片上为羽状，侧脉4-5对，斜向上，下部的二叉，上部的单一，纤细。叶干后草质，褐绿色，两面无毛；叶轴和羽轴上面有贴伏的钻状硬刺。孢子囊群小，圆形，每裂片1-2 (-3)枚，生于基部上侧小脉，靠近生脉；囊群盖小，圆肾形，褐色，膜质，全缘或边缘啮蚀状，宿存。孢子周壁表面无褶皱，有颗粒状纹饰。染色体数目n=40。
+
+分布于云南（贡山怒山及高黎贡山）和西藏东南部（察隅、波密、墨脱南迦巴瓦）。生山坡林下、灌丛草地或流石滩，海拔3100-4100米。锡金也有分布。模式标本采自锡金北部。
+
+据《东北植物检索表（第二版）》记载，吉林还产有一种：高寒蹄盖蕨（新拟），（原称“狭基蹄盖蕨”，西藏植物志第一卷已用过此中名）Athyrium rupestre Kodama inMatsum. Ic. Pl. Koisikav. 4: 63. t. 244. 1919; J. Z. Wang et S. H. Li in P. Y. Fu etal. (eds.) , Clavis Plant. Chin. Bor. -Orient. 2nd ed. 35. 1995.孢子周壁表面无褶皱，羽片羽状深裂至全裂，宽不足1厘米，长渐尖头，生林缘岩石上，形态与本组植物相近。原来只记载见于日本北海道和本州以北及俄罗斯远东地区，染色体数目n=40，2n＝80。吉林的标本还有待进一步研究，如果《东北植物检索表（第二版）》鉴定正确，应为新分布，而且将使本组的种数成为2种。
+
+}

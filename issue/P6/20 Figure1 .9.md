@@ -1,0 +1,2 @@
+![image](https://user-images.githubusercontent.com/75465037/103789087-93277180-507a-11eb-9746-454da45a40a4.png)
+Example of a cladogram or phylogenetic tree for taxa A–F. A. Cladogram showing lineages and apomorphies, the latter indicated by thick hash marks. B. Cladogram with common ancestors shown and monophyletic groups (clades) circled.

@@ -1,0 +1,138 @@
+少花茴芹 **Pimpinella rubescens** (Franchet) H. Wolff
+
+> [Apiaceae](http://www.iplant.cn/info/Apiaceae ?t=foc) - [PDF](http://iplant.cn/foc/pdf/Apiaceae.pdf) >> [Pimpinella](http://www.iplant.cn/info/Pimpinella ?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Pimpinella.pdf)
+## Description
+
+Plants annual, 10–40 cm, slender, pubescent. Root fusiform, 5–10 × ca. 2 mm, slender. Stem flexuose, little-branched, ascending (or creeping), densely pubescent along one side, 3–5-branched from the base. Basal and lower petioles 2–5 cm; blade simple or ternate, cordate-rounded; ultimate segments broad-ovate or ovate, 5–20 × 5–20 mm, both surfaces densely pubescent, margins crenate. Upper leaves smaller, sessile, 3-lobed, lobes ovate or lanceolate. Umbels 0.5–1 cm across, usually lateral on short peduncles; peduncles 0.2–1.5 mm; bracts and bracteoles absent; rays 2–3, 0.5–8 mm, very unequal, umbellules 2–3.5 mm across, 2(–4)-flowered; pedicels 0.2–1.5 mm, extremely unequal. Calyx teeth obsolete. Petals pale pink or purple, obovate or broad-ovate, apex with incurved lobule. Stylopodium low-conic or flat; styles ca. 1 × stylopodium. Fruit ovoid, ca. 1.8 × 1.3 mm, base cordate, surface glabrous; vittae 3 in each furrow, 4 on commissure. Seed face plane. Fl. May–Jul, fr. Aug.
+
+> **Habait** : 
+> Shaded damp areas, among rocks along streams; 3000–3600 m. SW Sichuan, NW Yunnan.
+
+### Parsublist
+
+* [P.  achilleifolia  ](http://www.iplant.cn/info/Pimpinella achilleifolia?t=foc)
+* [P.  acuminata  尖叶茴芹](http://www.iplant.cn/info/Pimpinella acuminata?t=foc)
+* [P.  albescens  ](http://www.iplant.cn/info/Pimpinella albescens?t=foc)
+* [P.  anisum  茴芹](http://www.iplant.cn/info/Pimpinella anisum?t=foc)
+* [P.  arguta  锐叶茴芹](http://www.iplant.cn/info/Pimpinella arguta?t=foc)
+* [P.  asianensis  ](http://www.iplant.cn/info/Pimpinella asianensis?t=foc)
+* [P.  astilbifolia  ](http://www.iplant.cn/info/Pimpinella astilbifolia?t=foc)
+* [P.  astrantiifolia  ](http://www.iplant.cn/info/Pimpinella astrantiifolia?t=foc)
+* [P.  atropurpurea  深紫茴芹](http://www.iplant.cn/info/Pimpinella atropurpurea?t=foc)
+* [P.  bisinuata  重波茴芹](http://www.iplant.cn/info/Pimpinella bisinuata?t=foc)
+* [P.  brachycarpa  短果茴芹](http://www.iplant.cn/info/Pimpinella brachycarpa?t=foc)
+* [P.  brachystyla  短柱茴芹](http://www.iplant.cn/info/Pimpinella brachystyla?t=foc)
+* [P.  calycina  具萼茴芹](http://www.iplant.cn/info/Pimpinella calycina?t=foc)
+* [P.  calycina var. brachycarpa  ](http://www.iplant.cn/info/Pimpinella calycina var. brachycarpa?t=foc)
+* [P.  candolleana  杏叶茴芹](http://www.iplant.cn/info/Pimpinella candolleana?t=foc)
+* [P.  capillifolia  ](http://www.iplant.cn/info/Pimpinella capillifolia?t=foc)
+* [P.  cartilaginomarginata  ](http://www.iplant.cn/info/Pimpinella cartilaginomarginata?t=foc)
+* [P.  caudata  尾尖茴芹](http://www.iplant.cn/info/Pimpinella caudata?t=foc)
+* [P.  chinensis  ](http://www.iplant.cn/info/Pimpinella chinensis?t=foc)
+* [P.  chungdienensis  中甸茴芹](http://www.iplant.cn/info/Pimpinella chungdienensis?t=foc)
+* [P.  clarkeana  ](http://www.iplant.cn/info/Pimpinella clarkeana?t=foc)
+* [P.  cnidioides  蛇床茴芹](http://www.iplant.cn/info/Pimpinella cnidioides?t=foc)
+* [P.  coriacea  革叶茴芹](http://www.iplant.cn/info/Pimpinella coriacea?t=foc)
+* [P.  diversifolia  异叶茴芹](http://www.iplant.cn/info/Pimpinella diversifolia?t=foc)
+* [P.  diversifolia var. angustipetala  尖瓣异叶茴芹](http://www.iplant.cn/info/Pimpinella diversifolia var. angustipetala?t=foc)
+* [P.  diversifolia var. diversifolia  异叶茴芹(原变种)](http://www.iplant.cn/info/Pimpinella diversifolia var. diversifolia?t=foc)
+* [P.  diversifolia var. divisa  ](http://www.iplant.cn/info/Pimpinella diversifolia var. divisa?t=foc)
+* [P.  diversifolia var. sermentifera  ](http://www.iplant.cn/info/Pimpinella diversifolia var. sermentifera?t=foc)
+* [P.  diversifolia var. simplicifolia  ](http://www.iplant.cn/info/Pimpinella diversifolia var. simplicifolia?t=foc)
+* [P.  diversifolia var. stolonifera  走茎异叶茴芹](http://www.iplant.cn/info/Pimpinella diversifolia var. stolonifera?t=foc)
+* [P.  duclouxii  ](http://www.iplant.cn/info/Pimpinella duclouxii?t=foc)
+* [P.  dunnii  ](http://www.iplant.cn/info/Pimpinella dunnii?t=foc)
+* [P.  edosmioides  ](http://www.iplant.cn/info/Pimpinella edosmioides?t=foc)
+* [P.  elata  ](http://www.iplant.cn/info/Pimpinella elata?t=foc)
+* [P.  engleriana  ](http://www.iplant.cn/info/Pimpinella engleriana?t=foc)
+* [P.  fargesii  城口茴芹](http://www.iplant.cn/info/Pimpinella fargesii?t=foc)
+* [P.  fargesii var. alba  ](http://www.iplant.cn/info/Pimpinella fargesii var. alba?t=foc)
+* [P.  feddei  ](http://www.iplant.cn/info/Pimpinella feddei?t=foc)
+* [P.  filicina  ](http://www.iplant.cn/info/Pimpinella filicina?t=foc)
+* [P.  filipedicellata  细柄茴芹](http://www.iplant.cn/info/Pimpinella filipedicellata?t=foc)
+* [P.  flaccida  细软茴芹](http://www.iplant.cn/info/Pimpinella flaccida?t=foc)
+* [P.  forrestii  ](http://www.iplant.cn/info/Pimpinella forrestii?t=foc)
+* [P.  fortunatii  ](http://www.iplant.cn/info/Pimpinella fortunatii?t=foc)
+* [P.  grisea  灰叶茴芹](http://www.iplant.cn/info/Pimpinella grisea?t=foc)
+* [P.  handelii  ](http://www.iplant.cn/info/Pimpinella handelii?t=foc)
+* [P.  hazariensis  ](http://www.iplant.cn/info/Pimpinella hazariensis?t=foc)
+* [P.  helosciadoidea  沼生茴芹](http://www.iplant.cn/info/Pimpinella helosciadoidea?t=foc)
+* [P.  henryi  川鄂茴芹](http://www.iplant.cn/info/Pimpinella henryi?t=foc)
+* [P.  hookeri  ](http://www.iplant.cn/info/Pimpinella hookeri?t=foc)
+* [P.  hookeri var. graminifolia  ](http://www.iplant.cn/info/Pimpinella hookeri var. graminifolia?t=foc)
+* [P.  involucrata  ](http://www.iplant.cn/info/Pimpinella involucrata?t=foc)
+* [P.  kingdon-wardii  德钦茴芹](http://www.iplant.cn/info/Pimpinella kingdon-wardii?t=foc)
+* [P.  komarovii  辽冀茴芹](http://www.iplant.cn/info/Pimpinella komarovii?t=foc)
+* [P.  koreana  朝鲜茴芹](http://www.iplant.cn/info/Pimpinella koreana?t=foc)
+* [P.  leptophylla  ](http://www.iplant.cn/info/Pimpinella leptophylla?t=foc)
+* [P.  liana  景东茴芹](http://www.iplant.cn/info/Pimpinella liana?t=foc)
+* [P.  loloensis  ](http://www.iplant.cn/info/Pimpinella loloensis?t=foc)
+* [P.  markgrafiana  ](http://www.iplant.cn/info/Pimpinella markgrafiana?t=foc)
+* [P.  muscicola  ](http://www.iplant.cn/info/Pimpinella muscicola?t=foc)
+* [P.  nakaiana  ](http://www.iplant.cn/info/Pimpinella nakaiana?t=foc)
+* [P.  niitakayamensis  台湾茴芹](http://www.iplant.cn/info/Pimpinella niitakayamensis?t=foc)
+* [P.  nikoensis var. koreana  ](http://www.iplant.cn/info/Pimpinella nikoensis var. koreana?t=foc)
+* [P.  nyingchiensis  林芝茴芹](http://www.iplant.cn/info/Pimpinella nyingchiensis?t=foc)
+* [P.  paniculata  ](http://www.iplant.cn/info/Pimpinella paniculata?t=foc)
+* [P.  peucedanifolia  ](http://www.iplant.cn/info/Pimpinella peucedanifolia?t=foc)
+* [P.  pimpinellisimulacrum  喜马拉雅茴芹](http://www.iplant.cn/info/Pimpinella pimpinellisimulacrum?t=foc)
+* [P.  pimpinelloidea  ](http://www.iplant.cn/info/Pimpinella pimpinelloidea?t=foc)
+* [P.  pseudocandolleana  ](http://www.iplant.cn/info/Pimpinella pseudocandolleana?t=foc)
+* [P.  puberula  微毛茴芹](http://www.iplant.cn/info/Pimpinella puberula?t=foc)
+* [P.  purpurea  紫瓣茴芹](http://www.iplant.cn/info/Pimpinella purpurea?t=foc)
+* [P.  refracta  下曲茴芹](http://www.iplant.cn/info/Pimpinella refracta?t=foc)
+* [P.  renifolia  肾叶茴芹](http://www.iplant.cn/info/Pimpinella renifolia?t=foc)
+* [P.  rhomboidea  菱叶茴芹](http://www.iplant.cn/info/Pimpinella rhomboidea?t=foc)
+* [P.  rhomboidea var. rhomboidea  菱叶茴芹(原变种)](http://www.iplant.cn/info/Pimpinella rhomboidea var. rhomboidea?t=foc)
+* [P.  rhomboidea var. tenuiloba  小菱叶茴芹](http://www.iplant.cn/info/Pimpinella rhomboidea var. tenuiloba?t=foc)
+* [P.  rockii  丽江茴芹](http://www.iplant.cn/info/Pimpinella rockii?t=foc)
+* [P.  rosthornii  ](http://www.iplant.cn/info/Pimpinella rosthornii?t=foc)
+* [P.  scaberula  ](http://www.iplant.cn/info/Pimpinella scaberula?t=foc)
+* [P.  scaberula var. ambrosiifolia  ](http://www.iplant.cn/info/Pimpinella scaberula var. ambrosiifolia?t=foc)
+* [P.  schneideri  ](http://www.iplant.cn/info/Pimpinella schneideri?t=foc)
+* [P.  serra  锯边茴芹](http://www.iplant.cn/info/Pimpinella serra?t=foc)
+* [P.  silaifolia  ](http://www.iplant.cn/info/Pimpinella silaifolia?t=foc)
+* [P.  silvatica  木里茴芹](http://www.iplant.cn/info/Pimpinella silvatica?t=foc)
+* [P.  sinica  ](http://www.iplant.cn/info/Pimpinella sinica?t=foc)
+* [P.  smithii  直立茴芹](http://www.iplant.cn/info/Pimpinella smithii?t=foc)
+* [P.  stewardii  ](http://www.iplant.cn/info/Pimpinella stewardii?t=foc)
+* [P.  stricta  ](http://www.iplant.cn/info/Pimpinella stricta?t=foc)
+* [P.  sutchuensis  ](http://www.iplant.cn/info/Pimpinella sutchuensis?t=foc)
+* [P.  taeniophylla  ](http://www.iplant.cn/info/Pimpinella taeniophylla?t=foc)
+* [P.  tanakae  ](http://www.iplant.cn/info/Pimpinella tanakae?t=foc)
+* [P.  tenera  ](http://www.iplant.cn/info/Pimpinella tenera?t=foc)
+* [P.  thellungiana  羊红膻](http://www.iplant.cn/info/Pimpinella thellungiana?t=foc)
+* [P.  thellungiana var. tenuisecta  ](http://www.iplant.cn/info/Pimpinella thellungiana var. tenuisecta?t=foc)
+* [P.  thyrsiflora  ](http://www.iplant.cn/info/Pimpinella thyrsiflora?t=foc)
+* [P.  tibetanica  藏茴芹](http://www.iplant.cn/info/Pimpinella tibetanica?t=foc)
+* [P.  tilia  ](http://www.iplant.cn/info/Pimpinella tilia?t=foc)
+* [P.  tonkinensis  瘤果茴芹](http://www.iplant.cn/info/Pimpinella tonkinensis?t=foc)
+* [P.  trichomanifolia  ](http://www.iplant.cn/info/Pimpinella trichomanifolia?t=foc)
+* [P.  triternata  三出叶茴芹](http://www.iplant.cn/info/Pimpinella triternata?t=foc)
+* [P.  valleculosa  谷生茴芹](http://www.iplant.cn/info/Pimpinella valleculosa?t=foc)
+* [P.  weishanensis  ](http://www.iplant.cn/info/Pimpinella weishanensis?t=foc)
+* [P.  wolffiana  ](http://www.iplant.cn/info/Pimpinella wolffiana?t=foc)
+* [P.  xizangensis  多花茴芹](http://www.iplant.cn/info/Pimpinella xizangensis?t=foc)
+* [P.  yunnanensis  云南茴芹](http://www.iplant.cn/info/Pimpinella yunnanensis?t=foc)
+
+## 中国植物志
+
+> * [尖叶茴芹  P.  acuminata](http://www.iplant.cn/info/Pimpinella acuminata?t=z)
+> * [锐叶茴芹  P.  arguta](http://www.iplant.cn/info/Pimpinella arguta?t=z)
+> * [落新妇茴芹  P.  astilbifolia](http://www.iplant.cn/info/Pimpinella astilbifolia?t=z)
+> * [短果茴芹  P.  brachycarpa](http://www.iplant.cn/info/Pimpinella brachycarpa?t=z)
+> * [短柱茴芹  P.  brachystyla](http://www.iplant.cn/info/Pimpinella brachystyla?t=z)
+
+**少花茴芹 Pimpinella rubescens**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第55(2)卷](http://www.iplant.cn/frps/vol/55(2)) >> 091页 [PDF](http://www.iplant.cn/frps/pdf/55(2)/091.pdf)
+**19．少花茴芹 图版33: 7-11**
+Pimpinella rubescens (Franch.) Wolff ex Hand. -Mazz. Symb. Sin. 7: 715. 1933. ——Hydrocotyle rubescens Franch. in Bull. Soc. Philom. Paris 8 (6): 108. 1894. ——Pimpinella flaccida auct. non C. B. Clarke: Diels in Notes. Bot. Gard. Edinb. 7: 139. 1912. (Forrest 2534.)
+植株高10-40厘米。根纤细，长5-10厘米，径0.5-2毫米。茎细柔，自基部向上有3-5个分枝，一侧密生柔毛。基生叶和茎中、下部叶有柄，包括膜质叶鞘长2-5厘米；叶片通常不分裂，心状圆形，直径0.5-2厘米，两面均有柔毛，边缘有圆齿；茎上部叶无柄，叶鞘抱茎，叶片较小，3裂，裂片卵形或披针形。无总苞片和小总苞片；伞辐2-3，不等长，小伞形花序有花2-4，通常2，花柄极不等长；无萼齿；花药红色；花瓣倒卵形或阔卵形，淡红色，基部楔形，顶端微凹，有内折小舌片；花柱基短圆锥形，花柱短。果实卵形，无毛，果棱线形；每棱槽内油管3，合生面油管4；胚乳腹面平直。花果期6-8月。
+产云南西北部、四川西南部。生于海拔3000-3600米的山谷坡地或沟边岩上。模式标本采自云南丽江。
+本种植株体态与天胡荽属 Hydrocotyle L. 中某些种类相似，但本种为复伞形花序，果实卵形，果棱线形，每棱槽内油管3条，明显，而天胡荽属植物为单伞形花序，多数小花密集成头状，果实圆球状心形，中棱和背棱显著，油管不明显。
+本种伞辐少，小伞形花序花少，仅1-4朵，通常2朵，花柄极不等长，果实卵形等特征又与囊瓣芹属 Pternopetalum Franch. 相近似，但本种基生叶和茎中、下部叶通常不分裂，无小总苞片，无萼齿，花瓣基部不增厚呈袋状，而囊瓣芹属植物叶片1-3回三出分裂或三出式羽状分裂，有小总苞片1-4，有萼齿，花瓣基部狭长，下端呈小袋状。
+
+> 根据 Forrest 2534 (秦氏照片15239) 采自云南丽江的标本，应为少花茴芹 P. rube-scens (Franch.) Wolff ex Hand. -Mazz. 而非细软茴芹 P. flaccida C. B. Clarke.
+
+}

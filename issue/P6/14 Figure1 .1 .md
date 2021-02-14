@@ -1,0 +1,4 @@
+
+![image](https://user-images.githubusercontent.com/75465037/103786131-09c27000-5077-11eb-9091-e0ee393a67ab.png)
+
+Simplified cladogram (evolutionary tree) of life (modified from Parfrey et al. 2010; see also Williams et al. 2018), illustrating eukaryotic apomorphies (the relative order of which is unknown) and the hypothesis of a single origin of mitochondria and chloroplasts via endosymbiosis (arrows). Note modification of chloroplast structure in the red and green plants, and subsequent secondary endosymbiosis in numerous other lineages (indicated by *). Eukaryotic groups with photosynthetic members in bold.

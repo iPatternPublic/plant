@@ -1,0 +1,2 @@
+![image](https://user-images.githubusercontent.com/75465037/103789786-5c9e2680-507b-11eb-89d2-0a68ecd23795.png)
+Examples  of  character  state  transformations .A.  Unordered,  four-state  character,  stamen  number .B.  Unordered,  four-state  character, nucleotide type .C. Ordered, four-state character, leaf type .D. Ordered and polarized character of “C .”

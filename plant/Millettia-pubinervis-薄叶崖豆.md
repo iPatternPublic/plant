@@ -1,0 +1,58 @@
+薄叶崖豆**Millettia pubinervis** Kurz J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42: 68. 1873.
+
+> [Fabaceae](http://www.iplant.cn/info/Fabaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Fabaceae.pdf)>>[Millettia](http://www.iplant.cn/info/Millettia?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Millettia.pdf)
+
+## Description
+
+Trees, to 8 m tall. Bark gray, rough. Branchlets pubescent, glabrescent. Leaves 7-11-foliolate; rachis 20-25 cm, including petiole 8-12 cm; stipels absent; leaflet blades broadly elliptic, 6-14 × 3-5 cm, membranous, both surfaces appressed pubes-cent but adaxially sparsely so, base broadly cuneate, apex acute. Pseudoracemes axillary or supra-axillary, 10-15 cm; rachis nodes with 1 or 2 flowers on a ca. 1 mm spur; peduncle 4-5 cm. Pedicel filiform, 4-5 mm. Flowers ca. 1 cm. Calyx ca. 3 mm, densely brown pubescent. Corolla pale red; standard orbicular, without basal calluses, outside finely woolly, base auriculate. Ovary pubescent, with 2-6 ovules. Legume linear, 9-12 × 1.3-2 cm, flat, yellow tomentose, base rounded, apex abruptly beaked; valves thinly leathery, twisted. Seeds 1-3 per legume, dark brown, oblate when immature but unknown when mature. Fl. Apr-Aug, fr. Sep.
+
+### Statistics
+Thickets at forest margins; 500-800 m. S Yunnan [Laos, Myan-mar, Thailand, Vietnam].
+
+### Parsublist
+
+* [M.  austroyunnanensis  滇南崖豆](http://www.iplant.cn/info/Millettia austroyunnanensis?t=foc)
+* [M.  cubittii  红河崖豆](http://www.iplant.cn/info/Millettia cubittii?t=foc)
+* [M.  entadoides  榼藤子崖豆藤](http://www.iplant.cn/info/Millettia entadoides?t=foc)
+* [M.  erythrocalyx  红萼崖豆](http://www.iplant.cn/info/Millettia erythrocalyx?t=foc)
+* [M.  griffithii  孟连崖豆](http://www.iplant.cn/info/Millettia griffithii?t=foc)
+* [M.  ichthyochtona  闹鱼崖豆](http://www.iplant.cn/info/Millettia ichthyochtona?t=foc)
+* [M.  lantsangensis  澜沧崖豆藤](http://www.iplant.cn/info/Millettia lantsangensis?t=foc)
+* [M.  leptobotrya  思茅崖豆](http://www.iplant.cn/info/Millettia leptobotrya?t=foc)
+* [M.  leucantha  垂序崖豆](http://www.iplant.cn/info/Millettia leucantha?t=foc)
+* [M.  macrostachya  大穗崖豆](http://www.iplant.cn/info/Millettia macrostachya?t=foc)
+* [M.  oraria  香港崖豆](http://www.iplant.cn/info/Millettia oraria?t=foc)
+* [M.  pachycarpa  厚果崖豆藤](http://www.iplant.cn/info/Millettia pachycarpa?t=foc)
+* [M.  pachyloba  海南崖豆藤](http://www.iplant.cn/info/Millettia pachyloba?t=foc)
+* [M.  pulchra  印度崖豆](http://www.iplant.cn/info/Millettia pulchra?t=foc)
+* [M.  pulchra var. chinensis  华南小叶崖豆](http://www.iplant.cn/info/Millettia pulchra var. chinensis?t=foc)
+* [M.  pulchra var. laxior  疏叶崖豆](http://www.iplant.cn/info/Millettia pulchra var. laxior?t=foc)
+* [M.  pulchra var. microphylla  台湾小叶崖豆](http://www.iplant.cn/info/Millettia pulchra var. microphylla?t=foc)
+* [M.  pulchra var. parvifolia  景东小叶崖豆](http://www.iplant.cn/info/Millettia pulchra var. parvifolia?t=foc)
+* [M.  pulchra var. pulchra  印度崖豆(原变种)](http://www.iplant.cn/info/Millettia pulchra var. pulchra?t=foc)
+* [M.  pulchra var. tomentosa  绒叶印度崖豆](http://www.iplant.cn/info/Millettia pulchra var. tomentosa?t=foc)
+* [M.  pulchra var. yunnanensis  云南崖豆](http://www.iplant.cn/info/Millettia pulchra var. yunnanensis?t=foc)
+* [M.  sapindifolia  无患子叶崖豆藤](http://www.iplant.cn/info/Millettia sapindifolia?t=foc)
+* [M.  tetraptera  四翅崖豆](http://www.iplant.cn/info/Millettia tetraptera?t=foc)
+* [M.  velutina  绒毛崖豆](http://www.iplant.cn/info/Millettia velutina?t=foc)
+
+## 中国植物志
+
+> * [红河崖豆  M.  cubitti](http://www.iplant.cn/info/Millettia cubitti?t=z)
+> * [红萼崖豆  M.  erythrocalyx](http://www.iplant.cn/info/Millettia erythrocalyx?t=z)
+> * [闹鱼崖豆  M.  ichthyochtona](http://www.iplant.cn/info/Millettia ichthyochtona?t=z)
+> * [思茅崖豆  M.  leptobotrya](http://www.iplant.cn/info/Millettia leptobotrya?t=z)
+
+**薄叶崖豆 Millettia pubinervis",
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第40卷](http://www.iplant.cn/frps/vol/40) >> 141页 [PDF](http://www.iplant.cn/frps/pdf/40/141a.PDF)
+
+**5.薄叶崖豆（植物分类学报）图版39:2 8**
+
+Millettia pubinervis Kurz in Journ. As. Soc. Beng. 42 (2): 68. 1873; Baker in Hook. f. Fl. Brit. Ind. 2: 106. 1879; Dunn in Journ. Linn. Soc. Bot. 41: 177. 1912; Gagnep. in Lecomte, Fl. Gen. Indo-Chine 2: 378. 1920; Z. Wei in Act.Phytotax. Sin 23: 275. 1985.
+
+小乔木，高7-8米；树皮灰色；粗糙。小枝初被细柔毛，后渐脱落。羽状复叶长20-35厘米；叶柄长8-12厘米，与叶轴同被浅黄色细毛；托叶小，早落；小叶3-5对，间隔4厘米，膜质或薄纸质。披针状椭圆形，长6-14厘米，宽3-5厘米，先端渐尖或锐尖，基部阔楔形或截形，两面被平伏细毛，上面稍稀，中脉上显著，侧脉6-8对，近叶缘弧曲，细脉网结，下面隆起；小叶柄长3-4毫米，被毛；无小托叶。总状圆锥花序腋生或腋上生，长10-15厘米，微被细柔毛，总花梗长4-5厘米，生花节长约1毫米，小而疏，花1-2朵着生节上；苞片小，披针形，脱落，小苞片甚小；．花长近1厘米，花梗丝状，长4-5毫米，被毛；花萼杯状，长约3毫米，宽约3毫米，密被棕色细毛，萼齿阔短，具小尖；花冠淡红色，旗瓣外被线状细柔毛，圆形，宽约8毫米，基部具2耳，瓣柄阔，翼瓣长圆形，先端有睫毛，基部耳状，较龙骨瓣短，龙骨瓣镰形，基部截平；雄蕊单体，对旗瓣的1枚基部分离；无花盘；子房线形，被柔毛，花柱短，成直角上弯，柱头点状，胚珠2-6粒。荚果线形，长9-12厘米，宽1.3-2厘米，扁平，顶端骤尖，基部圆楔形，密被黄色绒毛，渐秃净，瓣裂，果瓣薄革质，扭曲，有种子1-3粒；种子深褐色，扁圆形。花期4-8月，果期9月。
+
+产云南（南部）。生于沟谷杂木林中，海拔500-800米。泰国、缅甸也有分布。
+
+}

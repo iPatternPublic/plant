@@ -1,0 +1,268 @@
+乌拉特黄耆 **Astragalus hoantchy** Franchet Nouv. Arch. Mus. Hist. Nat., sér. 2, 5: 238; Pl. David. 1: 86. 1883.
+
+> [Fabaceae](http://www.iplant.cn/info/Fabaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Fabaceae.pdf) >> [Astragalus](http://www.iplant.cn/info/Astragalus?t=foc)
+ - [PDF](http://www.iplant.cn/foc/pdf/Astragalus.pdf)
+
+## Description
+
+Plants up to 100 cm tall or more; hairs short and a few long, appressed to spreading, white, in inflorescence also dark brown. Stem 4-8 mm thick, erect, loosely to rather densely covered with ± spreading rigid hairs 0.8-2(-2.5) mm. Leaves 10-24 cm, subsessile; stipules 6-11 mm, often spreading or re-flexed, with long, spreading, white or white and blackish hairs; rachis sparsely to loosely white hairy; leaflets in 7-11 pairs, widely elliptic, 7-26 × 4-20 mm, glabrous or abaxially sparsely to loosely white hairy, apex truncate to retuse, with a minute but distinct cusp. Racemes 1.5-6 cm, rather densely 10-17-flow-ered, elongating in fruit to 8-10 cm; peduncle at anthesis 8-12 cm, elongating up to 20 cm with age, glabrous or with hairs 1-3 mm; bracts soon falling, 4-10 mm, ciliate. Bracteoles 0.5-6 mm. Calyx 11-13 mm, at base with dark brownish hairs, in upper part nearly glabrous; teeth unequal, 2-3.5 mm. Petals purplish, pink, or violet; standard ovate or elliptic, 19-26 × 11-14 mm, apex emarginate; wings 19-26 mm; keel 17-23 mm. Stigma covered with white hairs up to 1 mm. Legumes with a stipe 10-14 mm, narrowly ellipsoid, 4.5-6.4 cm, 0.8-1.4 cm high and wide, keeled ventrally, grooved dorsally, with a beak 3-5 mm, incompletely to completely 2-locular; valves thin, gla-brous.
+
+### Statistics
+● 1400-2400 m. Gansu, Nei Mongol, Ningxia, Qinghai.
+
+### Synonym
+*Astragalus hedinii* Ulbrich.
+
+
+
+### Parsublist
+
+* [A.  acaulis  无茎黄耆](http://www.iplant.cn/info/Astragalus acaulis?t=foc)
+* [A.  acceptus  德令哈黄耆](http://www.iplant.cn/info/Astragalus acceptus?t=foc)
+* [A.  agrestis  毛喉黄耆](http://www.iplant.cn/info/Astragalus agrestis?t=foc)
+* [A.  aksuensis  阿克苏黄耆](http://www.iplant.cn/info/Astragalus aksuensis?t=foc)
+* [A.  alaschanus  阿拉善黄耆](http://www.iplant.cn/info/Astragalus alaschanus?t=foc)
+* [A.  alatavicus  阿拉套黄耆](http://www.iplant.cn/info/Astragalus alatavicus?t=foc)
+* [A.  albicans  革果黄耆](http://www.iplant.cn/info/Astragalus albicans?t=foc)
+* [A.  alopecias  长果黄耆](http://www.iplant.cn/info/Astragalus alopecias?t=foc)
+* [A.  alopecurus  狐尾黄耆](http://www.iplant.cn/info/Astragalus alopecurus?t=foc)
+* [A.  alpinus  高山黄耆](http://www.iplant.cn/info/Astragalus alpinus?t=foc)
+* [A.  altaicola  阿尔泰黄耆](http://www.iplant.cn/info/Astragalus altaicola?t=foc)
+* [A.  amabilis  喜黄耆](http://www.iplant.cn/info/Astragalus amabilis?t=foc)
+* [A.  ammodytes  喜沙黄耆](http://www.iplant.cn/info/Astragalus ammodytes?t=foc)
+* [A.  anfractuosus  曲之黄耆](http://www.iplant.cn/info/Astragalus anfractuosus?t=foc)
+* [A.  angustissimus  狭叶黄耆](http://www.iplant.cn/info/Astragalus angustissimus?t=foc)
+* [A.  arbuscula  木黄耆](http://www.iplant.cn/info/Astragalus arbuscula?t=foc)
+* [A.  arcuatus  弯弓黄耆](http://www.iplant.cn/info/Astragalus arcuatus?t=foc)
+* [A.  aridovallicola  旱谷黄耆](http://www.iplant.cn/info/Astragalus aridovallicola?t=foc)
+* [A.  arkalycensis  边塞黄耆](http://www.iplant.cn/info/Astragalus arkalycensis?t=foc)
+* [A.  arnoldianus  灌县黄耆](http://www.iplant.cn/info/Astragalus arnoldianus?t=foc)
+* [A.  arnoldii  团垫黄耆](http://www.iplant.cn/info/Astragalus arnoldii?t=foc)
+* [A.  arpilobus  廉荚黄耆](http://www.iplant.cn/info/Astragalus arpilobus?t=foc)
+* [A.  athranthus  黑药黄耆](http://www.iplant.cn/info/Astragalus athranthus?t=foc)
+* [A.  aurantiacus  橙黄花黄耆](http://www.iplant.cn/info/Astragalus aurantiacus?t=foc)
+* [A.  austrodshungaricus  南准噶尔黄耆](http://www.iplant.cn/info/Astragalus austrodshungaricus?t=foc)
+* [A.  austrotibetanus  藏南黄耆](http://www.iplant.cn/info/Astragalus austrotibetanus?t=foc)
+* [A.  baerlukensis  ](http://www.iplant.cn/info/Astragalus baerlukensis?t=foc)
+* [A.  bahrakianus  巴拉克黄耆](http://www.iplant.cn/info/Astragalus bahrakianus?t=foc)
+* [A.  baotouensis  包头黄耆](http://www.iplant.cn/info/Astragalus baotouensis?t=foc)
+* [A.  basiflorus  地花黄耆](http://www.iplant.cn/info/Astragalus basiflorus?t=foc)
+* [A.  batangensis  巴唐黄耆](http://www.iplant.cn/info/Astragalus batangensis?t=foc)
+* [A.  baxoiensis  八宿黄耆](http://www.iplant.cn/info/Astragalus baxoiensis?t=foc)
+* [A.  beitashanensis  ](http://www.iplant.cn/info/Astragalus beitashanensis?t=foc)
+* [A.  beketowii  斑果黄耆](http://www.iplant.cn/info/Astragalus beketowii?t=foc)
+* [A.  bhotanensis  地八角](http://www.iplant.cn/info/Astragalus bhotanensis?t=foc)
+* [A.  blandulus  温和黄耆](http://www.iplant.cn/info/Astragalus blandulus?t=foc)
+* [A.  borodinii  东天山黄耆](http://www.iplant.cn/info/Astragalus borodinii?t=foc)
+* [A.  bouffordii  鲍氏黄耆](http://www.iplant.cn/info/Astragalus bouffordii?t=foc)
+* [A.  brachypus  盐木黄耆](http://www.iplant.cn/info/Astragalus brachypus?t=foc)
+* [A.  brachysemia  短柄黄耆](http://www.iplant.cn/info/Astragalus brachysemia?t=foc)
+* [A.  brachytrichus  短毛黄耆](http://www.iplant.cn/info/Astragalus brachytrichus?t=foc)
+* [A.  brevialatus  短翼黄耆](http://www.iplant.cn/info/Astragalus brevialatus?t=foc)
+* [A.  brevifolius  短叶黄耆](http://www.iplant.cn/info/Astragalus brevifolius?t=foc)
+* [A.  breviscapus  短梗黄耆](http://www.iplant.cn/info/Astragalus breviscapus?t=foc)
+* [A.  brevivexillatus  短旗瓣黄耆](http://www.iplant.cn/info/Astragalus brevivexillatus?t=foc)
+* [A.  buchtormensis  布河黄耆](http://www.iplant.cn/info/Astragalus buchtormensis?t=foc)
+* [A.  burchan-buddaicus  布尔卡黄耆](http://www.iplant.cn/info/Astragalus burchan-buddaicus?t=foc)
+* [A.  burqinensis  布尔津黄耆](http://www.iplant.cn/info/Astragalus burqinensis?t=foc)
+* [A.  burtschumensis  布尔楚黄耆](http://www.iplant.cn/info/Astragalus burtschumensis?t=foc)
+* [A.  caeruleopetalinus  蓝花黄耆](http://www.iplant.cn/info/Astragalus caeruleopetalinus?t=foc)
+* [A.  campylorhynchus  弯喙黄耆](http://www.iplant.cn/info/Astragalus campylorhynchus?t=foc)
+* [A.  candidissimus  亮白黄耆](http://www.iplant.cn/info/Astragalus candidissimus?t=foc)
+* [A.  capillipes  草珠黄耆](http://www.iplant.cn/info/Astragalus capillipes?t=foc)
+* [A.  ceratoides  角黄耆](http://www.iplant.cn/info/Astragalus ceratoides?t=foc)
+* [A.  chagyabensis  察雅黄耆](http://www.iplant.cn/info/Astragalus chagyabensis?t=foc)
+* [A.  chaidamuensis  柴达木黄耆](http://www.iplant.cn/info/Astragalus chaidamuensis?t=foc)
+* [A.  chamaephyton  低矮黄耆](http://www.iplant.cn/info/Astragalus chamaephyton?t=foc)
+* [A.  changduensis  昌都黄耆](http://www.iplant.cn/info/Astragalus changduensis?t=foc)
+* [A.  changmuicus  樟木黄耆](http://www.iplant.cn/info/Astragalus changmuicus?t=foc)
+* [A.  charguschanus  卡尔古斯黄耆](http://www.iplant.cn/info/Astragalus charguschanus?t=foc)
+* [A.  chengkangensis  镇康黄耆](http://www.iplant.cn/info/Astragalus chengkangensis?t=foc)
+* [A.  chilienshanensis  祁连山黄耆](http://www.iplant.cn/info/Astragalus chilienshanensis?t=foc)
+* [A.  chinensis  中国黄耆](http://www.iplant.cn/info/Astragalus chinensis?t=foc)
+* [A.  chiukiangensis  俅江黄耆](http://www.iplant.cn/info/Astragalus chiukiangensis?t=foc)
+* [A.  chlorostachys  绿穗黄耆](http://www.iplant.cn/info/Astragalus chlorostachys?t=foc)
+* [A.  chomutowii  中天山黄耆](http://www.iplant.cn/info/Astragalus chomutowii?t=foc)
+* [A.  chorgosicus  霍尔果斯黄耆](http://www.iplant.cn/info/Astragalus chorgosicus?t=foc)
+* [A.  chrysopterus  金翼黄耆](http://www.iplant.cn/info/Astragalus chrysopterus?t=foc)
+* [A.  cobresiiphilus  雅鲁黄耆](http://www.iplant.cn/info/Astragalus cobresiiphilus?t=foc)
+* [A.  cognatus  沙丘黄耆](http://www.iplant.cn/info/Astragalus cognatus?t=foc)
+* [A.  commixtus  混合黄耆](http://www.iplant.cn/info/Astragalus commixtus?t=foc)
+* [A.  compressus  扁序黄耆](http://www.iplant.cn/info/Astragalus compressus?t=foc)
+* [A.  conaensis  错那黄耆](http://www.iplant.cn/info/Astragalus conaensis?t=foc)
+* [A.  concretus  合生黄耆](http://www.iplant.cn/info/Astragalus concretus?t=foc)
+* [A.  confertus  丛生黄耆](http://www.iplant.cn/info/Astragalus confertus?t=foc)
+* [A.  consanguineus  亚黄耆](http://www.iplant.cn/info/Astragalus consanguineus?t=foc)
+* [A.  contortuplicatus  环荚黄耆](http://www.iplant.cn/info/Astragalus contortuplicatus?t=foc)
+* [A.  craibianus  川西黄耆](http://www.iplant.cn/info/Astragalus craibianus?t=foc)
+* [A.  crassifolius  厚叶黄耆](http://www.iplant.cn/info/Astragalus crassifolius?t=foc)
+* [A.  cupulicalycinus  杯萼黄耆](http://www.iplant.cn/info/Astragalus cupulicalycinus?t=foc)
+* [A.  cysticalyx  囊萼黄耆](http://www.iplant.cn/info/Astragalus cysticalyx?t=foc)
+* [A.  dabanshanicus  大板山黄耆](http://www.iplant.cn/info/Astragalus dabanshanicus?t=foc)
+* [A.  dahuricus  达乌里黄耆](http://www.iplant.cn/info/Astragalus dahuricus?t=foc)
+* [A.  dalaiensis  草原黄耆](http://www.iplant.cn/info/Astragalus dalaiensis?t=foc)
+* [A.  damxungensis  当雄黄耆](http://www.iplant.cn/info/Astragalus damxungensis?t=foc)
+* [A.  danicus  丹麦黄耆](http://www.iplant.cn/info/Astragalus danicus?t=foc)
+* [A.  daqingshanicus  大青山黄耆](http://www.iplant.cn/info/Astragalus daqingshanicus?t=foc)
+* [A.  datunensis  大通黄耆](http://www.iplant.cn/info/Astragalus datunensis?t=foc)
+* [A.  davidii  宝兴黄耆](http://www.iplant.cn/info/Astragalus davidii?t=foc)
+* [A.  degensis  窄翼黄耆](http://www.iplant.cn/info/Astragalus degensis?t=foc)
+* [A.  dendroides  树黄耆](http://www.iplant.cn/info/Astragalus dendroides?t=foc)
+* [A.  densiflorus  密花黄耆](http://www.iplant.cn/info/Astragalus densiflorus?t=foc)
+* [A.  depauperatus  疆北黄耆](http://www.iplant.cn/info/Astragalus depauperatus?t=foc)
+* [A.  dependens  悬垂黄耆](http://www.iplant.cn/info/Astragalus dependens?t=foc)
+* [A.  despectus  合托叶黄耆](http://www.iplant.cn/info/Astragalus despectus?t=foc)
+* [A.  dickorei  地科黄耆](http://www.iplant.cn/info/Astragalus dickorei?t=foc)
+* [A.  dilutus  浅黄耆](http://www.iplant.cn/info/Astragalus dilutus?t=foc)
+* [A.  dingjiensis  定结黄耆](http://www.iplant.cn/info/Astragalus dingjiensis?t=foc)
+* [A.  discolor  灰叶黄耆](http://www.iplant.cn/info/Astragalus discolor?t=foc)
+* [A.  divnogorskajae  疆西黄耆](http://www.iplant.cn/info/Astragalus divnogorskajae?t=foc)
+* [A.  dschimensis  边陲黄耆](http://www.iplant.cn/info/Astragalus dschimensis?t=foc)
+* [A.  dshangartensis  詹加尔特黄耆](http://www.iplant.cn/info/Astragalus dshangartensis?t=foc)
+* [A.  dsharkenticus  托木尔黄耆](http://www.iplant.cn/info/Astragalus dsharkenticus?t=foc)
+* [A.  dulungkiangensis  独龙江黄耆](http://www.iplant.cn/info/Astragalus dulungkiangensis?t=foc)
+* [A.  dumetorum  灌丛黄耆](http://www.iplant.cn/info/Astragalus dumetorum?t=foc)
+* [A.  dutreuilii  中昆仑黄耆](http://www.iplant.cn/info/Astragalus dutreuilii?t=foc)
+* [A.  eerqisiensis  额尔齐斯黄耆](http://www.iplant.cn/info/Astragalus eerqisiensis?t=foc)
+* [A.  efoliolatus  单叶黄耆](http://www.iplant.cn/info/Astragalus efoliolatus?t=foc)
+* [A.  ellipsoideus  胀萼黄耆](http://www.iplant.cn/info/Astragalus ellipsoideus?t=foc)
+* [A.  ernestii  梭果黄耆](http://www.iplant.cn/info/Astragalus ernestii?t=foc)
+* [A.  euchlorus  深绿黄耆](http://www.iplant.cn/info/Astragalus euchlorus?t=foc)
+* [A.  falconeri  侧扁黄耆](http://www.iplant.cn/info/Astragalus falconeri?t=foc)
+* [A.  fangensis  房县黄耆](http://www.iplant.cn/info/Astragalus fangensis?t=foc)
+* [A.  filicaulis  丝茎黄耆](http://www.iplant.cn/info/Astragalus filicaulis?t=foc)
+* [A.  filidens  丝齿黄耆](http://www.iplant.cn/info/Astragalus filidens?t=foc)
+* [A.  flexus  弯花黄耆](http://www.iplant.cn/info/Astragalus flexus?t=foc)
+* [A.  floccosifolius  丛毛叶黄耆](http://www.iplant.cn/info/Astragalus floccosifolius?t=foc)
+* [A.  floridulus  多花黄耆](http://www.iplant.cn/info/Astragalus floridulus?t=foc)
+* [A.  forrestii  中甸黄耆](http://www.iplant.cn/info/Astragalus forrestii?t=foc)
+* [A.  frigidus  广布黄耆](http://www.iplant.cn/info/Astragalus frigidus?t=foc)
+* [A.  fukangensis  阜康黄耆](http://www.iplant.cn/info/Astragalus fukangensis?t=foc)
+* [A.  galactites  乳白花黄耆](http://www.iplant.cn/info/Astragalus galactites?t=foc)
+* [A.  gebleri  准噶尔黄耆](http://www.iplant.cn/info/Astragalus gebleri?t=foc)
+* [A.  geerwusuensis  格尔乌苏黄耆](http://www.iplant.cn/info/Astragalus geerwusuensis?t=foc)
+* [A.  glabritubus  秃萼筒黄耆](http://www.iplant.cn/info/Astragalus glabritubus?t=foc)
+* [A.  golmunensis  格尔木黄耆](http://www.iplant.cn/info/Astragalus golmunensis?t=foc)
+* [A.  gongliuensis  巩留黄耆](http://www.iplant.cn/info/Astragalus gongliuensis?t=foc)
+* [A.  gongshanensis  贡山黄耆](http://www.iplant.cn/info/Astragalus gongshanensis?t=foc)
+* [A.  gontscharovii  半灌黄耆](http://www.iplant.cn/info/Astragalus gontscharovii?t=foc)
+* [A.  gracilidentatus  线齿黄耆](http://www.iplant.cn/info/Astragalus gracilidentatus?t=foc)
+* [A.  gracilipes  细柄黄耆](http://www.iplant.cn/info/Astragalus gracilipes?t=foc)
+* [A.  graveolens  烈香黄耆](http://www.iplant.cn/info/Astragalus graveolens?t=foc)
+* [A.  gregorii  格热高尔黄耆](http://www.iplant.cn/info/Astragalus gregorii?t=foc)
+* [A.  grubovii  荒漠黄耆](http://www.iplant.cn/info/Astragalus grubovii?t=foc)
+* [A.  grum-grshimailoi  胶黄耆](http://www.iplant.cn/info/Astragalus grum-grshimailoi?t=foc)
+* [A.  guinanicus  贵南黄耆](http://www.iplant.cn/info/Astragalus guinanicus?t=foc)
+* [A.  habaheensis  哈巴河黄耆](http://www.iplant.cn/info/Astragalus habaheensis?t=foc)
+* [A.  habamontis  哈巴山黄耆](http://www.iplant.cn/info/Astragalus habamontis?t=foc)
+* [A.  haiyuanensis  海原黄耆](http://www.iplant.cn/info/Astragalus haiyuanensis?t=foc)
+* [A.  hamiensis  哈密黄耆](http://www.iplant.cn/info/Astragalus hamiensis?t=foc)
+* [A.  hancockii  短花梗黄耆](http://www.iplant.cn/info/Astragalus hancockii?t=foc)
+* [A.  handelii  头序黄耆](http://www.iplant.cn/info/Astragalus handelii?t=foc)
+* [A.  havianus  华山黄耆](http://www.iplant.cn/info/Astragalus havianus?t=foc)
+* [A.  hebecarpus  茸毛果黄耆](http://www.iplant.cn/info/Astragalus hebecarpus?t=foc)
+* [A.  henryi  秦岭黄耆](http://www.iplant.cn/info/Astragalus henryi?t=foc)
+* [A.  heptapotamicus  七溪黄耆](http://www.iplant.cn/info/Astragalus heptapotamicus?t=foc)
+* [A.  hesiensis  河西黄耆](http://www.iplant.cn/info/Astragalus hesiensis?t=foc)
+* [A.  heterodontus  异齿黄耆](http://www.iplant.cn/info/Astragalus heterodontus?t=foc)
+* [A.  hoffmeisteri  疏花黄耆](http://www.iplant.cn/info/Astragalus hoffmeisteri?t=foc)
+* [A.  hoshanbaoensis  善宝黄耆](http://www.iplant.cn/info/Astragalus hoshanbaoensis?t=foc)
+* [A.  hotianensis  和田黄耆](http://www.iplant.cn/info/Astragalus hotianensis?t=foc)
+* [A.  hsinbaticus  新巴黄耆](http://www.iplant.cn/info/Astragalus hsinbaticus?t=foc)
+* [A.  huiningensis  会宁黄耆](http://www.iplant.cn/info/Astragalus huiningensis?t=foc)
+* [A.  huochengensis  金沟河黄耆](http://www.iplant.cn/info/Astragalus huochengensis?t=foc)
+* [A.  hypogaeus  留土黄耆](http://www.iplant.cn/info/Astragalus hypogaeus?t=foc)
+* [A.  hysophilus  高地黄耆](http://www.iplant.cn/info/Astragalus hysophilus?t=foc)
+* [A.  iliensis  伊犁黄耆](http://www.iplant.cn/info/Astragalus iliensis?t=foc)
+* [A.  jiazaensis  加查黄耆](http://www.iplant.cn/info/Astragalus jiazaensis?t=foc)
+* [A.  jiuquanensis  酒泉黄耆](http://www.iplant.cn/info/Astragalus jiuquanensis?t=foc)
+* [A.  junatovii  尤那托夫黄耆](http://www.iplant.cn/info/Astragalus junatovii?t=foc)
+* [A.  karkarensis  直荚黄耆](http://www.iplant.cn/info/Astragalus karkarensis?t=foc)
+* [A.  kasachstanicus  哈萨克黄耆](http://www.iplant.cn/info/Astragalus kasachstanicus?t=foc)
+* [A.  kessleri  凯斯列黄耆](http://www.iplant.cn/info/Astragalus kessleri?t=foc)
+* [A.  khasianus  长果颈黄耆](http://www.iplant.cn/info/Astragalus khasianus?t=foc)
+* [A.  kialensis  苦黄耆](http://www.iplant.cn/info/Astragalus kialensis?t=foc)
+* [A.  kifonsanicus  鸡峰山黄耆](http://www.iplant.cn/info/Astragalus kifonsanicus?t=foc)
+* [A.  kongrensis  深紫萼黄耆](http://www.iplant.cn/info/Astragalus kongrensis?t=foc)
+* [A.  kukunoricus  青海黄耆](http://www.iplant.cn/info/Astragalus kukunoricus?t=foc)
+* [A.  kuldshensis  伊宁黄耆](http://www.iplant.cn/info/Astragalus kuldshensis?t=foc)
+* [A.  kunlunensis  昆仑黄耆](http://www.iplant.cn/info/Astragalus kunlunensis?t=foc)
+* [A.  kurtschumensis  库尔楚黄耆](http://www.iplant.cn/info/Astragalus kurtschumensis?t=foc)
+* [A.  kuschakewiczii  库萨克黄耆](http://www.iplant.cn/info/Astragalus kuschakewiczii?t=foc)
+* [A.  laceratus  裂翼黄耆](http://www.iplant.cn/info/Astragalus laceratus?t=foc)
+* [A.  laetabilis  丝叶黄耆](http://www.iplant.cn/info/Astragalus laetabilis?t=foc)
+* [A.  laguroides  兔尾黄耆](http://www.iplant.cn/info/Astragalus laguroides?t=foc)
+* [A.  lamalaensis  拉马拉黄耆](http://www.iplant.cn/info/Astragalus lamalaensis?t=foc)
+* [A.  lang-ranii  盐生黄耆](http://www.iplant.cn/info/Astragalus lang-ranii?t=foc)
+* [A.  lanuginosus  棉毛黄耆](http://www.iplant.cn/info/Astragalus lanuginosus?t=foc)
+* [A.  lanzhouensis  兰州黄耆](http://www.iplant.cn/info/Astragalus lanzhouensis?t=foc)
+* [A.  lasiopetalus  毛瓣黄耆](http://www.iplant.cn/info/Astragalus lasiopetalus?t=foc)
+* [A.  lasiosemius  毛果黄耆](http://www.iplant.cn/info/Astragalus lasiosemius?t=foc)
+* [A.  laspurensis  西巴黄耆](http://www.iplant.cn/info/Astragalus laspurensis?t=foc)
+* [A.  latiunguiculatus  宽爪黄耆](http://www.iplant.cn/info/Astragalus latiunguiculatus?t=foc)
+* [A.  laxmannii  斜茎黄耆](http://www.iplant.cn/info/Astragalus laxmannii?t=foc)
+* [A.  leansanicus  莲山黄耆](http://www.iplant.cn/info/Astragalus leansanicus?t=foc)
+* [A.  lehmannianus  茧荚黄耆](http://www.iplant.cn/info/Astragalus lehmannianus?t=foc)
+* [A.  lepsensis  天山黄耆](http://www.iplant.cn/info/Astragalus lepsensis?t=foc)
+* [A.  leptocladus  细枝黄耆](http://www.iplant.cn/info/Astragalus leptocladus?t=foc)
+* [A.  lessertioides  喜马拉雅黄耆](http://www.iplant.cn/info/Astragalus lessertioides?t=foc)
+* [A.  leucocladus  白枝黄耆](http://www.iplant.cn/info/Astragalus leucocladus?t=foc)
+* [A.  levidensis  光萼齿黄耆](http://www.iplant.cn/info/Astragalus levidensis?t=foc)
+* [A.  lhorongensis  洛隆黄耆](http://www.iplant.cn/info/Astragalus lhorongensis?t=foc)
+* [A.  licentianus  甘肃黄耆](http://www.iplant.cn/info/Astragalus licentianus?t=foc)
+* [A.  limprichtii  长管萼黄耆](http://www.iplant.cn/info/Astragalus limprichtii?t=foc)
+* [A.  lithophilus  岩生黄耆](http://www.iplant.cn/info/Astragalus lithophilus?t=foc)
+* [A.  longilobus  长萼裂黄耆](http://www.iplant.cn/info/Astragalus longilobus?t=foc)
+* [A.  longiracemosus  长序黄耆](http://www.iplant.cn/info/Astragalus longiracemosus?t=foc)
+* [A.  luculentus  光滑黄耆](http://www.iplant.cn/info/Astragalus luculentus?t=foc)
+* [A.  neochorgosicus  新霍尔果斯黄耆](http://www.iplant.cn/info/Astragalus neochorgosicus?t=foc)
+* [A.  nicolaii  木垒黄耆](http://www.iplant.cn/info/Astragalus nicolaii?t=foc)
+* [A.  orbiculatus  圆形黄耆](http://www.iplant.cn/info/Astragalus orbiculatus?t=foc)
+* [A.  pindreensis  明铁盖黄耆](http://www.iplant.cn/info/Astragalus pindreensis?t=foc)
+* [A.  przhevalskianus  波氏黄耆](http://www.iplant.cn/info/Astragalus przhevalskianus?t=foc)
+* [A.  psilosepalus  光萼黄耆](http://www.iplant.cn/info/Astragalus psilosepalus?t=foc)
+* [A.  rhizanthus  畸形黄耆](http://www.iplant.cn/info/Astragalus rhizanthus?t=foc)
+* [A.  schanginianus  卡通黄耆](http://www.iplant.cn/info/Astragalus schanginianus?t=foc)
+* [A.  taldicensis  假黄耆](http://www.iplant.cn/info/Astragalus taldicensis?t=foc)
+* [A.  webbianus  藏西黄耆](http://www.iplant.cn/info/Astragalus webbianus?t=foc)
+
+## 中国植物志
+
+> * [鱼鳔黄耆  A.  hedinii](http://www.iplant.cn/info/Astragalus hedinii?t=z)
+
+
+**乌拉特黄耆 Astragalus hoantchy",
+
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第42(1)卷](http://www.iplant.cn/frps/vol/42(1)) >> 083页 [PDF](http://www.iplant.cn/frps/pdf/42(1)/083.pdf)
+
+
+**2. 乌拉特黄耆（内蒙古植物志）粗壮黄耆（植物研究）**
+
+Astragalus hoantchy Franch. in Nouv. Arch. Mus. Hist. Nat. Paris 5: 236. 1883; Pet. -Stib. in Acta Hort. Gothob. 12: 60. 1937; 中国主要植物图说·豆科388.图375. 1955; 内蒙古植物志3: 195. 图版98. 1977; K. T. Fu in Bull. Bot. Res. 2 (1): 133. 1982.
+
+**2a. 乌拉特黄耆（原亚种）图版21：1-8**
+
+subsp. hoantchy Franch.
+
+茎直立，高90-50厘米，直径5-7毫米，有细棱，无毛或有极稀白色长柔毛，分枝。羽状复叶有17-25片小叶，长15-25厘米，叶柄长5-15毫米，连同叶轴散生白色长柔毛；托叶三角状披针形，长6-8毫米，先端渐尖，散生长柔毛；小叶宽卵形或近圆形，长5-20毫米，宽4-15毫米，先端微凹或截形，有凸尖头，基部宽楔形或圆形，上面无毛，下面无毛或主脉上散生白色长柔毛；小叶柄长1-1.5毫米，近无毛。总状花序疏生12-15花，长20-30厘米，花序轴被黑色或混生白色长柔毛；总花梗长10-20厘米，无毛；苞片线状披针形，长5-7毫米，被黑色和白色长柔毛；花梗长7-8毫米，被黑色长柔毛；小苞片线形，长约3毫米，无毛；花萼钟状，长11-12毫米，疏被褐色或混生白长柔毛，萼筒长8-10毫米，萼齿线状披针形，长6-8毫米，被黑色长毛；花冠粉红或紫白色，旗瓣宽倒卵形，长22-27毫米，瓣片长圆形，长16-17毫米，宽11-12毫米，先端微凹，下部突然渐狭，瓣柄长7-9毫米，翼瓣长24-27毫米，瓣片狭长圆形，长15-17毫米，宽4-5毫米，先端钝，瓣柄长10-11毫米，龙骨瓣长20-22毫米，瓣片弯月形，长14-15毫米，宽6-7毫米，瓣柄长8-9毫米，子房无毛，柄长7-10毫米，柱头被簇毛。荚果长圆形，长约6厘米，宽1-1.2厘米，先端喙状，基部狭入果颈，无毛，具网脉，近假2室，有12-16颗种子，果颈长达2厘米；种子褐色，近肾形，长约3.5毫米，横宽约6毫米，具凹窝。花期5-6月，果期7-10月。
+
+产内蒙古西部（乌拉特，模式标本产地）、宁夏中部（贺兰山）、甘肃中部至西部（兰州、靖远、肃北）、青海东部（循化、同仁）。生于海拔1 500-2 250米的山谷、水旁、滩地或山坡。
+
+本种可作黄耆药用，故 Franchet 用种加词为“hoantchy”（黄耆），但并非正品。《中药志》认为模式产蒙古库伦，称库伦耆。经查，蒙古并不产本种，显系鉴定错误。
+
+**2b. 边陲黄耆（亚种）（植物研究）**
+
+subsp. dshimensis (Gontsch.) K. T. Fu, grad. nov.——A. dshimensis Contsch. in Not. Syst. Inst. Bot. Acad. Sci. USSR 10: 30. 1946 et in Kom. Fl. USSR 12: 23. 1946; K. T. Fu in Bull. Bot. Res. 2 (1): 132. 1982.
+
+本亚种与原亚种的区别在于；花黄色，长约2厘米；花萼除齿缘具疏长毛外无毛；荚果长不超过6厘米，宽不超过1厘米，近假2室；果梗有散生毛；种子褐色，近肾形，长约2.5毫米，宽约4.5毫米，平滑。
+
+产新疆西部至北部（阿克苏、和硕、吐鲁番、哈密、乌鲁木齐、巴里坤、玛纳斯、富蕴)。生于低山，山地草原或砂砾质干山坡。中亚也有分布。
+
+### 下级分类
+* [边陲黄耆  Astragalus hoantchy subsp. dshimensis](http://www.iplant.cn/info/Astragalus hoantchy subsp. dshimensis?t=z)
+* [乌拉特黄耆（原亚种）  Astragalus hoantchy subsp. hoantchy](http://www.iplant.cn/info/Astragalus hoantchy subsp. hoantchy?t=z)
+
+### 下级分类
+* [边陲黄耆  Astragalus hoantchy subsp. dshimensis](http://www.iplant.cn/info/sp/Astragalus hoantchy subsp. dshimensis?t=z)
+* [乌拉特黄耆（原亚种）  Astragalus hoantchy subsp. hoantchy](http://www.iplant.cn/info/sp/Astragalus hoantchy subsp. hoantchy?t=z)

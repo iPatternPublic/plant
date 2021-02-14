@@ -1,0 +1,160 @@
+短序唇柱苣苔 **Chirita depressa** J. D. Hooker
+
+> [Gesneriaceae](http://www.iplant.cn/info/Gesneriaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Gesneriaceae.pdf) >> [Chirita](http://www.iplant.cn/info/Chirita?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Chirita.pdf)
+
+> **Comment** : 
+> This species is known only from the type specimen, which has only two detached leaves and a corolla (without stamens). The plate in the protologue is excellent, but does not show inflorescence characters.
+
+## Description
+
+Perennials, stemless. Rhizome internodes inconspicuous. Leaves basal, opposite; petiole ca. 8 X 6 mm; leaf blade broadly ovate or elliptic to obovate, ca. 10 X 6 cm, papery, adaxially densely puberulent, eglandular, abaxially velutinous, base cuneate, margin shallowly crenate, apex obtuse to rounded; lateral veins ca. 4 on each side of midrib, conspicuous. Cymes ca. 4-flowered; peduncle shorter than leaves; bracts 2. Calyx 5-sect from base; segments slightly unequal, narrowly linear, ca. 7 X 1 mm, outside puberulent and glandular puberulent, margin entire, apex attenuate. Corolla purple, ca. 3 cm, outside sparsely pubescent, inside glandular puberulent below stamens; tube funnelform-tubular, ca. 2.3 X 0.8 cm; adaxial lip ca. 6 mm; abaxial lip ca. 7 mm. Filaments ca. 1.3 cm, glabrous; anthers fused by entire adaxial surfaces, ca. 2.5 mm, glabrous; staminodes 3, central ca. 2 mm, laterals ca. 6 mm. Pistil nearly as long as corolla tube; ovary puberulent and sparsely glandular puberulent. Stigma obovoid, 2-lobed. Fruit and seeds unknown.
+
+> **Habait** : 
+>* N Guangdong.
+
+### Synonym
+*Didymocarpus depressus *(J. D. Hooker) W. Y. Chun, Sunyatsenia 6: 298. 1946.
+
+### Parsublist
+
+* [C.  anachoreta  光萼唇柱苣苔](http://www.iplant.cn/info/Chirita anachoreta?t=foc)
+* [C.  atroglandulosa  黑腺唇柱苣苔](http://www.iplant.cn/info/Chirita atroglandulosa?t=foc)
+* [C.  atropurpurea  紫萼唇柱苣苔](http://www.iplant.cn/info/Chirita atropurpurea?t=foc)
+* [C.  baishouensis  ](http://www.iplant.cn/info/Chirita baishouensis?t=foc)
+* [C.  bicolor  二色唇柱苣苔](http://www.iplant.cn/info/Chirita bicolor?t=foc)
+* [C.  brachystigma  短头唇柱苣苔](http://www.iplant.cn/info/Chirita brachystigma?t=foc)
+* [C.  brachytricha  短毛唇柱苣苔](http://www.iplant.cn/info/Chirita brachytricha?t=foc)
+* [C.  brachytricha var. brachytricha  短毛唇柱苣苔 (原变种)](http://www.iplant.cn/info/Chirita brachytricha var. brachytricha?t=foc)
+* [C.  brachytricha var. magnibracteata  大苞短毛唇柱苣苔](http://www.iplant.cn/info/Chirita brachytricha var. magnibracteata?t=foc)
+* [C.  brassicoides  芥状唇柱苣苔](http://www.iplant.cn/info/Chirita brassicoides?t=foc)
+* [C.  briggsioides  鹤峰唇柱苣苔](http://www.iplant.cn/info/Chirita briggsioides?t=foc)
+* [C.  carnosifolia  肉叶唇柱苣苔](http://www.iplant.cn/info/Chirita carnosifolia?t=foc)
+* [C.  cordifolia  心叶唇柱苣苔](http://www.iplant.cn/info/Chirita cordifolia?t=foc)
+* [C.  corniculata  角萼唇柱苣苔](http://www.iplant.cn/info/Chirita corniculata?t=foc)
+* [C.  crassituba  粗筒唇柱苣苔](http://www.iplant.cn/info/Chirita crassituba?t=foc)
+* [C.  cruciformis  十字唇柱苣苔](http://www.iplant.cn/info/Chirita cruciformis?t=foc)
+* [C.  cyrtocarpa  弯果唇柱苣苔](http://www.iplant.cn/info/Chirita cyrtocarpa?t=foc)
+* [C.  demissa  巨柱唇柱苣苔](http://www.iplant.cn/info/Chirita demissa?t=foc)
+* [C.  dielsii  圆叶唇柱苣苔](http://www.iplant.cn/info/Chirita dielsii?t=foc)
+* [C.  eburnea  牛耳朵](http://www.iplant.cn/info/Chirita eburnea?t=foc)
+* [C.  fangii  方氏唇柱苣苔](http://www.iplant.cn/info/Chirita fangii?t=foc)
+* [C.  fasciculiflora  簇花唇柱苣苔](http://www.iplant.cn/info/Chirita fasciculiflora?t=foc)
+* [C.  fimbrisepala  蚂蝗七](http://www.iplant.cn/info/Chirita fimbrisepala?t=foc)
+* [C.  fimbrisepala var. fimbrisepala  蚂蝗七 (原变种)](http://www.iplant.cn/info/Chirita fimbrisepala var. fimbrisepala?t=foc)
+* [C.  fimbrisepala var. mollis  密毛蚂蝗七](http://www.iplant.cn/info/Chirita fimbrisepala var. mollis?t=foc)
+* [C.  flavimaculata  黄斑唇柱苣苔](http://www.iplant.cn/info/Chirita flavimaculata?t=foc)
+* [C.  floribunda  多花唇柱苣苔](http://www.iplant.cn/info/Chirita floribunda?t=foc)
+* [C.  fordii  桂粤唇柱苣苔](http://www.iplant.cn/info/Chirita fordii?t=foc)
+* [C.  fordii var. dolichotricha  鼎湖唇柱苣苔](http://www.iplant.cn/info/Chirita fordii var. dolichotricha?t=foc)
+* [C.  fordii var. fordii  桂粤唇柱苣苔(原变种)](http://www.iplant.cn/info/Chirita fordii var. fordii?t=foc)
+* [C.  forrestii  滇川唇柱苣苔](http://www.iplant.cn/info/Chirita forrestii?t=foc)
+* [C.  fruticola  灌丛唇柱苣苔](http://www.iplant.cn/info/Chirita fruticola?t=foc)
+* [C.  glabrescens  少毛唇柱苣苔](http://www.iplant.cn/info/Chirita glabrescens?t=foc)
+* [C.  gueilinensis  桂林唇柱苣苔](http://www.iplant.cn/info/Chirita gueilinensis?t=foc)
+* [C.  hamosa  钩序唇柱苣苔](http://www.iplant.cn/info/Chirita hamosa?t=foc)
+* [C.  hedyotidea  肥牛草](http://www.iplant.cn/info/Chirita hedyotidea?t=foc)
+* [C.  heterotricha  烟叶唇柱苣苔](http://www.iplant.cn/info/Chirita heterotricha?t=foc)
+* [C.  hochiensis  河池唇柱苣苔](http://www.iplant.cn/info/Chirita hochiensis?t=foc)
+* [C.  infundibuliformis  合苞唇柱苣苔](http://www.iplant.cn/info/Chirita infundibuliformis?t=foc)
+* [C.  jiuwanshanica  九万山唇柱苣苔](http://www.iplant.cn/info/Chirita jiuwanshanica?t=foc)
+* [C.  juliae  大齿唇柱苣苔](http://www.iplant.cn/info/Chirita juliae?t=foc)
+* [C.  lachenensis  卧茎唇柱苣苔](http://www.iplant.cn/info/Chirita lachenensis?t=foc)
+* [C.  langshanica  莨山唇柱苣苔](http://www.iplant.cn/info/Chirita langshanica?t=foc)
+* [C.  latinervis  宽脉唇柱苣苔](http://www.iplant.cn/info/Chirita latinervis?t=foc)
+* [C.  laxiflora  疏花唇柱苣苔](http://www.iplant.cn/info/Chirita laxiflora?t=foc)
+* [C.  leiophylla  光叶唇柱苣苔](http://www.iplant.cn/info/Chirita leiophylla?t=foc)
+* [C.  liboensis  荔波唇柱苣苔](http://www.iplant.cn/info/Chirita liboensis?t=foc)
+* [C.  lienxienensis  连县唇柱苣苔](http://www.iplant.cn/info/Chirita lienxienensis?t=foc)
+* [C.  liguliformis  舌柱唇柱苣苔](http://www.iplant.cn/info/Chirita liguliformis?t=foc)
+* [C.  linearifolia  线叶唇柱苣苔](http://www.iplant.cn/info/Chirita linearifolia?t=foc)
+* [C.  linglingensis  零陵唇柱苣苔](http://www.iplant.cn/info/Chirita linglingensis?t=foc)
+* [C.  liujiangensis  柳江唇柱苣苔](http://www.iplant.cn/info/Chirita liujiangensis?t=foc)
+* [C.  longgangensis  岗唇柱苣苔](http://www.iplant.cn/info/Chirita longgangensis?t=foc)
+* [C.  longgangensis var. hongyao  红药](http://www.iplant.cn/info/Chirita longgangensis var. hongyao?t=foc)
+* [C.  longgangensis var. longgangensis  岗唇柱苣苔(原变种)](http://www.iplant.cn/info/Chirita longgangensis var. longgangensis?t=foc)
+* [C.  longii  ](http://www.iplant.cn/info/Chirita longii?t=foc)
+* [C.  lunglinensis  隆林唇柱苣苔](http://www.iplant.cn/info/Chirita lunglinensis?t=foc)
+* [C.  lunglinensis var. amblyosepala  钝萼唇柱苣苔](http://www.iplant.cn/info/Chirita lunglinensis var. amblyosepala?t=foc)
+* [C.  lunglinensis var. lunglinensis  隆林唇柱苣苔 (原变种)](http://www.iplant.cn/info/Chirita lunglinensis var. lunglinensis?t=foc)
+* [C.  lungzhouensis  龙州唇柱苣苔](http://www.iplant.cn/info/Chirita lungzhouensis?t=foc)
+* [C.  lutea  ](http://www.iplant.cn/info/Chirita lutea?t=foc)
+* [C.  macrodonta  粗齿唇柱苣苔](http://www.iplant.cn/info/Chirita macrodonta?t=foc)
+* [C.  macrophylla  大叶唇柱苣苔](http://www.iplant.cn/info/Chirita macrophylla?t=foc)
+* [C.  macrorhiza  大根唇柱苣苔](http://www.iplant.cn/info/Chirita macrorhiza?t=foc)
+* [C.  medica  药用唇柱苣苔](http://www.iplant.cn/info/Chirita medica?t=foc)
+* [C.  minutihamata  多痕唇柱苣苔](http://www.iplant.cn/info/Chirita minutihamata?t=foc)
+* [C.  minutimaculata  微斑唇柱苣苔](http://www.iplant.cn/info/Chirita minutimaculata?t=foc)
+* [C.  mollifolia  ](http://www.iplant.cn/info/Chirita mollifolia?t=foc)
+* [C.  monantha  单花唇柱苣苔](http://www.iplant.cn/info/Chirita monantha?t=foc)
+* [C.  napoensis  那坡唇柱苣苔](http://www.iplant.cn/info/Chirita napoensis?t=foc)
+* [C.  oblongifolia  长圆叶唇柱苣苔](http://www.iplant.cn/info/Chirita oblongifolia?t=foc)
+* [C.  obtusidentata  钝齿唇柱苣苔](http://www.iplant.cn/info/Chirita obtusidentata?t=foc)
+* [C.  obtusidentata var. mollipes  毛序唇柱苣苔](http://www.iplant.cn/info/Chirita obtusidentata var. mollipes?t=foc)
+* [C.  obtusidentata var. obtusidentata  钝齿唇柱苣苔(原变种)](http://www.iplant.cn/info/Chirita obtusidentata var. obtusidentata?t=foc)
+* [C.  ophiopogoides  条叶唇柱苣苔](http://www.iplant.cn/info/Chirita ophiopogoides?t=foc)
+* [C.  orthandra  直蕊唇柱苣苔](http://www.iplant.cn/info/Chirita orthandra?t=foc)
+* [C.  parvifolia  小叶唇柱苣苔](http://www.iplant.cn/info/Chirita parvifolia?t=foc)
+* [C.  pinnata  复叶唇柱苣苔](http://www.iplant.cn/info/Chirita pinnata?t=foc)
+* [C.  pinnatifida  羽裂唇柱苣苔](http://www.iplant.cn/info/Chirita pinnatifida?t=foc)
+* [C.  polycephala  多葶唇柱苣苔](http://www.iplant.cn/info/Chirita polycephala?t=foc)
+* [C.  pseudoeburnea  紫纹唇柱苣苔](http://www.iplant.cn/info/Chirita pseudoeburnea?t=foc)
+* [C.  pteropoda  翅柄唇柱苣苔](http://www.iplant.cn/info/Chirita pteropoda?t=foc)
+* [C.  puerensis  普洱唇柱苣苔](http://www.iplant.cn/info/Chirita puerensis?t=foc)
+* [C.  pumila  斑叶唇柱苣苔](http://www.iplant.cn/info/Chirita pumila?t=foc)
+* [C.  pungentisepala  尖萼唇柱苣苔](http://www.iplant.cn/info/Chirita pungentisepala?t=foc)
+* [C.  pycnantha  密花唇柱苣苔](http://www.iplant.cn/info/Chirita pycnantha?t=foc)
+* [C.  ronganensis  ](http://www.iplant.cn/info/Chirita ronganensis?t=foc)
+* [C.  roseoalba  粉花唇柱苣苔](http://www.iplant.cn/info/Chirita roseoalba?t=foc)
+* [C.  rotundifolia  卵圆唇柱苣苔](http://www.iplant.cn/info/Chirita rotundifolia?t=foc)
+* [C.  sclerophylla  硬叶唇柱苣苔](http://www.iplant.cn/info/Chirita sclerophylla?t=foc)
+* [C.  secundiflora  清镇唇柱苣苔](http://www.iplant.cn/info/Chirita secundiflora?t=foc)
+* [C.  shouchengensis  寿城唇柱苣苔](http://www.iplant.cn/info/Chirita shouchengensis?t=foc)
+* [C.  shuii  税氏唇柱苣苔](http://www.iplant.cn/info/Chirita shuii?t=foc)
+* [C.  sichuanensis  四川唇柱苣苔](http://www.iplant.cn/info/Chirita sichuanensis?t=foc)
+* [C.  sinensis  唇柱苣苔](http://www.iplant.cn/info/Chirita sinensis?t=foc)
+* [C.  skogiana  斯氏唇柱苣苔](http://www.iplant.cn/info/Chirita skogiana?t=foc)
+* [C.  spadiciformis  焰苞唇柱苣苔](http://www.iplant.cn/info/Chirita spadiciformis?t=foc)
+* [C.  speciosa  美丽唇柱苣苔](http://www.iplant.cn/info/Chirita speciosa?t=foc)
+* [C.  speluncae  小唇柱苣苔](http://www.iplant.cn/info/Chirita speluncae?t=foc)
+* [C.  spinulosa  刺齿唇柱苣苔](http://www.iplant.cn/info/Chirita spinulosa?t=foc)
+* [C.  subrhomboidea  菱叶唇柱苣苔](http://www.iplant.cn/info/Chirita subrhomboidea?t=foc)
+* [C.  subulatisepala  钻萼唇柱苣苔](http://www.iplant.cn/info/Chirita subulatisepala?t=foc)
+* [C.  swinglei  钟冠唇柱苣苔](http://www.iplant.cn/info/Chirita swinglei?t=foc)
+* [C.  tenuifolia  薄叶唇柱苣苔](http://www.iplant.cn/info/Chirita tenuifolia?t=foc)
+* [C.  tenuituba  神农架唇柱苣苔](http://www.iplant.cn/info/Chirita tenuituba?t=foc)
+* [C.  tibetica  康定唇柱苣苔](http://www.iplant.cn/info/Chirita tibetica?t=foc)
+* [C.  tribracteata  三苞唇柱苣苔](http://www.iplant.cn/info/Chirita tribracteata?t=foc)
+* [C.  tribracteata var. zhuana  ](http://www.iplant.cn/info/Chirita tribracteata var. zhuana?t=foc)
+* [C.  urticifolia  麻叶唇柱苣苔](http://www.iplant.cn/info/Chirita urticifolia?t=foc)
+* [C.  varicolor  ](http://www.iplant.cn/info/Chirita varicolor?t=foc)
+* [C.  verecunda  齿萼唇柱苣苔](http://www.iplant.cn/info/Chirita verecunda?t=foc)
+* [C.  vestita  细筒唇柱苣苔](http://www.iplant.cn/info/Chirita vestita?t=foc)
+* [C.  villosissima  长毛唇柱苣苔](http://www.iplant.cn/info/Chirita villosissima?t=foc)
+* [C.  wangiana  王氏唇柱苣苔](http://www.iplant.cn/info/Chirita wangiana?t=foc)
+* [C.  wentsaii  文采唇柱苣苔](http://www.iplant.cn/info/Chirita wentsaii?t=foc)
+* [C.  xinningensis  新宁唇柱苣苔](http://www.iplant.cn/info/Chirita xinningensis?t=foc)
+* [C.  yungfuensis  永福唇柱苣苔](http://www.iplant.cn/info/Chirita yungfuensis?t=foc)
+
+## 中国植物志
+
+> * [二色唇柱苣苔  C.  bicolor](Chirita-bicolor-二色唇柱苣苔.md)
+> * [短毛唇柱苣苔  C.  brachytricha](Chirita-brachytricha-短毛唇柱苣苔.md)
+> * [肉叶唇柱苣苔  C.  carnosifolia](Chirita-carnosifolia-肉叶唇柱苣苔.md)
+> * [心叶唇柱苣苔  C.  cordifolia](Chirita-cordifolia-心叶唇柱苣苔.md)
+> * [十字唇柱苣苔  C.  cruciformis](Chirita-cruciformis-十字唇柱苣苔.md)
+
+**短序唇苣苔 Chirita depressa**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第69卷](http://www.iplant.cn/frps/vol/69) >> 362页 [PDF](http://www.iplant.cn/frps/pdf/69/362.pdf)
+
+**24．短序唇苣苔（植物研究）**
+
+Chirita depressa Hook. f. in Curtis's Bot. Mag. 118: tab. 7213. 1892; Hemsl. in Journ. Finn. Soc. Bot. 36: 465. 1904; Chun in Sunyatsenia 4: 267. 1940, p. p. ——Didymocarpus depresses (Hook. f.) Chun in Sunyatsenia 6: 298. 1946.
+
+低矮多年生草本。根状茎短而粗，生出绿色根出条。叶丛生，具短而宽的叶柄；叶片宽卵形或椭圆形，长约10厘米，顶端钝，基部宽楔形，边缘有浅钝齿，两面被白色短柔毛，侧脉每侧约4条，与中脉成锐角展出。花序腋生，具短梗和2苞片，有少数花。花萼5裂达基部，裂片狭线形，稍不等长，外面被短柔毛和短腺毛。花冠紫色，长约4厘米，外面被短腺毛，内面在雄蕊之下被短腺毛；筒漏斗状筒形，比裂片长3倍；上唇2裂，下唇3裂，裂片圆卵形或近圆形。雄蕊花丝着生于花冠筒中部，膝状弯曲，无毛，花药长圆形，无毛；退化雄蕊3，2侧生者近丝形，向内弯曲，被短腺毛，顶端膨大，中央的小，钻形。花盘环状，边缘波状。雌蕊与花冠筒近等长，子房与花柱均被短柔毛和少数腺毛，具中轴胎座，柱头2裂。
+
+产广东北部。
+
+我们未见到此种的标本，上述描述系根据原始描述和图版以及模式标本照片做出。
+
+}

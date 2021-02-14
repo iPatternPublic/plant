@@ -1,0 +1,96 @@
+褐毛羊蹄甲** **Bauhinia ornata var. kerrii** (Gagnepain) K. Larsen & S. S. Larsen Fl. Cambodge, Laos & Vietnam. 18: 208. 1980.
+
+> [Fabaceae](http://www.iplant.cn/info/Fabaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Fabaceae.pdf)>>[Bauhinia](http://www.iplant.cn/info/Bauhinia?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Bauhinia.pdf)
+
+## Description
+
+Leaves very variable, papery, abaxially pubescent, primary veins mostly marginal. Mature fruit brown tomentose.
+
+### Statistics
+Mountain forests, open thickets; 100-800 m. Guangdong, Guang-xi, Hainan, Yunnan [NE India, Laos, Myanmar, N Thailand, N Viet-nam].
+
+### Synonym
+*Bauhinia kerrii* Gagnepain, Notul. Syst. (Paris) 2: 173. 1912; *B. austrosinensis* Tang & Wang; *B. eberhardtii* Gagne-pain; *B. inflexilobata* Merrill; *B. kerrii* var. *grandiflora* Craib; *B. ornata* var. *austrosinensis* (Tang & Wang) T. C. Chen; *B. or-nata* var. *contigua* T. C. Chen; *B. ornata* var. *subumbellata* (Pierre ex Gagnepain) K. Larsen & S. S. Larsen; *B. rufa* (Ben-tham) Baker, not Steudel; *B. subumbellata* Pierre ex Gagnepain.
+
+### Parsublist
+
+* [B.  ×blakeana  红花羊蹄甲](http://www.iplant.cn/info/Bauhinia ×blakeana?t=foc)
+* [B.  acuminata  白花羊蹄甲](http://www.iplant.cn/info/Bauhinia acuminata?t=foc)
+* [B.  apertilobata  阔裂叶羊蹄甲](http://www.iplant.cn/info/Bauhinia apertilobata?t=foc)
+* [B.  aurea  火索藤](http://www.iplant.cn/info/Bauhinia aurea?t=foc)
+* [B.  bohniana  丽江羊蹄甲](http://www.iplant.cn/info/Bauhinia bohniana?t=foc)
+* [B.  brachycarpa  鞍叶羊蹄甲](http://www.iplant.cn/info/Bauhinia brachycarpa?t=foc)
+* [B.  calciphila  石山羊蹄甲](http://www.iplant.cn/info/Bauhinia calciphila?t=foc)
+* [B.  carcinophylla  蟹钳叶羊蹄甲](http://www.iplant.cn/info/Bauhinia carcinophylla?t=foc)
+* [B.  cercidifolia  紫荆叶羊蹄甲](http://www.iplant.cn/info/Bauhinia cercidifolia?t=foc)
+* [B.  chalcophylla  多花羊蹄甲](http://www.iplant.cn/info/Bauhinia chalcophylla?t=foc)
+* [B.  championii  龙须藤](http://www.iplant.cn/info/Bauhinia championii?t=foc)
+* [B.  coccinea subsp. tonkinensis  绯红羊蹄甲](http://www.iplant.cn/info/Bauhinia coccinea subsp. tonkinensis?t=foc)
+* [B.  comosa  川滇羊蹄甲](http://www.iplant.cn/info/Bauhinia comosa?t=foc)
+* [B.  corymbosa  首冠藤](http://www.iplant.cn/info/Bauhinia corymbosa?t=foc)
+* [B.  corymbosa var. corymbosa  首冠藤(原变种)](http://www.iplant.cn/info/Bauhinia corymbosa var. corymbosa?t=foc)
+* [B.  corymbosa var. longipes  长序首冠藤](http://www.iplant.cn/info/Bauhinia corymbosa var. longipes?t=foc)
+* [B.  damiaoshanensis  大苗山羊蹄甲](http://www.iplant.cn/info/Bauhinia damiaoshanensis?t=foc)
+* [B.  delavayi  薄荚羊蹄甲](http://www.iplant.cn/info/Bauhinia delavayi?t=foc)
+* [B.  didyma  孪叶羊蹄甲](http://www.iplant.cn/info/Bauhinia didyma?t=foc)
+* [B.  erythropoda  锈荚藤](http://www.iplant.cn/info/Bauhinia erythropoda?t=foc)
+* [B.  erythropoda var. erythropoda  锈荚藤(原变种)](http://www.iplant.cn/info/Bauhinia erythropoda var. erythropoda?t=foc)
+* [B.  erythropoda var. guangxiensis  广西锈荚藤](http://www.iplant.cn/info/Bauhinia erythropoda var. guangxiensis?t=foc)
+* [B.  esquirolii  元江羊蹄甲](http://www.iplant.cn/info/Bauhinia esquirolii?t=foc)
+* [B.  glauca  粉叶羊蹄甲](http://www.iplant.cn/info/Bauhinia glauca?t=foc)
+* [B.  glauca subsp. glauca  粉叶羊蹄甲(原亚种)](http://www.iplant.cn/info/Bauhinia glauca subsp. glauca?t=foc)
+* [B.  glauca subsp. tenuiflora  薄叶羊蹄甲](http://www.iplant.cn/info/Bauhinia glauca subsp. tenuiflora?t=foc)
+* [B.  hainanensis  海南羊蹄甲](http://www.iplant.cn/info/Bauhinia hainanensis?t=foc)
+* [B.  hirsuta  粗毛羊蹄甲](http://www.iplant.cn/info/Bauhinia hirsuta?t=foc)
+* [B.  hypochrysa  绸缎藤](http://www.iplant.cn/info/Bauhinia hypochrysa?t=foc)
+* [B.  hypoglauca  滇南羊蹄甲](http://www.iplant.cn/info/Bauhinia hypoglauca?t=foc)
+* [B.  japonica  日本羊蹄甲](http://www.iplant.cn/info/Bauhinia japonica?t=foc)
+* [B.  khasiana  牛蹄麻](http://www.iplant.cn/info/Bauhinia khasiana?t=foc)
+* [B.  khasiana var. gigalobia  巨荚牛蹄麻](http://www.iplant.cn/info/Bauhinia khasiana var. gigalobia?t=foc)
+* [B.  khasiana var. khasiana  牛蹄麻(原变种)](http://www.iplant.cn/info/Bauhinia khasiana var. khasiana?t=foc)
+* [B.  khasiana var. tomentella  毛叶牛蹄麻](http://www.iplant.cn/info/Bauhinia khasiana var. tomentella?t=foc)
+* [B.  lingyuenensis  凌云羊蹄甲](http://www.iplant.cn/info/Bauhinia lingyuenensis?t=foc)
+* [B.  longistipes  长柄羊蹄甲](http://www.iplant.cn/info/Bauhinia longistipes?t=foc)
+* [B.  nervosa  棒花羊蹄甲](http://www.iplant.cn/info/Bauhinia nervosa?t=foc)
+* [B.  ornata  缅甸羊蹄甲](http://www.iplant.cn/info/Bauhinia ornata?t=foc)
+* [B.  ornata var. balansae  光叶羊蹄甲](http://www.iplant.cn/info/Bauhinia ornata var. balansae?t=foc)
+* [B.  ovatifolia  卵叶羊蹄甲](http://www.iplant.cn/info/Bauhinia ovatifolia?t=foc)
+* [B.  paucinervata  少脉羊蹄甲](http://www.iplant.cn/info/Bauhinia paucinervata?t=foc)
+* [B.  purpurea  羊蹄甲](http://www.iplant.cn/info/Bauhinia purpurea?t=foc)
+* [B.  pyrrhoclada  红毛羊蹄甲](http://www.iplant.cn/info/Bauhinia pyrrhoclada?t=foc)
+* [B.  quinnanensis  黔南羊蹄甲](http://www.iplant.cn/info/Bauhinia quinnanensis?t=foc)
+* [B.  racemosa  总状花羊蹄甲](http://www.iplant.cn/info/Bauhinia racemosa?t=foc)
+* [B.  rubrovillosa  红背叶羊蹄甲](http://www.iplant.cn/info/Bauhinia rubrovillosa?t=foc)
+* [B.  scandens  攀缘羊蹄甲](http://www.iplant.cn/info/Bauhinia scandens?t=foc)
+* [B.  tianlinensis  田林羊蹄甲](http://www.iplant.cn/info/Bauhinia tianlinensis?t=foc)
+* [B.  tomentosa  黄花羊蹄甲](http://www.iplant.cn/info/Bauhinia tomentosa?t=foc)
+* [B.  touranensis  囊托羊蹄甲](http://www.iplant.cn/info/Bauhinia touranensis?t=foc)
+* [B.  variegata  洋紫荆](http://www.iplant.cn/info/Bauhinia variegata?t=foc)
+* [B.  variegata var. candida  白花洋紫荆](http://www.iplant.cn/info/Bauhinia variegata var. candida?t=foc)
+* [B.  variegata var. variegata  洋紫荆(原变种)](http://www.iplant.cn/info/Bauhinia variegata var. variegata?t=foc)
+* [B.  venustula  小巧羊蹄甲](http://www.iplant.cn/info/Bauhinia venustula?t=foc)
+* [B.  viridescens  绿花羊蹄甲](http://www.iplant.cn/info/Bauhinia viridescens?t=foc)
+* [B.  wallichii  圆叶羊蹄甲](http://www.iplant.cn/info/Bauhinia wallichii?t=foc)
+* [B.  wuzhengyii  征镒羊蹄甲](http://www.iplant.cn/info/Bauhinia wuzhengyii?t=foc)
+* [B.  yunnanensis  云南羊蹄甲](http://www.iplant.cn/info/Bauhinia yunnanensis?t=foc)
+
+## 中国植物志
+
+> * [琼岛羊蹄甲  B.  ornata var. austrosinensis](http://www.iplant.cn/info/Bauhinia ornata var. austrosinensis?t=z)
+> * [叠片羊蹄甲  B.  ornata var. contigua](http://www.iplant.cn/info/Bauhinia ornata var. contigua?t=z)
+> * [缅甸羊蹄甲（原变种）  B.  ornata var. ornata](http://www.iplant.cn/info/Bauhinia ornata var. ornata?t=z)
+> * [伞序羊蹄甲  B.  ornata var. subumbellata](http://www.iplant.cn/info/Bauhinia ornata var. subumbellata?t=z)
+
+**褐毛羊蹄甲 Bauhinia ornata var. kerrii**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第39卷](http://www.iplant.cn/frps/vol/39) >> 193页 [PDF](http://www.iplant.cn/frps/pdf/39/193a.PDF)
+
+**34d.褐毛羊蹄甲（新拟）**
+
+var. kerrii (Gagnep.) K. et S. S. Larsen in Aubrev. Fl. Camb. Laos Vietn. 18: 208. 1980. ——B. kerrii Gagnep. in Not. Syst. Lecomte 2: 173. 1912, et in Lecomte, Fl. Gen. Indo-Chine 2: 128. 1913.——B. kerrii Gagnep. var. grandiflora Craib in Kew Bull. 1924: 93, et Fl. Siam. Enum. 1: 523. 1928. ——B. rufa (Benth.) Baker in Hook. f. Fl. Brit. Ind. 2: 280. 1878: non B. rufa Steud..——B. eberhardtii Gagnep. In Bull. Mus. Hist. Nat. Paris, ser. 2, 24: 314/1952.——B. bakeriana S. S. Larsen in Grana 14: 126. 1975.
+
+叶纸质，分裂达1/3，裂片先端急尖或圆，上面无毛或脉上被短柔毛，下面密被黄褐色，伏贴的柔毛；叶柄被黄褐色茸毛；小苞片线形锥尖，长约4毫米，着生于花梗中部以上；花丝近基部1/3及花柱基部被长柔毛；荚果外面密被黄褐色或灰褐色茸毛。
+
+产广东西部（茂名、阳江、阳春、德庆）。生于海拔300-500米的山地密林中。泰国有分布。模式标本采自泰国。
+
+}

@@ -1,0 +1,218 @@
+草血竭 **Polygonum paleaceum** Wallich ex J. D. Hooker
+
+> [Polygonaceae](http://www.iplant.cn/info/Polygonaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Polygonaceae.pdf) >> [Polygonum](http://www.iplant.cn/info/Polygonum?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Polygonum.pdf)
+## Description
+
+Herbs perennial. Rhizomes black-brown, curved, large, 2-3 cm in diam. Stems 1-3 from rhizome, erect, 40-60 cm tall, simple, glabrous, slenderly angulate. Basal leaves long petiolate; petiole 5-15 cm; leaf blade gray-green abaxially, green adaxially, narrowly oblong or lanceolate, 6-18 × 2-3 cm, leathery, both surfaces glabrous or abaxially sparsely curved pubescent, base cuneate, rarely subcordate, margin with thickened vein tips, slightly revolute, apex acute or slightly acuminate. Cauline leaves shortly petiolate, lanceolate; uppermost leaves linear, subsessile; orchreae: lower part green, upper part brown, membranous, not ciliate, dehiscent. Inflorescence spicate, dense, 4-6 cm, 0.8-1.2 cm in diam.; bracts ovate lanceolate, membranous, apex long acuminate. Pedicels spreading, longer than bracts, 5-6 mm, slender. Perianth pinkish or white, 5-parted; tepals elliptic, 2-2.5 mm. Stamens 8; anthers red-brown. Styles 3; stigmas capitate. Achenes included in persistent perianth, shiny, ovoid, sharply trigonous, ca. 2.5 mm.
+
+> **Habait** : 
+> Grassy slopes, forest margins; 1500-4000 m. ?Guangxi, Guizhou, Sichuan, Yunnan [NE India, N Thailand].
+
+## Keylist
+* 1 Basal leaves glabrous on both surfaces.——55a  [草血竭(原变种)](http://www.iplant.cn/info/Polygonum paleaceum var. paleaceum?t=foc)
+* ~ Basal leaves sparsely curved pubescent abaxially.——55b  [毛叶草血竭](http://www.iplant.cn/info/Polygonum paleaceum var. pubifolium?t=foc)
+
+### Parsublist
+
+* [P.  acerosum  松叶萹蓄](http://www.iplant.cn/info/Polygonum acerosum?t=foc)
+* [P.  acetosum  灰绿萹蓄](http://www.iplant.cn/info/Polygonum acetosum?t=foc)
+* [P.  affine  密穗拳参](http://www.iplant.cn/info/Polygonum affine?t=foc)
+* [P.  ajanense  阿扬神血宁](http://www.iplant.cn/info/Polygonum ajanense?t=foc)
+* [P.  alopecuroides  狐尾拳参](http://www.iplant.cn/info/Polygonum alopecuroides?t=foc)
+* [P.  alpinum  高山神血宁](http://www.iplant.cn/info/Polygonum alpinum?t=foc)
+* [P.  amphibium  两栖蓼](http://www.iplant.cn/info/Polygonum amphibium?t=foc)
+* [P.  amplexicaule  包茎拳参](http://www.iplant.cn/info/Polygonum amplexicaule?t=foc)
+* [P.  amplexicaule var. amplexicaule  包茎拳参(原变种)](http://www.iplant.cn/info/Polygonum amplexicaule var. amplexicaule?t=foc)
+* [P.  amplexicaule var. sinense  中华抱茎拳参](http://www.iplant.cn/info/Polygonum amplexicaule var. sinense?t=foc)
+* [P.  angustifolium  狭叶神血宁](http://www.iplant.cn/info/Polygonum angustifolium?t=foc)
+* [P.  arenastrum  伏地萹蓄](http://www.iplant.cn/info/Polygonum arenastrum?t=foc)
+* [P.  argyrocoleon  帚萹蓄](http://www.iplant.cn/info/Polygonum argyrocoleon?t=foc)
+* [P.  assamicum  阿萨姆蓼](http://www.iplant.cn/info/Polygonum assamicum?t=foc)
+* [P.  aviculare  萹蓄](http://www.iplant.cn/info/Polygonum aviculare?t=foc)
+* [P.  aviculare var. aviculare  萹蓄(原变种)](http://www.iplant.cn/info/Polygonum aviculare var. aviculare?t=foc)
+* [P.  aviculare var. fusco-ochreatum  褐鞘萹蓄](http://www.iplant.cn/info/Polygonum aviculare var. fusco-ochreatum?t=foc)
+* [P.  barbatum  毛蓼](http://www.iplant.cn/info/Polygonum barbatum?t=foc)
+* [P.  biconvexum  双凸戟叶蓼](http://www.iplant.cn/info/Polygonum biconvexum?t=foc)
+* [P.  bistorta  拳参](http://www.iplant.cn/info/Polygonum bistorta?t=foc)
+* [P.  bungeanum  柳叶刺蓼](http://www.iplant.cn/info/Polygonum bungeanum?t=foc)
+* [P.  campanulatum  钟花神血宁](http://www.iplant.cn/info/Polygonum campanulatum?t=foc)
+* [P.  campanulatum var. campanulatum  钟花神血宁(原变种)](http://www.iplant.cn/info/Polygonum campanulatum var. campanulatum?t=foc)
+* [P.  campanulatum var. fulvidum  绒毛钟花神血宁](http://www.iplant.cn/info/Polygonum campanulatum var. fulvidum?t=foc)
+* [P.  capitatum  头花蓼](http://www.iplant.cn/info/Polygonum capitatum?t=foc)
+* [P.  cathayanum  华神血宁](http://www.iplant.cn/info/Polygonum cathayanum?t=foc)
+* [P.  chinense  火炭母](http://www.iplant.cn/info/Polygonum chinense?t=foc)
+* [P.  chinense var. chinense  火炭母(原变种)](http://www.iplant.cn/info/Polygonum chinense var. chinense?t=foc)
+* [P.  chinense var. hispidum  硬毛火炭母](http://www.iplant.cn/info/Polygonum chinense var. hispidum?t=foc)
+* [P.  chinense var. ovalifolium  宽叶火炭母](http://www.iplant.cn/info/Polygonum chinense var. ovalifolium?t=foc)
+* [P.  chinense var. paradoxum  窄叶火炭母](http://www.iplant.cn/info/Polygonum chinense var. paradoxum?t=foc)
+* [P.  chinense var. procumbens  ](http://www.iplant.cn/info/Polygonum chinense var. procumbens?t=foc)
+* [P.  cognatum  岩萹蓄](http://www.iplant.cn/info/Polygonum cognatum?t=foc)
+* [P.  coriaceum  革叶拳参](http://www.iplant.cn/info/Polygonum coriaceum?t=foc)
+* [P.  coriarium  白花神血宁](http://www.iplant.cn/info/Polygonum coriarium?t=foc)
+* [P.  criopolitanum  蓼子草](http://www.iplant.cn/info/Polygonum criopolitanum?t=foc)
+* [P.  cyanandrum  蓝药蓼](http://www.iplant.cn/info/Polygonum cyanandrum?t=foc)
+* [P.  darrisii  大箭叶蓼](http://www.iplant.cn/info/Polygonum darrisii?t=foc)
+* [P.  delicatulum  小叶蓼](http://www.iplant.cn/info/Polygonum delicatulum?t=foc)
+* [P.  dichotomum  二歧蓼](http://www.iplant.cn/info/Polygonum dichotomum?t=foc)
+* [P.  dissitiflorum  稀花蓼](http://www.iplant.cn/info/Polygonum dissitiflorum?t=foc)
+* [P.  divaricatum  叉分神血宁](http://www.iplant.cn/info/Polygonum divaricatum?t=foc)
+* [P.  ellipticum  椭圆叶拳参](http://www.iplant.cn/info/Polygonum ellipticum?t=foc)
+* [P.  emodi  竹叶舒筋](http://www.iplant.cn/info/Polygonum emodi?t=foc)
+* [P.  emodi var. dependens  宽竹叶舒筋](http://www.iplant.cn/info/Polygonum emodi var. dependens?t=foc)
+* [P.  emodi var. emodi  竹叶舒筋(原变种)](http://www.iplant.cn/info/Polygonum emodi var. emodi?t=foc)
+* [P.  fertile  青藏蓼](http://www.iplant.cn/info/Polygonum fertile?t=foc)
+* [P.  filicaule  细茎蓼](http://www.iplant.cn/info/Polygonum filicaule?t=foc)
+* [P.  foliosum  多叶蓼](http://www.iplant.cn/info/Polygonum foliosum?t=foc)
+* [P.  foliosum var. foliosum  ](http://www.iplant.cn/info/Polygonum foliosum var. foliosum?t=foc)
+* [P.  foliosum var. paludicola  宽基多叶蓼](http://www.iplant.cn/info/Polygonum foliosum var. paludicola?t=foc)
+* [P.  forrestii  六铜钱叶神血宁](http://www.iplant.cn/info/Polygonum forrestii?t=foc)
+* [P.  glabrum  光蓼](http://www.iplant.cn/info/Polygonum glabrum?t=foc)
+* [P.  glaciale  冰川蓼](http://www.iplant.cn/info/Polygonum glaciale?t=foc)
+* [P.  glaciale var. glaciale  冰川蓼(原变种)](http://www.iplant.cn/info/Polygonum glaciale var. glaciale?t=foc)
+* [P.  glaciale var. przewalskii  洼点蓼](http://www.iplant.cn/info/Polygonum glaciale var. przewalskii?t=foc)
+* [P.  griffithii  长梗拳参](http://www.iplant.cn/info/Polygonum griffithii?t=foc)
+* [P.  hastatosagittatum  长箭叶蓼](http://www.iplant.cn/info/Polygonum hastatosagittatum?t=foc)
+* [P.  honanense  河南拳参](http://www.iplant.cn/info/Polygonum honanense?t=foc)
+* [P.  hookeri  硬毛神血宁](http://www.iplant.cn/info/Polygonum hookeri?t=foc)
+* [P.  huananense  华南蓼](http://www.iplant.cn/info/Polygonum huananense?t=foc)
+* [P.  humifusum  普通萹蓄](http://www.iplant.cn/info/Polygonum humifusum?t=foc)
+* [P.  humile  矮蓼](http://www.iplant.cn/info/Polygonum humile?t=foc)
+* [P.  hydropiper  辣蓼](http://www.iplant.cn/info/Polygonum hydropiper?t=foc)
+* [P.  intramongolicum  圆叶萹蓄](http://www.iplant.cn/info/Polygonum intramongolicum?t=foc)
+* [P.  japonicum  蚕茧蓼](http://www.iplant.cn/info/Polygonum japonicum?t=foc)
+* [P.  japonicum var. conspicuum  显花蓼](http://www.iplant.cn/info/Polygonum japonicum var. conspicuum?t=foc)
+* [P.  japonicum var. japonicum  蚕茧蓼(原变种)](http://www.iplant.cn/info/Polygonum japonicum var. japonicum?t=foc)
+* [P.  jucundum  愉悦蓼](http://www.iplant.cn/info/Polygonum jucundum?t=foc)
+* [P.  jucundum var. rotundum  ](http://www.iplant.cn/info/Polygonum jucundum var. rotundum?t=foc)
+* [P.  kawagoeanum  柔茎蓼](http://www.iplant.cn/info/Polygonum kawagoeanum?t=foc)
+* [P.  lapathifolium  马蓼](http://www.iplant.cn/info/Polygonum lapathifolium?t=foc)
+* [P.  lapathifolium var. lanatum  密毛马蓼](http://www.iplant.cn/info/Polygonum lapathifolium var. lanatum?t=foc)
+* [P.  lapathifolium var. lapathifolium  马蓼(原变种)](http://www.iplant.cn/info/Polygonum lapathifolium var. lapathifolium?t=foc)
+* [P.  lapathifolium var. salicifolium  绵毛马蓼](http://www.iplant.cn/info/Polygonum lapathifolium var. salicifolium?t=foc)
+* [P.  lichiangense  丽江神血宁](http://www.iplant.cn/info/Polygonum lichiangense?t=foc)
+* [P.  limicola  污泥蓼](http://www.iplant.cn/info/Polygonum limicola?t=foc)
+* [P.  limosum  谷地神血宁](http://www.iplant.cn/info/Polygonum limosum?t=foc)
+* [P.  longisetum  长鬃蓼](http://www.iplant.cn/info/Polygonum longisetum?t=foc)
+* [P.  longisetum var. longisetum  长鬃蓼(原变种)](http://www.iplant.cn/info/Polygonum longisetum var. longisetum?t=foc)
+* [P.  longisetum var. rotundatum  圆基长鬃蓼](http://www.iplant.cn/info/Polygonum longisetum var. rotundatum?t=foc)
+* [P.  maackianum  长戟叶蓼](http://www.iplant.cn/info/Polygonum maackianum?t=foc)
+* [P.  macrophyllum  圆穗拳参](http://www.iplant.cn/info/Polygonum macrophyllum?t=foc)
+* [P.  macrophyllum var. macrophyllum  圆穗拳参(原变种)](http://www.iplant.cn/info/Polygonum macrophyllum var. macrophyllum?t=foc)
+* [P.  macrophyllum var. stenophyllum  狭叶圆穗拳参](http://www.iplant.cn/info/Polygonum macrophyllum var. stenophyllum?t=foc)
+* [P.  manshuriense  耳叶拳参](http://www.iplant.cn/info/Polygonum manshuriense?t=foc)
+* [P.  microcephalum  小头蓼](http://www.iplant.cn/info/Polygonum microcephalum?t=foc)
+* [P.  microcephalum var. microcephalum  小头蓼(原变种)](http://www.iplant.cn/info/Polygonum microcephalum var. microcephalum?t=foc)
+* [P.  microcephalum var. sphaerocephalum  腺梗小头蓼](http://www.iplant.cn/info/Polygonum microcephalum var. sphaerocephalum?t=foc)
+* [P.  milletii  大海拳参](http://www.iplant.cn/info/Polygonum milletii?t=foc)
+* [P.  molle  绢毛神血宁](http://www.iplant.cn/info/Polygonum molle?t=foc)
+* [P.  molle var. frondosum  光叶神血宁](http://www.iplant.cn/info/Polygonum molle var. frondosum?t=foc)
+* [P.  molle var. molle  绢毛神血宁(原变种)](http://www.iplant.cn/info/Polygonum molle var. molle?t=foc)
+* [P.  molle var. rude  倒毛神血宁](http://www.iplant.cn/info/Polygonum molle var. rude?t=foc)
+* [P.  molliiforme  丝茎萹蓄](http://www.iplant.cn/info/Polygonum molliiforme?t=foc)
+* [P.  muricatum  小蓼花](http://www.iplant.cn/info/Polygonum muricatum?t=foc)
+* [P.  nepalense  尼泊尔蓼](http://www.iplant.cn/info/Polygonum nepalense?t=foc)
+* [P.  nummulariifolium  铜钱叶神血宁](http://www.iplant.cn/info/Polygonum nummulariifolium?t=foc)
+* [P.  ochotense  倒根拳参](http://www.iplant.cn/info/Polygonum ochotense?t=foc)
+* [P.  ocreatum  白山神血宁](http://www.iplant.cn/info/Polygonum ocreatum?t=foc)
+* [P.  orientale  红蓼](http://www.iplant.cn/info/Polygonum orientale?t=foc)
+* [P.  pacificum  太平洋拳参](http://www.iplant.cn/info/Polygonum pacificum?t=foc)
+* [P.  paleaceum var. paleaceum  草血竭(原变种)](http://www.iplant.cn/info/Polygonum paleaceum var. paleaceum?t=foc)
+* [P.  paleaceum var. pubifolium  毛叶草血竭](http://www.iplant.cn/info/Polygonum paleaceum var. pubifolium?t=foc)
+* [P.  palmatum  掌叶蓼](http://www.iplant.cn/info/Polygonum palmatum?t=foc)
+* [P.  paralimicola  湿地蓼](http://www.iplant.cn/info/Polygonum paralimicola?t=foc)
+* [P.  paronychioides  线叶萹蓄](http://www.iplant.cn/info/Polygonum paronychioides?t=foc)
+* [P.  patulum  展枝萹蓄](http://www.iplant.cn/info/Polygonum patulum?t=foc)
+* [P.  perfoliatum  杠板归](http://www.iplant.cn/info/Polygonum perfoliatum?t=foc)
+* [P.  persicaria  蓼](http://www.iplant.cn/info/Polygonum persicaria?t=foc)
+* [P.  persicaria var. opacum  暗果蓼](http://www.iplant.cn/info/Polygonum persicaria var. opacum?t=foc)
+* [P.  persicaria var. persicaria  蓼(原变种)](http://www.iplant.cn/info/Polygonum persicaria var. persicaria?t=foc)
+* [P.  pinetorum  松林神血宁](http://www.iplant.cn/info/Polygonum pinetorum?t=foc)
+* [P.  platyphyllum  宽叶神血宁](http://www.iplant.cn/info/Polygonum platyphyllum?t=foc)
+* [P.  plebeium  铁马鞭](http://www.iplant.cn/info/Polygonum plebeium?t=foc)
+* [P.  polycnemoides  针叶萹蓄](http://www.iplant.cn/info/Polygonum polycnemoides?t=foc)
+* [P.  polystachyum  多穗神血宁](http://www.iplant.cn/info/Polygonum polystachyum?t=foc)
+* [P.  polystachyum var. longifolium  长叶多穗神血宁](http://www.iplant.cn/info/Polygonum polystachyum var. longifolium?t=foc)
+* [P.  polystachyum var. polystachyum  多穗神血宁(原变种)](http://www.iplant.cn/info/Polygonum polystachyum var. polystachyum?t=foc)
+* [P.  popovii  库车萹蓄](http://www.iplant.cn/info/Polygonum popovii?t=foc)
+* [P.  posumbu  丛枝蓼](http://www.iplant.cn/info/Polygonum posumbu?t=foc)
+* [P.  praetermissum  疏蓼](http://www.iplant.cn/info/Polygonum praetermissum?t=foc)
+* [P.  pubescens  伏毛蓼](http://www.iplant.cn/info/Polygonum pubescens?t=foc)
+* [P.  pulchrum  丽蓼](http://www.iplant.cn/info/Polygonum pulchrum?t=foc)
+* [P.  purpureonervosum  紫脉拳参](http://www.iplant.cn/info/Polygonum purpureonervosum?t=foc)
+* [P.  rigidum  尖果萹蓄](http://www.iplant.cn/info/Polygonum rigidum?t=foc)
+* [P.  runcinatum  羽叶蓼](http://www.iplant.cn/info/Polygonum runcinatum?t=foc)
+* [P.  runcinatum var. runcinatum  羽叶蓼(原变种)](http://www.iplant.cn/info/Polygonum runcinatum var. runcinatum?t=foc)
+* [P.  runcinatum var. sinense  赤胫散](http://www.iplant.cn/info/Polygonum runcinatum var. sinense?t=foc)
+* [P.  sagittatum  箭头蓼](http://www.iplant.cn/info/Polygonum sagittatum?t=foc)
+* [P.  schischkinii  新疆萹蓄](http://www.iplant.cn/info/Polygonum schischkinii?t=foc)
+* [P.  senticosum  刺蓼](http://www.iplant.cn/info/Polygonum senticosum?t=foc)
+* [P.  shiheziense  ](http://www.iplant.cn/info/Polygonum shiheziense?t=foc)
+* [P.  sibiricum  西伯利亚神血宁](http://www.iplant.cn/info/Polygonum sibiricum?t=foc)
+* [P.  sibiricum var. sibiricum  西伯利亚神血宁(原变种)](http://www.iplant.cn/info/Polygonum sibiricum var. sibiricum?t=foc)
+* [P.  sibiricum var. thomsonii  细叶西伯利亚神血宁](http://www.iplant.cn/info/Polygonum sibiricum var. thomsonii?t=foc)
+* [P.  sinomontanum  翅柄拳参](http://www.iplant.cn/info/Polygonum sinomontanum?t=foc)
+* [P.  songaricum  准噶尔神血宁](http://www.iplant.cn/info/Polygonum songaricum?t=foc)
+* [P.  sparsipilosum  柔毛蓼](http://www.iplant.cn/info/Polygonum sparsipilosum?t=foc)
+* [P.  sparsipilosum var. hubertii  腺点柔毛蓼](http://www.iplant.cn/info/Polygonum sparsipilosum var. hubertii?t=foc)
+* [P.  sparsipilosum var. sparsipilosum  柔毛蓼(原变种)](http://www.iplant.cn/info/Polygonum sparsipilosum var. sparsipilosum?t=foc)
+* [P.  strigosum  糙毛蓼](http://www.iplant.cn/info/Polygonum strigosum?t=foc)
+* [P.  strindbergii  平卧蓼](http://www.iplant.cn/info/Polygonum strindbergii?t=foc)
+* [P.  subscaposum  大理拳参](http://www.iplant.cn/info/Polygonum subscaposum?t=foc)
+* [P.  suffultoides  珠芽支柱拳参](http://www.iplant.cn/info/Polygonum suffultoides?t=foc)
+* [P.  suffultum  支柱拳参](http://www.iplant.cn/info/Polygonum suffultum?t=foc)
+* [P.  suffultum var. pergracile  细穗支柱拳参](http://www.iplant.cn/info/Polygonum suffultum var. pergracile?t=foc)
+* [P.  suffultum var. suffultum  支柱拳参(原变种)](http://www.iplant.cn/info/Polygonum suffultum var. suffultum?t=foc)
+* [P.  tachengense  ](http://www.iplant.cn/info/Polygonum tachengense?t=foc)
+* [P.  taquetii  细叶蓼](http://www.iplant.cn/info/Polygonum taquetii?t=foc)
+* [P.  thunbergii  戟叶蓼](http://www.iplant.cn/info/Polygonum thunbergii?t=foc)
+* [P.  tibeticum  西藏神血宁](http://www.iplant.cn/info/Polygonum tibeticum?t=foc)
+* [P.  tinctorium  蓼蓝](http://www.iplant.cn/info/Polygonum tinctorium?t=foc)
+* [P.  tortuosum  叉枝神血宁](http://www.iplant.cn/info/Polygonum tortuosum?t=foc)
+* [P.  umbrosum  荫地蓼](http://www.iplant.cn/info/Polygonum umbrosum?t=foc)
+* [P.  urumqiense  ](http://www.iplant.cn/info/Polygonum urumqiense?t=foc)
+* [P.  vacciniifolium  乌饭树叶蓼](http://www.iplant.cn/info/Polygonum vacciniifolium?t=foc)
+* [P.  viscoferum  粘蓼](http://www.iplant.cn/info/Polygonum viscoferum?t=foc)
+* [P.  viscosum  香蓼](http://www.iplant.cn/info/Polygonum viscosum?t=foc)
+* [P.  viviparum  珠芽拳参](http://www.iplant.cn/info/Polygonum viviparum?t=foc)
+* [P.  viviparum var. tenuifolium  细叶珠芽拳参](http://www.iplant.cn/info/Polygonum viviparum var. tenuifolium?t=foc)
+* [P.  viviparum var. viviparum  珠芽拳参(原变种)](http://www.iplant.cn/info/Polygonum viviparum var. viviparum?t=foc)
+* [P.  wallichii  球序蓼](http://www.iplant.cn/info/Polygonum wallichii?t=foc)
+
+## 中国植物志
+
+> * [密穗蓼  P.  affine](http://www.iplant.cn/info/Polygonum affine?t=z)
+> * [狐尾蓼  P.  alopecuroides](http://www.iplant.cn/info/Polygonum alopecuroides?t=z)
+> * [抱茎蓼  P.  amplexicaule](http://www.iplant.cn/info/Polygonum amplexicaule?t=z)
+> * [拳参  P.  bistorta](http://www.iplant.cn/info/Polygonum bistorta?t=z)
+> * [革叶蓼  P.  coriaceum](http://www.iplant.cn/info/Polygonum coriaceum?t=z)
+
+**草血竭 Polygonum paleaceum**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第25(1)卷](http://www.iplant.cn/frps/vol/25(1)) >> 047页 [PDF](http://www.iplant.cn/frps/pdf/25(1)/047c.PDF)
+**55.草血竭（植物名实图考）**
+
+Polygonum paleaceum Wall. ex Hook. f. Fl. Brit. Ind. 5: 32. 1886; Sam. in Hand.-Mazz. Symb. Sin. 7: 173. 1929. ——P. confusum auct. non Meisn.: Forb. et Hemsl. in Journ. Linn. Soc. Bot. 26: 336. 1891. p. p.——Bistorta chinensis H. Gross in Bull. Geogr. Bot. 23: 18. 1913.——B. yunnanense H. Gross 1. c. 19. ——Polygonum yunnanense (H. Gross.) Levl. Cat. Pl. Yunn. 208. 1916.——P. bistorta auct. non L.: Stew. in Contr. Gray Herb. 88: 35. 1930. p. p.
+**55a.草血竭（原变种）**
+
+Polygonum paleaceum Wall. ex Hook. f. var. paleaceum
+
+多年生草本。根状茎肥厚，弯曲，直径2-3厘米，黑褐色。茎直立，高40-60厘米，不分枝，无毛，具细条棱，单生或2-3。基生叶革质，狭长圆形或披针形，长6-18厘米，宽2-3厘米，顶急尖或微渐尖，基部楔形，稀近圆形，边缘全缘，脉端增厚，微外卷，上面绿色，下面灰绿色，两面无毛；叶柄长5-15厘米；茎生叶披针形，较小，具短柄，最上部的叶为线形；托叶鞘筒状膜质，下部绿色，上部褐色，开裂。无缘毛。总状花序呈穗状，长4-6厘米，直径0.8-1.2厘米，紧密；苞片卵状披针形，膜质，顶端长渐尖；花梗细弱，长4-5毫米，开展，比苞片长；花被5深裂；淡红色或白色，花被片椭圆形，长2-2.5毫米；雄蕊8;花柱3，柱头头状。瘦果卵形，具3锐棱，有光泽，长约2.5毫米，包于宿存花被内。花期7-8月，果期9-10月。
+
+产四川、云南、贵州。生山坡草地、林缘，海拔1500-3500米。印度东北部、泰国北部也有。
+
+根状茎供药用，止血止痛，收敛止泻。
+**55b.毛叶草血竭（变种）**
+
+Polygonum paleaceum Wall. ex Hook. f. var. pubifolium Sam. in Hand.-Mazz. Symb. Sin. 7: 174. 1929; 云南种子植物名录上册278. 1984.
+
+与原变种的区别在是叶下面疏生卷曲的短柔毛。
+
+产四川、云南。生山坡草地，海拔2000-4000米。模式标本采自云南北部。
+
+### 下级分类
+* [草血竭（原变种）  Polygonum paleaceum var. paleaceum](http://www.iplant.cn/info/Polygonum paleaceum var. paleaceum?t=z)
+* [毛叶草血竭  Polygonum paleaceum var. pubifolium](http://www.iplant.cn/info/Polygonum paleaceum var. pubifolium?t=z)
+
+### 下级分类
+* [草血竭（原变种）  Polygonum paleaceum var. paleaceum](http://www.iplant.cn/info/sp/Polygonum paleaceum var. paleaceum?t=z)
+* [毛叶草血竭  Polygonum paleaceum var. pubifolium](http://www.iplant.cn/info/sp/Polygonum paleaceum var. pubifolium?t=z)

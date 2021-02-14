@@ -1,0 +1,507 @@
+蟹甲草属 **Parasenecio** W. W. Smith & J. Small Trans. & Proc. Bot. Soc. Edinburgh. 28: 93. 1922.
+
+> [Asteraceae](http://www.iplant.cn/info/Asteraceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Asteraceae.pdf) >> [Parasenecio](http://www.iplant.cn/info/Parasenecio?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Parasenecio.pdf)
+
+> **Comment** : 
+> About 60 species: mainly in E Asia and the Sino-Himalayan region, also across Russia and one species in the Aleutian Islands; 52 species (43 endemic) in China.
+
+## Description
+
+Herbs, perennial. Rhizomes robust, erect or horizontal, with numerous fibrous roots. Stem solitary, erect, usually striate or sulcate, glabrous, arachnoid, or glandular puberulent. Leaves alternate, petiolate, simple or palmately or pinnately lobed, serrate. Capitula small or medium-sized, discoid, homogamous, all bisexual, fertile, few to numerous flowered, terminal or axillary, racemose or paniculate, pedunculate or subsessile, often calyculate. Involucres cylindric or narrowly campanulate, rarely campanulate. Phyllaries uniseriate, free. Receptacle flat, paleaceous or not. Florets few to numerous; corolla yellow, white, or orange, tubular, with slender tube and narrowly campanulate or broadly tubular limb; lobes 5, lanceolate or ovate-lanceolate; anthers sagittate or caudate at base; antheropodium cylindric, filaments slender; style branches apically truncate or rather dilated with unequal papillae. Achenes cylindric, glabrous, ribbed. Pappus of capillary-like bristles, white, sordid white, or sordid fulvous-brown.
+
+## Keylist
+* 1 Leaves large, orbicular or orbicular-cordate, palmately divided, petioles basally amplexicaul, shortly vaginate (1. P. sect. Taimingasa).——1  [大叶蟹甲草](http://www.iplant.cn/info/Parasenecio firmus?t=foc)
+* ~ Leaves large or medium-sized, not orbicular or orbicular-cordate, simple or divided, petioles basally not vaginate——(2)
+* 2 (1)Radical leaves persistent, stem leaves 1, rarely 2, or bracteal-leaflike; capitula 3 or 4, or more; involucres campanulate or narrowly campanulate, phyllaries 8-10; florets 10-28 (2. P. sect. Parasenecio)——(3)
+* ~ Radical leaves withered by anthesis, or if persistent then florets 5; stem leaves few to numerous; capitula few to numerous, paniculate or racemose-paniculate; involucres cylindric or narrowly campanulate; phyllaries 3-10, rarely more; florets (2 or)3-5(-——(4)
+* 3 (2) Plants densely glandular pubescent; radical leaves broadly cordate, obtuse, or suborbicular; stem leaves 1, rarely 2, sessile or subsessile; capitula pendulous; phyllaries 8 or 9; florets 10-16, corolla white or pink-white.——2  [蟹甲草](http://www.iplant.cn/info/Parasenecio forrestii?t=foc)
+* ~ Plants densely brown pubescent; radical leaves ovate or ovate-orbicular, stem leaves few, bracteal-leaflike, shortly petiolate; capitula erect; phyllaries 9 or 10; florets 28, corolla yellow.——3  [秋海棠叶蟹甲草](http://www.iplant.cn/info/Parasenecio begoniifolius?t=foc)
+* 4 (2) Involucres cylindric, 2-5 mm; phyllaries 4-6; florets 2-6; leaves ovate or broadly ovate-cordate, irregularly coarsely toothed or shallowly 3-10-lobed; petioles not winged, basally not expanded (3. P. sect. Koyamacalia).——4  [藏南蟹甲草](http://www.iplant.cn/info/Parasenecio chola?t=foc)
+* ~ Involucres cylindric or campanulate, more than 4 mm; phyllaries 3-8, rarely more; florets 3-15, rarely more; leaves polymorphic, irregularly coarsely toothed, shallowly lobed to divided; petioles winged or not, basally auriculate or not auriculate——(5)
+* 5 (4) Stem leaves numerous; leaf blade palmately divided; phyllaries 3-5, rarely 7 or 8; florets 3-5, rarely 10-14 (5. P. sect. Delphiniifolii)——(6)
+* ~ Stem leaves few to numerous, triangular, triangular-ovate, reniform, polyangular, or ovate-cordate, coarsely toothed or shallowly lobed, adaxially glabrous, pubescent, or densely tomentose——(11)
+* 6 (5) Leaf blade palmately 5-7-lobed, lobes obovate, oblong, or ovate-oblong——(7)
+* ~ Leaf blade palmately deeply 5-7-sect, lobes lanceolate or oblong-lanceolate to linear, rarely obovate or spatulate——(8)
+* 7 (6) Leaf blade basally hastate, lobes broad, apically caudate or long acuminate; peduncles ca. 1 mm, glandular puberulent; phyllaries and florets 5.——47  [翠雀蟹甲草](http://www.iplant.cn/info/Parasenecio delphiniifolius?t=foc)
+* ~ Leaf blade basally subcordate, lobes narrow, apically acute; capitula sessile, brown puberulent; phyllaries and florets 3.——48  [太白蟹甲草](http://www.iplant.cn/info/Parasenecio pilgerianus?t=foc)
+* 8 (6) Leaf blade broadly ovate, palmately deeply sect, lobes obovate or spatulate, lateral lobes 2-fid to deeply sect, both surfaces glabrous; phyllaries and florets 3; pappus white.——52  [昆明蟹甲草](http://www.iplant.cn/info/Parasenecio tripteris?t=foc)
+* ~ Leaf blade ovate-oblong, pentagonal-cordate, or orbicular-ovate, lobes lanceolate or oblong-lanceolate to linear——(9)
+* 9 (8) Leaves pinnate-palmately divided, lobes pinnately lobulate or 2-4-denticulate; phyllaries 4; (plants of Sichuan, Xizang, Yunnan).——51  [掌裂蟹甲草](http://www.iplant.cn/info/Parasenecio palmatisectus?t=foc)
+* ~ Leaves palmately lobed, lateral lobes often 1-lobulate or finely toothed; phyllaries 5, 7, or 8; (plants of Henan, Hubei, Shaanxi)——(10)
+* 10 (9) Leaf blade 10-20 × 12-24 cm, 5-7-lobed; phyllaries 7 or 8; florets 10-14; achenes 5-6 mm; pappus red-brown.——49  [中华蟹甲草](http://www.iplant.cn/info/Parasenecio sinicus?t=foc)
+* ~ Leaf blade 16-27 × 15-35 cm, (5 or)6-9-lobed; phyllaries 5; florets 5; achenes ca. 3 mm; pappus white.——50  [湖北蟹甲草](http://www.iplant.cn/info/Parasenecio dissectus?t=foc)
+* 11 (5) Leaves adaxially glabrous or pubescent; capitula few to numerous, pedunculate or not; pappus white or red-brown (3. P. sect. Koyamacalia)——(12)
+* ~ Leaves adaxially arachnoid, densely lanate, or hairy initially, gradually glabrescent (4. P. sect. Monanthi)——(29)
+* 12 (11) Capitula few, or solitary at apex and axillary in upper leaves, pendulous; involucres campanulate, 5-10 mm in diam.; phyllaries 8-10; florets numerous, ca. 38; leaves triangular; petioles not winged.——5  [三角叶蟹甲草](http://www.iplant.cn/info/Parasenecio deltophyllus?t=foc)
+* ~ Capitula numerous or more in terminal racemes or panicles; involucres cylindric or narrowly campanulate, (1-)3-5 mm in diam.; phyllaries 3-8; florets few; leaves not triangular; petioles winged or not——(13)
+* 13 (12) Capitula numerous, small; involucres cylindric, 1-2 mm in diam.; phyllaries and florets 3-5; leaf blade polyangular or reniform, 5-7-lobed or coarsely toothed; corolla white or yellow——(14)
+* ~ Capitula more numerous, larger; involucres 3-5 or 10-20 mm in diam.; pappus white, sordid white, or red-brown——(16)
+* 14 (13) Capitula sessile; involucres ca. 5 × 1 mm; phyllaries and florets 3 or 5; corolla white; pappus sordid white or pale yellow-brown.——18  [两似蟹甲草](http://www.iplant.cn/info/Parasenecio ambiguus?t=foc)
+* ~ Capitula pedunculate; involucres 6-8 × 1.5-2 mm; phyllaries and florets 5; corolla white or yellow; pappus white or yellow-brown——(15)
+* 15(14) Capitula racemose or compound racemose; peduncles short or very short; involucres cylindric; phyllaries obtuse or rounded; pappus white.——19  [*P. ainsliaeiflorus* 兔儿风蟹甲草](http://www.iplant.cn/info/Parasenecio ainsliaeiflorus?t=foc)
+* ~ Capitula laxly racemose or compound racemose; peduncles 1-2 mm; involucres narrowly campanulate; phyllaries acute; corolla yellow; pappus pale yellow-brown.——20  [*P. kangxianensis* 康县蟹甲草](http://www.iplant.cn/info/Parasenecio kangxianensis?t=foc)
+* 16[*P. tsinlingensis* 秦岭蟹甲草](http://www.iplant.cn/info/Parasenecio tsinlingensis?t=foc)
+
+* [Parasenecio.PDF](http://www.iplant.cn/foc/pdf/Parasenecio.pdf)
+
+## Sublist
+
+* [P.  forrestii](http://www.iplant.cn/info/Parasenecio forrestii?t=foc)
+ 蟹甲草
+* [P.  gansuensis](http://www.iplant.cn/info/Parasenecio gansuensis?t=foc)
+ 甘肃蟹甲草
+* [P.  hastiformis](http://www.iplant.cn/info/Parasenecio hastiformis?t=foc)
+ 戟状蟹甲草
+* [P.  jiulongensis](http://www.iplant.cn/info/Parasenecio jiulongensis?t=foc)
+ 九龙蟹甲草
+* [P.  maowenensis](http://www.iplant.cn/info/Parasenecio maowenensis?t=foc)
+ 茂汶蟹甲草
+* [P.  nokoensis](http://www.iplant.cn/info/Parasenecio nokoensis?t=foc)
+ 高能蟹甲草
+* [P.  hwangshanicus](http://www.iplant.cn/info/Parasenecio hwangshanicus?t=foc)
+ 黄山蟹甲草
+* [P.  auriculatus](http://www.iplant.cn/info/Parasenecio auriculatus?t=foc)
+ 耳叶蟹甲草
+* [P.  firmus](http://www.iplant.cn/info/Parasenecio firmus?t=foc)
+ 大叶蟹甲草
+* [P.  begoniifolius](http://www.iplant.cn/info/Parasenecio begoniifolius?t=foc)
+ 秋海棠叶蟹甲草
+* [P.  chola](http://www.iplant.cn/info/Parasenecio chola?t=foc)
+ 藏南蟹甲草
+* [P.  deltophyllus](http://www.iplant.cn/info/Parasenecio deltophyllus?t=foc)
+ 三角叶蟹甲草
+* [P.  hastatus](http://www.iplant.cn/info/Parasenecio hastatus?t=foc)
+ 山尖子
+* [P.  hastatus var. hastatus](http://www.iplant.cn/info/Parasenecio hastatus var. hastatus?t=foc)
+ 山尖子(原变种)
+* [P.  hastatus var. glaber](http://www.iplant.cn/info/Parasenecio hastatus var. glaber?t=foc)
+ 无毛山尖子
+* [P.  lancifolius](http://www.iplant.cn/info/Parasenecio lancifolius?t=foc)
+ 披针叶蟹甲草
+* [P.  komarovianus](http://www.iplant.cn/info/Parasenecio komarovianus?t=foc)
+ 星叶蟹甲草
+* [P.  praetermissus](http://www.iplant.cn/info/Parasenecio praetermissus?t=foc)
+ 长白蟹甲草
+* [P.  otopteryx](http://www.iplant.cn/info/Parasenecio otopteryx?t=foc)
+ 耳翼蟹甲草
+* [P.  albus](http://www.iplant.cn/info/Parasenecio albus?t=foc)
+ 无毛蟹甲草
+* [P.  vespertilio](http://www.iplant.cn/info/Parasenecio vespertilio?t=foc)
+ 川鄂蟹甲草
+* [P.  ambiguus](http://www.iplant.cn/info/Parasenecio ambiguus?t=foc)
+ 两似蟹甲草
+* [P.  ambiguus var. ambiguus](http://www.iplant.cn/info/Parasenecio ambiguus var. ambiguus?t=foc)
+ 两似蟹甲草(原变种)
+* [P.  ambiguus var. wangianus](http://www.iplant.cn/info/Parasenecio ambiguus var. wangianus?t=foc)
+ 王氏两似蟹甲草
+* [P.  ainsliaeiflorus](http://www.iplant.cn/info/Parasenecio ainsliaeiflorus?t=foc)
+ 兔儿风蟹甲草
+* [P.  kangxianensis](http://www.iplant.cn/info/Parasenecio kangxianensis?t=foc)
+ 康县蟹甲草
+* [P.  rubescens](http://www.iplant.cn/info/Parasenecio rubescens?t=foc)
+ 矢镞叶蟹甲草
+* [P.  matsudae](http://www.iplant.cn/info/Parasenecio matsudae?t=foc)
+ 天目山蟹甲草
+* [P.  latipes](http://www.iplant.cn/info/Parasenecio latipes?t=foc)
+ 阔柄蟹甲草
+* [P.  lidjiangensis](http://www.iplant.cn/info/Parasenecio lidjiangensis?t=foc)
+ 丽江蟹甲草
+* [P.  taliensis](http://www.iplant.cn/info/Parasenecio taliensis?t=foc)
+ 大理蟹甲草
+* [P.  tenianus](http://www.iplant.cn/info/Parasenecio tenianus?t=foc)
+ 盐丰蟹甲草
+* [P.  koualapensis](http://www.iplant.cn/info/Parasenecio koualapensis?t=foc)
+ 瓜拉坡蟹甲草
+* [P.  quinquelobus](http://www.iplant.cn/info/Parasenecio quinquelobus?t=foc)
+ 五裂蟹甲草
+* [P.  quinquelobus var. quinquelobus](http://www.iplant.cn/info/Parasenecio quinquelobus var. quinquelobus?t=foc)
+ 五裂蟹甲草(原变种)
+* [P.  quinquelobus var. sinuatus](http://www.iplant.cn/info/Parasenecio quinquelobus var. sinuatus?t=foc)
+ 深裂五裂蟹甲草
+* [P.  rockianus](http://www.iplant.cn/info/Parasenecio rockianus?t=foc)
+ 玉龙蟹甲草
+* [P.  souliei](http://www.iplant.cn/info/Parasenecio souliei?t=foc)
+ 川西蟹甲草
+* [P.  cyclotus](http://www.iplant.cn/info/Parasenecio cyclotus?t=foc)
+ 轮叶蟹甲草
+* [P.  roborowskii](http://www.iplant.cn/info/Parasenecio roborowskii?t=foc)
+ 蛛毛蟹甲草
+* [P.  xinjiashanensis](http://www.iplant.cn/info/Parasenecio xinjiashanensis?t=foc)
+ 辛家山蟹甲草
+* [P.  morrisonensis](http://www.iplant.cn/info/Parasenecio morrisonensis?t=foc)
+ 玉山蟹甲草
+* [P.  profundorum](http://www.iplant.cn/info/Parasenecio profundorum?t=foc)
+ 深山蟹甲草
+* [P.  phyllolepis](http://www.iplant.cn/info/Parasenecio phyllolepis?t=foc)
+ 苞鳞蟹甲草
+* [P.  ianthophyllus](http://www.iplant.cn/info/Parasenecio ianthophyllus?t=foc)
+ 紫背蟹甲草
+* [P.  leucocephalus](http://www.iplant.cn/info/Parasenecio leucocephalus?t=foc)
+ 白头蟹甲草
+* [P.  longispicus](http://www.iplant.cn/info/Parasenecio longispicus?t=foc)
+ 长穗蟹甲草
+* [P.  bulbiferoides](http://www.iplant.cn/info/Parasenecio bulbiferoides?t=foc)
+ 珠芽蟹甲草
+* [P.  petasitoides](http://www.iplant.cn/info/Parasenecio petasitoides?t=foc) 蜂斗菜状蟹甲草
+* [P.  rufipilis](http://www.iplant.cn/info/Parasenecio rufipilis?t=foc) 红毛蟹甲草
+* [P.  tsinlingensis](http://www.iplant.cn/info/Parasenecio tsinlingensis?t=foc) 秦岭蟹甲草
+* [P.  dasythyrsus](http://www.iplant.cn/info/Parasenecio dasythyrsus?t=foc) 山西蟹甲草
+* [P.  delphiniifolius](http://www.iplant.cn/info/Parasenecio delphiniifolius?t=foc) 翠雀蟹甲草
+* [P.  pilgerianus](http://www.iplant.cn/info/Parasenecio pilgerianus?t=foc) 太白蟹甲草
+* [P.  sinicus](http://www.iplant.cn/info/Parasenecio sinicus?t=foc) 中华蟹甲草
+* [P.  dissectus](http://www.iplant.cn/info/Parasenecio dissectus?t=foc) 湖北蟹甲草
+* [P.  palmatisectus](http://www.iplant.cn/info/Parasenecio palmatisectus?t=foc) 掌裂蟹甲草
+* [P.  palmatisectus var. palmatisectus](http://www.iplant.cn/info/Parasenecio palmatisectus var. palmatisectus?t=foc) 掌裂蟹甲草(原变种)
+* [P.  palmatisectus var. moupinensis](http://www.iplant.cn/info/Parasenecio palmatisectus var. moupinensis?t=foc) 腺毛掌裂蟹甲草
+* [P.  tripteris](http://www.iplant.cn/info/Parasenecio tripteris?t=foc) 昆明蟹甲草",
+
+### Parsublist
+
+* [Acanthospermum  刺苞果属](Acanthospermum-刺苞果属.md)
+* [Achillea  蓍属](Achillea-蓍属.md)
+* [Acmella  金钮扣属](Acmella-金纽扣属.md)
+* [Adenocaulon  和尚菜属](Adenocaulon-和尚菜属.md)
+* [Adenostemma  下田菊属](Adenostemma-下田菊属.md)
+* [Ageratina  紫茎泽兰属](Ageratina-紫茎泽兰属.md)
+* [Ageratum  藿香蓟属](Ageratum-藿香蓟属.md)
+* [Ainsliaea  兔儿风属](http://www.iplant.cn/info/Ainsliaea?t=foc)
+* [Ajania  亚菊属](http://www.iplant.cn/info/Ajania?t=foc)
+* [Ajaniopsis  画笔菊属](http://www.iplant.cn/info/Ajaniopsis?t=foc)
+* [Alfredia  翅膜菊属](http://www.iplant.cn/info/Alfredia?t=foc)
+* [Allardia  扁毛菊属](http://www.iplant.cn/info/Allardia?t=foc)
+* [Amberboa  珀菊属](http://www.iplant.cn/info/Amberboa?t=foc)
+* [Ambrosia  豚草属](http://www.iplant.cn/info/Ambrosia?t=foc)
+* [Anaphalis  香青属](http://www.iplant.cn/info/Anaphalis?t=foc)
+* [Ancathia  肋果蓟属](http://www.iplant.cn/info/Ancathia?t=foc)
+* [Anisopappus  山黄菊属](http://www.iplant.cn/info/Anisopappus?t=foc)
+* [Antennaria  蝶须属](http://www.iplant.cn/info/Antennaria?t=foc)
+* [Anthemis  春黄菊属](http://www.iplant.cn/info/Anthemis?t=foc)
+* [Archiserratula  滇麻花头属](http://www.iplant.cn/info/Archiserratula?t=foc)
+* [Arctium  牛蒡属](http://www.iplant.cn/info/Arctium?t=foc)
+* [Arctogeron  莎菀属](http://www.iplant.cn/info/Arctogeron?t=foc)
+* [Artemisia  蒿属](http://www.iplant.cn/info/Artemisia?t=foc)
+* [Askellia  假苦菜属](http://www.iplant.cn/info/Askellia?t=foc)
+* [Aster  紫菀属](http://www.iplant.cn/info/Aster?t=foc)
+* [Asterothamnus  紫菀木属](http://www.iplant.cn/info/Asterothamnus?t=foc)
+* [Atractylodes  苍术属](http://www.iplant.cn/info/Atractylodes?t=foc)
+* [Aucklandia  云木香属](http://www.iplant.cn/info/Aucklandia?t=foc)
+* [Austroeupatorium  南泽兰属](http://www.iplant.cn/info/Austroeupatorium?t=foc)
+* [Bellis  雏菊属](http://www.iplant.cn/info/Bellis?t=foc)
+* [Bidens  鬼针草属](http://www.iplant.cn/info/Bidens?t=foc)
+* [Blainvillea  百能葳属](http://www.iplant.cn/info/Blainvillea?t=foc)
+* [Blumea  艾纳香属](http://www.iplant.cn/info/Blumea?t=foc)
+* [Bolocephalus  球菊属](http://www.iplant.cn/info/Bolocephalus?t=foc)
+* [Brachanthemum  短舌菊属](http://www.iplant.cn/info/Brachanthemum?t=foc)
+* [Buphthalmum  牛眼菊属](http://www.iplant.cn/info/Buphthalmum?t=foc)
+* [Calendula  金盏花属](http://www.iplant.cn/info/Calendula?t=foc)
+* [Callistephus  翠菊属](http://www.iplant.cn/info/Callistephus?t=foc)
+* [Calotis  刺冠菊属](http://www.iplant.cn/info/Calotis?t=foc)
+* [Calyptocarpus  金腰箭舅属](http://www.iplant.cn/info/Calyptocarpus?t=foc)
+* [Camchaya  凋缨菊属](http://www.iplant.cn/info/Camchaya?t=foc)
+* [Cancrinia  小甘菊属](http://www.iplant.cn/info/Cancrinia?t=foc)
+* [Carduus  飞廉属](http://www.iplant.cn/info/Carduus?t=foc)
+* [Carlina  刺苞菊属](http://www.iplant.cn/info/Carlina?t=foc)
+* [Carpesium  天名精属](http://www.iplant.cn/info/Carpesium?t=foc)
+* [Carthamus  红花属](http://www.iplant.cn/info/Carthamus?t=foc)
+* [Cavea  葶菊属](http://www.iplant.cn/info/Cavea?t=foc)
+* [Centaurea  矢车菊属](http://www.iplant.cn/info/Centaurea?t=foc)
+* [Centipeda  石胡荽属](http://www.iplant.cn/info/Centipeda?t=foc)
+* [Chondrilla  粉苞菊属](http://www.iplant.cn/info/Chondrilla?t=foc)
+* [Chromolaena  飞机草属](http://www.iplant.cn/info/Chromolaena?t=foc)
+* [Chrysanthemum  菊属](http://www.iplant.cn/info/Chrysanthemum?t=foc)
+* [Cicerbita  岩参属](http://www.iplant.cn/info/Cicerbita?t=foc)
+* [Cichorium  菊苣属](http://www.iplant.cn/info/Cichorium?t=foc)
+* [Cirsium  蓟属](http://www.iplant.cn/info/Cirsium?t=foc)
+* [Cissampelopsis  藤菊属](http://www.iplant.cn/info/Cissampelopsis?t=foc)
+* [Clibadium  苏利南野菊属](http://www.iplant.cn/info/Clibadium?t=foc)
+* [Conoclinium  锥托泽兰属](http://www.iplant.cn/info/Conoclinium?t=foc)
+* [Coreopsis  金鸡菊属](http://www.iplant.cn/info/Coreopsis?t=foc)
+* [Cosmos  秋英属](http://www.iplant.cn/info/Cosmos?t=foc)
+* [Cotula  山芫绥属](http://www.iplant.cn/info/Cotula?t=foc)
+* [Cousinia  刺头菊属](http://www.iplant.cn/info/Cousinia?t=foc)
+* [Crassocephalum  野茼蒿属](http://www.iplant.cn/info/Crassocephalum?t=foc)
+* [Cremanthodium  垂头菊属](http://www.iplant.cn/info/Cremanthodium?t=foc)
+* [Crepidiastrum  假还阳参属](http://www.iplant.cn/info/Crepidiastrum?t=foc)
+* [Crepis  还阳参属](http://www.iplant.cn/info/Crepis?t=foc)
+* [Crinitina  麻菀属](http://www.iplant.cn/info/Crinitina?t=foc)
+* [Crossostephium  芙蓉菊属](http://www.iplant.cn/info/Crossostephium?t=foc)
+* [Crupina  半毛菊属](http://www.iplant.cn/info/Crupina?t=foc)
+* [Cyanus  蓝花矢车菊属](http://www.iplant.cn/info/Cyanus?t=foc)
+* [Cyathocline  杯菊属](http://www.iplant.cn/info/Cyathocline?t=foc)
+* [Dicercoclados  歧笔菊属](http://www.iplant.cn/info/Dicercoclados?t=foc)
+* [Dichrocephala  鱼眼草属](http://www.iplant.cn/info/Dichrocephala?t=foc)
+* [Diplazoptilon  重羽菊属](http://www.iplant.cn/info/Diplazoptilon?t=foc)
+* [Distephanus  黄花斑鸠菊属](http://www.iplant.cn/info/Distephanus?t=foc)
+* [Dolomiaea  川木香属](http://www.iplant.cn/info/Dolomiaea?t=foc)
+* [Doronicum  多榔菊属](http://www.iplant.cn/info/Doronicum?t=foc)
+* [Dubyaea  厚喙菊属](http://www.iplant.cn/info/Dubyaea?t=foc)
+* [Duhaldea  羊耳菊属](http://www.iplant.cn/info/Duhaldea?t=foc)
+* [Echinops  蓝刺头属](http://www.iplant.cn/info/Echinops?t=foc)
+* [Eclipta  鳢肠属](http://www.iplant.cn/info/Eclipta?t=foc)
+* [Elephantopus  地胆草属](http://www.iplant.cn/info/Elephantopus?t=foc)
+* [Eleutheranthera  离药金腰箭属](http://www.iplant.cn/info/Eleutheranthera?t=foc)
+* [Emilia  一点红属](http://www.iplant.cn/info/Emilia?t=foc)
+* [Enydra  沼菊属](http://www.iplant.cn/info/Enydra?t=foc)
+* [Epaltes  鹅不食草属](http://www.iplant.cn/info/Epaltes?t=foc)
+* [Epilasia  鼠毛菊属](http://www.iplant.cn/info/Epilasia?t=foc)
+* [Erechtites  菊芹属](http://www.iplant.cn/info/Erechtites?t=foc)
+* [Erigeron  飞蓬属](http://www.iplant.cn/info/Erigeron?t=foc)
+* [Eschenbachia  白酒草属](http://www.iplant.cn/info/Eschenbachia?t=foc)
+* [Ethulia  都丽菊属](http://www.iplant.cn/info/Ethulia?t=foc)
+* [Eupatorium  泽兰属](http://www.iplant.cn/info/Eupatorium?t=foc)
+* [Eurybia  北美紫菀属](http://www.iplant.cn/info/Eurybia?t=foc)
+* [Faberia  花佩菊属](http://www.iplant.cn/info/Faberia?t=foc)
+* [Farfugium  大吴风草属](http://www.iplant.cn/info/Farfugium?t=foc)
+* [Filago  絮菊属](http://www.iplant.cn/info/Filago?t=foc)
+* [Filifolium  线叶菊属](http://www.iplant.cn/info/Filifolium?t=foc)
+* [Flaveria  黄顶菊属](http://www.iplant.cn/info/Flaveria?t=foc)
+* [Formania  复芒菊属](http://www.iplant.cn/info/Formania?t=foc)
+* [Frolovia  齿冠属](http://www.iplant.cn/info/Frolovia?t=foc)
+* [Gaillardia  天人菊属](http://www.iplant.cn/info/Gaillardia?t=foc)
+* [Galatella  乳菀属](http://www.iplant.cn/info/Galatella?t=foc)
+* [Galinsoga  牛膝菊属](http://www.iplant.cn/info/Galinsoga?t=foc)
+* [Gamochaeta  合冠鼠麴草属](http://www.iplant.cn/info/Gamochaeta?t=foc)
+* [Garhadiolus  小疮菊属](http://www.iplant.cn/info/Garhadiolus?t=foc)
+* [Gerbera  火石花属](http://www.iplant.cn/info/Gerbera?t=foc)
+* [Glebionis  茼蒿属](http://www.iplant.cn/info/Glebionis?t=foc)
+* [Glossocardia  鹿角草属](http://www.iplant.cn/info/Glossocardia?t=foc)
+* [Gnaphalium  鼠麴草属](http://www.iplant.cn/info/Gnaphalium?t=foc)
+* [Gnomophalium  垫头鼠麴草属](http://www.iplant.cn/info/Gnomophalium?t=foc)
+* [Grangea  田基黄属](http://www.iplant.cn/info/Grangea?t=foc)
+* [Grindelia  胶菀属](http://www.iplant.cn/info/Grindelia?t=foc)
+* [Guizotia  小葵子属](http://www.iplant.cn/info/Guizotia?t=foc)
+* [Gymnocoronis  裸冠菊属](http://www.iplant.cn/info/Gymnocoronis?t=foc)
+* [Gynura  菊三七属](http://www.iplant.cn/info/Gynura?t=foc)
+* [Hainanecio  海南菊属](http://www.iplant.cn/info/Hainanecio?t=foc)
+* [Handelia  天山蓍属](http://www.iplant.cn/info/Handelia?t=foc)
+* [Helianthus  向日葵属](http://www.iplant.cn/info/Helianthus?t=foc)
+* [Helichrysum  拟蜡菊属](http://www.iplant.cn/info/Helichrysum?t=foc)
+* [Hemisteptia  泥胡菜属](http://www.iplant.cn/info/Hemisteptia?t=foc)
+* [Heteracia  异喙菊属](http://www.iplant.cn/info/Heteracia?t=foc)
+* [Heteroplexis  异裂菊属](http://www.iplant.cn/info/Heteroplexis?t=foc)
+* [Hieracium  山柳菊属](http://www.iplant.cn/info/Hieracium?t=foc)
+* [Himalaiella  须弥菊属](http://www.iplant.cn/info/Himalaiella?t=foc)
+* [Hippolytia  女蒿属](http://www.iplant.cn/info/Hippolytia?t=foc)
+* [Hololeion  全光菊属](http://www.iplant.cn/info/Hololeion?t=foc)
+* [Hypochaeris  猫儿菊属](http://www.iplant.cn/info/Hypochaeris?t=foc)
+* [Inula  旋覆花属](http://www.iplant.cn/info/Inula?t=foc)
+* [Ixeridium  小苦荬属](http://www.iplant.cn/info/Ixeridium?t=foc)
+* [Ixeris  苦荬菜属](http://www.iplant.cn/info/Ixeris?t=foc)
+* [Jurinea  苓菊属](http://www.iplant.cn/info/Jurinea?t=foc)
+* [Karelinia  花花柴属](http://www.iplant.cn/info/Karelinia?t=foc)
+* [Kaschgaria  喀什菊属](http://www.iplant.cn/info/Kaschgaria?t=foc)
+* [Klasea  麻花头属](http://www.iplant.cn/info/Klasea?t=foc)
+* [Koelpinia  蝎尾菊属](http://www.iplant.cn/info/Koelpinia?t=foc)
+* [Lactuca  莴苣属](http://www.iplant.cn/info/Lactuca?t=foc)
+* [Lagascea  单花葵属](http://www.iplant.cn/info/Lagascea?t=foc)
+* [Lagenophora  瓶头草属](http://www.iplant.cn/info/Lagenophora?t=foc)
+* [Laggera  六棱菊属](http://www.iplant.cn/info/Laggera?t=foc)
+* [Lapsanastrum  稻槎菜属](http://www.iplant.cn/info/Lapsanastrum?t=foc)
+* [Launaea  栓果菊属](http://www.iplant.cn/info/Launaea?t=foc)
+* [Leibnitzia  大丁草属](http://www.iplant.cn/info/Leibnitzia?t=foc)
+* [Leontopodium  火绒草属](http://www.iplant.cn/info/Leontopodium?t=foc)
+* [Leucanthemella  小滨菊属](http://www.iplant.cn/info/Leucanthemella?t=foc)
+* [Leucanthemum  滨菊属](http://www.iplant.cn/info/Leucanthemum?t=foc)
+* [Leucomeris  白菊木属](http://www.iplant.cn/info/Leucomeris?t=foc)
+* [Ligularia  橐吾属](http://www.iplant.cn/info/Ligularia?t=foc)
+* [Ligulariopsis  假橐吾属](http://www.iplant.cn/info/Ligulariopsis?t=foc)
+* [Matricaria  母菊属](http://www.iplant.cn/info/Matricaria?t=foc)
+* [Melanoseris  毛鳞菊属](http://www.iplant.cn/info/Melanoseris?t=foc)
+* [Melanthera  卤地菊属](http://www.iplant.cn/info/Melanthera?t=foc)
+* [Microcephala  小花菊属](http://www.iplant.cn/info/Microcephala?t=foc)
+* [Microglossa  小舌菊属](http://www.iplant.cn/info/Microglossa?t=foc)
+* [Mikania  假泽兰属](http://www.iplant.cn/info/Mikania?t=foc)
+* [Myriactis  粘冠草属](http://www.iplant.cn/info/Myriactis?t=foc)
+* [Myripnois  蚂蚱腿子属](http://www.iplant.cn/info/Myripnois?t=foc)
+* [Nabalus  耳菊属](http://www.iplant.cn/info/Nabalus?t=foc)
+* [Nannoglottis  毛冠菊属](http://www.iplant.cn/info/Nannoglottis?t=foc)
+* [Nemosenecio  羽叶菊属](http://www.iplant.cn/info/Nemosenecio?t=foc)
+* [Neobrachyactis  短星菊属](http://www.iplant.cn/info/Neobrachyactis?t=foc)
+* [Neopallasia  栉叶蒿属](http://www.iplant.cn/info/Neopallasia?t=foc)
+* [Notoseris  紫菊属](http://www.iplant.cn/info/Notoseris?t=foc)
+* [Nouelia  栌菊木属](http://www.iplant.cn/info/Nouelia?t=foc)
+* [Olgaea  蝟菊属](http://www.iplant.cn/info/Olgaea?t=foc)
+* [Oligochaeta  寡毛菊属](http://www.iplant.cn/info/Oligochaeta?t=foc)
+* [Onopordum  大翅蓟属](http://www.iplant.cn/info/Onopordum?t=foc)
+* [Opisthopappus  太行菊属](http://www.iplant.cn/info/Opisthopappus?t=foc)
+* [Paraprenanthes  假福王草属](http://www.iplant.cn/info/Paraprenanthes?t=foc)
+* [Parthenium  银胶菊属](http://www.iplant.cn/info/Parthenium?t=foc)
+* [Pectis  香檬菊属](http://www.iplant.cn/info/Pectis?t=foc)
+* [Pentanema  苇谷草属](http://www.iplant.cn/info/Pentanema?t=foc)
+* [Pericallis  瓜叶菊属](http://www.iplant.cn/info/Pericallis?t=foc)
+* [Pertya  帚菊属](http://www.iplant.cn/info/Pertya?t=foc)
+* [Petasites  蜂斗菜属](http://www.iplant.cn/info/Petasites?t=foc)
+* [Phagnalon  绵毛菊属](http://www.iplant.cn/info/Phagnalon?t=foc)
+* [Picris  毛连菜属](http://www.iplant.cn/info/Picris?t=foc)
+* [A.  sect. Abrotanum  艾蒿组](http://www.iplant.cn/info/Artemisia sect. Abrotanum?t=foc)
+* [A.  sect. Absinthium  莳萝蒿组](http://www.iplant.cn/info/Artemisia sect. Absinthium?t=foc)
+* [A.  sect. Albibractea  白苞蒿组](http://www.iplant.cn/info/Artemisia sect. Albibractea?t=foc)
+* [A.  sect. Artemisia  艾组](http://www.iplant.cn/info/Artemisia sect. Artemisia?t=foc)
+* [A.  sect. Dracunculus  龙蒿组](http://www.iplant.cn/info/Artemisia sect. Dracunculus?t=foc)
+* [A.  sect. Latilobus  牡蒿组](http://www.iplant.cn/info/Artemisia sect. Latilobus?t=foc)
+* [A.  sect. Viscidipubes  腺毛蒿组](http://www.iplant.cn/info/Artemisia sect. Viscidipubes?t=foc)
+* [A.  sect. Ageratoides  三脉叶紫菀组](http://www.iplant.cn/info/Aster sect. Ageratoides?t=foc)
+* [A.  sect. Alpigeni  山菀组](http://www.iplant.cn/info/Aster sect. Alpigeni?t=foc)
+* [A.  sect. Aster  紫菀组](http://www.iplant.cn/info/Aster sect. Aster?t=foc)
+* [A.  sect. Asteromoea  马兰组](http://www.iplant.cn/info/Aster sect. Asteromoea?t=foc)
+* [A.  sect. Pseudocalimeris  假马兰组](http://www.iplant.cn/info/Aster sect. Pseudocalimeris?t=foc)
+* [A.  sect. Teretiachaenium  东风菜组](http://www.iplant.cn/info/Aster sect. Teretiachaenium?t=foc)
+* [I.  sedis group  ](http://www.iplant.cn/info/Incertae sedis group?t=foc)
+* [Plagiobasis  斜果菊属](http://www.iplant.cn/info/Plagiobasis?t=foc)
+* [Psephellus  矮小矢车菊属](http://www.iplant.cn/info/Psephellus?t=foc)
+* [Rhaponticoides  欧亚矢车菊属](http://www.iplant.cn/info/Rhaponticoides?t=foc)
+* [Rhaponticum  漏芦属](http://www.iplant.cn/info/Rhaponticum?t=foc)
+* [Russowia  纹苞菊属](http://www.iplant.cn/info/Russowia?t=foc)
+* [Schischkinia  白刺菊属](http://www.iplant.cn/info/Schischkinia?t=foc)
+* [Serratula  伪泥胡菜属](http://www.iplant.cn/info/Serratula?t=foc)
+* [Tricholepis  镇苞菊属](http://www.iplant.cn/info/Tricholepis?t=foc)
+* [Senecio  千里光属](http://www.iplant.cn/info/Senecio?t=foc)
+* [Synotis  合耳菊属](http://www.iplant.cn/info/Synotis?t=foc)
+* [Sinosenecio  蒲儿根属](http://www.iplant.cn/info/Sinosenecio?t=foc)
+* [Tephroseris  狗舌草属](http://www.iplant.cn/info/Tephroseris?t=foc)
+* [Sinacalia  华蟹甲属](http://www.iplant.cn/info/Sinacalia?t=foc)
+* [Syneilesis  兔儿伞属](http://www.iplant.cn/info/Syneilesis?t=foc)
+* [Tussilago  款冬属](http://www.iplant.cn/info/Tussilago?t=foc)
+* [Pseudohandelia  拟天山蓍属](http://www.iplant.cn/info/Pseudohandelia?t=foc)
+* [Richteria  灰叶匹菊属](http://www.iplant.cn/info/Richteria?t=foc)
+* [Seriphidium  绢蒿属](http://www.iplant.cn/info/Seriphidium?t=foc)
+* [Soliva  裸柱菊属](http://www.iplant.cn/info/Soliva?t=foc)
+* [Stilpnolepis  百花蒿属](http://www.iplant.cn/info/Stilpnolepis?t=foc)
+* [Tanacetum  菊蒿属](http://www.iplant.cn/info/Tanacetum?t=foc)
+* [Tripleurospermum  三肋果属](http://www.iplant.cn/info/Tripleurospermum?t=foc)
+* [Psychrogeton  寒蓬属](http://www.iplant.cn/info/Psychrogeton?t=foc)
+* [Rhinactinidia  岩菀属](http://www.iplant.cn/info/Rhinactinidia?t=foc)
+* [Sheareria  虾须草属](http://www.iplant.cn/info/Sheareria?t=foc)
+* [Solidago  一枝黄花属](http://www.iplant.cn/info/Solidago?t=foc)
+* [Symphyotrichum  联毛紫菀属](http://www.iplant.cn/info/Symphyotrichum?t=foc)
+* [Thespis  歧伞菊属](http://www.iplant.cn/info/Thespis?t=foc)
+* [Tripolium  碱菀属](http://www.iplant.cn/info/Tripolium?t=foc)
+* [Turczaninovia  女菀属](http://www.iplant.cn/info/Turczaninovia?t=foc)
+* [Saussurea  风毛菊属](http://www.iplant.cn/info/Saussurea?t=foc)
+* [Schmalhausenia  虎头蓟属](http://www.iplant.cn/info/Schmalhausenia?t=foc)
+* [Synurus  山牛蒡属](http://www.iplant.cn/info/Synurus?t=foc)
+* [Syreitschikovia  疆菊属](http://www.iplant.cn/info/Syreitschikovia?t=foc)
+* [Xanthopappus  黄缨菊属](http://www.iplant.cn/info/Xanthopappus?t=foc)
+* [Tugarinovia  革苞菊属](http://www.iplant.cn/info/Tugarinovia?t=foc)
+* [Pilosella  细毛菊属](http://www.iplant.cn/info/Pilosella?t=foc)
+* [Podospermum  柄果菊属](http://www.iplant.cn/info/Podospermum?t=foc)
+* [Scorzonera  鸦葱属](http://www.iplant.cn/info/Scorzonera?t=foc)
+* [Sonchella  小苦苣菜属](http://www.iplant.cn/info/Sonchella?t=foc)
+* [Sonchus  苦苣菜属](http://www.iplant.cn/info/Sonchus?t=foc)
+* [Soroseris  绢毛菊属](http://www.iplant.cn/info/Soroseris?t=foc)
+* [Syncalathium  合头菊属](http://www.iplant.cn/info/Syncalathium?t=foc)
+* [Taraxacum  蒲公英属](http://www.iplant.cn/info/Taraxacum?t=foc)
+* [Tragopogon  婆罗门参属](http://www.iplant.cn/info/Tragopogon?t=foc)
+* [Youngia  黄鹌菜属](http://www.iplant.cn/info/Youngia?t=foc)
+* [Praxelis  假臭草属](http://www.iplant.cn/info/Praxelis?t=foc)
+* [Symphyllocarpus  含苞草属](http://www.iplant.cn/info/Symphyllocarpus?t=foc)
+* [Pseudognaphalium  拟鼠麴草属](http://www.iplant.cn/info/Pseudognaphalium?t=foc)
+* [Sinoleontopodium  君范菊属](http://www.iplant.cn/info/Sinoleontopodium?t=foc)
+* [Xerochrysum  蜡菊属](http://www.iplant.cn/info/Xerochrysum?t=foc)
+* [Rudbeckia  金光菊属](http://www.iplant.cn/info/Rudbeckia?t=foc)
+* [Sclerocarpus  硬果菊属](http://www.iplant.cn/info/Sclerocarpus?t=foc)
+* [Sigesbeckia  豨莶属](http://www.iplant.cn/info/Sigesbeckia?t=foc)
+* [Smallanthus  包果菊属](http://www.iplant.cn/info/Smallanthus?t=foc)
+* [Sphagneticola  蟛蜞菊属](http://www.iplant.cn/info/Sphagneticola?t=foc)
+* [Synedrella  金腰箭属](http://www.iplant.cn/info/Synedrella?t=foc)
+* [Tagetes  万寿菊属](http://www.iplant.cn/info/Tagetes?t=foc)
+* [Tithonia  肿柄菊属](http://www.iplant.cn/info/Tithonia?t=foc)
+* [Tridax  羽芒菊属](http://www.iplant.cn/info/Tridax?t=foc)
+* [Wollastonia  孪花菊属](http://www.iplant.cn/info/Wollastonia?t=foc)
+* [Xanthium  苍耳属](http://www.iplant.cn/info/Xanthium?t=foc)
+* [Zinnia  百日菊属](http://www.iplant.cn/info/Zinnia?t=foc)
+* [Pluchea  阔苞菊属](http://www.iplant.cn/info/Pluchea?t=foc)
+* [Pseudoconyza  假飞蓬属](http://www.iplant.cn/info/Pseudoconyza?t=foc)
+* [Pterocaulon  翼茎草属](http://www.iplant.cn/info/Pterocaulon?t=foc)
+* [Pulicaria  蚤草属](http://www.iplant.cn/info/Pulicaria?t=foc)
+* [Sphaeranthus  戴星草属](http://www.iplant.cn/info/Sphaeranthus?t=foc)
+* [Piloselloides  兔耳一枝箭属](http://www.iplant.cn/info/Piloselloides?t=foc)
+* [Pseudelephantopus  假地胆草属](http://www.iplant.cn/info/Pseudelephantopus?t=foc)
+* [Vernonia  斑鸠菊属](http://www.iplant.cn/info/Vernonia?t=foc)
+* [E.  sect. Caenotus  小篷草组](http://www.iplant.cn/info/Erigeron sect. Caenotus?t=foc)
+* [E.  sect. Conyza  白酒草组](http://www.iplant.cn/info/Erigeron sect. Conyza?t=foc)
+* [E.  sect. Erigeron  飞蓬组](http://www.iplant.cn/info/Erigeron sect. Erigeron?t=foc)
+* [E.  sect. Karvinskia  加勒比飞蓬组](http://www.iplant.cn/info/Erigeron sect. Karvinskia?t=foc)
+* [E.  sect. Phalacroloma  一年蓬组](http://www.iplant.cn/info/Erigeron sect. Phalacroloma?t=foc)
+* [E.  sect. Trimorpha  三型花飞蓬组](http://www.iplant.cn/info/Erigeron sect. Trimorpha?t=foc)
+* [P.  sect. Delphiniifolii  翠雀叶组](http://www.iplant.cn/info/Parasenecio sect. Delphiniifolii?t=foc)
+* [P.  sect. Koyamacalia  小山蟹甲草组](http://www.iplant.cn/info/Parasenecio sect. Koyamacalia?t=foc)
+* [P.  sect. Monanthi  单花蟹甲草组](http://www.iplant.cn/info/Parasenecio sect. Monanthi?t=foc)
+* [P.  sect. Parasenecio  蟹甲草组](http://www.iplant.cn/info/Parasenecio sect. Parasenecio?t=foc)
+* [P.  sect. Taimingasa  鞘叶组](http://www.iplant.cn/info/Parasenecio sect. Taimingasa?t=foc)
+* [P.  ser. Ainsliaeiflori  兔儿风花系](http://www.iplant.cn/info/Parasenecio ser. Ainsliaeiflori?t=foc)
+* [P.  ser. Candidi  戟叶蟹甲草系](http://www.iplant.cn/info/Parasenecio ser. Candidi?t=foc)
+* [P.  ser. Rubescentes  红缨蟹甲草系](http://www.iplant.cn/info/Parasenecio ser. Rubescentes?t=foc)
+* [P.  ser. Trilobi  三裂叶蟹甲草系](http://www.iplant.cn/info/Parasenecio ser. Trilobi?t=foc)
+
+## 中国植物志
+
+> * [歧笔菊属  Dicercoclados](http://www.iplant.cn/info/Dicercoclados?t=z)
+> * [多榔菊属  Doronicum](http://www.iplant.cn/info/Doronicum?t=z)
+> * [假橐吾属  Ligulariopsis](http://www.iplant.cn/info/Ligulariopsis?t=z)
+> * [蜂斗菜属  Petasites](http://www.iplant.cn/info/Petasites?t=z)
+
+**蟹甲草属 Parasenecio**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第77(1)卷](http://www.iplant.cn/frps/vol/77(1)) >> 019页 [PDF](http://www.iplant.cn/frps/pdf/77(1)/019y.pdf)
+**129.蟹甲草属 Parasenecio W. W. Smith et J. Small**
+W. W. Smith et Small in Trans. Proc. Bot. Soc. Edinb. 38: 38: 93. 1922. C. Jeffrey et Y. L. Chen in Kew Ball. 39 (2): 209. 1984. ——Cacalia sensu auct. plur., quoad species gerontogeas, nonL. ——Hasteola Raf. in New Fl. North Amer. 4: 79. 1836; Poljack in Not. System. Herb. Inst. Bot. Acad. Sci. URSS 20: 380. 1960. ——Koyamacalia H. Robins et Brettel in Phytologia 27: 270. 1973.
+多年生草本，根状茎粗壮，直立或横走，有多数纤维状被毛的根。茎单生，直立，通常具条纹或沟棱，无毛或被蛛丝状毛或腺状短柔毛。叶互生，具叶柄，不分裂或掌状或羽状分裂，具锯齿。头状花序小或中等大小，盘状，有同形的两性花；小花全部结实，少数至多数，在茎端或上部叶腋排列成总状或圆锥状花序，具花序梗或近无梗，下部常有小苞片。总苞圆柱形或狭钟形，稀钟状；总苞片I层，离生。花托平，无托片或有托毛。小花少数至多数，花冠管状，黄色，白色或橘红色，管部细，檐部窄钟状或宽管状，具5裂片；裂片披针形或卵状披针形；花药基部箭形或具尾。颈部圆柱形；花丝细；花柱分枝顶端截形或稍扩大，被长短不等的乳头状微毛。瘦果圆柱形，无毛而具纵肋；冠毛刚毛状，1层，白色，污白色，淡黄褐色，稀变色。
+本属约60余种，主要分布于东亚及中国喜马拉雅地区。俄罗斯欧洲部分及远东地区也有。中国已知51种，主要产于西南部山区。
+属的模式：蟹甲草P. forrestii W W. Smith et J. Small
+Robinson et Brettel 和C. Jeffrey 曾经指出，依据《国际植物命名法规》过去一直错误地采用产于欧洲的Cacalia L.作为本属的属名，因该属的模式种为C. alpina L.，按此属的模式概念，产于东亚及北美的种类应分别隶属于Parasenecio W. W. Smith et Small 及 Arnoglossum Rafin , 尽管Robinson et Brettel曾经为本属另起新称Koyamacalia H. Robins. et Brettel用以取代东亚产的Cacalia,但这个名称却是Parasenecio W. W. Smith et Small.属的晚出异名，故本志仍用Parasenecio作为本属的名称，对有关国产的种类也作相应的组合和修正。北村四郎(Kitamura 1938, 1942)曾将本属日本的种类区分为2个组和3个系，此后小山博滋(H. Koyama 1969)对本属东亚产的种类作了初步研究，将其划分为5个组，4个系。作者在分析与总结前人分类的基础上，依据本属头状花序数目，大小，总苞形状，总苞片和小花数目；叶形、叶脉、毛被以及冠毛的颜色等特征，我国已知的种可以划分为5个组和4个系。
+
+## 检索表
+* 1 叶较大或中等大，非圆形或圆心形，不分裂或分裂；叶柄基部无鞘。——(2)
+* ~叶大型，圆形或圆心形，掌状中裂，叶柄基部具抱茎的短鞘。——[大叶蟹甲草](http://www.iplant.cn/info/Parasenecio firmus?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+* 2 叶基生，茎生叶1，稀2，或苞叶状；头状花序3-4，或较多数；总苞钟状，或窄钟状；总苞片8-10；小花10-28。——(3)
+* ~基生叶在花期枯萎，茎生叶少数至多数；头状花序少数至多数，排成圆锥状或总状圆锥花序；总苞圆柱形或窄钟形；总苞片3至10，稀更多；小花(2) 3-5 (8)或稀更多。——(4)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+* 3 植株被密褐色柔毛；基生叶卵形或卵圆形，顶端急尖；茎生叶数枚呈苞叶状，具短柄；头状花序直立；总苞片9-10；小花28;花冠黄色。——[秋海棠叶蟹甲草](http://www.iplant.cn/info/Parasenecio begoniaefolius?t=z)
+* ~植珠密被腺状柔毛，基生叶宽心形，顶端钝或近圆形；茎生叶1，稀2，无柄或近无柄；头状花序下垂；总苞片8-9；小花10-16；花冠白色或粉白色。——[蟹甲草](http://www.iplant.cn/info/Parasenecio forrestii?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+* 4 总苞圆柱形或钟形，长超过4毫米；总苞片3-8，稀更多；小花3-15稀更多。叶多样，具不规则的粗齿，浅裂至分裂。叶柄具翅或无翅；具耳或无耳。——(5)
+* ~总苞圆柱形，长2-4毫米；总苞片4-5；小花2-5；叶卵形或宽卵状心形，有不规则的粗齿或3-10浅裂，叶柄无翅，基部不扩大。——[藏南蟹甲草](http://www.iplant.cn/info/Parasenecio chola?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+* 5 茎生叶少数至多数，三角形，三角状卵形，肾形，多角形或卵状心形，边缘具粗齿或浅裂，下面无毛，被柔毛或蛛丝状毛或密绒毛。——(6)
+* ~茎生叶多数；叶片掌状分裂；总苞片3-5，稀7-8；小花3-5；稀10-14。——(47)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+* 6 叶下面无毛或被柔毛；头状花序数个至多数，具花序梗或无花序梗；冠毛白色或红褐色。——(7)
+* ~叶下面被蛛丝状毛或密棉毛或初时被毛，后渐脱落。——(24)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+* 7 头状花序多数或较多数，在茎端排成总状或圆锥状；总苞圆柱形或窄钟状，直径 (1)3-5毫米；总苞片3-8；小花少数；叶非三角形，叶柄具翅或无翅。——(8)
+* ~头状花序数个或单生于茎端和上部叶腋，下垂；总苞钟状，直径5-10毫米；总苞片8-10；小花多数达38；叶三角形；叶柄无翅。——[三角叶蟹甲草](http://www.iplant.cn/info/Parasenecio deltophyllus?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+* 8 头状花序较多数，较大或大；总苞直径3-5毫米或10-20毫米；冠毛白色污白色或红褐色。——(9)
+* ~头状花序极多数，小；总苞图柱形，直径1-2毫米；总苞片及小花3-5；叶片多角  形或肾形，5-7浅裂或具粗齿；花冠白色或黄色。——(22)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+* 9 总苞长5-8 (10)毫米；总苞片和小花各4-8，稀更多；冠毛白色或污白色——(10)
+* ~总苞钟状，长10-15毫米，宽10-20毫米；总苞片7-12；小花8-38；冠毛红褐色。——(21)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 10 叶柄无翅，基部不扩大成耳。——(18)
+* ~叶柄具翅。——(11)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 11 叶柄具窄翅或不明显的翅，基部不扩大成耳。——(12)
+* ~叶柄具宽翅，基部常扩大成耳。——(13)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 12 头状花序下垂，排列成塔状圆锥花序；总苞片7-8，外面被腺状柔毛；小   花8-15 (20)；叶片三角状戟形，下面被密或疏柔毛；叶柄具窄翅。——[山尖子](http://www.iplant.cn/info/Parasenecio hastatus?t=z)
+* ~头状花序直立，排列成叉状分枝的宽圆锥花序；总苞片5-6；小花5-8；  叶片三角状披针形，顶端长渐尖或尾尖，下面沿脉被疏短毛或近无毛；叶 柄具不明显的翅。——[披针叶蟹甲草](http://www.iplant.cn/info/Parasenecio lancifolius?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 13 植株高30-100厘米；茎较细弱；叶肾形或三角状肾形，叶柄基部具大或  小的耳；头状花序较多数，排成总状或圆锥花序；总苞片4-5；小花4-7。——(14)
+* ~植株高达2-3米；茎粗壮；叶宽三角形或宽三角状戟形，叶柄具宽1. 5-2厘米的宽翅，基部扩大成抱茎的大耳；头状花序多数，达250-350个，排成塔状宽圆锥花序；总苞片4-5；小花5-7。——[星叶蟹甲草](http://www.iplant.cn/info/Parasenecio komarovianus?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 14 叶片非扁肾形，纸质，顶端急狭成长尖，边缘具规则的齿或近基部有凹齿，被腺状短柔毛；总苞片5；小花 4-7 (8)。——(15)
+* ~叶片扁肾形，薄纸质，顶端凹或近截形，中央具三角形喙尖，边缘具不规则的粗齿，被具柄头状腺毛；叶柄基部具全缘或具齿的耳；总苞片4；小花5。——[茂汶蟹甲草](http://www.iplant.cn/info/Parasenecio maowenensis?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 15 叶片三角状戟形或卵状心形至宽心形，下面被毛。 ——(17)
+* ~叶肾形或三角状肾形，两面无毛。——(16)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 16 总苞片长4-8毫米，花期短于花冠及冠毛的1/3-1/2；头状花序  排成总状，稀短圆锥状；叶柄基部扩大成小耳。——[耳叶蟹甲草](http://www.iplant.cn/info/Parasenecio auriculatus?t=z)
+* ~总苞片长8-12毫米；花期约与花冠等长或稍短；头状花序排成疏   散或较密的长圆锥状花序；叶柄基部有宽1.5-2厘米的大耳。——[长白蟹甲草](http://www.iplant.cn/info/Parasenecio praetermissus?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 17 中部茎叶三角状戟形，侧生裂片三角形，有不规则的波状齿，下面  沿脉被短柔毛；叶柄向基部渐扩大而成卵圆形或圆形，宽1.5-2.5厘米的耳；叶耳全缘或具疏齿；总苞片5；小花5-6。——[甘肃蟹甲草](http://www.iplant.cn/info/Parasenecio gansuensis?t=z)
+* ~茎叶宽卵形或宽心形，下面被疏蛛丝状毛或近无毛；叶柄具宽5-10毫米的翅，基部扩大成抱茎的大耳；总苞片(3)5；小花3-4(5)。——[耳翼蟹甲草](http://www.iplant.cn/info/Parasenecio otopteryx?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 18 叶腋具腋芽。——(19)
+* ~叶腋无腋芽。——(20)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 19 叶片宽三角状戟形或卵状三角形，顶端长渐尖或尾尖，基部戟形或宽心形，下面密被腺状柔毛；总苞片和小花各5；冠毛褐色或紫褐色。——[戟状蟹甲草](http://www.iplant.cn/info/Parasenecio hastiformis?t=z)
+* ~叶片戟状三角形，顶端渐尖或长渐尖，基部心形，两面被鳞状短毛；总苞  片7-8；小花10-13；冠毛白色。——[高熊蟹甲草](http://www.iplant.cn/info/Parasenecio nokoensis?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 20 叶片三角状戟形，顶端急尖或渐尖，基部宽心形，两面无毛或近无毛；总苞片5；小花5-6。——[无毛蟹甲草](http://www.iplant.cn/info/Parasenecio subglaber?t=z)
+* ~叶片五角状肾形，顶端短尖或图钝，基部深心形，上面被糙短毛，下面沿脉被短毛；8 (9)；小花16-19。——[川鄂蟹甲草](http://www.iplant.cn/info/Parasenecio vespertilo?t=z)
+</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>* 21 叶宽五角形或矢形，侧生裂片小，窄三角形或不明显；头状花序大；总苞钟状，长13-15毫米，宽17-20毫米；总苞片12；小花多数 (38) 。——[中华蟹甲草](http://www.iplant.cn/info/Parasenecio sinicus?t=z)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+### 下级分类
+* [翠雀叶组  Sect. Delphiniifoliae](http://www.iplant.cn/info/Sect. Delphiniifoliae?t=z)
+* [小山蟹甲草组  Sect. Koyamacalia](http://www.iplant.cn/info/Sect. Koyamacalia?t=z)
+* [单花组  Sect. Monanthae](http://www.iplant.cn/info/Sect. Monanthae?t=z)
+* [蟹甲草组  Sect. Parasenecio](http://www.iplant.cn/info/Sect. Parasenecio?t=z)
+* [鞘柄组  Sect. Taimingasa](http://www.iplant.cn/info/Sect. Taimingasa?t=z)
+
+### 下级分类
+* [翠雀叶组  Sect. Delphiniifoliae](http://iplant.cn/info/sp/Sect. Delphiniifoliae?t=z)
+* [小山蟹甲草组  Sect. Koyamacalia](http://iplant.cn/info/sp/Sect. Koyamacalia?t=z)
+* [单花组  Sect. Monanthae](http://iplant.cn/info/sp/Sect. Monanthae?t=z)
+* [蟹甲草组  Sect. Parasenecio](http://iplant.cn/info/sp/Sect. Parasenecio?t=z)
+* [鞘柄组  Sect. Taimingasa](http://iplant.cn/info/sp/Sect. Taimingasa?t=z)

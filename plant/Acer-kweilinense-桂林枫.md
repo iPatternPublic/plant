@@ -1,0 +1,200 @@
+桂林枫 **Acer kweilinense** W. P. Fang & M. Y. Fang
+
+> [Aceraceae](Aceraceae-槭树科.md) - [PDF](http://www.iplant.cn/foc/pdf/Aceraceae.pdf) >> [Acer](Acer-槭属.md) - [PDF](http://www.iplant.cn/foc/pdf/Acer.pdf)
+
+
+> **Comment** : 
+> *Acer kweilinense* is characterized by its villous ovary, abaxial veins, and petioles.
+
+## Description
+
+Trees 6-8 m tall, andromonoecious. Bark gray or brownish gray, smooth. Branchlets glabrous, young branchlets green. Petiole 4-5 cm, villous; leaf blade abaxially green, adaxially deep green, elliptic, 5-8 × 7-11 cm, papery, abaxially distinctly villous on primary veins, adaxially glabrous, base truncate or nearly cordate, margin serrate, apex caudate-acute. Inflorescence erect, paniculate, 4-9 cm, glabrous; peduncles ca. 3 cm. Sepals 5, purplish green, oblong, ca. 1.5 mm. Petals 5, whitish green, oblong, ca. 1.5 mm. Stamens 8. Disk glabrous, slightly lobed, extrastaminal. Ovary densely villous. Samara purplish red when young, yellowish brown when mature, 2-2.5 cm; nutlets convex, globose, ca. 4 mm in diam.; wings 6-8 mm wide, spreading at obtuse angle. Fl. Apr, fr. Sep.
+
+
+> **Habait** : 
+>● Sparse forests; 1000-1500 m. NE Guangxi, SE Guizhou.
+
+### Synonym
+*Acer huangpingense* T. Z. Hsu.
+
+
+
+### Parsublist
+
+* [A.  acuminatum  齿裂枫](Acer-acuminatum-齿裂枫.md)
+* [A.  acutum  锐角枫](Acer-acutum-锐角枫.md)
+* [A.  albopurpurascens  紫白枫](Acer-albopurpurascens-紫白枫.md)
+* [A.  amplum  阔叶枫](Acer-amplum-阔叶枫.md)
+* [A.  amplum subsp. amplum  阔叶枫(原亚种)](Acer-amplum-subsp-amplum-阔叶枫(原亚种).md)
+* [A.  amplum subsp. bodinieri  建水阔叶枫](Acer-amplum-subsp-bodinieri-建水阔叶枫.md)
+* [A.  amplum subsp. catalpifolium  梓叶枫](Acer-amplum-subsp-catalpifolium-梓叶枫.md)
+* [A.  amplum subsp. tientaiense  天台阔叶枫](Acer-amplum-subsp-tientaiense-天台阔叶枫.md)
+* [A.  barbinerve  簇毛枫](Acer-barbinerve-簇毛枫.md)
+* [A.  buergerianum  三角枫](Acer-buergerianum-三角枫.md)
+* [A.  buergerianum var. buergerianum  三角枫(原变种)](Acer-buergerianum-var-buergerianum-三角枫(原变种).md)
+* [A.  buergerianum var. formosanum  台湾三角枫](Acer-buergerianum-var-formosanum-台湾三角枫.md)
+* [A.  buergerianum var. horizontale  平翅三角枫](Acer-buergerianum-var-horizontale-平翅三角枫.md)
+* [A.  buergerianum var. jiujiangense  九江三角枫](Acer-buergerianum-var-jiujiangense-九江三角枫.md)
+* [A.  buergerianum var. kaiscianense  界山三角枫](Acer-buergerianum-var-kaiscianense-界山三角枫.md)
+* [A.  buergerianum var. yentangense  雁荡三角枫](Acer-buergerianum-var-yentangense-雁荡三角枫.md)
+* [A.  caesium  深灰枫](Acer-caesium-深灰枫.md)
+* [A.  calcaratum  三裂枫](Acer-calcaratum-三裂枫.md)
+* [A.  campbellii  藏南枫](Acer-campbellii-藏南枫.md)
+* [A.  campbellii var. campbellii  藏南枫(原变种)](Acer-campbellii-var-campbellii-藏南枫(原变种).md)
+* [A.  campbellii var. serratifolium  重齿藏南枫](Acer-campbellii-var-serratifolium-重齿藏南枫.md)
+* [A.  cappadocicum  青皮枫](Acer-cappadocicum-青皮枫.md)
+* [A.  cappadocicum subsp. cappadocicum  青皮枫(原亚种)](Acer-cappadocicum-subsp-cappadocicum-青皮枫(原亚种).md)
+* [A.  cappadocicum subsp. sinicum  小叶青皮枫](Acer-cappadocicum-subsp-sinicum-小叶青皮枫.md)
+* [A.  caudatifolium  尖尾枫](Acer-caudatifolium-尖尾槭.md)
+* [A.  caudatum  长尾枫](Acer-caudatum-长尾枫.md)
+* [A.  ceriferum  杈叶枫](Acer-ceriferum-杈叶枫.md)
+* [A.  chienii  怒江枫](Acer-chienii-怒江枫.md)
+* [A.  chingii  黔桂枫](Acer-chingii-黔桂枫.md)
+* [A.  chunii  乳源枫](Acer-chunii-乳源枫.md)
+* [A.  chunii subsp. chunii  乳源枫(原亚种)](Acer-chunii-subsp-chunii-乳源枫(原亚种).md)
+* [A.  chunii subsp. dimorphophyllum  两型叶乳源枫](Acer-chunii-subsp-dimorphophyllum-两型叶乳源枫.md)
+* [A.  confertifolium  密叶枫](Acer-confertifolium-密叶枫.md)
+* [A.  cordatum  紫果枫](Acer-cordatum-紫果枫.md)
+* [A.  cordatum var. cordatum  紫果枫(原变种)](Acer-cordatum-var-cordatum-紫果枫(原变种).md)
+* [A.  cordatum var. dimorphifolium  两型叶紫果枫](Acer-cordatum-var-dimorphifolium-两型叶紫果枫.md)
+* [A.  coriaceifolium  樟叶枫](Acer-coriaceifolium-樟叶枫.md)
+* [A.  crassum  厚叶枫](Acer-crassum-厚叶枫.md)
+* [A.  davidii  青榨枫](Acer-davidii-青榨枫.md)
+* [A.  davidii subsp. davidii  青榨枫(原亚种)](Acer-davidii-subsp-davidii-青榨枫(原亚种).md)
+* [A.  davidii subsp. grosseri  葛罗枫](Acer-davidii-subsp-grosseri-葛罗枫.md)
+* [A.  duplicatoserratum  重齿枫](Acer-duplicatoserratum-重齿枫.md)
+* [A.  duplicatoserratum var. chinense  中华重齿枫](Acer-duplicatoserratum-var-chinense-中华重齿枫.md)
+* [A.  duplicatoserratum var. duplicatoserratum  重齿枫(原变种)](Acer-duplicatoserratum-var-duplicatoserratum-重齿枫(原变种).md)
+* [A.  elegantulum  秀丽枫](Acer-elegantulum-秀丽枫.md)
+* [A.  erianthum  毛花枫](Acer-erianthum-毛花枫.md)
+* [A.  fabri  罗浮枫](Acer-fabri-罗浮枫.md)
+* [A.  fenzelianum  河口枫](Acer-fenzelianum-河口枫.md)
+* [A.  flabellatum  扇叶枫](Acer-flabellatum-扇叶枫.md)
+* [A.  forrestii  丽江枫](Acer-forrestii-丽江枫.md)
+* [A.  fulvescens  黄毛枫](Acer-fulvescens-黄毛枫.md)
+* [A.  gracilifolium  长叶枫](Acer-gracilifolium-长叶枫.md)
+* [A.  griseum  血皮枫](Acer-griseum-血皮枫.md)
+* [A.  henryi  三叶枫](Acer-henryi-三叶枫.md)
+* [A.  hilaense  海拉枫](Acer-hilaense-海拉枫.md)
+* [A.  japonicum  羽扇枫](Acer-japonicum-羽扇枫.md)
+* [A.  komarovii  小楷枫](Acer-komarovii-小楷枫.md)
+* [A.  kungshanense  贡山枫](Acer-kungshanense-贡山枫.md)
+* [A.  kuomeii  国楣枫](Acer-kuomeii-国楣枫.md)
+* [A.  kwangnanense  广南枫](Acer-kwangnanense-广南枫.md)
+* [A.  laevigatum  光叶枫](Acer-laevigatum-光叶枫.md)
+* [A.  laevigatum var. laevigatum  光叶枫(原变种)](Acer-laevigatum-var-laevigatum-光叶枫(原变种).md)
+* [A.  laevigatum var. salweenense  怒江光叶枫](Acer-laevigatum-var-salweenense-怒江光叶枫.md)
+* [A.  laurinum  十蕊枫](Acer-laurinum-十蕊枫.md)
+* [A.  laxiflorum  疏花枫](Acer-laxiflorum-疏花枫.md)
+* [A.  leipoense  雷波枫](Acer-leipoense-雷波枫.md)
+* [A.  linganense  临安枫](Acer-linganense-临安枫.md)
+* [A.  longipes  长柄枫](Acer-longipes-长柄枫.md)
+* [A.  lucidum  亮叶枫](Acer-lucidum-亮叶枫.md)
+* [A.  lungshengense  龙胜枫](Acer-lungshengense-龙胜枫.md)
+* [A.  mandshuricum  东北枫](Acer-mandshuricum-东北枫.md)
+* [A.  maximowiczii  五尖枫](Acer-maximowiczii-五尖枫.md)
+* [A.  metcalfii  南岭枫](Acer-metcalfii-南岭枫.md)
+* [A.  miaoshanicum  苗山枫](Acer-miaoshanicum-苗山枫.md)
+* [A.  miaotaiense  庙台枫](Acer-miaotaiense-庙台枫.md)
+* [A.  morrisonense  玉山枫](Acer-morrisonense-玉山枫.md)
+* [A.  negundo  复叶枫](Acer-negundo-复叶枫.md)
+* [A.  nikoense  毛果枫](Acer-nikoense-毛果枫.md)
+* [A.  oblongum  飞蛾树](Acer-oblongum-飞蛾树.md)
+* [A.  oblongum var. oblongum  飞蛾枫(原变种)](Acer-oblongum-var-oblongum-飞蛾枫(原变种).md)
+* [A.  oblongum var. omeiense  峨眉飞蛾枫](Acer-oblongum-var-omeiense-峨眉飞蛾枫.md)
+* [A.  oligocarpum  少果枫](Acer-oligocarpum-少果枫.md)
+* [A.  oliverianum  五裂枫](Acer-oliverianum-五裂枫.md)
+* [A.  paihengii  富宁枫](Acer-paihengii-富宁枫.md)
+* [A.  palmatum  鸡爪枫](Acer-palmatum-鸡爪枫.md)
+* [A.  pauciflorum  稀花枫](Acer-pauciflorum-稀花枫.md)
+* [A.  paxii  金沙枫](Acer-paxii-金沙枫.md)
+* [A.  pectinatum  篦齿枫](Acer-pectinatum-篦齿枫.md)
+* [A.  pectinatum subsp. pectinatum  篦齿枫(原亚种)](Acer-pectinatum-subsp-pectinatum-篦齿枫(原亚种).md)
+* [A.  pectinatum subsp. taronense  独龙枫](Acer-pectinatum-subsp-taronense-独龙枫.md)
+* [A.  pentaphyllum  五小叶枫](Acer-pentaphyllum-五小叶枫.md)
+* [A.  pictum  色木枫](Acer-pictum-色木枫.md)
+* [A.  pictum subsp. macropterum  大翅色木枫](Acer-pictum-subsp-macropterum-大翅色木枫.md)
+* [A.  pictum subsp. mono  五角枫](Acer-pictum-subsp-mono-五角枫.md)
+* [A.  pictum subsp. pictum  色木枫(原亚种)](Acer-pictum-subsp-pictum-色木枫(原亚种).md)
+* [A.  pictum subsp. pubigerum  江南色木枫](Acer-pictum-subsp-pubigerum-江南色木枫.md)
+* [A.  pictum subsp. tricuspis  三尖色木枫](Acer-pictum-subsp-tricuspis-三尖色木枫.md)
+* [A.  pilosum  疏毛枫](Acer-pilosum-疏毛枫.md)
+* [A.  pilosum var. pilosum  疏毛枫(原变种)](Acer-pilosum-var-pilosum-疏毛枫(原变种).md)
+* [A.  pilosum var. stenolobum  细裂枫](Acer-pilosum-var-stenolobum-细裂枫.md)
+* [A.  pinnatinervium  楠叶枫](Acer-pinnatinervium-楠叶枫.md)
+* [A.  poliophyllum  灰叶枫](Acer-poliophyllum-灰叶枫.md)
+* [A.  pseudosieboldianum  紫花枫](Acer-pseudosieboldianum-紫花枫.md)
+* [A.  pubinerve  毛脉枫](Acer-pubinerve-毛脉枫.md)
+* [A.  pubipetiolatum  毛柄枫](Acer-pubipetiolatum-毛柄枫.md)
+* [A.  pubipetiolatum var. pingpienense  屏边毛柄枫](Acer-pubipetiolatum-var-pingpienense-屏边毛柄枫.md)
+* [A.  pubipetiolatum var. pubipetiolatum  毛柄枫(原变种)](Acer-pubipetiolatum-var-pubipetiolatum-毛柄枫(原变种).md)
+* [A.  serrulatum  台湾五裂枫](Acer-serrulatum-台湾五裂枫.md)
+* [A.  shenkanense  陕甘枫](Acer-shenkanense-陕甘枫.md)
+* [A.  shihweii  平坝枫](Acer-shihweii-平坝枫.md)
+* [A.  sikkimense  锡金枫](Acer-sikkimense-锡金枫.md)
+* [A.  sinense  中华枫](Acer-sinense-中华枫.md)
+* [A.  sino-oblongum  滨海枫](Acer-sino-oblongum-滨海枫.md)
+* [A.  sinopurpurascens  天目枫](Acer-sinopurpurascens-天目枫.md)
+* [A.  stachyophyllum  毛叶枫](Acer-stachyophyllum-毛叶枫.md)
+* [A.  stachyophyllum subsp. betulifolium  四蕊枫](Acer-stachyophyllum-subsp-betulifolium-四蕊枫.md)
+* [A.  stachyophyllum subsp. stachyophyllum  毛叶枫(原亚种)](Acer-stachyophyllum-subsp-stachyophyllum-毛叶枫(原亚种).md)
+* [A.  sterculiaceum  苹婆枫](Acer-sterculiaceum-苹婆枫.md)
+* [A.  sterculiaceum subsp. franchetii  房县枫](Acer-sterculiaceum-subsp-franchetii-房县枫.md)
+* [A.  sterculiaceum subsp. sterculiaceum  苹婆枫(原亚种)](Acer-sterculiaceum-subsp-sterculiaceum-苹婆枫(原亚种).md)
+* [A.  sutchuenense  四川枫](Acer-sutchuenense-四川枫.md)
+* [A.  sycopseoides  角叶枫](Acer-sycopseoides-角叶枫.md)
+* [A.  tataricum  鞑靼槭](Acer-tataricum-鞑靼槭.md)
+* [A.  tataricum subsp. ginnala  茶条枫](Acer-tataricum-subsp-ginnala-茶条枫.md)
+* [A.  tataricum subsp. semenovii  天山枫](Acer-tataricum-subsp-semenovii-天山枫.md)
+* [A.  tataricum subsp. theiferum  苦条枫](Acer-tataricum-subsp-theiferum-苦条枫.md)
+* [A.  tegmentosum  青楷枫](Acer-tegmentosum-青楷枫.md)
+* [A.  tenellum  薄叶枫](Acer-tenellum-薄叶枫.md)
+* [A.  tenellum var. septemlobum  七裂薄叶枫](Acer-tenellum-var-septemlobum-七裂薄叶枫.md)
+* [A.  tenellum var. tenellum  薄叶枫(原变种)](Acer-tenellum-var-tenellum-薄叶枫(原变种).md)
+* [A.  thomsonii  巨果枫](Acer-thomsonii-巨果枫.md)
+* [A.  tibetense  察隅枫](Acer-tibetense-察隅枫.md)
+* [A.  tonkinense  粗柄枫](Acer-tonkinense-粗柄枫.md)
+* [A.  triflorum  三花枫](Acer-triflorum-三花枫.md)
+* [A.  truncatum  元宝枫](Acer-truncatum-元宝枫.md)
+* [A.  tsinglingense  秦岭枫](Acer-tsinglingense-秦岭枫.md)
+* [A.  tutcheri  岭南枫](Acer-tutcheri-岭南枫.md)
+* [A.  tutcheri var. shimadae  小果岭南枫](Acer-tutcheri-var-shimadae-小果岭南枫.md)
+* [A.  tutcheri var. tutcheri  岭南枫(原变种)](Acer-tutcheri-var-tutcheri-岭南枫(原变种).md)
+* [A.  ukurunduense  花楷枫](Acer-ukurunduense-花楷枫.md)
+* [A.  wangchii  天峨枫](Acer-wangchii-天峨枫.md)
+* [A.  wardii  滇藏枫](Acer-wardii-滇藏枫.md)
+* [A.  wilsonii  三峡枫](Acer-wilsonii-三峡枫.md)
+* [A.  yangbiense  漾濞枫](Acer-yangbiense-漾濞枫.md)
+* [A.  yinkunii  都安枫](Acer-yinkunii-都安枫.md)
+* [A.  yui  川甘枫](Acer-yui-川甘枫.md)
+
+
+## 中国植物志
+
+> * [两色槭  A.  bicolor](http://www.iplant.cn/info/Acer bicolor?t=z)
+> * [藏南槭  A.  campbellii](Acer-campbellii-藏南枫.md)
+> * [黔桂槭  A.  chingii](Acer-chingii-黔桂枫.md)
+> * [密叶槭  A.  confertifolium](Acer-confertifolium-密叶枫.md)
+> * [秀丽槭  A.  elegantulum](Acer-elegantulum-秀丽枫.md)
+
+
+**桂林槭 Acer kweilinense",
+
+
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第46卷](http://www.iplant.cn/frps/vol/46) >> 164页 [PDF](http://www.iplant.cn/frps/pdf/46/164b.PDF)
+
+
+**48.桂林槭（植物分类学报）图版41：3-5**
+
+Acer kweilinense Fang et Fang f. in Act. Phytotax. Sin. 11: 157. 1966.
+
+落叶乔木，高6-8米。树皮灰色或灰褐色，平滑。小枝细瘦，圆柱形，无毛；当年生枝绿色或紫绿色，多年生枝淡灰色或灰绿色。叶纸质，外貌椭圆，长5-8厘米，宽7-11厘米，基部截形或近于心脏形，5裂稀于基部具小的裂片，裂片三角状卵形或长圆卵形，先端尾状锐尖，边缘具紧贴的锐尖锯齿，裂片间凹缺锐尖，上面深绿色，无毛，下面绿色，沿主脉被淡黄色长柔毛，其余部分无毛；主脉在上面显著，下面凸起，侧脉在上面显著，在下面微显著；叶柄细瘦，长4-5厘米，被淡黄色长柔毛，近顶端更密。花杂性，雄花与两性花同株，生成长4-5厘米的直立的圆锥花序，总花梗长3厘米；萼片5，紫绿色，长圆卵形，长1.5毫米；花瓣5，淡绿白色，长圆形，与萼片等长；雄蕊8；花盘位于雄蕊的外侧，无毛，微裂；子房密被淡黄色长柔毛，花柱无毛，长1.5毫米，2裂，柱头反卷。翅果嫩时淡紫红色，成熟时淡黄褐色；小坚果凸起，近于球形，直径4毫米，翅镰刀形，宽6-8毫米，连同小坚果长2.3-2.5厘米，张开成钝角。花期4月，果期9月。
+
+产贵州东南部和广西东北部。生于海拔1000-1500米的疏林中。模式标本采自广西桂林和龙胜。
+
+本种与毛花槭A. erianthum Schwer.及两色槭A. bicolor F., Chun的亲缘关系很相近，但本种的叶下面沿主脉被淡黄色长柔毛，小坚果无绉纹，翅张开成钝角，极易区别。
+
+
+
+}

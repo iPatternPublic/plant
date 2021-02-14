@@ -1,0 +1,2 @@
+![image](https://user-images.githubusercontent.com/75465037/103789863-72135080-507b-11eb-9b94-13cec30d6650.png)
+Character step matrices for: A. Ordered character .B. Unordered character .C. Irreversible character .D. Differentially weighted character

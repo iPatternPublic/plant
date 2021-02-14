@@ -1,0 +1,170 @@
+肖笼鸡 **Strobilanthes affinis** (Griffith) Terao ex J. R. I. Wood & J. R. Bennett Kew Bull. 58: 134. 2003.
+
+> [Acanthaceae](Acanthaceae-爵床科.md) - [PDF](http://www.iplant.cn/foc/pdf/Acanthaceae.pdf) >> [Strobilanthes](http://www.iplant.cn/info/Strobilanthes?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Strobilanthes.pdf)
+## Description
+
+Herbs to 60 cm tall, isophyllous. Stems 4-angled, sulcate, white pubescent with large-celled trichomes. Petiole 0.5-1.5 cm, pubescent; leaf blade ovate to ovate-elliptic, 3-8 × 2-4.5 cm, both surfaces sparsely strigose, abaxially yellowish green, adaxially dark green and densely covered with subulate cystoliths, secondary veins 5-7 on each side of midvein, base subrounded to cuneate and decurrent onto petiole, margin crenulate, apex acute. Inflorescences axillary or terminal, dense spikes, 2-6 cm; peduncle 0.5-2 cm, densely gland-tipped pubescent; sterile bracts sometimes present, sessile, suborbicular to ovate, 5-10 × 5-10 mm, strigose; floral bracts imbricate, broadly obovate, rhomboidal, or elliptic, 6-7 × 3-4 mm, gland-tipped pilose with large-celled trichomes, 5-veined, margin ciliate, apex sometimes reflexed; bracteoles oblong-linear, ca. 5 × 1.2 mm, slightly shorter than calyx, gland-tipped pubescent, margin ciliate. Calyx 5-7 mm, 5-lobed almost to base; lobes linear, one slightly longer than others, gland-tipped pubescent, 1-veined, margin ciliate, apex obtuse. Corolla purplish blue to violet, ca. 1.5 cm, curved, outside pilose, inside glabrous except for trichomes retaining style; tube basally cylindric and ca. 1 mm wide for ca. 7 mm then gradually widened to ca. 7 mm at mouth; limb somewhat 2-lipped, lower lip 3-lobed, upper lip 2-lobed; lobes orbicular, ca. 3 × 3 mm, unequal. Stamens 4; shorter filament pair ca. 4 mm, glabrous; longer filament pair ca. 6 cm, hirsute; anther thecae oblong, ca. 2 × 1.2 mm, strongly exserted; pollen type 14. Ovary pilose; style pilose, ca. 1.2 cm. Capsule oblong, 7-9 mm, pubescent, 4-seeded. Seeds brown, ovate to suborbicular in outline, ca. 1.5 × 1.5 mm, pubescent, glabrescent; areola small, glabrous. Fl. Sep-Nov.
+
+> Reference: 
+>*Strobilanthes affinis* is a very distinct species. Not only is the pollen unique but also the species is distinctive for having 4 exserted stamens and trichomes caducous on the seeds.*Strobilanthes affinis* is a very distinct species. Not only is the pollen unique but also the species is distinctive for having 4 exserted stamens and trichomes caducous on the seeds.
+
+### Statistics
+Mountain slopes, thickets; 600-1300 m. Guangxi, Guizhou, Hunan, Yunnan [India, Myanmar, Vietnam].
+
+### Synonym
+*Adenosma affinis* Griffith, Not. Pl. Asiat. 4: 133. 1854; *Strobilanthes acrocephala* T. Anderson; *S. darrisii* H. Léveillé; *S. thirionnii* H. Léveillé; *Tarphochlamys affinis* (Griffith) Bremekamp; *T. darrisii* (H. Léveillé) E. Hossain.
+
+### Parsublist
+
+* [S.  abbreviata  短尖马蓝](http://www.iplant.cn/info/Strobilanthes abbreviata?t=foc)
+* [S.  adpressa  紧贴马蓝](http://www.iplant.cn/info/Strobilanthes adpressa?t=foc)
+* [S.  anamitica  海南马蓝](http://www.iplant.cn/info/Strobilanthes anamitica?t=foc)
+* [S.  aprica  山一笼鸡](http://www.iplant.cn/info/Strobilanthes aprica?t=foc)
+* [S.  argentea  银毛马蓝](http://www.iplant.cn/info/Strobilanthes argentea?t=foc)
+* [S.  atropurpurea  翅柄马蓝](http://www.iplant.cn/info/Strobilanthes atropurpurea?t=foc)
+* [S.  atropurpurea var. atropurpurea  翅柄马蓝(原变种)](http://www.iplant.cn/info/Strobilanthes atropurpurea var. atropurpurea?t=foc)
+* [S.  atropurpurea var. stenophylla  镇宁马蓝](http://www.iplant.cn/info/Strobilanthes atropurpurea var. stenophylla?t=foc)
+* [S.  atroviridis  景东马蓝](http://www.iplant.cn/info/Strobilanthes atroviridis?t=foc)
+* [S.  auriculata  耳叶马蓝](http://www.iplant.cn/info/Strobilanthes auriculata?t=foc)
+* [S.  austrosinensis  华南马蓝](http://www.iplant.cn/info/Strobilanthes austrosinensis?t=foc)
+* [S.  bantonensis  桂越马蓝](http://www.iplant.cn/info/Strobilanthes bantonensis?t=foc)
+* [S.  biocullata  湖南马蓝](http://www.iplant.cn/info/Strobilanthes biocullata?t=foc)
+* [S.  bipartita  双萼马蓝](http://www.iplant.cn/info/Strobilanthes bipartita?t=foc)
+* [S.  brunnescens  折苞马蓝](http://www.iplant.cn/info/Strobilanthes brunnescens?t=foc)
+* [S.  capitata  头花马蓝](http://www.iplant.cn/info/Strobilanthes capitata?t=foc)
+* [S.  chinensis  黄球花](http://www.iplant.cn/info/Strobilanthes chinensis?t=foc)
+* [S.  chrysodelta  金三角马蓝](http://www.iplant.cn/info/Strobilanthes chrysodelta?t=foc)
+* [S.  cognata  奇瓣马蓝](http://www.iplant.cn/info/Strobilanthes cognata?t=foc)
+* [S.  compacta  密苞马蓝](http://www.iplant.cn/info/Strobilanthes compacta?t=foc)
+* [S.  congesta  密序马蓝](http://www.iplant.cn/info/Strobilanthes congesta?t=foc)
+* [S.  cruciata  四苞马蓝](http://www.iplant.cn/info/Strobilanthes cruciata?t=foc)
+* [S.  cumingiana  直立半插花](http://www.iplant.cn/info/Strobilanthes cumingiana?t=foc)
+* [S.  cuneata  楔叶马蓝](http://www.iplant.cn/info/Strobilanthes cuneata?t=foc)
+* [S.  cusia  板蓝](http://www.iplant.cn/info/Strobilanthes cusia?t=foc)
+* [S.  cyclus  环毛马蓝](http://www.iplant.cn/info/Strobilanthes cyclus?t=foc)
+* [S.  cyphantha  弯花马蓝](http://www.iplant.cn/info/Strobilanthes cyphantha?t=foc)
+* [S.  cystolithigera  串花马蓝](http://www.iplant.cn/info/Strobilanthes cystolithigera?t=foc)
+* [S.  dalzielii  曲枝马蓝](http://www.iplant.cn/info/Strobilanthes dalzielii?t=foc)
+* [S.  dimorphotricha  球花马蓝](http://www.iplant.cn/info/Strobilanthes dimorphotricha?t=foc)
+* [S.  dimorphotricha subsp. dimorphotricha  球花马蓝(原亚种)](http://www.iplant.cn/info/Strobilanthes dimorphotricha subsp. dimorphotricha?t=foc)
+* [S.  dimorphotricha subsp. rex  泰国马蓝](http://www.iplant.cn/info/Strobilanthes dimorphotricha subsp. rex?t=foc)
+* [S.  discolor  异色马蓝](http://www.iplant.cn/info/Strobilanthes discolor?t=foc)
+* [S.  dryadum  林马蓝](http://www.iplant.cn/info/Strobilanthes dryadum?t=foc)
+* [S.  echinata  长苞马蓝](http://www.iplant.cn/info/Strobilanthes echinata?t=foc)
+* [S.  esquirolii  白头马蓝](http://www.iplant.cn/info/Strobilanthes esquirolii?t=foc)
+* [S.  euantha  腾冲马蓝](http://www.iplant.cn/info/Strobilanthes euantha?t=foc)
+* [S.  extensa  棒果马蓝](http://www.iplant.cn/info/Strobilanthes extensa?t=foc)
+* [S.  fengiana  冯氏马蓝](http://www.iplant.cn/info/Strobilanthes fengiana?t=foc)
+* [S.  ferruginea  锈背马蓝](http://www.iplant.cn/info/Strobilanthes ferruginea?t=foc)
+* [S.  fimbriata  流苏马蓝](http://www.iplant.cn/info/Strobilanthes fimbriata?t=foc)
+* [S.  flexa  城口马蓝](http://www.iplant.cn/info/Strobilanthes flexa?t=foc)
+* [S.  flexicaulis  曲茎兰嵌马蓝](http://www.iplant.cn/info/Strobilanthes flexicaulis?t=foc)
+* [S.  fluviatilis  溪畔黄球花](http://www.iplant.cn/info/Strobilanthes fluviatilis?t=foc)
+* [S.  formosana  台湾马蓝](http://www.iplant.cn/info/Strobilanthes formosana?t=foc)
+* [S.  forrestii  腺毛马蓝](http://www.iplant.cn/info/Strobilanthes forrestii?t=foc)
+* [S.  glandibracteata  腺苞马蓝](http://www.iplant.cn/info/Strobilanthes glandibracteata?t=foc)
+* [S.  glomerata  球序马蓝](http://www.iplant.cn/info/Strobilanthes glomerata?t=foc)
+* [S.  guangxiensis  广西马蓝](http://www.iplant.cn/info/Strobilanthes guangxiensis?t=foc)
+* [S.  hamiltoniana  叉花草](http://www.iplant.cn/info/Strobilanthes hamiltoniana?t=foc)
+* [S.  helicta  曲序马蓝](http://www.iplant.cn/info/Strobilanthes helicta?t=foc)
+* [S.  henryi  南一笼鸡](http://www.iplant.cn/info/Strobilanthes henryi?t=foc)
+* [S.  heteroclita  异序马蓝](http://www.iplant.cn/info/Strobilanthes heteroclita?t=foc)
+* [S.  hossei  红毛马蓝](http://www.iplant.cn/info/Strobilanthes hossei?t=foc)
+* [S.  hupehensis  湖北马蓝](http://www.iplant.cn/info/Strobilanthes hupehensis?t=foc)
+* [S.  inflata  锡金马蓝](http://www.iplant.cn/info/Strobilanthes inflata?t=foc)
+* [S.  inflata var. aenobarba  铜毛马蓝](http://www.iplant.cn/info/Strobilanthes inflata var. aenobarba?t=foc)
+* [S.  inflata var. gongshanensis  贡山马蓝](http://www.iplant.cn/info/Strobilanthes inflata var. gongshanensis?t=foc)
+* [S.  inflata var. inflata  锡金马蓝(原变种)](http://www.iplant.cn/info/Strobilanthes inflata var. inflata?t=foc)
+* [S.  japonica  日本马蓝](http://www.iplant.cn/info/Strobilanthes japonica?t=foc)
+* [S.  kingdonii  合页草](http://www.iplant.cn/info/Strobilanthes kingdonii?t=foc)
+* [S.  labordei  薄叶马蓝](http://www.iplant.cn/info/Strobilanthes labordei?t=foc)
+* [S.  lachenensis  白毛马蓝](http://www.iplant.cn/info/Strobilanthes lachenensis?t=foc)
+* [S.  lamiifolia  蒙自马蓝](http://www.iplant.cn/info/Strobilanthes lamiifolia?t=foc)
+* [S.  lamium  野芝麻马蓝](http://www.iplant.cn/info/Strobilanthes lamium?t=foc)
+* [S.  lanyuensis  兰屿马蓝](http://www.iplant.cn/info/Strobilanthes lanyuensis?t=foc)
+* [S.  larium  闭花马蓝](http://www.iplant.cn/info/Strobilanthes larium?t=foc)
+* [S.  latisepala  薄萼马蓝](http://www.iplant.cn/info/Strobilanthes latisepala?t=foc)
+* [S.  lihengiae  李恒马蓝](http://www.iplant.cn/info/Strobilanthes lihengiae?t=foc)
+* [S.  longespicata  长穗马蓝](http://www.iplant.cn/info/Strobilanthes longespicata?t=foc)
+* [S.  longgangensis  弄岗马蓝](http://www.iplant.cn/info/Strobilanthes longgangensis?t=foc)
+* [S.  longiflora  长花马蓝](http://www.iplant.cn/info/Strobilanthes longiflora?t=foc)
+* [S.  longispica  长穗腺背蓝](http://www.iplant.cn/info/Strobilanthes longispica?t=foc)
+* [S.  longzhouensis  龙州马蓝](http://www.iplant.cn/info/Strobilanthes longzhouensis?t=foc)
+* [S.  mastersii  瑞丽叉花草](http://www.iplant.cn/info/Strobilanthes mastersii?t=foc)
+* [S.  medogensis  墨脱马蓝](http://www.iplant.cn/info/Strobilanthes medogensis?t=foc)
+* [S.  mogokensis  卵叶马蓝](http://www.iplant.cn/info/Strobilanthes mogokensis?t=foc)
+* [S.  mucronatoproducta  尾苞马蓝](http://www.iplant.cn/info/Strobilanthes mucronatoproducta?t=foc)
+* [S.  multidens  分枝马蓝](http://www.iplant.cn/info/Strobilanthes multidens?t=foc)
+* [S.  myura  鼠尾马蓝](http://www.iplant.cn/info/Strobilanthes myura?t=foc)
+* [S.  nemorosa  琴叶马蓝](http://www.iplant.cn/info/Strobilanthes nemorosa?t=foc)
+* [S.  ningmingensis  宁明马蓝](http://www.iplant.cn/info/Strobilanthes ningmingensis?t=foc)
+* [S.  nobilis  沙坝马蓝](http://www.iplant.cn/info/Strobilanthes nobilis?t=foc)
+* [S.  oligantha  少花马蓝](http://www.iplant.cn/info/Strobilanthes oligantha?t=foc)
+* [S.  oligocephala  菱叶马蓝](http://www.iplant.cn/info/Strobilanthes oligocephala?t=foc)
+* [S.  oresbia  山马蓝](http://www.iplant.cn/info/Strobilanthes oresbia?t=foc)
+* [S.  ovata  滇西马蓝](http://www.iplant.cn/info/Strobilanthes ovata?t=foc)
+* [S.  ovatibracteata  卵苞马蓝](http://www.iplant.cn/info/Strobilanthes ovatibracteata?t=foc)
+* [S.  oxycalycina  尖萼马蓝](http://www.iplant.cn/info/Strobilanthes oxycalycina?t=foc)
+* [S.  parvifolia  小叶马蓝](http://www.iplant.cn/info/Strobilanthes parvifolia?t=foc)
+* [S.  pateriformis  翅枝马蓝](http://www.iplant.cn/info/Strobilanthes pateriformis?t=foc)
+* [S.  penstemonoides  圆苞马蓝](http://www.iplant.cn/info/Strobilanthes penstemonoides?t=foc)
+* [S.  pinetorum  松林马蓝](http://www.iplant.cn/info/Strobilanthes pinetorum?t=foc)
+* [S.  pinnatifida  羽裂马蓝](http://www.iplant.cn/info/Strobilanthes pinnatifida?t=foc)
+* [S.  polyneuros  多脉马蓝](http://www.iplant.cn/info/Strobilanthes polyneuros?t=foc)
+* [S.  procumbens  金佛山马蓝](http://www.iplant.cn/info/Strobilanthes procumbens?t=foc)
+* [S.  pseudocollina  阳朔马蓝](http://www.iplant.cn/info/Strobilanthes pseudocollina?t=foc)
+* [S.  pteroclada  延苞马蓝](http://www.iplant.cn/info/Strobilanthes pteroclada?t=foc)
+* [S.  pterygorrhachis  翅轴马蓝](http://www.iplant.cn/info/Strobilanthes pterygorrhachis?t=foc)
+* [S.  quadrifaria  四列马蓝](http://www.iplant.cn/info/Strobilanthes quadrifaria?t=foc)
+* [S.  rankanensis  兰嵌马蓝](http://www.iplant.cn/info/Strobilanthes rankanensis?t=foc)
+* [S.  reptans  匍匐半插花](http://www.iplant.cn/info/Strobilanthes reptans?t=foc)
+* [S.  retusa  凹苞马蓝](http://www.iplant.cn/info/Strobilanthes retusa?t=foc)
+* [S.  rhombifolia  短柄马蓝](http://www.iplant.cn/info/Strobilanthes rhombifolia?t=foc)
+* [S.  rostrata  西畴马蓝](http://www.iplant.cn/info/Strobilanthes rostrata?t=foc)
+* [S.  rubescens  红色马蓝](http://www.iplant.cn/info/Strobilanthes rubescens?t=foc)
+* [S.  sarcorrhiza  菜头肾](http://www.iplant.cn/info/Strobilanthes sarcorrhiza?t=foc)
+* [S.  secunda  偏花马蓝](http://www.iplant.cn/info/Strobilanthes secunda?t=foc)
+* [S.  serrata  齿叶马蓝](http://www.iplant.cn/info/Strobilanthes serrata?t=foc)
+* [S.  simonsii  西蒙马蓝](http://www.iplant.cn/info/Strobilanthes simonsii?t=foc)
+* [S.  sinica  安龙马蓝](http://www.iplant.cn/info/Strobilanthes sinica?t=foc)
+* [S.  speciosa  美丽马蓝](http://www.iplant.cn/info/Strobilanthes speciosa?t=foc)
+* [S.  spiciformis  黄连山马蓝](http://www.iplant.cn/info/Strobilanthes spiciformis?t=foc)
+* [S.  stolonifera  匍枝马蓝](http://www.iplant.cn/info/Strobilanthes stolonifera?t=foc)
+* [S.  strigosa  糙毛马蓝](http://www.iplant.cn/info/Strobilanthes strigosa?t=foc)
+* [S.  szechuanica  四川马蓝](http://www.iplant.cn/info/Strobilanthes szechuanica?t=foc)
+* [S.  tamburensis  毛冠马蓝](http://www.iplant.cn/info/Strobilanthes tamburensis?t=foc)
+* [S.  taoana  陶氏马蓝](http://www.iplant.cn/info/Strobilanthes taoana?t=foc)
+* [S.  tenax  结壮马蓝](http://www.iplant.cn/info/Strobilanthes tenax?t=foc)
+* [S.  tenuiflora  纤序马蓝](http://www.iplant.cn/info/Strobilanthes tenuiflora?t=foc)
+* [S.  tetrasperma  四子马蓝](http://www.iplant.cn/info/Strobilanthes tetrasperma?t=foc)
+* [S.  thomsonii  汤氏马蓝](http://www.iplant.cn/info/Strobilanthes thomsonii?t=foc)
+* [S.  tibetica  西藏马蓝](http://www.iplant.cn/info/Strobilanthes tibetica?t=foc)
+* [S.  tomentosa  尖药花](http://www.iplant.cn/info/Strobilanthes tomentosa?t=foc)
+* [S.  tonkinensis  糯米香](http://www.iplant.cn/info/Strobilanthes tonkinensis?t=foc)
+* [S.  torrentium  急流马蓝](http://www.iplant.cn/info/Strobilanthes torrentium?t=foc)
+* [S.  truncata  截头马蓝](http://www.iplant.cn/info/Strobilanthes truncata?t=foc)
+* [S.  tubiflos  管花马蓝](http://www.iplant.cn/info/Strobilanthes tubiflos?t=foc)
+* [S.  urophylla  尾叶马蓝](http://www.iplant.cn/info/Strobilanthes urophylla?t=foc)
+* [S.  vallicola  河口马蓝](http://www.iplant.cn/info/Strobilanthes vallicola?t=foc)
+* [S.  versicolor  变色马蓝](http://www.iplant.cn/info/Strobilanthes versicolor?t=foc)
+* [S.  wangiana  启无马蓝](http://www.iplant.cn/info/Strobilanthes wangiana?t=foc)
+* [S.  wilsonii  乐山马蓝](http://www.iplant.cn/info/Strobilanthes wilsonii?t=foc)
+* [S.  yunnanensis  云南马蓝](http://www.iplant.cn/info/Strobilanthes yunnanensis?t=foc)
+
+## 中国植物志
+
+> * [肖笼鸡  T.  affinis](http://www.iplant.cn/info/Tarphochlamys affinis?t=z)
+
+  "morefrpsname": "您是否要找：<span class='spantxt'>[Tarphochlamys affinis](http://www.iplant.cn/info/Tarphochlamys affinis?t=z) ",
+**贵州肖笼鸡 Tarphochlamys darrisii**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第70卷](http://www.iplant.cn/frps/vol/70) >> 108页 [PDF](http://www.iplant.cn/frps/pdf/70/108.pdf)
+**2.贵州肖笼鸡（新拟）兴义顶头马蓝（云南种子植物名录）**
+
+Tarphochlamys darrish (Levl.) E. Hossain in Not. Bot. Gard. Edinb. 32(2): 410. 1972; 云南种子植物名录(下册): 1687. 1984. ——Strobilanthes darrisii Levl. in Fedde, Repert. Sp. Nov. 12: 18. 1913 et Fl. Kouy-Tcheou: 22. 1944 p. p. ; Bremek. in Verh. Ned. Akad. Wetensch. Afd. Naturk. Sect. 2. 41(1): 273. 1944.
+
+植株匍匐，具多茎和被长柔毛，茎上升，通常高10-15厘米；花序紧穗状；叶具柄，卵形，几近圆形，极钝，长与宽均12-15毫米，被硬毛，下面具小圆齿，中部3脉，花蓝-堇色；雄蕊2。模式标本采自贵州兴义县。
+
+作者未见模式标本，而原描述过于简单。认为本种很可能与肖笼鸡为同一种。
+
+}

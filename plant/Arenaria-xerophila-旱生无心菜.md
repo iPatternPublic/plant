@@ -1,0 +1,195 @@
+旱生无心菜 **Arenaria xerophila** W. W. Smith
+
+> [Caryophyllaceae](http://www.iplant.cn/info/Caryophyllaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Caryophyllaceae.pdf) >> [Arenaria](http://www.iplant.cn/info/Arenaria?t=foc)
+ - [PDF](http://www.iplant.cn/foc/pdf/Arenaria.pdf)
+
+
+> **Comment** : 
+> Two weakly distinguished varieties have been recognized.
+
+## Description
+
+Herbs perennial. Roots conic or shortly fusiform. Stems suberect or ascending, branched at base, violet, 5--20 cm; branchlets numerous, diffuse, pseudodichotomously branched, slender, hard, sparsely white villous or glabrous. Leaf blade oblanceolate, 0.5--2.5 cm × 1--5 mm, papery, adaxially with or without small, clavate protuberances, base attenuate into a short sheath, apex acute, not cuspidate. Cymes conic, sparsely many flowered; bracts similar to leaves but smaller. Pedicel slender, 0.5--1.5 cm, soft, hairy. Sepals 5, green abaxially, ovate-lanceolate or ovate, 2--6 × 1--3 mm, midvein and basal veins hairy, base broadened, margin white, ciliate, apex obtuse. Petals 5, white, obovate or broadly so, 3--8 mm, equaling or slightly longer than sepals, apex obtuse. Stamens 10. Ovary ovoid-globose. Styles 2 or 3, 2--5 mm. Fl. Aug--Sep.
+
+
+> **Habait** : 
+>* Pinus forest margins, mountain grasslands; 2600--3600 m. Sichuan, NW Yunnan.
+
+
+## Keylist
+
+* 1 Styles 2——50a [var. xerophila 旱生无心菜(原变种)](http://www.iplant.cn/info/Arenaria xerophila var. xerophila?t=foc)
+* ~ Styles 3——50b [var. xiangchengensis 乡城无心菜](http://www.iplant.cn/info/Arenaria xerophila var. xiangchengensis?t=foc)
+
+
+
+### Parsublist
+
+* [A.  acicularis  针叶老牛筋](http://www.iplant.cn/info/Arenaria acicularis?t=foc)
+* [A.  aksayqingensis  阿克赛钦雪灵芝](http://www.iplant.cn/info/Arenaria aksayqingensis?t=foc)
+* [A.  amdoensis  安多无心菜](http://www.iplant.cn/info/Arenaria amdoensis?t=foc)
+* [A.  androsacea  点地梅状老牛筋](http://www.iplant.cn/info/Arenaria androsacea?t=foc)
+* [A.  auricoma  黄毛无心菜](http://www.iplant.cn/info/Arenaria auricoma?t=foc)
+* [A.  barbata  髯毛无心菜](http://www.iplant.cn/info/Arenaria barbata?t=foc)
+* [A.  barbata var. barbata  髯毛无心菜(原变种)](http://www.iplant.cn/info/Arenaria barbata var. barbata?t=foc)
+* [A.  barbata var. hirsutissima  硬毛无心菜](http://www.iplant.cn/info/Arenaria barbata var. hirsutissima?t=foc)
+* [A.  baxoiensis  八宿雪灵芝](http://www.iplant.cn/info/Arenaria baxoiensis?t=foc)
+* [A.  bomiensis  波密无心菜](http://www.iplant.cn/info/Arenaria bomiensis?t=foc)
+* [A.  brevipetala  雪灵芝](http://www.iplant.cn/info/Arenaria brevipetala?t=foc)
+* [A.  bryophylla  藓状雪灵芝](http://www.iplant.cn/info/Arenaria bryophylla?t=foc)
+* [A.  capillaris  毛叶老牛筋](http://www.iplant.cn/info/Arenaria capillaris?t=foc)
+* [A.  chamdoensis  昌都无心菜](http://www.iplant.cn/info/Arenaria chamdoensis?t=foc)
+* [A.  ciliolata  缘毛无心菜](http://www.iplant.cn/info/Arenaria ciliolata?t=foc)
+* [A.  compressa  扁翅无心菜](http://www.iplant.cn/info/Arenaria compressa?t=foc)
+* [A.  dawuensis  ](http://www.iplant.cn/info/Arenaria dawuensis?t=foc)
+* [A.  debilis  柔软无心菜](http://www.iplant.cn/info/Arenaria debilis?t=foc)
+* [A.  delavayi  大理无心菜](http://www.iplant.cn/info/Arenaria delavayi?t=foc)
+* [A.  densissima  密生福禄草](http://www.iplant.cn/info/Arenaria densissima?t=foc)
+* [A.  dimorphitricha  滇蜀无心菜](http://www.iplant.cn/info/Arenaria dimorphitricha?t=foc)
+* [A.  dsharaensis  察龙无心菜](http://www.iplant.cn/info/Arenaria dsharaensis?t=foc)
+* [A.  edgeworthiana  山居雪灵芝](http://www.iplant.cn/info/Arenaria edgeworthiana?t=foc)
+* [A.  euodonta  真齿无心菜](http://www.iplant.cn/info/Arenaria euodonta?t=foc)
+* [A.  festucoides  狐茅状雪灵芝](http://www.iplant.cn/info/Arenaria festucoides?t=foc)
+* [A.  festucoides var. festucoides  狐茅状雪灵芝(原变种)](http://www.iplant.cn/info/Arenaria festucoides var. festucoides?t=foc)
+* [A.  festucoides var. imbricata  小狐茅状雪灵芝](http://www.iplant.cn/info/Arenaria festucoides var. imbricata?t=foc)
+* [A.  filipes  细柄无心菜](http://www.iplant.cn/info/Arenaria filipes?t=foc)
+* [A.  fimbriata  瓣无心菜](http://www.iplant.cn/info/Arenaria fimbriata?t=foc)
+* [A.  formosa  美丽老牛筋](http://www.iplant.cn/info/Arenaria formosa?t=foc)
+* [A.  forrestii  西南无心菜](http://www.iplant.cn/info/Arenaria forrestii?t=foc)
+* [A.  fridericae  玉龙山无心菜](http://www.iplant.cn/info/Arenaria fridericae?t=foc)
+* [A.  gerzensis  改则雪灵芝](http://www.iplant.cn/info/Arenaria gerzensis?t=foc)
+* [A.  giraldii  秦岭无心菜](http://www.iplant.cn/info/Arenaria giraldii?t=foc)
+* [A.  glanduligera  小腺无心菜](http://www.iplant.cn/info/Arenaria glanduligera?t=foc)
+* [A.  griffithii  裸茎老牛筋](http://www.iplant.cn/info/Arenaria griffithii?t=foc)
+* [A.  grueningiana  华北老牛筋](http://www.iplant.cn/info/Arenaria grueningiana?t=foc)
+* [A.  haitzeshanensis  海子山老牛筋](http://www.iplant.cn/info/Arenaria haitzeshanensis?t=foc)
+* [A.  inconspicua  不显无心菜](http://www.iplant.cn/info/Arenaria inconspicua?t=foc)
+* [A.  inornata  无饰无心菜](http://www.iplant.cn/info/Arenaria inornata?t=foc)
+* [A.  iochanensis  药山无心菜](http://www.iplant.cn/info/Arenaria iochanensis?t=foc)
+* [A.  ionandra  紫蕊无心菜](http://www.iplant.cn/info/Arenaria ionandra?t=foc)
+* [A.  ionandra var. ionandra  紫蕊无心菜(原变种)](http://www.iplant.cn/info/Arenaria ionandra var. ionandra?t=foc)
+* [A.  ionandra var. melanotricha  黑毛无心菜](http://www.iplant.cn/info/Arenaria ionandra var. melanotricha?t=foc)
+* [A.  ischnophylla  瘦叶雪灵芝](http://www.iplant.cn/info/Arenaria ischnophylla?t=foc)
+* [A.  juncea  老牛筋](http://www.iplant.cn/info/Arenaria juncea?t=foc)
+* [A.  juncea var. glabra  无毛老牛筋](http://www.iplant.cn/info/Arenaria juncea var. glabra?t=foc)
+* [A.  juncea var. juncea  老牛筋(原变种)](http://www.iplant.cn/info/Arenaria juncea var. juncea?t=foc)
+* [A.  kansuensis  甘肃雪灵芝](http://www.iplant.cn/info/Arenaria kansuensis?t=foc)
+* [A.  karakorensis  克拉克无心菜](http://www.iplant.cn/info/Arenaria karakorensis?t=foc)
+* [A.  kumaonensis  库莽雪灵芝](http://www.iplant.cn/info/Arenaria kumaonensis?t=foc)
+* [A.  lancangensis  澜沧雪灵芝](http://www.iplant.cn/info/Arenaria lancangensis?t=foc)
+* [A.  leucasteria  毛萼无心菜](http://www.iplant.cn/info/Arenaria leucasteria?t=foc)
+* [A.  littledalei  古临无心菜](http://www.iplant.cn/info/Arenaria littledalei?t=foc)
+* [A.  longicaulis  长茎无心菜](http://www.iplant.cn/info/Arenaria longicaulis?t=foc)
+* [A.  longipes  长梗无心菜](http://www.iplant.cn/info/Arenaria longipes?t=foc)
+* [A.  longipetiolata  长柄无心菜](http://www.iplant.cn/info/Arenaria longipetiolata?t=foc)
+* [A.  longiseta  长刚毛无心菜](http://www.iplant.cn/info/Arenaria longiseta?t=foc)
+* [A.  longistyla  长柱无心菜](http://www.iplant.cn/info/Arenaria longistyla?t=foc)
+* [A.  longistyla var. eugonophylla  棱长柱无心菜](http://www.iplant.cn/info/Arenaria longistyla var. eugonophylla?t=foc)
+* [A.  longistyla var. longistyla  长柱无心菜(原变种)](http://www.iplant.cn/info/Arenaria longistyla var. longistyla?t=foc)
+* [A.  longistyla var. pleurogynoides  侧长柱无心菜](http://www.iplant.cn/info/Arenaria longistyla var. pleurogynoides?t=foc)
+* [A.  melanandra  黑蕊无心菜](http://www.iplant.cn/info/Arenaria melanandra?t=foc)
+* [A.  melandryiformis  女娄无心菜](http://www.iplant.cn/info/Arenaria melandryiformis?t=foc)
+* [A.  melandryoides  桃色无心菜](http://www.iplant.cn/info/Arenaria melandryoides?t=foc)
+* [A.  membranisepala  膜萼无心菜](http://www.iplant.cn/info/Arenaria membranisepala?t=foc)
+* [A.  minima  微无心菜](http://www.iplant.cn/info/Arenaria minima?t=foc)
+* [A.  monantha  山地无心菜](http://www.iplant.cn/info/Arenaria monantha?t=foc)
+* [A.  monilifera  念珠无心菜](http://www.iplant.cn/info/Arenaria monilifera?t=foc)
+* [A.  monosperma  单子无心菜](http://www.iplant.cn/info/Arenaria monosperma?t=foc)
+* [A.  napuligera  滇藏无心菜](http://www.iplant.cn/info/Arenaria napuligera?t=foc)
+* [A.  napuligera var. monocephala  单头无心菜](http://www.iplant.cn/info/Arenaria napuligera var. monocephala?t=foc)
+* [A.  napuligera var. napuligera  滇藏无心菜(原变种)](http://www.iplant.cn/info/Arenaria napuligera var. napuligera?t=foc)
+* [A.  neelgherrensis  尼盖无心菜](http://www.iplant.cn/info/Arenaria neelgherrensis?t=foc)
+* [A.  nigricans  变黑无心菜](http://www.iplant.cn/info/Arenaria nigricans?t=foc)
+* [A.  nigricans var. nigricans  变黑无心菜(原变种)](http://www.iplant.cn/info/Arenaria nigricans var. nigricans?t=foc)
+* [A.  nigricans var. zhenkangensis  镇康无心菜](http://www.iplant.cn/info/Arenaria nigricans var. zhenkangensis?t=foc)
+* [A.  nivalomontana  大雪山无心菜](http://www.iplant.cn/info/Arenaria nivalomontana?t=foc)
+* [A.  omeiensis  峨眉无心菜](http://www.iplant.cn/info/Arenaria omeiensis?t=foc)
+* [A.  orbiculata  圆叶无心菜](http://www.iplant.cn/info/Arenaria orbiculata?t=foc)
+* [A.  oreophila  山生福禄草](http://www.iplant.cn/info/Arenaria oreophila?t=foc)
+* [A.  pharensis  帕里无心菜](http://www.iplant.cn/info/Arenaria pharensis?t=foc)
+* [A.  pogonantha  须花无心菜](http://www.iplant.cn/info/Arenaria pogonantha?t=foc)
+* [A.  polysperma  多子无心菜](http://www.iplant.cn/info/Arenaria polysperma?t=foc)
+* [A.  polytrichoides  团状福禄草](http://www.iplant.cn/info/Arenaria polytrichoides?t=foc)
+* [A.  potaninii  五蕊老牛筋](http://www.iplant.cn/info/Arenaria potaninii?t=foc)
+* [A.  przewalskii  福禄草](http://www.iplant.cn/info/Arenaria przewalskii?t=foc)
+* [A.  pseudostellaria  线叶无心菜](http://www.iplant.cn/info/Arenaria pseudostellaria?t=foc)
+* [A.  pulvinata  垫状雪灵芝](http://www.iplant.cn/info/Arenaria pulvinata?t=foc)
+* [A.  puranensis  普兰无心菜](http://www.iplant.cn/info/Arenaria puranensis?t=foc)
+* [A.  qinghaiensis  青海雪灵芝](http://www.iplant.cn/info/Arenaria qinghaiensis?t=foc)
+* [A.  quadridentata  四齿无心菜](http://www.iplant.cn/info/Arenaria quadridentata?t=foc)
+* [A.  ramellata  嫩枝无心菜](http://www.iplant.cn/info/Arenaria ramellata?t=foc)
+* [A.  reducta  减缩无心菜](http://www.iplant.cn/info/Arenaria reducta?t=foc)
+* [A.  rhodantha  红花无心菜](http://www.iplant.cn/info/Arenaria rhodantha?t=foc)
+* [A.  roborowskii  青藏雪灵芝](http://www.iplant.cn/info/Arenaria roborowskii?t=foc)
+* [A.  rockii  紫红无心菜](http://www.iplant.cn/info/Arenaria rockii?t=foc)
+* [A.  roseiflora  粉花无心菜](http://www.iplant.cn/info/Arenaria roseiflora?t=foc)
+* [A.  saginoides  漆姑无心菜](http://www.iplant.cn/info/Arenaria saginoides?t=foc)
+* [A.  salweenensis  怒江无心菜](http://www.iplant.cn/info/Arenaria salweenensis?t=foc)
+* [A.  schneideriana  雪山无心菜](http://www.iplant.cn/info/Arenaria schneideriana?t=foc)
+* [A.  serpyllifolia  无心菜](http://www.iplant.cn/info/Arenaria serpyllifolia?t=foc)
+* [A.  setifera  刚毛无心菜](http://www.iplant.cn/info/Arenaria setifera?t=foc)
+* [A.  shannanensis  粉花雪灵芝](http://www.iplant.cn/info/Arenaria shannanensis?t=foc)
+* [A.  shennongjiaensis  ](http://www.iplant.cn/info/Arenaria shennongjiaensis?t=foc)
+* [A.  smithiana  大花福禄草](http://www.iplant.cn/info/Arenaria smithiana?t=foc)
+* [A.  spathulifolia  匙叶无心菜](http://www.iplant.cn/info/Arenaria spathulifolia?t=foc)
+* [A.  stracheyi  藏西无心菜](http://www.iplant.cn/info/Arenaria stracheyi?t=foc)
+* [A.  szechuensis  四川无心菜](http://www.iplant.cn/info/Arenaria szechuensis?t=foc)
+* [A.  taibaishanensis  太白雪灵芝](http://www.iplant.cn/info/Arenaria taibaishanensis?t=foc)
+* [A.  trichophora  具毛无心菜](http://www.iplant.cn/info/Arenaria trichophora?t=foc)
+* [A.  trichophylla  毛叶无心菜](http://www.iplant.cn/info/Arenaria trichophylla?t=foc)
+* [A.  tumengelaensis  土门无心菜](http://www.iplant.cn/info/Arenaria tumengelaensis?t=foc)
+* [A.  weissiana  多柱无心菜](http://www.iplant.cn/info/Arenaria weissiana?t=foc)
+* [A.  weissiana var. bifida  裂瓣无心菜](http://www.iplant.cn/info/Arenaria weissiana var. bifida?t=foc)
+* [A.  weissiana var. puberula  微毛无心菜](http://www.iplant.cn/info/Arenaria weissiana var. puberula?t=foc)
+* [A.  weissiana var. weissiana  多柱无心菜(原变种)](http://www.iplant.cn/info/Arenaria weissiana var. weissiana?t=foc)
+* [A.  xerophila var. xerophila  旱生无心菜(原变种)](http://www.iplant.cn/info/Arenaria xerophila var. xerophila?t=foc)
+* [A.  xerophila var. xiangchengensis  乡城无心菜](http://www.iplant.cn/info/Arenaria xerophila var. xiangchengensis?t=foc)
+* [A.  yulongshanensis  狭叶无心菜](http://www.iplant.cn/info/Arenaria yulongshanensis?t=foc)
+* [A.  yunnanensis  云南无心菜](http://www.iplant.cn/info/Arenaria yunnanensis?t=foc)
+* [A.  yunnanensis var. caespitosa  簇生无心菜](http://www.iplant.cn/info/Arenaria yunnanensis var. caespitosa?t=foc)
+* [A.  yunnanensis var. yunnanensis  云南无心菜(原变种)](http://www.iplant.cn/info/Arenaria yunnanensis var. yunnanensis?t=foc)
+* [A.  zadoiensis  杂多雪灵芝](http://www.iplant.cn/info/Arenaria zadoiensis?t=foc)
+* [A.  zhongdianensis  中甸无心菜](http://www.iplant.cn/info/Arenaria zhongdianensis?t=foc)
+
+
+## 中国植物志
+
+> * [细柄无心菜  A.  filipes](Arenaria-filipes-细柄无心菜.md)
+> * [轮叶无心菜  A.  galliformis](http://www.iplant.cn/info/Arenaria galliformis?t=z)
+> * [滇藏无心菜  A.  napuligera](Arenaria-napuligera-滇藏无心菜.md)
+> * [变黑无心菜  A.  nigricans](Arenaria-nigricans-变黑无心菜.md)
+> * [雪山无心菜  A.  schneideriana](Arenaria-schneideriana-雪山无心菜.md)
+
+
+**旱生无心菜 Arenaria xerophila**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第26卷](http://www.iplant.cn/frps/vol/26) >> 210页 [PDF](http://www.iplant.cn/frps/pdf/26/210a.pdf)
+
+
+**51. 旱生无心菜（中国高等植物图鉴补编）旱生蚤缀（拉汉种子植物名称）**
+
+Arenaria xerophila W. W. Smith in Not. Bot. Gard. Edinb. 11: 198. 1920; Hand. -Mazz. , Symb. Sin. 7: 200. 1929; 中国高等植物图鉴补编1: 307. 1982, in clavi.
+
+**51a. 旱生无心菜（原变种）**
+
+var. xerophila
+
+多年生草本，多分枝，铺散。根圆锥形或短纺锤形，褐色。茎近直立或上升，由基部分枝，高5-20厘米，小枝细而硬，带紫色，假二歧状分枝，伸展，被稀疏的白色柔毛，或无毛。叶片近纸质，倒披针形，长0.5-2.5厘米，宽1-5毫米，基部渐狭，连合成短鞘，顶端急尖，不具硬尖头，上面具小的疣状凸起或否。稀疏的圆锥状聚伞花序，具多花；苞片与叶同形而小；花梗长5-15毫米，细软，被柔毛；萼片5，卵状披针形或卵形，长2-6毫米，宽1-3毫米，基部较宽，边缘白色，密具缘毛，顶端钝，外面绿色，基部和中脉疏被柔毛；花瓣5，白色，倒卵形或宽倒卵形，稍长于萼片，长3-8毫米，顶端钝圆；雄蕊10，花丝无毛；子房球形，花柱2，长2-5毫米。花期8-9月。
+
+产云南西北部（丽江、德钦、鹤庆）和四川西部（得荣、稻城）。生于海拔 2 600-3 600米的山坡草地。模式标本采自云南丽江至大理。
+
+**51b. 乡城无心菜（变种）（高原生物学集刊）图版47：1-4**
+
+var. xiangchengensis (L. H. Zhou) C. Y. Wu, comb. et stat. nov. ——A. xiangchengensis L. H. Zhou in Act. Biol. Plat. Sin. 6: 36. 1987.
+
+本变种与原变种的主要区别：花小，花瓣、萼片、花柱近等长，花柱3。
+
+产四川西部（乡城—模式标本产地）。生于海拔3 000米的松林林缘。
+
+### 下级分类
+* [旱生无心菜（原变种）  Arenaria xerophila var. xerophila](Arenaria-xerophila-var-xerophila-旱生无心菜(原变种).md)
+* [乡城无心菜  Arenaria xerophila var. xiangchengensis](Arenaria-xerophila-var-xiangchengensis-乡城无心菜.md)
+
+### 下级分类
+* [旱生无心菜（原变种）  Arenaria xerophila var. xerophila](http://www.iplant.cn/info/sp/Arenaria xerophila var. xerophila?t=z)
+* [乡城无心菜  Arenaria xerophila var. xiangchengensis](http://www.iplant.cn/info/sp/Arenaria xerophila var. xiangchengensis?t=z)

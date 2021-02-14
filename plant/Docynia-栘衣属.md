@@ -1,0 +1,139 @@
+栘木衣属**Docynia** Decaisne
+
+> [Rosaceae](http://www.iplant.cn/info/Rosaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Rosaceae.pdf)>>[Docynia](http://www.iplant.cn/info/Docynia?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Docynia.pdf)
+## Description
+
+Trees evergreen or semievergreen; buds ovoid, small, with several exposed scales. Leaves simple, alternate, stipulate, petiolate, venation camptodromous, margin entire or serrate, sometimes slightly lobed. Flowers shortly stalked, 2–5-fascicled, precocious or synantherous; bracts caducous, small. Hypanthium campanulate, abaxially densely tomentose. Sepals 5, lanceolate. Petals 5, white, base shortly clawed. Stamens 30–50, 2-whorled. Ovary inferior, 5-loculed, with 3–10 ovules per locule; styles 5, connate at base, villous. Pome subglobose, ovoid, or pyriform, 2–3 cm in diam., with persistent erect or incurved sepals.
+
+### Statistics
+About five species: Asia; two species (one endemic) in China.
+
+## Keylist
+* 1 Leaf blade elliptic or oblong-lanceolate, abaxially pubescent or subglabrous, margin serrate, rarely entire, firmly papery; stamens ca. 30; pome globose or ellipsoid, shortly stalked.——1 [D. indica 栘木衣](http://www.iplant.cn/info/Docynia indica?t=foc)
+* ~ Leaf blade lanceolate to ovate-lanceolate, abaxially densely yellow tomentose, margin entire or slightly serrate, leathery; stamens 40–45; pome ovoid or oblong, long stalked.——2 [D. delavayi 云南栘木衣](http://www.iplant.cn/info/Docynia delavayi?t=foc)
+
+* [Docynia.PDF](http://www.iplant.cn/foc/pdf/Docynia.pdf)
+
+## Sublist
+
+* [D.  delavayi](http://www.iplant.cn/info/Docynia delavayi?t=foc)
+ 云南栘木衣
+* [D.  indica](http://www.iplant.cn/info/Docynia indica?t=foc) 栘木衣",
+
+### Parsublist
+
+* [R.  sect. Lampobatus  掌绿莓组](http://www.iplant.cn/info/Rubus sect. Lampobatus?t=foc)
+* [Eriobotrya  枇杷属](http://www.iplant.cn/info/Eriobotrya?t=foc)
+* [Aruncus  假升麻属](http://www.iplant.cn/info/Aruncus?t=foc)
+* [Spiraea  绣线菊属](http://www.iplant.cn/info/Spiraea?t=foc)
+* [Chaenomeles  木瓜属](http://www.iplant.cn/info/Chaenomeles?t=foc)
+* [Alchemilla  羽衣草属](http://www.iplant.cn/info/Alchemilla?t=foc)
+* [Prinsepia  扁核木属](http://www.iplant.cn/info/Prinsepia?t=foc)
+* [Potentilla  委陵菜属](http://www.iplant.cn/info/Potentilla?t=foc)
+* [R.  sect. Malachobatus  木莓组](http://www.iplant.cn/info/Rubus sect. Malachobatus?t=foc)
+* [Kerria  棣棠花属](http://www.iplant.cn/info/Kerria?t=foc)
+* [Chamaerhodos  地蔷薇属](http://www.iplant.cn/info/Chamaerhodos?t=foc)
+* [Filipendula  蚊子草属](http://www.iplant.cn/info/Filipendula?t=foc)
+* [R.  sect. Rubus  悬钩子组](http://www.iplant.cn/info/Rubus sect. Rubus?t=foc)
+* [Potaninia  绵刺属](http://www.iplant.cn/info/Potaninia?t=foc)
+* [Stephanandra  小米空木属](http://www.iplant.cn/info/Stephanandra?t=foc)
+* [Stranvaesia  红果树属](http://www.iplant.cn/info/Stranvaesia?t=foc)
+* [Cydonia  榅桲属](http://www.iplant.cn/info/Cydonia?t=foc)
+* [Sanguisorba  地榆属](http://www.iplant.cn/info/Sanguisorba?t=foc)
+* [Fragaria  草莓属](http://www.iplant.cn/info/Fragaria?t=foc)
+* [Comarum  沼委陵菜属](http://www.iplant.cn/info/Comarum?t=foc)
+* [Dichotomanthes  牛筋条属](http://www.iplant.cn/info/Dichotomanthes?t=foc)
+* [Agrimonia  龙芽草属](Agrimonia-龙牙草属.md)
+* [Laurocerasus  桂樱属](http://www.iplant.cn/info/Laurocerasus?t=foc)
+* [Crataegus  山楂属](http://www.iplant.cn/info/Crataegus?t=foc)
+* [Photinia  石楠属](http://www.iplant.cn/info/Photinia?t=foc)
+* [Spenceria  马蹄黄属](http://www.iplant.cn/info/Spenceria?t=foc)
+* [Sorbus  花楸属](http://www.iplant.cn/info/Sorbus?t=foc)
+* [Armeniaca  杏属](http://www.iplant.cn/info/Armeniaca?t=foc)
+* [Geum  路边青属](http://www.iplant.cn/info/Geum?t=foc)
+* [Cerasus  樱属](http://www.iplant.cn/info/Cerasus?t=foc)
+* [Neillia  绣线梅属](http://www.iplant.cn/info/Neillia?t=foc)
+* [Physocarpus  风箱果属](http://www.iplant.cn/info/Physocarpus?t=foc)
+* [Sorbaria  珍珠梅属](http://www.iplant.cn/info/Sorbaria?t=foc)
+* [Exochorda  白鹃梅属](http://www.iplant.cn/info/Exochorda?t=foc)
+* [Rhodotypos  鸡麻属](http://www.iplant.cn/info/Rhodotypos?t=foc)
+* [Maddenia  臭樱属](http://www.iplant.cn/info/Maddenia?t=foc)
+* [P.  sect. Conostylae  锥状花柱委陵菜](http://www.iplant.cn/info/Potentilla sect. Conostylae?t=foc)
+* [Malus  苹果属](http://www.iplant.cn/info/Malus?t=foc)
+* [P.  sect. Closterostylae  梭状花柱组](http://www.iplant.cn/info/Potentilla sect. Closterostylae?t=foc)
+* [R.  subgen. Rosa  蔷薇亚属](http://www.iplant.cn/info/Rosa subgen. Rosa?t=foc)
+* [R.  subgen. Hulthemia  单叶蔷薇亚属](http://www.iplant.cn/info/Rosa subgen. Hulthemia?t=foc)
+* [Sibbaldia  山莓草属](http://www.iplant.cn/info/Sibbaldia?t=foc)
+* [Rosa  蔷薇属](http://www.iplant.cn/info/Rosa?t=foc)
+* [P.  sect. Leptostylae  枝状花柱组](http://www.iplant.cn/info/Potentilla sect. Leptostylae?t=foc)
+* [Dryas  仙女木属](http://www.iplant.cn/info/Dryas?t=foc)
+* [Sibiraea  鲜卑花属](http://www.iplant.cn/info/Sibiraea?t=foc)
+* [Padus  稠李属](http://www.iplant.cn/info/Padus?t=foc)
+* [Pyrus  梨属](http://www.iplant.cn/info/Pyrus?t=foc)
+* [Pyracantha  火棘属](http://www.iplant.cn/info/Pyracantha?t=foc)
+* [Amygdalus  桃属](http://www.iplant.cn/info/Amygdalus?t=foc)
+* [Amelanchier  唐棣属](http://www.iplant.cn/info/Amelanchier?t=foc)
+* [Rubus  悬钩子属](http://www.iplant.cn/info/Rubus?t=foc)
+* [Pygeum  臀果木属](http://www.iplant.cn/info/Pygeum?t=foc)
+* [R.  sect. Idaeobatus  空心莓组](http://www.iplant.cn/info/Rubus sect. Idaeobatus?t=foc)
+* [Acomastylis  羽叶花属](Acomastylis-羽叶花属.md)
+* [Taihangia  太行花属](http://www.iplant.cn/info/Taihangia?t=foc)
+* [Duchesnea  蛇莓属](http://www.iplant.cn/info/Duchesnea?t=foc)
+* [Waldsteinia  林石草属](http://www.iplant.cn/info/Waldsteinia?t=foc)
+* [R.  sect. Laevigatae  金樱子组](http://www.iplant.cn/info/Rosa sect. Laevigatae?t=foc)
+* [R.  sect. Cylactis  匍匐莓组](http://www.iplant.cn/info/Rubus sect. Cylactis?t=foc)
+* [R.  sect. Chamaemorus  单性莓组](http://www.iplant.cn/info/Rubus sect. Chamaemorus?t=foc)
+* [R.  sect. Chamaebatus  矮生莓组](http://www.iplant.cn/info/Rubus sect. Chamaebatus?t=foc)
+* [R.  sect. Synstylae  合柱组](http://www.iplant.cn/info/Rosa sect. Synstylae?t=foc)
+* [R.  sect. Pimpinellifoliae  芹叶组](http://www.iplant.cn/info/Rosa sect. Pimpinellifoliae?t=foc)
+* [Rhaphiolepis  石斑木属](http://www.iplant.cn/info/Rhaphiolepis?t=foc)
+* [Osteomeles  小石积属](http://www.iplant.cn/info/Osteomeles?t=foc)
+* [P.  sect. Nematostylae  线状花柱组](http://www.iplant.cn/info/Potentilla sect. Nematostylae?t=foc)
+* [R.  sect. Dalibardastrum  刺毛莓组](http://www.iplant.cn/info/Rubus sect. Dalibardastrum?t=foc)
+* [Coluria  无尾果属](http://www.iplant.cn/info/Coluria?t=foc)
+* [R.  sect. Microphyllae  小叶组](http://www.iplant.cn/info/Rosa sect. Microphyllae?t=foc)
+* [R.  sect. Cinnamomeae  桔味组](http://www.iplant.cn/info/Rosa sect. Cinnamomeae?t=foc)
+* [R.  sect. Chinenses  月季组](http://www.iplant.cn/info/Rosa sect. Chinenses?t=foc)
+* [R.  sect. Bracteatae  硕苞组](http://www.iplant.cn/info/Rosa sect. Bracteatae?t=foc)
+* [Cotoneaster  栒子属](http://www.iplant.cn/info/Cotoneaster?t=foc)
+* [R.  sect. Banksianae  木香组](http://www.iplant.cn/info/Rosa sect. Banksianae?t=foc)
+* [P.  sect. Rhopalostylae  棒状花柱组](http://www.iplant.cn/info/Potentilla sect. Rhopalostylae?t=foc)
+* [P.  sect. Potentilla  钉状花柱组](http://www.iplant.cn/info/Potentilla sect. Potentilla?t=foc)
+* [Prunus  李属](http://www.iplant.cn/info/Prunus?t=foc)
+
+
+## 中国植物志
+
+> * [唐棣属  Amelanchier](Amelanchier-唐棣属.md)
+> * [木瓜属  Chaenomeles](Chaenomeles-木瓜海棠属.md)
+> * [栒子属  Cotoneaster](http://www.iplant.cn/info/Cotoneaster?t=z)
+> * [山楂属  Crataegus](http://www.iplant.cn/info/Crataegus?t=z)
+> * [榅桲属  Cydonia](http://www.iplant.cn/info/Cydonia?t=z)
+
+**栘[木衣]属 Docynia**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第36卷](http://www.iplant.cn/frps/vol/36) >> 345页 [PDF](http://www.iplant.cn/frps/pdf/36/345y.pdf)
+**20. 栘木衣属* ——Docynia Dcne.**
+
+Dcne. in Nouv. Arch. Mus. Hist. Nat. Paris 10: 131. 1874; Hook. f. Fl. Brit. Ind. 2: 369. 1878; Focke in Engler & Prantl, Nat. Pflanzenfam. 3 (3): 22. 1888; Hutch. Gen. Flow. Pl. 1: 214. 1964. ——Eriolobus sect. Docynia Schneid. Ill. Handb. Laubh. 1: 727. 1906.
+
+常绿或半常绿乔木。冬芽小，卵形，有数枚外露鳞片。单叶，互生，全缘或具齿，幼时微具分裂，有叶柄与托叶。花2-5朵，丛生，与叶同时开放或先叶开放；花梗短或近于无梗；苞片小，早落；萼筒钟状，外被绒毛，具5裂片；花瓣5，基部有短爪，白色；雄蕊30-50排成两轮；花柱5，基部合生；子房下位，5室，每室具3-10胚珠。梨果近球形，卵形或梨形，直径2-3厘米，具宿存直立萼片。
+
+> 本属的模式种：栘[木衣] Pyrus indica Wall. = Docynia indica (Wall.) Dcne.
+
+本属约有5种，分布亚洲。我国有2种，产于西南各地。
+
+栽培供观赏用，果实可食或入药。
+
+* 属名来源中国种子植物科属辞典，其他异名：多胜属，栘柛属（经济植物手册）。
+
+## 检索表
+* 1 叶片下面密被黄白色绒毛，全缘或稍有锯齿，革质，披针形至卵状披针形；雄蕊40-45；果实卵形或长圆形，有长梗。——[云南栘[木衣]](http://www.iplant.cn/info/Docynia delavayi?t=z)
+* ~叶片下面仅有薄层柔毛，叶边有锯齿，稀全缘，坚纸质，椭圆形或长圆披针形；雄蕊约30；果实近球形或椭圆形，有短梗。——[栘[木衣]](http://www.iplant.cn/info/Docynia indica?t=z)</td></tr><tr><td>&nbsp;——&nbsp;——&nbsp;</td></tr>
+### 下级分类
+* [云南栘[木衣]  Docynia delavayi](http://www.iplant.cn/info/Docynia delavayi?t=z)
+* [栘[木衣]  Docynia indica](http://www.iplant.cn/info/Docynia indica?t=z)
+
+### 下级分类
+* [云南栘[木衣]  Docynia delavayi](http://www.iplant.cn/info/sp/Docynia delavayi?t=z)
+* [栘[木衣]  Docynia indica](http://www.iplant.cn/info/sp/Docynia indica?t=z)

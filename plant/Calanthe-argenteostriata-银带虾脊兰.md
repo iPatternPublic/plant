@@ -1,0 +1,73 @@
+银带虾脊兰 **Calanthe argenteostriata** C. Z. Tang & S. J. Cheng Orchid Rev. 89: 144. 1981.
+
+> [Orchidaceae](http://www.iplant.cn/info/Orchidaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Orchidaceae.pdf) >> [Calanthe](http://www.iplant.cn/info/Calanthe?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Calanthe.pdf)
+
+## Description
+
+Plants to ca. 65 cm tall, without conspicuous rhizome. Pseudobulbs subconic, small, ca. 1.5 cm in diam., with 2 or 3 sheaths. Leaves 3-7, well developed at anthesis, not deciduous; blade deep green, with 5 or 6 silver-gray bands adaxially, elliptic or ovate-lanceolate, 18-27 × 5-11 cm, glabrous or abaxially slightly puberulent, apex acute; petiole-like base 3-4 cm. Scape arising from leaf axil, to 60 cm, densely puberulent, with 3 or 4 tubular sheaths; rachis 7-11 cm, subdensely more than 10-flowered; floral bracts persistent, broadly ovate, ca. 15 mm, abaxially puberulent. Flowers yellowish green; pedicel and ovary 25-30 mm, puberulent. Sepals and petals ± yellowish green; dorsal sepal reflexed, elliptic, ca. 10 × 4.5 mm, abaxially puberulent, 5-veined, apex obtuse and shortly aristate; lateral sepals reflexed, broadly ovate-elliptic, ca. 10 × 5.5 mm, abaxially puberulent, 5-veined, apex obtuse and shortly aristate. Petals ± reflexed, subspatulate or obovate, slightly smaller than sepals, glabrous, 3-veined, apex subtruncate and mucronate; lip adnate to entire length of column wings at base, white, ca. 16 × 16 mm, 3-lobed; lateral lobes flabellate, ca. 7 × 7 mm, apex rounded; mid-lobe divided by a deep sinus into 2 lobules, apiculate in sinus; lobules obovate, ca. as large as lateral lobes, margin slightly erose, apex truncate; disk with 3 rows of small, golden yellow, wartlike calli at base; spur yellowish green, cylindric, 15-19 mm, outside sparsely puberulent, attenuate toward apex. Column white, ca. 5 mm; rostellum horn-shaped, 2-lobed; anther cap white, beaked; pollinia narrowly obovoid or narrowly clavate, subequal in size, ca. 2 mm, with short caudicles; viscidium subsquare. Capsule ca. 30 mm. Fl. Apr-May. 2*n* = 45*.
+
+### Statistics
+Forests; 500-1200 m. N Guangdong, SW Guangxi, SW Guizhou, SE Yunnan [Vietnam].
+
+### Parsublist
+
+* [C.  ×dominyi  白花长距虾脊兰](http://www.iplant.cn/info/Calanthe ×dominyi?t=foc)
+* [C.  actinomorpha  辐射虾脊兰](http://www.iplant.cn/info/Calanthe actinomorpha?t=foc)
+* [C.  alismatifolia  泽泻虾脊兰](http://www.iplant.cn/info/Calanthe alismatifolia?t=foc)
+* [C.  alleizettei  长柄虾脊兰](http://www.iplant.cn/info/Calanthe alleizettei?t=foc)
+* [C.  alpina  流苏虾脊兰](http://www.iplant.cn/info/Calanthe alpina?t=foc)
+* [C.  angustifolia  狭叶虾脊兰](http://www.iplant.cn/info/Calanthe angustifolia?t=foc)
+* [C.  arcuata  弧距虾脊兰](http://www.iplant.cn/info/Calanthe arcuata?t=foc)
+* [C.  arisanensis  台湾虾脊兰](http://www.iplant.cn/info/Calanthe arisanensis?t=foc)
+* [C.  aristulifera  翘距虾脊兰](http://www.iplant.cn/info/Calanthe aristulifera?t=foc)
+* [C.  biloba  二裂虾脊兰](http://www.iplant.cn/info/Calanthe biloba?t=foc)
+* [C.  brevicornu  肾唇虾脊兰](http://www.iplant.cn/info/Calanthe brevicornu?t=foc)
+* [C.  clavata  棒距虾脊兰](http://www.iplant.cn/info/Calanthe clavata?t=foc)
+* [C.  davidii  剑叶虾脊兰](http://www.iplant.cn/info/Calanthe davidii?t=foc)
+* [C.  densiflora  密花虾脊兰](http://www.iplant.cn/info/Calanthe densiflora?t=foc)
+* [C.  discolor  虾脊兰](http://www.iplant.cn/info/Calanthe discolor?t=foc)
+* [C.  dulongensis  独龙虾脊兰](http://www.iplant.cn/info/Calanthe dulongensis?t=foc)
+* [C.  ecarinata  天全虾脊兰](http://www.iplant.cn/info/Calanthe ecarinata?t=foc)
+* [C.  emeishanica  峨眉虾脊兰](http://www.iplant.cn/info/Calanthe emeishanica?t=foc)
+* [C.  fargesii  天府虾脊兰](http://www.iplant.cn/info/Calanthe fargesii?t=foc)
+* [C.  fugongensis  福贡虾脊兰](http://www.iplant.cn/info/Calanthe fugongensis?t=foc)
+* [C.  graciliflora  钩距虾脊兰](http://www.iplant.cn/info/Calanthe graciliflora?t=foc)
+* [C.  graciliflora f. jiangxiensis  ](http://www.iplant.cn/info/Calanthe graciliflora f. jiangxiensis?t=foc)
+* [C.  graciliflora var. graciliflora  钩距虾脊兰(原变种)](http://www.iplant.cn/info/Calanthe graciliflora var. graciliflora?t=foc)
+* [C.  graciliflora var. xuefengensis  雪峰虾脊兰](http://www.iplant.cn/info/Calanthe graciliflora var. xuefengensis?t=foc)
+* [C.  griffithii  通麦虾脊兰](http://www.iplant.cn/info/Calanthe griffithii?t=foc)
+* [C.  hancockii  叉唇虾脊兰](http://www.iplant.cn/info/Calanthe hancockii?t=foc)
+* [C.  henryi  疏花虾脊兰](http://www.iplant.cn/info/Calanthe henryi?t=foc)
+* [C.  herbacea  西南虾脊兰](http://www.iplant.cn/info/Calanthe herbacea?t=foc)
+* [C.  labrosa  葫芦茎虾脊兰](http://www.iplant.cn/info/Calanthe labrosa?t=foc)
+* [C.  lechangensis  乐昌虾脊兰](http://www.iplant.cn/info/Calanthe lechangensis?t=foc)
+* [C.  limprichtii  开唇虾脊兰](http://www.iplant.cn/info/Calanthe limprichtii?t=foc)
+* [C.  lyroglossa  南方虾脊兰](http://www.iplant.cn/info/Calanthe lyroglossa?t=foc)
+* [C.  mannii  细花虾脊兰](http://www.iplant.cn/info/Calanthe mannii?t=foc)
+* [C.  metoensis  墨脱虾脊兰](http://www.iplant.cn/info/Calanthe metoensis?t=foc)
+* [C.  nankunensis  南昆虾脊兰](http://www.iplant.cn/info/Calanthe nankunensis?t=foc)
+* [C.  nipponica  戟形虾脊兰](http://www.iplant.cn/info/Calanthe nipponica?t=foc)
+* [C.  odora  香花虾脊兰](http://www.iplant.cn/info/Calanthe odora?t=foc)
+* [C.  petelotiana  圆唇虾脊兰](http://www.iplant.cn/info/Calanthe petelotiana?t=foc)
+* [C.  plantaginea  车前虾脊兰](http://www.iplant.cn/info/Calanthe plantaginea?t=foc)
+* [C.  plantaginea var. lushuiensis  泸水车前虾脊兰](http://www.iplant.cn/info/Calanthe plantaginea var. lushuiensis?t=foc)
+* [C.  plantaginea var. plantaginea  车前虾脊兰(原变种)](http://www.iplant.cn/info/Calanthe plantaginea var. plantaginea?t=foc)
+* [C.  puberula  镰萼虾脊兰](http://www.iplant.cn/info/Calanthe puberula?t=foc)
+* [C.  reflexa  反瓣虾脊兰](http://www.iplant.cn/info/Calanthe reflexa?t=foc)
+* [C.  sacculata  囊爪虾脊兰](http://www.iplant.cn/info/Calanthe sacculata?t=foc)
+* [C.  sieboldii  大黄花虾脊兰](http://www.iplant.cn/info/Calanthe sieboldii?t=foc)
+* [C.  simplex  匙瓣虾脊兰](http://www.iplant.cn/info/Calanthe simplex?t=foc)
+* [C.  sinica  中华虾脊兰](http://www.iplant.cn/info/Calanthe sinica?t=foc)
+* [C.  speciosa  二列叶虾脊兰](http://www.iplant.cn/info/Calanthe speciosa?t=foc)
+* [C.  sylvatica  长距虾脊兰](http://www.iplant.cn/info/Calanthe sylvatica?t=foc)
+* [C.  tricarinata  三棱虾脊兰](http://www.iplant.cn/info/Calanthe tricarinata?t=foc)
+* [C.  trifida  裂距虾脊兰](http://www.iplant.cn/info/Calanthe trifida?t=foc)
+* [C.  triplicata  三褶虾脊兰](http://www.iplant.cn/info/Calanthe triplicata?t=foc)
+* [C.  tsoongiana  无距虾脊兰](http://www.iplant.cn/info/Calanthe tsoongiana?t=foc)
+* [C.  tsoongiana var. guizhouensis  贵州虾脊兰](http://www.iplant.cn/info/Calanthe tsoongiana var. guizhouensis?t=foc)
+* [C.  tsoongiana var. tsoongiana  无距虾脊兰(原变种)](http://www.iplant.cn/info/Calanthe tsoongiana var. tsoongiana?t=foc)
+* [C.  whiteana  四川虾脊兰](http://www.iplant.cn/info/Calanthe whiteana?t=foc)
+* [C.  yaoshanensis  ](http://www.iplant.cn/info/Calanthe yaoshanensis?t=foc)
+* [C.  yuana  峨边虾脊兰](http://www.iplant.cn/info/Calanthe yuana?t=foc)
+"
+}

@@ -1,0 +1,128 @@
+大型四照花 e.**Cornus hongkongensis subsp. gigantea** (Handel-Mazzetti) Q. Y. Xiang
+
+> [Cornaceae](http://www.iplant.cn/info/Cornaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Cornaceae.pdf) >> [Cornus](http://www.iplant.cn/info/Cornus?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Cornus.pdf)
+
+## Description
+
+Shrubs or small trees, evergreen, 2–6 m tall. Old branches gray or grayish green. Leaf blade obovate, rarely broadly elliptic, 8.5–16 × 3.8–7.5 cm, leathery to thickly leathery, abaxially sparsely pubescent with appressed short trichomes when young, glabrous in age, axils of veins without or rarely with clusters of dark brown trichomes, veins often 4, conspicuous, apex caudate-acuminate. Inflorescences 1.4–2 cm in diam., ca. 60-flowered; bracts yellowish or white, broadly obovate or nearly orbicular, ca. 4 × 3–4.2 cm, nearly glabrous. Calyx tube ca. 1.3 mm, often shallowly 4-lobed, rarely 5-lobed, outside pubescent. Petals ovate-lanceolate, ca. 4.2 × 1.1 mm, outside sparsely pubescent. Filaments ca. 4 mm; anthers ovoid-ellipsoid, ca. 1.2 mm. Style ca. 1.5 mm, pubescent with white trichomes. Compound fruit yellowish red at maturity, ca. 2.5 cm in diam.; peduncle 8–9.5 cm. Fl. Apr–May, fr. unknown.
+> **Habait** : 
+> Evergreen broad-leaved forests, sparse forests, valleys; 700–1700 m. W Guizhou, S Sichuan, NE Yunnan [N Vietnam].
+
+### Parsublist
+
+* [C.  [unranked] Arctocrania  ](http://www.iplant.cn/info/Cornus [unranked] Arctocrania?t=foc)
+* [C.  alba  红瑞木](http://www.iplant.cn/info/Cornus alba?t=foc)
+* [C.  alpina  ](http://www.iplant.cn/info/Cornus alpina?t=foc)
+* [C.  alsophila  ](http://www.iplant.cn/info/Cornus alsophila?t=foc)
+* [C.  angustata  ](http://www.iplant.cn/info/Cornus angustata?t=foc)
+* [C.  aspera  ](http://www.iplant.cn/info/Cornus aspera?t=foc)
+* [C.  austrosinensis  华南梾木](http://www.iplant.cn/info/Cornus austrosinensis?t=foc)
+* [C.  brachypoda  ](http://www.iplant.cn/info/Cornus brachypoda?t=foc)
+* [](http://www.iplant.cn/info/Cornus brachypoda <homonym1>?t=foc)
+* [C.  bretschneideri  沙梾](http://www.iplant.cn/info/Cornus bretschneideri?t=foc)
+* [C.  bretschneideri var. bretschneideri  沙梾(原变种)](http://www.iplant.cn/info/Cornus bretschneideri var. bretschneideri?t=foc)
+* [C.  bretschneideri var. crispa  卷毛沙梾](http://www.iplant.cn/info/Cornus bretschneideri var. crispa?t=foc)
+* [C.  bretschneideri var. gracilis  ](http://www.iplant.cn/info/Cornus bretschneideri var. gracilis?t=foc)
+* [C.  canadensis  草茱萸](http://www.iplant.cn/info/Cornus canadensis?t=foc)
+* [C.  capitata  头状四照花](http://www.iplant.cn/info/Cornus capitata?t=foc)
+* [C.  capitata subsp. angustata  ](http://www.iplant.cn/info/Cornus capitata subsp. angustata?t=foc)
+* [C.  capitata subsp. brevipedunculata  ](http://www.iplant.cn/info/Cornus capitata subsp. brevipedunculata?t=foc)
+* [C.  capitata subsp. emeiensis  ](http://www.iplant.cn/info/Cornus capitata subsp. emeiensis?t=foc)
+* [C.  capitata var. angustata  ](http://www.iplant.cn/info/Cornus capitata var. angustata?t=foc)
+* [C.  capitata var. hypoleuca  ](http://www.iplant.cn/info/Cornus capitata var. hypoleuca?t=foc)
+* [C.  capitata var. mollis  ](http://www.iplant.cn/info/Cornus capitata var. mollis?t=foc)
+* [C.  chinensis  川鄂山茱萸](http://www.iplant.cn/info/Cornus chinensis?t=foc)
+* [C.  chinensis f. jinyangensis  ](http://www.iplant.cn/info/Cornus chinensis f. jinyangensis?t=foc)
+* [C.  chinensis f. longipedunculata  ](http://www.iplant.cn/info/Cornus chinensis f. longipedunculata?t=foc)
+* [C.  chinensis f. microcarpa  ](http://www.iplant.cn/info/Cornus chinensis f. microcarpa?t=foc)
+* [C.  controversa  灯台树](http://www.iplant.cn/info/Cornus controversa?t=foc)
+* [C.  controversa var. angustifolia  ](http://www.iplant.cn/info/Cornus controversa var. angustifolia?t=foc)
+* [C.  coreana  朝鲜梾木](http://www.iplant.cn/info/Cornus coreana?t=foc)
+* [C.  corynostylis  ](http://www.iplant.cn/info/Cornus corynostylis?t=foc)
+* [C.  crispula  ](http://www.iplant.cn/info/Cornus crispula?t=foc)
+* [C.  daijinensis  ](http://www.iplant.cn/info/Cornus daijinensis?t=foc)
+* [C.  elliptica  尖叶四照花](http://www.iplant.cn/info/Cornus elliptica?t=foc)
+* [C.  ferruginea  ](http://www.iplant.cn/info/Cornus ferruginea?t=foc)
+* [C.  fordii  ](http://www.iplant.cn/info/Cornus fordii?t=foc)
+* [C.  fulvescens  ](http://www.iplant.cn/info/Cornus fulvescens?t=foc)
+* [C.  gigantea  ](http://www.iplant.cn/info/Cornus gigantea?t=foc)
+* [C.  hemsleyi  红椋子](http://www.iplant.cn/info/Cornus hemsleyi?t=foc)
+* [C.  hemsleyi var. gracilipes  ](http://www.iplant.cn/info/Cornus hemsleyi var. gracilipes?t=foc)
+* [C.  hemsleyi var. longistyla  ](http://www.iplant.cn/info/Cornus hemsleyi var. longistyla?t=foc)
+* [C.  henryi  ](http://www.iplant.cn/info/Cornus henryi?t=foc)
+* [C.  hongkongensis  香港四照花](http://www.iplant.cn/info/Cornus hongkongensis?t=foc)
+* [C.  hongkongensis subsp. elegans  秀丽四照花](http://www.iplant.cn/info/Cornus hongkongensis subsp. elegans?t=foc)
+* [C.  hongkongensis subsp. ferruginea  褐毛四照花](http://www.iplant.cn/info/Cornus hongkongensis subsp. ferruginea?t=foc)
+* [C.  hongkongensis subsp. hongkongensis  香港四照花(原亚种)](http://www.iplant.cn/info/Cornus hongkongensis subsp. hongkongensis?t=foc)
+* [C.  hongkongensis subsp. melanotricha  黑毛四照花](http://www.iplant.cn/info/Cornus hongkongensis subsp. melanotricha?t=foc)
+* [C.  hongkongensis subsp. tonkinensis  东京四照花](http://www.iplant.cn/info/Cornus hongkongensis subsp. tonkinensis?t=foc)
+* [C.  hongkongensis var. gigantea  ](http://www.iplant.cn/info/Cornus hongkongensis var. gigantea?t=foc)
+* [C.  hongkongensis var. jinyunensis  ](http://www.iplant.cn/info/Cornus hongkongensis var. jinyunensis?t=foc)
+* [C.  koehneana  川陕梾木](http://www.iplant.cn/info/Cornus koehneana?t=foc)
+* [C.  kousa subsp. chinensis  四照花](http://www.iplant.cn/info/Cornus kousa subsp. chinensis?t=foc)
+* [C.  kousa var. angustata  ](http://www.iplant.cn/info/Cornus kousa var. angustata?t=foc)
+* [C.  kousa var. chinensis  ](http://www.iplant.cn/info/Cornus kousa var. chinensis?t=foc)
+* [C.  kousa var. leucotricha  ](http://www.iplant.cn/info/Cornus kousa var. leucotricha?t=foc)
+* [C.  kweichowensis  ](http://www.iplant.cn/info/Cornus kweichowensis?t=foc)
+* [C.  lixianensis  ](http://www.iplant.cn/info/Cornus lixianensis?t=foc)
+* [C.  longipedunculata  ](http://www.iplant.cn/info/Cornus longipedunculata?t=foc)
+* [C.  longipetiolata  ](http://www.iplant.cn/info/Cornus longipetiolata?t=foc)
+* [C.  macrophylla  梾木](http://www.iplant.cn/info/Cornus macrophylla?t=foc)
+* [C.  macrophylla var. macrophylla  梾木(原变种)](http://www.iplant.cn/info/Cornus macrophylla var. macrophylla?t=foc)
+* [C.  macrophylla var. stracheyi  密毛梾木](http://www.iplant.cn/info/Cornus macrophylla var. stracheyi?t=foc)
+* [C.  malifolia  ](http://www.iplant.cn/info/Cornus malifolia?t=foc)
+* [C.  monbeigii  ](http://www.iplant.cn/info/Cornus monbeigii?t=foc)
+* [C.  monbeigii subsp. crassa  ](http://www.iplant.cn/info/Cornus monbeigii subsp. crassa?t=foc)
+* [C.  monbeigii subsp. populifolia  ](http://www.iplant.cn/info/Cornus monbeigii subsp. populifolia?t=foc)
+* [C.  multinervosa  多脉四照花](http://www.iplant.cn/info/Cornus multinervosa?t=foc)
+* [C.  oblonga  长圆叶梾木](http://www.iplant.cn/info/Cornus oblonga?t=foc)
+* [C.  oblonga f. pilosula  ](http://www.iplant.cn/info/Cornus oblonga f. pilosula?t=foc)
+* [C.  oblonga var. glabrescens  无毛长圆叶梾木](http://www.iplant.cn/info/Cornus oblonga var. glabrescens?t=foc)
+* [C.  oblonga var. griffithii  毛叶梾木](http://www.iplant.cn/info/Cornus oblonga var. griffithii?t=foc)
+* [C.  oblonga var. oblonga  长圆叶梾木(原变种)](http://www.iplant.cn/info/Cornus oblonga var. oblonga?t=foc)
+* [C.  obovata  ](http://www.iplant.cn/info/Cornus obovata?t=foc)
+* [C.  officinalis  山茱萸](http://www.iplant.cn/info/Cornus officinalis?t=foc)
+* [C.  oligophlebia  樟叶梾木](http://www.iplant.cn/info/Cornus oligophlebia?t=foc)
+* [C.  paniculata  ](http://www.iplant.cn/info/Cornus paniculata?t=foc)
+* [C.  papillosa  乳突梾木](http://www.iplant.cn/info/Cornus papillosa?t=foc)
+* [C.  parviflora  小花梾木](http://www.iplant.cn/info/Cornus parviflora?t=foc)
+* [C.  paucinervis  ](http://www.iplant.cn/info/Cornus paucinervis?t=foc)
+* [C.  poliophylla  ](http://www.iplant.cn/info/Cornus poliophylla?t=foc)
+* [C.  poliophylla var. microphylla  ](http://www.iplant.cn/info/Cornus poliophylla var. microphylla?t=foc)
+* [C.  poliophylla var. praelonga  ](http://www.iplant.cn/info/Cornus poliophylla var. praelonga?t=foc)
+* [C.  polyantha  ](http://www.iplant.cn/info/Cornus polyantha?t=foc)
+* [C.  quinquenervis  小梾木](http://www.iplant.cn/info/Cornus quinquenervis?t=foc)
+* [C.  sanguinea  ](http://www.iplant.cn/info/Cornus sanguinea?t=foc)
+* [C.  scabrida  ](http://www.iplant.cn/info/Cornus scabrida?t=foc)
+* [C.  schindleri  康定梾木](http://www.iplant.cn/info/Cornus schindleri?t=foc)
+* [C.  schindleri subsp. poliophylla  灰叶梾木](http://www.iplant.cn/info/Cornus schindleri subsp. poliophylla?t=foc)
+* [C.  schindleri subsp. schindleri  康定梾木(原亚种)](http://www.iplant.cn/info/Cornus schindleri subsp. schindleri?t=foc)
+* [C.  stracheyi  ](http://www.iplant.cn/info/Cornus stracheyi?t=foc)
+* [C.  taiwanensis  ](http://www.iplant.cn/info/Cornus taiwanensis?t=foc)
+* [C.  tonkinensis  ](http://www.iplant.cn/info/Cornus tonkinensis?t=foc)
+* [C.  ulotricha  卷毛梾木](http://www.iplant.cn/info/Cornus ulotricha?t=foc)
+* [C.  ulotricha var. leptophylla  ](http://www.iplant.cn/info/Cornus ulotricha var. leptophylla?t=foc)
+* [C.  walteri  毛梾](http://www.iplant.cn/info/Cornus walteri?t=foc)
+* [C.  walteri var. confertiflora  ](http://www.iplant.cn/info/Cornus walteri var. confertiflora?t=foc)
+* [C.  walteri var. insignis  ](http://www.iplant.cn/info/Cornus walteri var. insignis?t=foc)
+* [C.  wilsoniana  光皮梾木](http://www.iplant.cn/info/Cornus wilsoniana?t=foc)
+* [C.  xanthotricha  ](http://www.iplant.cn/info/Cornus xanthotricha?t=foc)
+* [C.  yunnanensis  ](http://www.iplant.cn/info/Cornus yunnanensis?t=foc)
+## 中国植物志
+
+> * [尖叶四照花  D.  angustata](http://www.iplant.cn/info/Dendrobenthamia angustata?t=z)
+> * [头状四照花  D.  capitata](http://www.iplant.cn/info/Dendrobenthamia capitata?t=z)
+> * [秀丽四照花  D.  elegans](http://www.iplant.cn/info/Dendrobenthamia elegans?t=z)
+> * [褐毛四照花  D.  ferruginea](http://www.iplant.cn/info/Dendrobenthamia ferruginea?t=z)
+**大型四照花 Dendrobenthamia gigantea**
+
+* [《中国植物志》](http://www.iplant.cn/frps)- [第56卷](http://www.iplant.cn/frps/vol/56) >> 090页 [PDF](http://www.iplant.cn/frps/pdf/56/090.PDF)
+**2.大型四照花（植物分类学报）图版34：3-10**
+
+Dendrobenthamia gigantea (Hand.-Mazz.) Fang in Act. Phytotax. Sin. 2 (2): 101. Pl. 14. fig. 1-3. 1953;四川植物志1: 358.图版138.图1-6. 1981.——D. pachyphylla Fang et W. K. Hu in Journ. Sichuan Univ., Nat. Sci. ed. 3: 163. Pl. 9. 2. 1980, syn. nov.——D. gigantea (Hand.-Mazz.) Fang var. caudata Fang et W. K. Hu, 四川植物志1: 360.图版138. 图7. Addenda: 471. 1981, syn. nov.——Cornus hongkongensis (Hemsl) Hutch. var. gigantea Hand.-Mazz., symb. Sin. 7: 690. 1933.——Benthamidia hongkongensis (Hemsl) Hara var. gigantea (Hand.-Mazz.) Hara in Journ. Arn. Arb. 29 (1): 115. 1948.
+
+常绿小乔木，高4-5米；树皮灰褐色；小枝圆柱形，幼枝紫色或紫绿色，近于无毛，老枝灰绿色或灰色。冬芽尖圆锥形，长2.5-2.8毫米，密被淡黄白色细伏毛。叶对生，亚革质至厚革质，倒卵形，稀阔椭圆形，长8.5-16厘米，宽3.8-7.5厘米，先端尾状急尖，长6-16毫米，基部楔形或宽楔形，全缘，上面鲜绿色，有光泽，下面淡绿色，嫩时在两面均有白色贴生短柔毛，老时无毛，中脉在上面显著，下面凸出，侧脉通常4对，弓形内弯，在上面有时微凹陷，下面隆起，脉腋无毛或有时具少数粗毛；叶柄圆柱形，长1-1.5厘米，初被贴生短柔毛，后即无毛。头状花序球形，约为60余朵花聚集而成，直径1.3-1.6厘米；总苞片4，白色，阔倒卵形或近于圆形，长4厘米，宽约3-4.2厘米，先端突尖，长2-3毫米，两面均近于无毛；花萼管状，长1.3毫米，上部4裂，稀5裂，裂片钝圆形，先端有时凹缺，外侧被白色贴生短柔毛，内侧无毛；花瓣4，卵状披针形，长4.2毫米，宽约1.1毫米，基部狭窄，上面无毛，下面有白色贴生短柔毛；雄蕊4，花丝纤细，长4毫米，花药椭圆形，黄色，长1.2毫米；花盘褥状，厚约0.6毫米，略有4浅裂；花柱圆柱形，长约1.5毫米，微被白色贴生短柔毛，柱头小；总花梗圆柱形，长2-9.5厘米，无毛。果序球形，直径2.4厘米，成熟、时黄红色，近于无毛；总果梗粗壮，长8-9厘米，无毛。花期4-5月；果期7月。
+
+产湖南、四川、贵州、云南等省。生于海拔750-1700米的常绿阔叶林下或灌丛中。模式标本采自云南龙溪。
+
+}
