@@ -4,10 +4,11 @@ Herbs perennial. Rhizomes horizontal, long. Stems erect or ascending, usually si
 多年生草本。水平的根状茎，长。茎直立或上升，通常单。叶互生。圆锥花序顶生蝎尾状聚伞花序具数朵花，近叶状的下部总苞片，上部的小; 苞片包围花序轴，膜质。花辐射对称。萼片离生，浅舟状，通常扩大和宿存在果期。花瓣离生，白色，蓝色，紫色，或黄绿色，有时斑点，卵状椭圆形，卵圆形，或倒卵形，有时瓣爪。雄蕊6，全部能育，相等或3小，或只前面3能育; 花丝无毛; 花药室长圆形，纵向开裂; 花药三棱披针形或箭头形。子房3室; 胚珠(1 -)5-10每室。果浆果状，球状，3瓣裂，不裂。种子(1 -)5-8每裂片，略带紫色灰色，多边形，稍扁平; 种脐圆形。
 About 17 species: tropical, subtropical, and warm-temperate regions of the E hemisphere; eight species (one endemic) in China.
 大约17种: 东半球的热带、亚热带和暖温带地区; 中国有八种(一特有种)。
+
 1	Leaves with petiole 1--4 cm, leaf blade 5--15(--25) cm; inflorescences shorter than or nearly as long as distal leaves, cincinni usually several, not in whorls. 叶具叶柄1-4厘米，叶片5-15(- 25)厘米; 花序短于或近等长于上部叶，蝎尾状聚伞花序通常数个，不轮生	(2)
 +	Leaves sessile or base attenuate into short, winged petiole, leaf blade more than (10--)15 cm (except in 叶无梗或基部渐狭成为短，具翅的叶柄，叶片超过(10 -)15厘米(除了在 P. macrobracteata 大苞片); **inflorescences very short or very long**, cincinni in whorls or, if not, flowers very dense or inflorescence branched. 花序非常短或非常长，蝎尾状聚伞花序在轮生中，如果不是，花非常紧密或花序分枝	(5)
  	 	 
-2(1)	Cincinni pendulous, umbel-like, much shorter than leaves 蝎尾状聚伞花序下垂，伞形花序状，远短于叶	8  Pollia subumbellata 伞花杜若 Pollia subumbellata
+2(1)	Cincinni pendulous, umbel-like, much shorter than leaves 蝎尾状聚伞花序下垂，伞形花序状，远短于叶	8  [**Pollia subumbellata 伞花杜若**]
 +	Cincinni spreading or ascending, paniculate, nearly as long as distal leaves. 蝎尾状聚伞花序平展或上升，圆锥状，近等长于上部叶	(3)
  	 	 
 3(2)	Petiole 2--4 cm, leaf blade 10--25 cm; fertile stamens 3 叶柄2-4厘米，叶片10-25厘米; 可育雄蕊3	6  Pollia siamensis 长柄杜若 Pollia siamensis, Pollia japonica
@@ -26,7 +27,9 @@ About 17 species: tropical, subtropical, and warm-temperate regions of the E hem
 +	**Leaf sheaths longer than 2 cm**; involucral bracts lanceolate and apically acuminate if herbaceous, or apically emarginate if membranous. 叶鞘长于2厘米; 总苞片披针形和顶部渐尖如果草质，或顶部微缺如果膜质	(8)
  	 	 
 8(7)	**Inflorescence much longer than distal leaves**, peduncle more than 15 cm, cincinni often in whorls; sepals persistent; petals ca. 3 mm 花序长于上部叶，花序梗超过15厘米，蝎尾状聚伞花序通常轮生; 萼片宿存; 花瓣约3毫米	1  [**Pollia japonica 杜若**]
-+	Inflorescence shorter than distal leaves, peduncle less than 10 cm, cincinni dense, often not in whorls; sepals caducous; petals ca. 5 mm 花序短于上部叶，花序梗不到10厘米，蝎尾状聚伞花序紧密，通常不轮生; 萼片早落; 花瓣约5毫米	2  Pollia hasskarlii 大杜若 Pollia hasskarlii, Pollia japonica杜若属 **Pollia** Thunberg
++	Inflorescence shorter than distal leaves, peduncle less than 10 cm, cincinni dense, often not in whorls; sepals caducous; petals ca. 5 mm 花序短于上部叶，花序梗不到10厘米，蝎尾状聚伞花序紧密，通常不轮生; 萼片早落; 花瓣约5毫米	2  Pollia hasskarlii 大杜若 Pollia hasskarlii, Pollia japonica
+
+杜若属 **Pollia** Thunberg
 
 > [Commelinaceae](http://www.iplant.cn/info/Commelinaceae?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Commelinaceae.pdf) >> [Pollia](http://www.iplant.cn/info/Pollia?t=foc) - [PDF](http://www.iplant.cn/foc/pdf/Pollia.pdf)
 ## Description
